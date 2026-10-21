@@ -1,0 +1,1162 @@
+<!-- page 1 (pdf 1 full) -->
+FamilyCare
+
+
+ QUY TẮC BẢO HIỂM
+ “BẢO VIỆT AN GIA”
+
+ An tâm tận hưởng cuộc sống
+
+
+
+
+
+www.baoviet.com.vn/baohiem NIỀM TIN VỮNG CHẮC, CAM KẾT VỮNG BỀN
+
+<!-- page 2 (pdf 2 left) -->
+Bộ tài liệu gồm có
+Quy tắc bảo hiểm Bảo hiểm “Bảo Việt An Gia”
+Giấy chứng nhận Bảo hiểm “Bảo Việt An Gia”
+Giấy yêu cầu Bảo hiểm “Bảo Việt An Gia”
+Giấy yêu cầu Bồi thường Bảo hiểm “Bảo Việt An Gia”
+
+<!-- page 3 (pdf 2 right) -->
+QUY TẮC BẢO HIỂM
+ “BẢO VIỆT AN GIA”
+. (Ban hành theo Quyết định triển khai số 4542 ngày 13 tháng 10 năm 2016
+ của Tổng Giám đốc - Tổng Công ty Bảo hiểm Bảo Việt)
+
+
+Đây là Quy tắc Bảo hiểm “Bảo Việt An Gia” dành cho những khách hàng cá nhân có yêu cầu tham gia
+bảo hiểm. Xin vui lòng kiểm tra và đọc kỹ để chắc chắn rằng Quý khách hàng đã hiểu toàn bộ các nội
+dung được quy định trong Quy tắc này. Xin lưu ý, việc Quý khách hàng ký vào Giấy yêu cầu bảo hiểm
+là bằng chứng xác nhận việc Quý khách hàng đã hiểu rõ tất cả các nội dung được quy định trong Quy
+tắc này.
+
+
+
+
+
+ MỤC LỤC
+
+PHẦN I: QUY ĐỊNH CHUNG......................................................................................................................................4
+PHẦN II: ĐIỀU KHOẢN BẢO HIỂM CHÍNH ĐIỀU TRỊ NỘI TRÚ DO ỐM ĐAU, BỆNH TẬT, TAI NẠN.....12
+PHẦN III: ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG...................................................................................................13
+PHẦN IV: CÁC ĐIỂM LOẠI TRỪ CHUNG..............................................................................................................16
+PHẦN V: THỦ TỤC YÊU CẦU TRẢ TIỀN BẢO HIỂM VÀ BẢO LÃNH..............................................................18
+PHỤ LỤC I: BẢNG TỶ LỆ TRẢ TIỀN THƯƠNG TẬT ............................................................................................20
+BẢNG QUYỀN LỢI BẢO HIỂM “BẢO VIỆT AN GIA”...........................................................................................24
+BIỂU PHÍ BẢO HIỂM “BẢO VIỆT AN GIA”.............................................................................................................26
+
+
+
+
+
+ 3
+
+<!-- page 4 (pdf 3 left) -->
+PHẦN I: QUY ĐỊNH CHUNG
+
+I. ĐỊNH NGHĨA 6. Tuổi được bảo hiểm
+ Là tuổi của Người được bảo hiểm vào ngày có1. Công ty Bảo hiểm
+ hiệu lực của Hợp đồng bảo hiểm tính theo lần
+Là Bảo hiểm Bảo Việt được thành lập và hoạt sinh nhật liền trước ngày Hợp đồng có hiệu lực.
+động theo pháp luật Việt Nam. Bảo hiểm Bảo
+Việt có các quyền và nghĩa vụ được nêu trong 7. Hợp đồng bảo hiểm
+Hợp đồng bảo hiểm và bị ràng buộc bởi các Là hợp đồng được ký kết giữa Bảo hiểm Bảo
+điểu khoản của Hợp đồng bảo hiểm. Việt và Người được bảo hiểm, theo đó Người
+ được bảo hiểm phải đóng phí bảo hiểm, Bảo2. Người được bảo hiểm
+ hiểm Bảo Việt cung cấp dịch vụ bảo hiểm như
+Là cá nhân có tính mạng hoặc tình trạng sức được liệt kê trong Quy tắc bảo hiểm. Giấy yêu
+khỏe được bảo hiểm theo Hợp đồng bảo cầu bảo hiểm/Quy tắc bảo hiểm/Giấy chứng
+hiểm/Giấy chứng nhận bảo hiểm. Người được nhận bảo hiểm/phụ lục hợp đồng là một bộ
+bảo hiểm đã hoàn thành việc kê khai trong phận không tách rời của Hợp đồng bảo hiểm.
+Giấy yêu cầu bảo hiểm và hiệu lực bảo hiểm
+đã được xác nhận. 8. Bảng quyền lợi bảo hiểm
+ Bảng quyền lợi bảo hiểm cung cấp các thông3. Người yêu cầu bảo hiểm
+ tin tóm tắt về quyền lợi bảo hiểm. Bảng quyền
+Là người đại diện như bố/mẹ cho những người lợi bảo hiểm được cấp cùng và là bộ phận
+phụ thuộc là con dưới 18 tuổi hoặc vợ/chồng, không tách rời của Hợp đồng bảo hiểm.
+con của người được bảo hiểm trên 18 tuổi
+đứng ra yêu cầu và ký kết Hợp đồng bảo hiểm 9. Tổng hạn Mức Quyền lợi bảo hiểm/Số
+với Bảo hiểm Bảo Việt và đóng phí bảo hiểm. tiền bảo hiểm
+ Là hạn mức quyền lợi bảo hiểm của Bảo hiểm4. Người phụ thuộc
+ Bảo Việt đối với Người được bảo hiểm trong
+Là con của Người được bảo hiểm theo luật suốt thời hạn bảo hiểm. Hạn mức này được
+pháp có độ tuổi từ 15 ngày tuổi đến 18 tuổi quy định trong Giấy chứng nhận bảo hiểm
+hoặc 24 tuổi nếu đang theo học các khóa học hoặc Bảng quyền lợi bảo hiểm đính kèm Quy
+dài hạn và chưa kết hôn, kể từ ngày có hiệu tắc này.
+lực bảo hiểm hoặc ngày tái tục bảo hiểm tiếp
+theo. Tất cả những người phụ thuộc phải có 10. Giới hạn phụ
+tên trong Danh sách yêu cầu được bảo hiểm. Là giới hạn bồi thường tối đa cho mỗi hạng
+ mục được quy định chi tiết trong Bảng quyền5. Người thụ hưởng
+ lợi bảo hiểm. Trong mọi trường hợp, tổng số
+Là cá nhân, hoặc nhóm cá nhân được người tiền bồi thường các giới hạn phụ chi tiết không
+yêu cầu bảo hiểm/người được bảo hiểm chỉ vượt quá Tổng hạn mức quyền lợi bảo hiểm.
+định nhận toàn bộ hoặc một phần các quyền
+lợi bảo hiểm của Hợp đồng bảo hiểm này. 11. Ngày hiệu lực bảo hiểm
+Người thụ hưởng được ghi tên trong Giấy Bảo hiểm có hiệu lực từ 00h:01 sáng ngày bắt
+yêu cầu bảo hiểm, Giấy yêu cầu trả tiền bảo đầu bảo hiểm lần đầu tiên hoặc ngày tái tục
+hiểm và trong Giấy chứng nhận bảo hiểm/ của Hợp đồng bảo hiểm và được kết thúc vào
+Hợp đồng bảo hiểm. Trường hợp không có 23h:59 ngày hết hạn bảo hiểm được ghi trên
+chỉ định người thụ hưởng Bảo hiểm Bảo Việt Giấy chứng nhận bảo hiểm hoặc Hợp đồng bảo
+sẽ giải quyết theo các quy định về Thừa kế của hiểm. Hiệu lực bảo hiểm chỉ được coi là liên tục
+Bộ Luật Dân sự. trong trường hợp Người được bảo hiểm thực
+ hiện tái tục Hợp đồng vào ngày hoặc trước
+ ngày hết hạn hiệu lực của Hợp đồng cũ.
+
+<!-- page 5 (pdf 3 right) -->
+12. Thời hạn bảo hiểm vào công việc của người đó hay bị mất hoàn
+Thời hạn bảo hiểm được quy định cụ thể toàn khả năng lao động trong bất kỳ loại lao
+trong Hợp đồng bảo hiểm hoặc Giấy chứng động nào, kéo dài 104 tuần liên tục và không
+nhận bảo hiểm. Thời hạn bảo hiểm là một (01) hy vọng vào sự tiến triển của thương tật/tàn
+năm, không chấp nhận các trường hợp tham tật đó.
+gia ngắn hạn hoặc bổ sung quyền lợi giữa kỳ. 19. Ốm đau, bệnh tật
+13. Thời gian chờ Là tình trạng cơ thể có dấu hiệu của một bệnh
+Là thời gian mà các quyền lợi bảo hiểm có liên lý khác với tình trạng sức khỏe bình thường
+quan không được chi trả bảo hiểm bao gồm được biểu hiện bằng các triệu chứng hay hội
+cả những trường hợp thời điểm phát sinh chứng có chẩn đoán của Bác sỹ.
+rủi ro nằm trong thời gian chờ nhưng chi phí 20. Bệnh/thương tật có sẵn
+phát sinh hoặc hậu quả của đợt điều trị rủi ro
+ Là bệnh hoặc thương tật có từ trước ngày bắtnày lại kéo dài quá thời gian chờ quy định.
+ đầu được nhận bảo hiểm theo hợp đồng bảo
+14. Phạm vi lãnh thổ hiểm và là bệnh/thương tật mà Người được
+Quy tắc bảo hiểm này cung cấp bảo hiểm trong bảo hiểm:
+trường hợp bị tai nạn/ốm đau và những chi phí a. Đã phải điều trị trong vòng 03 năm gần đây.
+y tế liên quan phát sinh trong lãnh thổ Việt b. Là bất cứ tình trạng sức khỏe đã được chẩn
+Nam ngoại trừ có những quy định khác trong đoán; triệu chứng bệnh/thương tật đã xảy
+Giấy chứng nhận bảo hiểm hoặc phụ lục. ra/xuất hiện trước ngày ký hợp đồng mà
+15. Tai nạn Người được bảo hiểm đã biết hoặc ý thức
+ được cho dù Người được bảo hiểm có
+Là bất kỳ sự kiện bất ngờ hay không lường thực sự khám, điều trị hay không.
+trước, gây ra bởi một lực từ bên ngoài, mạnh
+và có thể nhìn thấy được xảy ra trong thời 21. Bệnh đặc biệt
+hạn bảo hiểm, là nguyên nhân trực tiếp dẫn Theo Quy tắc bảo hiểm này, những bệnh sau
+đến thương tật thân thể hoặc chết cho Người đây được hiểu là bệnh đặc biệt:
+được bảo hiểm và xảy ra ngoài sự kiểm soát
+ a. Bệnh hệ thần kinh:của Người được bảo hiểm.
+ Các bệnh viêm hệ thần kinh trung ương
+16. Thương tật thân thể (não), teo hệ thống ảnh hưởng lên hệ thần
+Thương tật thân thể gây ra trực tiếp bởi tai kinh trung ương (bệnh Huntington, mất
+nạn trong thời hạn bảo hiểm dẫn đến Người điều vận động di truyền, teo cơ cột sống
+được bảo hiểm bị thương tật. và hội chứng liên quan), rối loạn vận động
+ ngoài tháp (Parkison, rối loạn trương lực
+17. Thương tật bộ phận vĩnh viễn cơ, rối loạn vận động và ngoại tháp khác),
+Là các thương tật được liệt kê trong bảng tỷ lệ Alzheimer, hội chứng Apalic/mất trí nhớ,
+thương tật hoặc các tổn thương thân thể do tai động kinh, hôn mê, các bệnh bại não và
+nạn gây ra làm cho Người được bảo hiểm vĩnh hội chứng liệt khác.
+viễn mất đi một phần khả năng lao động do b. Bệnh hệ hô hấp:
+hậu quả của việc bị cắt, mất hoặc mất khả năng
+sử dụng hoặc liệt một phần cơ thể mà với điều Bệnh suy phổi, tràn khí phổi.
+kiện y học hiện tại không có khả năng khắc c. Bệnh hệ tuần hoàn:
+phục và kéo dài trong vòng 52 tuần liên tục. Bệnh tim, tăng/cao huyết áp, tăng áp lực
+18. Thương tật/tàn tật toàn bộ vĩnh viễn động mạch vô căn, các bệnh mạch máu
+ não/đột quỵ và các hậu quả/di chứng của
+Là thương tật/tàn tật làm cho Người được bệnh này.
+bảo hiểm bị cản trở hoàn toàn khi tham gia
+
+
+
+ 5
+
+<!-- page 6 (pdf 4 left) -->
+d. Bệnh hệ tiêu hóa: mẹ dưới tác động của yếu tố môi trường lên
+ Viêm gan A,B,C, xơ gan, suy gan, sỏi mật. sự phát triển của thai nhi và có thể được cơ
+ quan y tế mô tả dưới nhiều tên gọi khác nhau
+e. Bệnh hệ tiết niệu: như “bệnh bẩm sinh, dị tật bẩm sinh, khuyết
+ Bệnh của cầu thận, ống thận, sỏi thận tật bẩm sinh và bất thường của Nhiễm sắc
+ và niệu quản, sỏi đường tiết niệu dưới, thể”. Việc xác định tình trạng bệnh bẩm sinh
+ suy thận phải do bác sỹ thực hiện.
+f. Bệnh hệ nội tiết: 25. Dịch vụ vận chuyển cấp cứu
+ Rối loạn tuyến giáp, đái tháo đường và Là việc sử dụng xe cứu thương hoặc phương
+ nội tiết tuyến tụy, tuyến thượng thận, tiện vận chuyển khác (không phải là dịch vụ
+ hôn mê, rối loạn các tuyến nội tiết khác. vận chuyển bằng đường hàng không) trong
+g. Bệnh khối U: trường hợp Người được bảo hiểm trong tình
+ Khối U/bướu lành tính các loại. trạng ốm đau/tai nạn nguy kịch ảnh hưởng
+ đến tính mạng buộc phải đưa người bệnhh. Bệnh của máu:
+ đến bệnh viện/phòng khám gần nhất hoặc
+ Rối loạn đông máu, rối loạn chức năng từ bệnh viện này đến bệnh viện khác.
+ của bạch cầu đa trung tính, bệnh liên
+ quan mô lưới bạch huyết và hệ thống 26. Điều trị cấp cứu
+ lưới mô bào, ghép tủy. Là việc điều trị khẩn cấp tại cơ sở y tế trong
+i. Bệnh của da và mô liên kết: vòng 24h sau khi có tai nạn hoặc triệu chứng
+ ốm đau/bệnh tật có thể nguy hiểm đến tính Bệnh Lupus ban đỏ, xơ cứng bì toàn thân,
+ mạng, sức khỏe cần thiết phải điều trị khẩn xơ cứng rải rác, xơ cứng biểu bì tiến triển/
+ cấp tại phòng cấp cứu và hồ sơ có dấu xác cột bên teo cơ, loạn dưỡng cơ và biến
+ nhận cấp cứu của cơ sở y tế. chứng của các bệnh này, Penphygus, vẩy
+ nến, mề đay dị ứng mãn (có điều trị bằng Trường hợp điều trị tại phòng cấp cứu chỉ vì
+ kháng nguyên của nước ngoài). lý do ngoài giờ phục vụ của phòng khám/
+ bệnh viện thì được coi là điều trị ngoại trú.
+22. Bệnh nghề nghiệp
+ 27. Bệnh việnBệnh nghề nghiệp là bệnh phát sinh do điều
+kiện lao động có hại của nghề nghiệp tác Là một cơ sở khám và điều trị bệnh hợp pháp
+động đối với người lao động. Danh mục các được nhà nước công nhận và:
+loại bệnh nghề nghiệp do Bộ Y tế và Bộ Lao - Có khả năng và phương tiện chẩn đoán
+động - Thương binh và Xã hội ban hành. bệnh, điều trị và phẫu thuật.
+23. Bệnh di truyền - Có điều kiện thuận lợi cho việc điều trị
+ nội trú, ngoại trú và có hệ thống theoLà bất kỳ bệnh nào xuất hiện ở những người
+ dõi sức khoẻ hàng ngày cho các bệnhcó cùng huyết thống hay sự chuyển những
+ nhân điều trị nội trú, ngoại trú.bệnh lý của bố, mẹ cho con cái thông qua
+gen của bố, mẹ và/hoặc được truyền từ đời - Không phải là nơi để an dưỡng phục
+này sang đời khác, từ thế hệ này sang thế hồi sức khỏe hoặc là một nơi đặc biệt
+hệ khác trong những người có cùng huyết chỉ có mục đích duy nhất là phục vụ
+thống. Việc xác định bệnh di truyền phải do cho người già, dưỡng lão hoặc giúp đỡ
+bác sỹ thực hiện. cai nghiện rượu, thuốc phiện, ma tuý
+ hoặc để điều trị rối loạn tâm thần, điều
+24. Bệnh bẩm sinh trị bệnh phong hoặc là nơi điều trị suối
+Là bất kỳ bệnh nào được hình thành trên khoáng, xông hơi, massage.
+thai nhi trong quá trình mang thai của người
+
+<!-- page 7 (pdf 4 right) -->
+28. Bệnh viện công lập 32. Tiền phòng và giường
+Bệnh viện công lập là tổ chức do Cơ quan nhà Các chi phí tiền giường nằm điều trị trong một
+nước có thẩm quyền thành lập và quản lý phòng đơn và các khoản chi phí liên quan
+theo quy định của pháp luật, có tư cách pháp khác phục vụ cho Người được bảo hiểm điều
+nhân, con dấu, tài khoản và tổ chức bộ máy kế trị (không chi trả chi phí phòng bao), bao gồm
+toán theo quy định của pháp luật về kế toán cả phòng chăm sóc đặc biệt và các chi phí
+để thực hiện nhiệm vụ cung cấp dịch vụ công chăm sóc y tế cần thiết khác do một y tá có
+hoặc phục vụ quản lý nhà nước trong các lĩnh bằng cấp chăm sóc.
+vực chuyên môn khám chữa bệnh.
+ 33. Chi phí y tế hợp lý
+29. Phòng khám Các chi phí y tế phát sinh cần thiết hợp lý và
+Là cơ sở y tế cung cấp đầy đủ các cơ sở vật chỉ liên quan đến việc điều trị y tế của Người
+chất, trang thiết bị y tế phục vụ cho công tác được bảo hiểm trong trường hợp ốm đau,
+chẩn đoán/khám và điều trị bệnh nhân theo bệnh tật, tai nạn, biến chứng thai sản theo chỉ
+quy định. Phòng khám phải có Giấy phép hoạt định của bác sỹ thuộc phạm vi bảo hiểm.
+động kinh doanh hợp pháp và chứng chỉ hành
+ 34. Chi phí điều trị trước khi nhập việnnghề của từng cá nhân trong phòng khám.
+ Là các chi phí khám, kiểm tra, siêu âm, chụpLiên quan đến các chứng từ hóa đơn/biên lai/
+ chiếu, xét nghiệm cơ bản và tiền thuốc theophiếu thu chi phí điều trị phát sinh tại phòng
+ chỉ định của bác sỹ, liên quan trực tiếp đếnkhám hợp pháp phải tuân thủ theo quy định
+ bệnh/thương tật cần phải nhập viện và cầncủa Bộ Tài chính/Tổng cục thuế.
+ theo dõi, chỉ được chấp nhận một lần gần
+30. Hệ thống bảo lãnh viện phí nhất được thực hiện trong vòng 30 ngày trước
+Là hệ thống các cơ sở y tế có ký kết thỏa thuận khi nhập viện.
+cung cấp dịch vụ bảo lãnh với Bảo hiểm Bảo 35. Chi phí điều trị sau khi xuất viện
+Việt. Người được bảo hiểm khi khám và điều
+ Là các chi phí y tế phát sinh theo chỉ định củatrị tại những cơ sở này sẽ được Bảo hiểm Bảo
+ bác sỹ ngay khi Người được bảo hiểm xuất việnViệt bảo lãnh thanh toán các chi phí phát sinh
+ và có liên quan trực tiếp đến đợt điều trị nộithuộc phạm vi bảo hiểm và theo hạn mức quy
+ trú trước đó. Các chi phí này bao gồm chi phíđịnh trong Hợp đồng/Giấy chứng nhận bảo
+ khám, xét nghiệm, chẩn đoán hình ảnh, vật tưhiểm. Người được bảo hiểm phải tự chi trả
+ y tế và thuốc phát sinh trong vòng 30 ngày kểcho những chi phí vượt quá Mức trách nhiệm
+ từ ngày Người được bảo hiểm xuất viện.đã tham gia trong Quy tắc bảo hiểm tại thời
+điểm điều trị. 36. Trợ cấp bệnh viện công
+31. Nằm viện Là khoản tiền trợ cấp trong trường hợp Người
+ được bảo hiểm nằm viện điều trị nội trú doLà việc bệnh nhân phải lưu trú tại bệnh viện
+ ốm bệnh, tai nạn tại các bệnh viện công lập.ít nhất là 24 giờ để điều trị. Trong trường hợp
+bệnh viện không cấp được Giấy nhập viện 37. Điều trị y tế
+hoặc xuất viện, hồ sơ y tế hoặc hóa đơn thanh Là việc phẫu thuật, điều trị hoặc chữa trị theo
+toán thể hiện rõ thời gian điều trị sẽ được coi chỉ định của bác sỹ với mục đích duy nhất là
+như chứng từ thay thế. Đơn vị ngày nằm viện chữa trị hoặc làm giảm nhẹ tình trạng bệnh
+được tính bằng 24h và theo đơn vị giường tật/thương tật.
+nằm trong Giấy ra/xuất viện hoặc trong
+chứng từ viện phí chi tiết. Việc điều trị nội 38. Điều trị phục hồi chức năng
+trú chỉ được chấp nhận khi bệnh nhân được Là phương pháp điều trị nhằm mục đích khôi
+thực hiện điều trị tại một bệnh viện như định phục lại tình trạng bình thường và/hay chức
+nghĩa, không phải là phòng khám hay cơ sở năng sau tổn thương cấp tính hoặc do bệnh
+điều trị ngoại trú. kể từ khi người bệnh được bác sĩ chỉ định
+
+
+ 7
+
+<!-- page 8 (pdf 5 left) -->
+chuyển sang điều trị tại chuyên khoa phục pháp luật và không bao gồm thực phẩm chức
+hồi chức năng. năng, dược mỹ phẩm, mỹ phẩm, khoáng chất,
+ chế phẩm không nằm trong danh mục thuốc
+39. Phẫu thuật điều trị của Bộ Y tế, thuốc bổ, vitamin. Tuy
+Là một phương pháp khoa học để điều trị nhiên, Bảo Việt sẽ xem xét bồi thường thuốc
+thương tật hoặc bệnh tật được thực hiện bởi bổ, vitamin tối đa 20% tổng chi phí của cả toa
+những phẫu thuật viên có bằng cấp thông thuốc khi thỏa mãn các điều kiện sau:
+qua những ca mổ bằng tay với các dụng cụ - Các loại thuốc bổ và vitamin này được sự
+y tế hoặc bằng thiết bị y tế trong bệnh viện chỉ định của Bác sỹ điều trị.
+bao gồm những danh mục liệt kê dưới đây
+và/hoặc các danh mục được liệt kê trong Sửa - Hỗ trợ cho việc điều trị bệnh/tai nạn.
+đổi bổ sung như là một bộ phận đính kèm của - Trong toa thuốc phải có thuốc điều trị
+Quy tắc/Hợp đồng bảo hiểm như mổ phanh, đi kèm
+mổ nội soi, mổ bằng tia laser. Phẫu thuật bao
+ 43. Các bộ phận/thiết bị y tế hỗ trợ điều trị.gồm 02 loại:
+ Là các bộ phận/thiết bị/dụng cụ y tế: - Phẫu thuật nội trú: là hình thức bệnh
+ nhân sau phẫu thuật cần phải lưu trú tại - Được đặt/cấy/trồng vào bất cứ một bộ
+ bệnh viện ít nhất 24h. phận nào của cơ thể để hỗ trợ cho chức
+ năng hoạt động của bộ phận đó, bao - Phẫu thuật ngoại trú: là hình thức bệnh
+ gồm những danh mục liệt kê dưới đây nhân sau phẫu thuật chỉ lưu trú tại bệnh
+ và/hoặc các danh mục được liệt kê trong viện dưới 24h.
+ Sửa đổi bổ sung như là một bộ phận đính
+40. Cấy ghép nội tạng kèm của Quy tắc/Hợp đồng bảo hiểm
+Là việc phẫu thuật để cấy ghép các cơ quan như stent, van tim, bóng nong, đĩa đệm,
+như tim, phổi, gan, tuyến tụy, thận, bao gồm nẹp, vis, chốt treo, máy tạo nhịp tim.
+cả tủy xương cho Người được bảo hiểm - Có tính chất đặc thù, chỉ sử dụng riêng
+tiến hành tại một bệnh viện bởi một bác sỹ cho từng loại hình điều trị hoặc phẫu
+có bằng cấp được phép thực hiện loại phẫu thuật, sử dụng một lần và không khấu
+thuật này. Các chi phí mua cơ quan cấy ghép hao, bao gồm những danh mục liệt kê
+và toàn bộ các chi phí phát sinh cho người dưới đây và/hoặc các danh mục được liệt
+hiến bộ phận cơ thể không được bảo hiểm kê trong Sửa đổi bổ sung như là một bộ
+theo Quy tắc bảo hiểm này. phận đính kèm của Quy tắc/Hợp đồng
+ bảo hiểm như dao cắt sụn, lưỡi bào, dao
+41. Bác sỹ cắt gan siêu âm, dao cắt trĩ theo phương
+Là người được cấp giấy phép hành nghề pháp Longo, rọ tán sỏi trong phẫu thuật
+hợp pháp, được luật pháp nước sở tại công lấy sỏi.
+nhận và bác sỹ đó đang điều trị, hành nghề - Bên ngoài cơ thể có tác dụng hỗ trợ chức
+trong phạm vi Giấy phép được cấp và trong năng vận động hoặc các chức năng khác
+phạm vi chuyên ngành đào tạo của mình, của cơ thể bao gồm những danh mục
+loại trừ những bác sỹ chính là Người được liệt kê dưới đây và/hoặc các danh mục
+bảo hiểm, hay vợ (chồng), bố mẹ, bố mẹ vợ/ được liệt kê trong Sửa đổi bổ sung như
+chồng hoặc con của Người được bảo hiểm. là một bộ phận đính kèm của Quy tắc/
+Một bác sỹ có thể là một bác sỹ chuyên khoa Hợp đồng bảo hiểm như nạng, nẹp, xe
+hay cố vấn y tế. lăn, thiết bị trợ thính, kính thuốc, máy hỗ
+42. Thuốc kê theo Đơn của bác sỹ trợ tim.
+Là những thuốc, dược phẩm được bán và sử - Các dụng cụ chỉnh hình mang tính chất
+dụng theo Đơn của Bác sỹ, theo quy định của thẩm mỹ khác.
+
+<!-- page 9 (pdf 5 right) -->
+44. Bộ phận giả: 49. Lần khám/điều trị
+Là các bộ phận/thiết bị/chất liệu được làm Là một lần người bệnh được bác sỹ thăm
+giả để thay thế cho các bộ phận của cơ thể khám lâm sàng, thực hiện các xét nghiệm,
+bao gồm những danh mục liệt kê dưới đây chẩn đoán hình ảnh hay các thủ thuật thăm
+và/hoặc các danh mục được liệt kê trong Sửa dò khác và/hoặc sử dụng thuốc điều trị theo
+đổi bổ sung như là một bộ phận đính kèm của chỉ định của bác sỹ tại cùng một cơ sở y tế
+Quy tắc/Hợp đồng bảo hiểm như răng giả, hợp pháp nhằm mục đích chẩn đoán bệnh/
+chân tay giả, thủy tinh thể giả. thương tật và điều trị.
+45. Biến chứng thai sản - Trường hợp nhiều bác sỹ chuyên khoa
+ cùng hội chẩn trước một người bệnh
+Là tình trạng bất thường của bào thai, biến theo quy chế bệnh viện thì chỉ được tính
+chứng do nguyên nhân tai nạn hoặc bệnh là một lần khám/điều trị.
+lý phát sinh trong quá trình mang thai của
+Người được bảo hiểm (nhưng không liên - Trường hợp người bệnh khám một
+quan đến việc điều trị vô sinh, sinh non, sinh chuyên khoa nhiều lần trong ngày thì
+nở) phải điều trị theo chỉ định của bác sỹ. chỉ tính là một lần khám/điều trị.
+ - Trường hợp người bệnh phải khám
+46. Vật lý trị liệu nhiều chuyên khoa khác dù có chỉ định
+Là phương pháp phòng và chữa bệnh bằng của bác sỹ trong cùng một cơ sở y tế,
+cách sử dụng các tác nhân vật lí tự nhiên hay trong một ngày thì vẫn chỉ tính là một
+nhân tạo như: nước, không khí, nhiệt độ, khí lần khám/điều trị.
+hậu, độ cao, điện, tia X, tia cực tím, tia hồng
+ngoại, siêu âm, các chất đồng vị phóng xạ, xoa 50. Đồng chi trả
+bóp, thể dục - thể thao, đi bộ, dưỡng sinh... Đồng chi trả là số tiền theo tỷ lệ mà Công ty
+Quy tắc bảo hiểm này không bảo hiểm các chi bảo hiểm, Người được bảo hiểm cùng chi trả
+phí nhằm mục đích thư giãn, massage, spa, khi phát sinh chi phí thuộc phạm vi bảo hiểm
+sửa dáng đi. của Quy tắc bảo hiểm. Đồng chi trả được tính
+ theo tỷ lệ phần trăm (%) trên tổng số tiền
+47. Vật tư tiêu hao, vật tư thay thế thông chi phí phát sinh thuộc phạm vi bảo hiểm
+ thường hoặc trên các mức giới hạn phụ của quyền
+Là vật tư được sử dụng một lần hoặc nhiều lần lợi ngoại trú (hoặc nội trú) tùy theo mức nào
+nhằm mục đích hỗ trợ cho điều trị và khám thấp hơn thì được áp dụng. Giới hạn chi phí
+chữa bệnh, không lắp đặt vĩnh viễn trong cơ được bảo hiểm sau khi đồng chi trả tối đa
+thể, ngoại trừ các trường hợp các vật tư này tự bằng giới hạn của mục quyền lợi trong Bảng
+tiêu trong cơ thể hoặc lẽ ra có thể lấy ra khỏi quyền lợi bảo hiểm.
+cơ thể mà không ảnh hưởng đến chức năng
+hoạt động của cơ thể nhưng do cơ thể không II. ĐỐI TƯỢNG THAM GIA BẢO HIỂM
+đào thải nên không cần thiết phải lấy ra. Điều kiện được tham gia bảo hiểm theo quy
+ tắc bảo hiểm này:48. Điều trị ngoại trú
+ 1. Người được bảo hiểm là mọi công dân ViệtLà việc điều trị y tế tại một cơ sở y tế/bệnh
+viện/phòng khám như định nghĩa nhưng Nam hoặc người nước ngoài cư trú tại Việt
+không nhập viện điều trị nội trú. Nam từ mười lăm (15) ngày tuổi đến sáu
+Các trường hợp điều trị trong ngày, phẫu mươi lăm (65) tuổi tại thời điểm bắt đầu
+thuật/tiểu phẫu/nội soi chẩn đoán bệnh hiệu lực của Quy tắc bảo hiểm. Người được
+trong ngày được giải quyết theo quyền lợi bảo hiểm chỉ được tham gia đến sáu mươi
+điều trị ngoại trú. lăm (65) tuổi với điều kiện đã tham gia liên
+ tục trước đó từ năm sáu mươi (60) tuổi.
+
+
+
+ 9
+
+<!-- page 10 (pdf 6 left) -->
+2. Trường hợp trẻ em dưới mười tám (18) 3. Trường hợp một trong hai bên muốn
+ tuổi chỉ được nhận bảo hiểm với điều huỷ bỏ Hợp đồng bảo hiểm phải thông
+ kiện phải tham gia bảo hiểm cùng hợp báo bằng văn bản cho bên kia biết trước
+ 30 ngày kể từ ngày định huỷ bỏ. đồng với Bố và/hoặc Mẹ hoặc Bố/Mẹ đã
+ tham gia ít nhất một loại hình Bảo hiểm - Nếu Người được bảo hiểm yêu cầu huỷ
+ bỏ Hợp đồng, Bảo hiểm Bảo Việt sẽ hoàn Sức khỏe, Chi phí y tế còn hiệu lực tại Bảo
+ trả 80% phí bảo hiểm của thời gian còn hiểm Bảo Việt. Chương trình bảo hiểm của
+ lại với điều kiện trong thời gian hiệu lực
+ người phụ thuộc chỉ được áp dụng mức của Hợp đồng bảo hiểm chưa có khiếu
+ tương đương hoặc thấp hơn chương trình nại đòi trả tiền bảo hiểm nào xảy ra.
+ của Người được bảo hiểm.
+ - Nếu Bảo hiểm Bảo Việt yêu cầu huỷ bỏ
+3. Đối tượng trẻ em từ 15 ngày tuổi đến 3 Hợp đồng, Bảo hiểm Bảo Việt sẽ hoàn trả
+ tuổi, quyền lợi chi phí y tế nội trú và ngoại toàn bộ phí bảo hiểm của thời gian còn
+ trú áp dụng theo tỷ lệ đồng chi trả được lại cho dù có khiếu nại đòi trả tiền bảo
+ quy định trong Bảng Quyền lợi bảo hiểm hiểm hay chưa.
+ đính kèm. - Nếu Người được bảo hiểm hoặc đại diện
+ Người được bảo hiểm có bất kỳ khiếu4. Đối tượng trẻ em từ 15 ngày tuổi đến dưới
+ nại nào thể hiện gian lận hay không
+ 1 tuổi chỉ được tham gia với điều kiện : trung thực hoặc nếu có hành vi gian dối
+ - Cung cấp GYCBH trong tình trạng sức hoặc có mưu kế trục lợi bảo hiểm về bất
+ khỏe tốt và khi trẻ đã xuất viện kì phương diện nào nhằm lấy tiền bảo
+ - Tham gia cùng bố/mẹ như đã đề cập hiểm thì Hợp đồng bảo hiểm sẽ bị hủy
+ ở trên bỏ ngay lập tức và Người được bảo hiểm
+ sẽ mất toàn bộ Quyền lợi bảo hiểm, - Chỉ được tham gia chương trình Bạch
+ đồng thời Người được bảo hiểm phải kim/Kim cương
+ hoàn trả tất cả Giấy chứng nhận bảo
+ - Phí bảo hiểm bằng 150% phí của độ tuổi hiểm và thẻ bảo hiểm cho Bảo hiểm Bảo
+ 1-3 theo chương trình tham gia tương ứng Việt. Bảo hiểm Bảo Việt hoàn lại 70% phí
+III. KÝ KẾT/HỦY BỎ HỢP ĐỒNG BẢO HIỂM bảo hiểm của thời gian còn lại với điều
+ VÀ TÁI TỤC HỢP ĐỒNG BẢO HIỂM kiện chưa có bồi thường nào được chi
+ trả trước đó.
+1. Khi có yêu cầu tham gia bảo hiểm, Người
+ 4. Trong trường hợp Hợp đồng bảo hiểm được bảo hiểm phải kê khai trung thực
+ tái tục liên tục, hiệu lực bảo hiểm sẽ đầy đủ nội dung trên Giấy yêu cầu bảo
+ chấm dứt vào ngày hết hạn đầu tiên sau hiểm. Giấy yêu cầu bảo hiểm là một bộ
+ ngày sinh nhật thứ sáu mươi lăm (65) phận không tách rời của Hợp đồng bảo
+ của Người được bảo hiểm. hiểm. Việc kê khai trung thực và chính
+ xác là điều kiện tiên quyết quyết định 5. Cuối thời hạn bảo hiểm căn cứ lịch sử
+ trách nhiệm của Bảo hiểm Bảo Việt với bồi thường của Người được bảo hiểm,
+ Người được bảo hiểm. Bảo hiểm Bảo Việt có quyền từ chối tái
+ tục hợp đồng hoặc điều chỉnh các điều2. Trên cơ sở Giấy yêu cầu bảo hiểm, Bảo
+ kiện, giới hạn phụ các quyền lợi bảo hiểm Bảo Việt sẽ cấp cho mỗi Người
+ hiểm trong Hợp đồng bảo hiểm. được bảo hiểm một Giấy chứng nhận
+ bảo hiểm. Giấy chứng nhận bảo hiểm IV. BẢO HIỂM TRÙNG VÀ BẢO HIỂM KHÁC
+ được coi là bằng chứng giao kết Hợp
+ Trong trường hợp chi phí y tế liên quan tới đồng bảo hiểm.
+ cùng thương tật, bệnh tật được bảo hiểm
+
+<!-- page 11 (pdf 6 right) -->
+theo quy tắc này có thể đòi bồi thường từ lượng thám hiểm khi xảy ra tai nạn, Bảo hiểm
+những loại hình bảo hiểm khác, Bảo hiểm Bảo Việt sẽ không bảo hiểm trừ trường hợp đã
+Bảo Việt chỉ thanh toán khoản tiền vượt được chấp nhận bằng văn bản của Bảo hiểm
+quá mức được bồi thường theo các Quy tắc Bảo Việt và phí bảo hiểm bổ sung đó đã được
+khác đó hoặc theo tỷ lệ giữa số tiền bảo thanh toán.
+hiểm của Quy tắc bảo hiểm này với tổng
+ VIII. NGHĨA VỤ CỦA NGƯỜI ĐƯỢCgiới hạn trách nhiệm của tất cả Quy tắc bảo
+hiểm khác. BẢO HIỂM
+ 1. Người tham gia bảo hiểm kê khai trung
+V. PHÍ BẢO HIỂM VÀ SỐ TIỀN BẢO HIỂM thực đầy đủ các nội dung trong Giấy yêu
+Phí bảo hiểm quy định trong Biểu phí đính cầu bảo hiểm của Bảo hiểm Bảo Việt.
+kèm Quy tắc bảo hiểm này, phí bảo hiểm 2. Người được bảo hiểm phải cung cấp
+phụ thuộc vào chương trình bảo hiểm, độ trung thực các thông tin và chứng cứ về
+tuổi của Người được bảo hiểm khi tham gia/ rủi ro được bảo hiểm và mọi chi phí liên
+tái tục bảo hiểm. quan đến việc cung cấp hồ sơ không
+Thay đổi quyền lợi: Giới hạn trách nhiệm thuộc trách nhiệm của Bảo hiểm Bảo Việt.
+của các quyền lợi không thể thay đổi trong 3. Ủy quyền cho Bảo hiểm Bảo Việt thay mặt
+suốt thời hạn Hợp đồng bảo hiểm. Những Người được bảo hiểm đến bệnh viện sao
+quyền lợi này chỉ có thể được thay đổi vào lưu hồ sơ phục vụ công tác bồi thường.
+ngày tái tục của Hợp đồng bảo hiểm. Trường
+ 4. Người được bảo hiểm có nghĩa vụ thônghợp tái tục với Số tiền bảo hiểm cao hơn
+ báo cho Bảo hiểm Bảo Việt trong trườnghoặc tham gia thêm quyền lợi bổ sung so với
+ hợp sau:năm trước phải được sự chấp thuận của Bảo
+hiểm Bảo Việt và phần chênh lệch về số tiền - Bất kỳ thay đổi nào về địa chỉ, nghề
+bảo hiểm cũng như quyền lợi tham gia thêm nghiệp hay công việc đang làm.
+mới sẽ không được coi là tái tục liên tục và - Bất kỳ tình trạng thương tật, ốm đau,
+được áp dụng thời gian chờ theo quy định. khiếm khuyết hay khuyết tật cơ thể phát
+ sinh cho dù trước khi tham gia bảo hiểmVI. KẾT THÚC QUYỀN LỢI BẢO HIỂM
+ hay sau khi tham gia bảo hiểm.
+Tất cả các quyền lợi bảo hiểm theo Hợp
+ - Bất kỳ loại hình bảo hiểm khác đang cóđồng bảo hiểm này sẽ chấm dứt hiệu lực vào
+ hiệu lực của Người được bảo hiểm.23h:59 giờ đêm của ngày cuối cùng của thời
+hạn bảo hiểm hoặc vào ngày chấm dứt hiệu Trường hợp Người tham gia bảo hiểm, Người
+lực bảo hiểm do Chủ hợp đồng bảo hiểm yêu được bảo hiểm hoặc Người thụ hưởng quyền
+cầu tùy theo thời điểm nào đến trước bao lợi bảo hiểm không trung thực và/hoặc
+gồm cả những rủi ro phát sinh trong thời hạn không tuân thủ đúng các quy định trong Quy
+bảo hiểm nhưng hậu quả xảy ra ngoài thời tắc bảo hiểm này, Bảo hiểm Bảo Việt từ chối
+hạn bảo hiểm. chi trả tiền bảo hiểm.
+VII. TRƯỜNG HỢP ĐẶC BIỆT IX. THỜI HẠN KHIẾU NẠI VÀ TRẢ TIỀN
+ BẢO HIỂMTrong trường hợp Người được bảo hiểm tham
+gia các trận thi đấu hoặc các cuộc đua chuyên 1. Thời hạn yêu cầu trả tiền bảo hiểm hoặc
+nghiệp như đua xe, đua ngựa, đá bóng, quyền bồi thường theo hợp đồng bảo hiểm là
+anh, leo núi, lướt ván, lướt sóng hoặc tham một năm (01), kể từ ngày xảy ra sự kiện
+gia vào các hoạt động khám phá không gian, bảo hiểm.
+khám phá các vùng đất mới, các khám phá 2. Bảo hiểm Bảo Việt có trách nhiệm giải
+khoa học, hoặc các hoạt động khác như săn quyết và chi trả tiền bảo hiểm trong vòng
+bắn, thám hiểm trên núi, Nam/Bắc Cực, lực mười lăm (15) ngày làm việc kể từ ngày
+
+
+
+ 11
+
+<!-- page 12 (pdf 7 left) -->
+nhận được hồ sơ yêu cầu bồi thường đầy hiểm Bảo Việt có quyền yêu cầu khám nghiệm
+ đủ, hợp lệ. tử thi trong trường hợp chết nếu việc khám
+3. Người được bảo hiểm có quyền khiếu nại nghiệm này không trái với pháp luật.
+ về việc trả tiền bảo hiểm của Bảo hiểm XI. LUẬT CHI PHỐI VÀ GIẢI QUYẾT
+ Bảo Việt trong vòng sáu (06) tháng kể từ TRANH CHẤP ngày nhận được thông báo của Bảo hiểm
+ Bảo Việt và bất cứ khiếu nại/khiếu kiện Bất kỳ mâu thuẫn ý kiến về chuyên môn y tế
+ nào cũng không được vượt quá ba (03) nào liên quan đến phương pháp điều trị tai
+ năm kể từ ngày phát sinh tranh chấp. nạn hoặc ốm đau được giải quyết bởi hai (02)
+ chuyên gia y tế do các bên chỉ định bằng văn
+4. Mọi tranh chấp phát sinh từ Quy tắc bảo bản. Chi phí phát sinh phục vụ công tác giải
+ hiểm này mà không thể giải quyết bằng quyết bồi thường sẽ do bên thuê chịu trách
+ thương lượng sẽ được giải quyết ở toà án nhiệm. Nếu ý kiến của hai chuyên gia y tế
+ của Việt Nam và theo luật pháp Việt Nam. trên không thống nhất thì sẽ được giải quyết
+X. KIỂM TRA thông qua một (01) trọng tài do hai chuyên
+ gia y tế chỉ định bằng văn bản ngay từ banBảo hiểm Bảo Việt có quyền thông qua các
+ đầu. Trường hợp các bên không thể giải quyếtchuyên viên y tế kiểm tra tình trạng sức khỏe
+ bằng thương lượng sẽ được giải quyết ở tòacủa Người được bảo hiểm vào bất kỳ lúc nào
+ án của Việt Nam và theo luật pháp Việt Namkhi cần thiết trong suốt thời gian khiếu nại
+ (mọi chi phí liên quan đến án phí sẽ do tòa ánhoặc trong thời hạn bảo hiểm. Ngoài ra, Bảo
+ quyết định).
+ PHẦN II: ĐIỀU KHOẢN BẢO HIỂM CHÍNH
+ ĐIỀU TRỊ NỘI TRÚ DO ỐM ĐAU, BỆNH TẬT, TAI NẠN
+
+1. Quyền lợi bảo hiểm trị nằm viện), thuốc điều trị, truyền máu,
+- Bảo hiểm cho trường hợp ốm đau, bệnh ôxy, huyết thanh, quần áo bệnh viện và
+ tật, tai nạn bao gồm cả biến chứng thai các chi phí y tế liên quan khác nhưng tối
+ sản xảy ra trong thời hạn bảo hiểm khiến đa không quá giới hạn phụ cho mỗi ngày
+ Người được bảo hiểm phải nằm viện điều điều trị quy định trong Bảng quyền lợi
+ trị nội trú và hoặc phẫu thuật nội trú tại hoặc Giấy chứng nhận bảo hiểm. Tổng số
+ bệnh viện. ngày điều trị được xét trả tiền bảo hiểm
+ không quá 60 ngày/năm và tổng số tiền
+- Đối tượng trẻ em từ 15 ngày tuổi đến 3 không vượt quá số tiền bảo hiểm quy
+ tuổi, quyền lợi này áp dụng theo tỷ lệ định của quyền lợi điều trị nội trú.
+ đồng chi trả được quy định trong Bảng
+ quyền lợi bảo hiểm đính kèm. b. Trường hợp phẫu thuật
+a. Trường hợp nằm viện Trường hợp Người được bảo hiểm phải
+ phẫu thuật phải nằm viện điều trị nội trú
+ Trường hợp Người được bảo hiểm phải thuộc phạm vi bảo hiểm, Bảo hiểm Bảo
+ nằm viện thuộc phạm vi bảo hiểm, Bảo Việt sẽ thanh toán toàn bộ các chi phí hội
+ hiểm Bảo Việt sẽ thanh toán các chi phí chẩn, gây mê, hồi sức, chi phí phẫu thuật
+ điều trị, tiền phòng và giường, tiền ăn bao gồm cả phẫu thuật cấy ghép nội tạng
+ theo tiêu chuẩn điều trị nội trú của bệnh (không bảo hiểm cho chi phí mua các bộ
+ viện (nếu có), chi phí xét nghiệm, hoặc các phận nội tạng và chi phí hiến nội tạng).
+ phương pháp chẩn đoán hình ảnh như Giới hạn số tiền chi trả cho trường hợp
+ X-quang, MRI, CT, PET, siêu âm, nội soi (các phẫu thuật không vượt mức giới hạn tối
+ xét nghiệm này phải do bác sỹ chỉ định là đa do Người được bảo hiểm lựa chọn khi
+ biện pháp cần thiết để đánh giá tình trạng tham gia bảo hiểm và được ghi cụ thể
+ bệnh và phải là một phần của chi phí điều
+
+<!-- page 13 (pdf 7 right) -->
+trong Giấy chứng nhận bảo hiểm hoặc 2. Hiệu lực bảo hiểm
+ Hợp đồng bảo hiểm. Bảo hiểm có hiệu lực sau thời gian chờ dưới
+ Trường hợp phẫu thuật ngoại trú không đây kể từ ngày bắt đầu thời hạn bảo hiểm quy
+ được chi trả trong quyền lợi này. định trên Giấy chứng nhận bảo hiểm:
+c. Các quyền lợi bảo hiểm khác (giới hạn - 30 ngày đối với trường hợp ốm đau,
+ quyền lợi được liệt kê chi tiết trong bệnh tật (bao gồm cả thời gian phát
+ Bảng Quyền lợi bảo hiểm) bệnh cho đến khi kết thúc đợt điều trị/
+ - Chi phí điều trị trước khi nhập viện tính theo thời điểm có bệnh, không
+ phát sinh trong vòng 30 ngày trước khi tính theo thời điểm điều trị).
+ nhập viện. - 90 ngày đối với biến chứng thai sản
+ - Chi phí điều trị sau khi xuất viện trong như định nghĩa kể từ ngày tham gia
+ vòng 30 ngày sau khi xuất viện. bảo hiểm.
+ - Dịch vụ xe cứu thương, xe cấp cứu - 01 năm đối với bệnh có sẵn và các bệnh
+ bằng đường bộ. được liệt kê tại Điểm loại trừ chung số
+ 36 của Quy tắc bảo hiểm này.
+ - Phục hồi chức năng.
+ - 01 năm đối với bệnh đặc biệt theo
+ - Trợ cấp bệnh viện công. định nghĩa.
+ - Trợ cấp mai táng phí trong trường hợp - 06 tháng đối với trẻ em đến 6 tuổi:
+ tử vong tại bênh viện bệnh viêm phế quản, tiểu phế quản,
+ viêm phổi các loại.
+ PHẦN III: ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG
+
+Các quyền lợi bổ sung sau đây sẽ được cấp - Chi phí thuốc theo kê đơn của bác sĩ.
+cùng với Quy tắc và là một bộ phận không thể - Chi phí phẫu thuật ngoại trú, nội soi
+tách rời Quy tắc bảo hiểm này. chẩn đoán như định nghĩa của Quy tắc.
+Các quyền lợi bổ sung này chỉ được áp dụng - Vật lý trị liệu, trị liệu học bức xạ, liệu
+trong trường hợp được ghi rõ ràng là được pháp ánh sáng do bác sỹ chỉ định.
+bảo hiểm trong Bảng tóm tắt hợp đồng bảo
+ Giới hạn trách nhiệm theo các quyền lợi đượchiểm hoặc Giấy chứng nhận bảo hiểm và
+ quy định cụ thể trong Bảng Quyền lợi/Giấyđược giải quyết bồi thường căn cứ vào các
+ chứng nhận bảo hiểm và/hoặc Hợp đồng bảođịnh nghĩa, các điểm loại trừ được quy định
+ hiểm đính kèm.trong phần Quyền lợi chính của Quy tắc này
+nếu không có quy định nào khác. Đối tượng trẻ em từ 15 ngày tuổi đến 3 tuổi,
+ quyền lợi này áp dụng theo tỷ lệ đồng chi
+ĐIỀU KHOẢN BỔ SUNG 1: ĐIỀU TRỊ NGOẠI trả được quy định trong Bảng Quyền lợi bảo
+TRÚ DO ỐM ĐAU, BỆNH TẬT, TAI NẠN hiểm đính kèm.
+1. Quyền lợi bảo hiểm 2. Hiệu lực bảo hiểm
+Bảo hiểm Bảo Việt sẽ thanh toán cho Người Bảo hiểm có hiệu lực sau thời gian chờ dưới
+được bảo hiểm tham gia Điều khoản bổ sung đây kể từ ngày bắt đầu thời hạn bảo hiểm quy
+này các chi phí y tế phát sinh điều trị ngoại định trên Giấy chứng nhận bảo hiểm:
+trú do ốm đau, bệnh tật, tai nạn bao gồm cả - 30 ngày đối với trường hợp ốm đau,
+biến chứng thai sản trong thời hạn bảo hiểm bệnh tật (bao gồm cả thời gian phát
+bao gồm: bệnh cho đến khi kết thúc đợt điều trị/
+ - Chi phí khám, các xét nghiệm, chẩn tính theo thời điểm có bệnh, không tính
+ đoán hình ảnh, thủ thuật thăm dò, vật theo thời điểm điều trị).
+ tư y tế tiêu hao thông thường theo chỉ - 90 ngày đối với biến chứng thai sản như
+ định của bác sĩ. định nghĩa kể từ ngày tham gia bảo hiểm.
+
+ 13
+
+<!-- page 14 (pdf 8 left) -->
+- 01 năm đối với bệnh có sẵn và các bệnh tai nạn xảy ra trong thời hạn bảo hiểm trừ
+ được liệt kê tại Điểm loại trừ chung số 36 những điểm loại trừ quy định tại Phần IV của
+ của Quy tắc bảo hiểm này. Quy tắc bảo hiểm này.
+ - 01 năm đối với bệnh đặc biệt theo 2. Hiệu lực bảo hiểm
+ định nghĩa. Bảo hiểm có hiệu lực sau chín mươi (90) ngày
+ - 06 tháng đối với trẻ em đến 6 tuổi: bệnh kể từ ngày đóng phí bảo hiểm đối với bệnh
+ viêm phế quản, tiểu phế quản, viêm thông thường. Các hợp đồng bảo hiểm tái tục
+ phổi các loại. liên tục mặc nhiên có hiệu lực ngay sau khi
+ Người tham gia bảo hiểm đóng phí cho kỳ
+ĐIỀU KHOẢN BỔ SUNG 2: BẢO HIỂM tiếp theo.
+TAI NẠN CÁ NHÂN Đối với trường hợp chết do bệnh đặc biệt,
+1. Quyền lợi bảo hiểm bệnh có sẵn, bệnh liệt kê số 36 trong Điểm
+Bảo hiểm cho trường hợp chết, thương tật toàn loại trừ chung của Quy tắc này, biến chứng
+bộ vĩnh viễn hoặc thương tật bộ phận vĩnh viễn thai sản, Quy tắc bảo hiểm chỉ có hiệu lực đối
+do tai nạn xảy ra trong thời hạn bảo hiểm. với Người được bảo hiểm tham gia theo Quy
+ - Trường hợp Người được bảo hiểm chết tắc bảo hiểm này liên tục sau một năm (01)
+ hoặc thương tật toàn bộ vĩnh viễn do tai trở lên.
+ nạn thuộc phạm vi bảo hiểm, Bảo hiểm 3. Quyền lợi bảo hiểm
+ Bảo Việt trả toàn bộ số tiền bảo hiểm Trường hợp Người được bảo hiểm chết hoặc
+ trên Giấy chứng nhận bảo hiểm hoặc tàn tật toàn bộ vĩnh viễn thuộc phạm vi bảo
+ Hợp đồng bảo hiểm. hiểm, Bảo hiểm Bảo Việt trả toàn bộ số tiền
+ - Trường hợp Người được bảo hiểm bị bảo hiểm ghi trên Giấy chứng nhận bảo hiểm
+ thương tật bộ phận vĩnh viễn do tai nạn hoặc Hợp đồng bảo hiểm.
+ thuộc phạm vi bảo hiểm, Bảo hiểm Bảo
+ ĐIỀU KHOẢN BỔ SUNG 4: BẢO HIỂM Việt trả theo Phụ lục I - Bảng tỷ lệ trả tiền
+ thương tật tại Quy tắc bảo hiểm này. NHA KHOA
+ - Trường hợp Người được bảo hiểm bị tai Bảo hiểm Bảo Việt sẽ thanh toán cho Người
+ nạn dẫn đến thương tật bộ phận vĩnh được bảo hiểm chi phí y tế điều trị răng bệnh
+ viễn đã được trả tiền bảo hiểm, trong lý bao gồm:
+ vòng một (01) năm kể từ ngày xảy ra - Khám và chẩn đoán bệnh
+ tai nạn Người được bảo hiểm bị chết do - Lấy cao răng
+ hậu quả của chính tai nạn đó, Bảo hiểm
+ - Trám răng bằng các chất liệu thông thường Bảo Việt sẽ trả phần chênh lệch giữa số
+ tiền bảo hiểm ghi trong Hợp đồng hoặc - Nhổ răng bệnh lý
+ Giấy chứng nhận bảo hiểm với số tiền đã - Lấy u vôi răng (lấy vôi răng sâu dưới nướu)
+ trả trước đó. - Phẫu thuật cắt chóp răng
+2. Hiệu lực bảo hiểm - Chữa tủy răng
+Bảo hiểm có hiệu lực ngay khi bắt đầu thời - Ðiều trị viêm nướu, viêm nha chu
+hạn bảo hiểm quy định trên Giấy chứng nhận
+ Điều trị răng được giới hạn tại các cơ sở khámbảo hiểm.
+ chữa bệnh như sau:
+ĐIỀU KHOẢN BỔ SUNG 3: BẢO HIỂM - Tại Thành phố Hồ Chí Minh và Hà Nội: Chỉ
+SINH MẠNG bảo hiểm việc điều trị răng tại các bệnh
+1. Phạm vi bảo hiểm viện hoặc điều trị răng tại các phòng
+ Nha/phòng khám đã có Thỏa thuận hợpBảo hiểm trường hợp chết hoặc tàn tật toàn
+ tác cung cấp dịch vụ thanh toán chi phíbộ vĩnh viễn do nguyên nhân không phải là
+ y tế với Bảo hiểm Bảo Việt.
+
+<!-- page 15 (pdf 8 right) -->
+- Tại các Tỉnh/Thành phố khác: mở rộng chứng thai sản và sinh khó bao gồm và không
+ bảo hiểm việc điều trị răng tại các phòng giới hạn trong các trường hợp sau:
+ Nha/phòng khám có giấy phép đăng ký - Sảy thai hoặc thai nhi chết trong tử cung
+ hành nghề hợp pháp.
+ - Mang thai trứng nước
+* Lưu ý: Bảo Việt không thanh toán cho điều trị - Thai ngoài tử cung
+răng tại Phòng nha Hạnh Phúc (Happy), 26 Hàm
+ - Băng huyết sau khi sinhNghi, Đà Nẵng, Nha khoa Việt Pháp, 24 Trần Duy
+Hưng, Hà Nội; Nha Khoa Đại Nam – 328 Ông Ích - Sót nhau thai trong tử cung sau khi sinh
+Khiêm, Thanh Khê, Đà Nẵng. - Phá thai do điều trị bao gồm các trường
+ hợp phá thai do các bệnh lý di truyền/ dị
+ĐIỀU KHOẢN BỔ SUNG 5: BẢO HIỂM tật bẩm sinh của thai nhi hoặc phải phá
+THAI SẢN thai để bảo vệ tính mạng của người mẹ
+ - Người được bảo hiểm có độ tuổi từ 18 - Dọa sinh non
+ đến 45 tuổi
+ - Sinh khó
+ - Người được bảo hiểm phải tham gia Điều
+ - Biến chứng của các nguyên nhân trên. khoản chính, tương đương chương trình
+ Bạch Kim hoặc chương trình Kim Cương. b. Sinh thường
+ - Đối với biến chứng thai sản: Ngoài việc Bảo hiểm Bảo Việt sẽ chi trả các chi phí y tế
+ được hưởng theo quyền lợi bảo hiểm phát sinh cho việc Sinh thường bao gồm và
+ bổ sung này, Người được bảo hiểm sẽ không giới hạn trong các chi phí: đỡ đẻ, viện
+ được hưởng thêm quyền lợi tối đa thuộc phí tổng hợp, bác sĩ chuyên khoa, chăm sóc
+ phạm vi bảo hiểm theo điều khoản chính mẹ trước và sau khi sinh tại bệnh viện, chi phí
+ và điều khoản điều trị ngoại trú với điều may thẩm mỹ đường rạch.
+ kiện cung cấp đầy đủ hồ sơ chứng từ về 2. Hiệu lực bảo hiểm:
+ y tế và hóa đơn theo qui định. Đối với sinh nở: Quyền lợi bảo hiểm này được
+ chi trả với điều kiện sau 635 ngày kể từ ngày
+ THAI SẢN BẠCH KIM KIM CƯƠNG hợp đồng bảo hiểm có hiệu lực.
+ Đối với biến chứng thai sản: Sau 90 ngày kể từ
+ Giới hạn trách ngày hợp đồng bảo hiểm có hiệu lực.
+ nhiệm tối đa
+ 21.000.000 31.500.000 * Lưu ý: Các chi phí sinh mổ trọn gói phát sinh tại cho một thời
+ bệnh viện Phụ sản Hà Nội, Phụ sản Trung Ương hạn bảo hiểm
+ và bệnh viện công (nếu phát sinh tương tự) được
+ Phí bảo hiểm/ thanh toán toàn bộ bao gồm cả trường hợp 4.800.000 5.500.000 người/năm không bóc tách được bảng kê chi tiết từ các bệnh
+ viện này.
+1. Quyền lợi bảo hiểm
+a. Biến chứng thai sản và sinh khó
+Bảo hiểm Bảo Việt sẽ chi trả các chi phí y tế
+phát sinh do các biến chứng trong quá trình
+mang thai, hoặc trong quá trình sinh nở cần
+đến các thủ thuật sản khoa, chi phí chăm sóc
+mẹ trước và sau khi sinh tại bệnh viện. Thủ
+thuật sinh mổ chỉ được bảo hiểm nếu do bác
+sĩ chỉ định là cần thiết cho ca sinh đó, không
+bao gồm việc sinh mổ theo yêu cầu (hoặc
+phải mổ lại do việc yêu cầu mổ trước đó). Biến
+
+
+
+ 15
+
+<!-- page 16 (pdf 9 left) -->
+PHẦN IV: CÁC ĐIỂM LOẠI TRỪ CHUNG
+ (Áp dụng cho Điều khoản chính và tất cả các Điều khoản bổ sung)
+
+Bảo hiểm Bảo Việt không chịu trách nhiệm chi 11. Bệnh lao các loại, bệnh sốt rét, bệnh nghề
+trả tiền bảo hiểm đối với các rủi ro xảy ra do nghiệp, bệnh phong.
+các nguyên nhân sau: 12. Bệnh ung thư.
+1. Hành động cố ý của Người được bảo hiểm 13. Những người đang điều trị thương tật hoặc
+ hoặc Người thừa kế hợp pháp. bệnh tật, người bị thương tật/tàn tật vĩnh
+2. Người được bảo hiểm từ 14 tuổi trở lên vi viễn trên 50% tại thời điểm tham gia hoặc
+ phạm pháp luật phải thụ án hình sự và/ thời điểm hợp đồng bảo hiểm bắt đầu có
+ hoặc vi phạm Luật an toàn giao thông; hiệu lực.
+ vi phạm nội quy của cơ quan theo Luật 14. Các bệnh suy tủy, bạch cầu, điều trị lọc
+ lao động. máu, chạy thận nhân tạo và hậu quả hay
+3. Người được bảo hiểm điều khiển phương biến chứng của các bệnh này.
+ tiện giao thông khi có nồng độ cồn trong 15. Liệu pháp thay thế hooc-môn trong thời kỳ
+ máu vượt quá mức quy định của Luật an sinh trưởng hoặc tiền mãn kinh hay mãn
+ toàn giao thông và Người được bảo hiểm bị kinh ở phụ nữ.
+ ảnh hưởng bởi rượu, bia hoặc các chất kích
+ 16. Điều trị các bệnh lây lan qua đường tình thích, các chất gây nghiện khác là nguyên
+ dục như bệnh giang mai, bệnh lậu, rối loạn nhân dẫn đến tai nạn hoặc ốm bệnh.
+ chức năng sinh dục hay điều trị sinh lý,
+4. Các hành động đánh nhau của Người được ốm đau liên quan đến các bệnh thuộc hội
+ bảo hiểm, trừ khi chứng minh được hành chứng suy giảm miễn dịch (HIV) bao gồm
+ động đánh nhau đó chỉ với mục đích tự vệ. các hội chứng liên quan đến AIDS và/hoặc
+5. Hậu quả của tai nạn xảy ra ngoài thời hạn bất cứ biến chứng hoặc biến đổi nào, hoặc
+ bảo hiểm. bệnh lây truyền qua đường tình dục hay
+6. Điều trị y tế hoặc sử dụng thuốc không có bất cứ hội chứng liên quan đến AIDS hoặc
+ đơn thuốc và sự chỉ dẫn của bác sỹ; các các bệnh liên quan đến AIDS khác.
+ loại thuốc đông y không rõ nguồn gốc, các 17. Điều trị và/hoặc phẫu thuật cho các bệnh
+ phòng khám, chẩn trị đông y tư nhân. bẩm sinh, bệnh di truyền/dị tật/khuyết
+7. Tham gia vào các hoạt động hàng không tật bẩm sinh, bệnh dị dạng về gen và mọi
+ (trừ khi với tư cách là hành khách), tham biến chứng, hậu quả liên quan đến những
+ gia các cuộc diễn tập huấn luyện quân sự, bệnh này, những chỉ định phẫu thuật có
+ tham gia chiến đấu của lực lượng vũ trang. từ trước ngày bắt đầu bảo hiểm; bao gồm
+ những danh mục liệt kê dưới đây và/hoặc
+8. Những rủi ro mang tính chất thảm họa như các danh mục được liệt kê trong Sửa đổi
+ động đất, núi lửa, sóng thần, nhiễm phóng bổ sung như là một bộ phận đính kèm của
+ xạ, dịch bệnh theo công bố của cơ quan có Quy tắc/Hợp đồng bảo hiểm như bệnh tim
+ thẩm quyền (bao gồm SARS, H5N1, Ebola). bẩm sinh, bệnh Down, hở môi, hở hàm ếch,
+9. Chiến tranh, nội chiến, đình công, khủng tích nước trong não, hẹp hậu môn, hẹp bao
+ bố, bạo động, dân biến, phiến loạn, các quy đầu, vẹo vách ngăn bẩm sinh.
+ hoạt động dân sự hoặc hành động của bất 18. Kiểm tra sức khỏe định kỳ (nội trú hay ngoại
+ kỳ người cầm đầu của tổ chức nào nhằm trú); kiểm tra sức khỏe tổng quát, tầm soát
+ lật đổ, đe dọa chính quyền, kiểm soát bằng ung thư kết quả bình thường, giám định
+ vũ lực. y khoa hoặc tư vấn y tế không liên quan
+10. Tham gia tập luyện hoặc tham gia thi đấu đến điều trị ốm đau hoặc thương tật, bao
+ các môn thể thao chuyên nghiệp, bất kỳ gồm cả kiểm tra phụ khoa/nam khoa; Xét
+ hoạt động đua nào. nghiệm định kỳ, khám định kỳ cho trẻ mới
+
+<!-- page 17 (pdf 9 right) -->
+sinh, tất cả các hình thức tiêm chủng, vắc- 26. Chi phí cung cấp, bảo dưỡng, sửa chữa hay
+ xin và thuốc phòng ngừa (trừ trường hợp thay thế/bộ phận thiết bị hỗ trợ điều trị
+ tiêm vắc-xin sau khi bị tai nạn hay súc vật, hay bộ phận giả như định nghĩa.
+ côn trùng cắn). 27. Các chi phí liên quan đến phẫu thuật, điều
+19. Kiểm tra thị lực, đục thủy tinh thể, thính trị bệnh/thương tật bằng phương pháp
+ giác thông thường, lão hóa, thoái hóa, điều cấy tế bào gốc bao gồm những danh mục
+ trị suy biến tự nhiên/không phải vì lý do liệt kê dưới đây và/hoặc các danh mục khác
+ bệnh lý của cho việc suy giảm thính thị lực, được liệt kê trong Sửa đổi bổ sung như là
+ bao gồm những danh mục liệt kê dưới đây một bộ phận đính kèm của Quy tắc/Hợp
+ và/hoặc các danh mục khác được liệt kê đồng bảo hiểm như chi phí chiết xuất, xử
+ trong Sửa đổi bổ sung như là một bộ phận lý, cấy tế bào gốc, điều trị duy trì sau khi cấy
+ đính kèm của Quy tắc/Hợp đồng bảo hiểm tế bào và hậu quả của phương pháp điều
+ như các tật khúc xạ như cận thị, viễn thị và trị này. Riêng trường hợp này chỉ bảo hiểm
+ loạn thị và bất kỳ phẫu thuật để phục hồi chi phí ngày nằm viện nội trú tại các bệnh
+ hiệu chỉnh nào đối với các khuyết tật thoái viện công.
+ hóa thính giác và thị giác. 28. Các chất bổ sung hoặc thay thế phục vụ
+20. Bệnh khô mắt, mỏi măt điều tiết được bảo cho việc ăn kiêng có sẵn trong tự nhiên và
+ hiểm với giới hạn 5% STBH điều khoản có thể được mua mà không cần chỉ định,
+ ngoại trú/lần khám và không vượt quá bao gồm những danh mục liệt kê tại đây
+ STBH điều khoản điều trị ngoại trú. và/hoặc các danh mục khác tương tự như
+21. Sinh đẻ (bao gồm cả các trường hợp biến vậy như các loại vitamin, thuốc bổ, khoáng
+ chứng hậu quả phải sinh đẻ, sinh non), trừ chất và các chất hữu cơ thực phẩm chức
+ trường hợp có tham gia điều khoản bổ năng), thuốc tăng cường miễn dịch cơ thể,
+ sung số 5 – bảo hiểm thai sản các loại chế phẩm y tế.
+22. Các chi phí điều trị liên quan đến răng 29. Thực hiện các biện pháp kế hoạch hóa gia
+ bao gồm cả điều trị nội trú và ngoại trú đình, hậu quả của phá thai do nguyên nhân
+ trừ trường hợp có tham gia điều khoản bổ tâm lý hay xã hội, điều trị vô sinh nam/nữ,
+ sung Bảo hiểm Nha khoa thụ tinh nhân tạo, điều trị bất lực/liệt dương,
+ hoặc thay đổi giới tính và bất kỳ hậu quả hay
+23. Điều trị hoặc phẫu thuật theo yêu cầu của biến chứng nào từ những điều trị trên.
+ Người được bảo hiểm mà không phải điều
+ trị theo cách thông thường; Khám và xét 30. Điều trị kiểm soát trọng lượng cơ thể (tăng
+ nghiệm không có kết luận chẩn đoán bệnh hoặc giảm cân); suy dinh dưỡng, còi xương,
+ hoặc kết luận không có bệnh cần điều trị béo phì.
+ của bác sĩ. 31. Điều trị bệnh rối loạn tâm thần và hành
+ Điều khoản loại trừ điều trị hoặc phẫu thuật vi, bệnh tâm thần/loạn thần kinh hoặc
+ theo yêu cầu này sẽ không áp dụng đối với bệnh chậm phát triển, bệnh rối loạn thiếu
+ các chi phí phát sinh tại phòng khám dịch tập trung, bệnh tự kỉ. Điều trị rối loạn giấc
+ vụ, điều trị tự nguyện/theo yêu cầu thuộc ngủ, mất ngủ, ngủ ngáy không rõ nguyên
+ bệnh viện công. nhân, suy nhược và hội chứng căng thẳng
+ (stress) hoặc các bệnh có liên quan từ hội
+24. Các hình thức thẩm mỹ, phẫu thuật thẩm chứng đó.
+ mỹ, chỉnh hình.
+ 32. Điều trị tại phòng khám không đúng theo
+25. Các điều trị tăng sắc tố (nám da), điều trị định nghĩa và bao gồm cả việc chỉ định của
+ mụn trứng cá, điều trị chứng rụng tóc bác sỹ phòng khám này đối với mua thuốc
+ bị loại trừ riêng đối với điều kiện ngoại hay xét nghiệm, điều trị tại phòng khám,
+ trú. Trường hợp Người được bảo hiểm bị bệnh viện, nhà thuốc hợp pháp.
+ những bệnh này phải điều trị nội trú thì
+ vẫn được giải quyết theo quyền lợi điều trị 33. Khám và điều trị không theo quy trình của
+ nội trú do ốm đau, bệnh tật. bệnh viện, phòng khám và cơ sở y tế.
+ 17
+
+<!-- page 18 (pdf 10 left) -->
+34. Bệnh có sẵn như định nghĩa trong Quy d. Bệnh rối loạn chuyển hóa các loại
+ tắc này chỉ được bảo hiểm từ năm thứ hai e. Bệnh hệ cơ, xương, khớp:
+ tham gia liên tục.
+ Viêm khớp/đa khớp mãn tính, bệnh thoái
+35. Bệnh đặc biệt như định nghĩa trong Quy hóa cột sống, thân đốt sống, thoát vị đĩa
+ tắc này chỉ được bảo hiểm từ năm thứ hai đệm, rối loạn mật độ và cấu trúc xương,
+ tham gia liên tục. bệnh gout.
+36. Các bệnh sau đây sẽ không được bảo hiểm f. Bệnh hệ tiêu hóa:
+ trong năm đầu tiên cho dù xảy ra trước hay
+ Bệnh loét dạ dày, tá tràng. sau khi hợp đồng bảo hiểm có hiệu lực,
+ bao gồm: g. Bệnh khác:
+a. Bệnh hệ hô hấp: Sỏi, nang, mụn cơm, nốt ruồi các loại, rối
+ loạn tiền đình. Viêm V.A cần phải nạo, viêm xoang, vẹo
+ vách ngăn, bệnh hen/suyễn. 37. Các điều trị liên quan đến tái tạo dây
+ chằng, rách sụn chêm không được bảo Riêng bệnh viêm phế quản, tiểu phế quản,
+ hiểm trong năm đầu và được bảo hiểm viêm phổi các loại áp dụng thời gian chờ
+ năm thứ hai liên tục với điều kiện bồi 06 tháng cho đối tượng trẻ em đến 6 tuổi.
+ thường trên cơ sở đồng chi trả 70/30.
+b. Bệnh hệ tai: Người được bảo hiểm chịu 30% chi phí
+ Viêm tai giữa cần phải phẫu thuật, sùi vòm theo định nghĩa đồng chi trả.
+ họng, cắt bỏ xương xoăn. 38. Các chi phí và điều trị cho đối tượng không
+c. Bệnh hệ mạch: đủ điều kiện tham gia bảo hiểm.
+ Viêm tĩnh mạch và viêm tắc/nghẽn tĩnh 39. Việc điều trị thử nghiệm, điều trị không
+ mạch, giãn tĩnh mạch chi dưới, hội chứng được khoa học công nhận và các dịch vụ
+ ống cổ tay, mạch/hạch bạch huyết, trĩ. điều trị miễn phí tại bất kỳ bệnh viện nào.
+
+ PHẦN V: THỦ TỤC YÊU CẦU
+ TRẢ TIỀN BẢO HIỂM VÀ BẢO LÃNH
+1. HỒ SƠ YÊU CẦU TRẢ TIỀN BẢO HIỂM nạn; Đăng ký xe và giấy phép lái xe trường
+Khi yêu cầu Bảo hiểm Bảo Việt trả tiền bảo hợp Người được bảo hiểm bị tai nạn trong
+hiểm, Người được bảo hiểm và/hoặc Người khi điều khiển xe cơ giới trên 50cc.
+thừa kế hợp pháp phải thông báo/gửi các c. Các chứng từ liên quan đến việc điều trị:
+chứng từ sau đây cho Bảo hiểm Bảo Việt trong đơn thuốc, sổ khám bệnh, giấy ra viện,
+vòng sáu mươi (60) ngày kể từ ngày điều trị phiếu điều trị, phiếu chỉ định xét nghiệm,
+cuối cùng của một đợt điều trị hoặc tử vong: kết quả xét nghiệm hoặc phiếu chụp liên
+a. Giấy yêu cầu trả tiền bảo hiểm (theo mẫu quan, phiếu mổ (trong trường hợp phải
+ của Bảo hiểm Bảo Việt) phải do chính mổ). Trường hợp không cung cấp được
+ Người được bảo hiểm hoặc Người yêu cầu bản chính, có thể cung cấp bản photo
+ bồi thường là người thừa kế/người thụ có xác nhận sao y của Bảo hiểm Bảo Việt.
+ hưởng/người được chỉ định trên GCNBH/ Trong mọi trường hợp, Bảo hiểm Bảo Việt
+ người được ủy quyền hợp pháp của NĐBH có quyền yêu cầu cung cấp bản chính để
+ kê khai và ký tên (trừ trường hợp trẻ em do kiểm tra.
+ bố mẹ/người giám hộ hợp pháp kê khai). d. Các chứng từ liên quan đến việc thanh
+b. Biên bản tai nạn/Bản tường trình tai nạn toán chi phí y tế: hóa đơn tài chính, biên
+ có xác nhận/chữ ký của Chủ hợp đồng lai, phiếu thu theo quy định của Bộ Tài
+ bảo hiểm/Chính quyền địa phương hoặc Chính, Tổng cục Thuế và bảng kê chi tiết
+ công an nơi Người được bảo hiểm bị tai kèm theo. Các giấy tờ trên phải là bản gốc
+
+<!-- page 19 (pdf 10 right) -->
+và sẽ thuộc sở hữu của Bảo hiểm Bảo Việt đa sáu mươi (60) ngày kể từ ngày Bảo
+ sau khi khiếu nại đã được giải quyết. Hóa hiểm Bảo Việt gửi thông báo.
+ đơn mua thuốc/điều trị phải được xuất - Thời gian để Bảo hiểm Bảo Việt xác
+ trong vòng 30 ngày kể từ ngày kê đơn minh hồ sơ tối đa chín mươi (90) ngày
+ thuốc/điều trị và thể hiện số lượng thuốc làm việc kể từ ngày nhận đầy đủ hồ sơ.
+ đúng theo đơn thuốc bác sỹ điều trị. Bảo
+ - Thời hạn để khách hàng bổ sung hồ sơ hiểm Bảo Việt không chấp nhận các phiếu
+ trong vòng ba mươi (30) ngày làm việc thu/biên lai bán lẻ cộng gộp cho mỗi hồ
+ kể từ ngày nhận hồ sơ. sơ yêu cầu bồi thường.
+ c. Thông tin chung về chi trả bảo hiểme. Trường hợp tử vong: Hồ sơ chứng từ y tế
+ trước khi tử vong, Giấy chứng tử (trường Tất cả các chứng từ và tài liệu mà Bảo
+ hợp chết) và Giấy xác nhận quyền thừa kế hiểm Bảo Việt yêu cầu hỗ trợ cho việc chi
+ hợp pháp (trường hợp Người được bảo trả bảo hiểm sẽ được cung cấp miễn phí
+ hiểm chết) phải có công chứng. cho Bảo hiểm Bảo Việt trước khi bất kỳ
+ việc chi trả bảo hiểm nào được hoàn tất.
+2. THỦ TỤC TRẢ TIỀN BẢO HIỂM VÀ BẢO
+ Trường hợp thiếu thông tin y tế/chứng từ LÃNH
+ y tế, Người được bảo hiểm phải có trách
+a. Trường hợp ứng tiền trước, bồi nhiệm bổ sung các thông tin/chứng từ y
+ thường sau: tế cần thiết và hợp lý phục vụ công tác
+ Trường hợp Người được bảo hiểm khám giải quyết bồi thường cho Bảo hiểm Bảo
+ và điều trị tại các cơ sở y tế hợp pháp Việt và Bảo hiểm Bảo Việt không phải chịu
+ không thuộc hệ thống bảo lãnh thanh chi phí cho việc có thêm thông tin đó.
+ toán của chương trình, Người được bảo Tiền bảo hiểm sẽ được chỉ trả cho Người
+ hiểm phải thanh toán mọi chi phí điều trị, được bảo hiểm hoặc Người thụ hưởng/
+ sau đó gửi hồ sơ cho Bảo hiểm Bảo Việt Người được ủy quyền hợp pháp theo
+ để thanh toán phần chi phí thuộc phạm vi đúng quy định của Pháp luật.
+ bảo hiểm.
+ d. Trường hợp bảo lãnh (áp dụng cho
+b. Thời hạn bồi thường chương trình có dịch vụ bảo lãnh)
+ Bảo hiểm Bảo Việt có trách nhiệm giải Trường hợp Người được bảo hiểm khám
+ quyết và chi trả tiền bảo hiểm trong thời và điều trị tại các bệnh viện, phòng khám
+ hạn tối đa 15 (mười lăm) ngày làm việc trong hệ thống bảo lãnh thanh toán của
+ kể từ ngày nhận được hồ sơ yêu cầu bồi chương trình, Người được bảo hiểm cần
+ thường đầy đủ và hợp lệ, cụ thể như sau: thực hiện những bước sau:
+ - Thời gian gửi thông báo nhận hồ sơ - Xuất trình thẻ BaoVietCare và chứng
+ trong vòng ba (03) ngày làm việc kể từ minh nhân dân hoặc hộ chiếu, giấy
+ ngày nhận đầy đủ hồ sơ. khai sinh (nếu là trẻ em) cho bệnh viện,
+ - Thời gian gửi thông báo bổ sung hồ sơ phòng khám.
+ trong vòng năm (05) ngày làm việc kể - Kiểm tra giấy yêu cầu bồi thường mà
+ từ ngày nhận đầy đủ hồ sơ. bệnh viện, phòng khám cung cấp sau
+ - Thời gian gửi thông báo bồi thường khi điều trị và ký tên để xác nhận việc
+ trong vòng mười (10) ngày làm việc kể điều trị của Người được bảo hiểm,
+ từ ngày nhận đầy đủ hồ sơ. đặt cọc theo quy định của bệnh viện/
+ - Thời gian chuyển khoản trong vòng phòng khám (nếu có).
+ mười lăm (15) ngày làm việc kể từ ngày - Thanh toán các chi phí trong bệnh viện
+ nhận đầy đủ hồ sơ. không thuộc phạm vi bảo hiểm hoặc
+ - Thời gian yêu cầu hoàn trả hồ sơ trong vượt quá mức trách nhiệm bảo hiểm.
+ trường hợp bị từ chối bồi thường là tối
+
+
+ 19
+
+<!-- page 20 (pdf 11 left) -->
+PHỤ LỤC I:
+ BẢNG TỶ LỆ TRẢ TIỀN THƯƠNG TẬT
+ (Áp dụng cho quyền lợi Bảo hiểm Tai nạn cá nhân)
+
+ TỶ LỆ STT QUYỀN LỢI TRẢ TIỀN
+ I – CHẾT 100%
+ II – THƯƠNG TẬT TOÀN BỘ VĨNH VIỄN
+ 1 Mất hoặc mù hoàn toàn 2 mắt 100%
+ 2 Rối loạn tâm thần hoàn toàn không thể chữa được 100%
+ 3 Hỏng toàn bộ chức năng nhai và nói 100%
+ Mất hoặc liệt hoàn toàn 2 tay (từ vai hoặc khuỷu xuống) 4 100% Hoặc 2 chân (từ hông hoặc đầu gối xuống)
+ Mất cả hai bàn tay hoặc hai bàn chân hoặc mất một cánh tay và một bàn
+ 5 chân hoặc mất một cánh tay và một cẳng chân hoặc một bàn tay và một 100%
+ cẳng chân hoặc một bàn tay và một bàn chân
+ Mất hoàn toàn khả năng lao động mà không thể làm bất cứ việc gì (toàn
+ 6 bộ bị tê liệt, bị thương dẫn đến tình trạng nằm liệt giường hoặc dẫn đến 100%
+ tàn tật toàn bộ vĩnh viễn)
+ 7 Cắt toàn bộ một bên phổi và một phần phổi bên kia 100%
+ III – THƯƠNG TẬT BỘ PHẬN VĨNH VIỄN
+ CHI TRÊN
+ 8 Mất một cánh tay từ vai xuống (tháo khớp vai) 75-85%
+ 9 Cắt cụt cánh tay từ dưới vai xuống 70-80%
+ 10 Cắt cụt một cánh tay từ khuỷu xuống (tháo khớp khuỷu) 65-75%
+ 11 Mất trọn một bàn tay hoặc toàn bộ cả 5 ngón tay 60-70%
+ 12 Mất đồng thời cả bốn ngón tay của một bàn tay 40-50%
+ 13 Mất đồng thời cả ngón cái và ngón trỏ 35-45%
+ 14 Mất 3 ngón: 3 - 4 - 5 30-35%
+ 15 Mất ngón cái và 2 ngón khác 35-40%
+ 16 Mất ngón cái và một ngón khác 30-35%
+ 17 Mất ngón trỏ và hai ngón khác 35-40%
+ 18 Mất ngón trỏ và một ngón giữa 30-35%
+ Mất trọn ngón cái và đốt bàn 25-30%
+ Mất trọn ngón cái 20-25%
+ 19
+ Mất cả đốt ngoài 10-15%
+ Mất nửa đốt ngoài 07-10%
+ Mất ngón trỏ và đốt bàn 20-25%
+ Mất ngón trỏ 18-22%
+ 20
+ Mất hai đốt 2 và 3 10-12%
+ Mất đốt 2 08-10%
+ Mất trọn ngón giữa hoặc ngón nhẫn (bao gồm cả đốt bàn) 18-22%
+ Mất trọn ngón giữa hoặc ngón nhẫn 15-18%
+ 21
+ Mất hai đốt 2 và 3 08-12%
+ Mất đốt 2 04-07%
+
+<!-- page 21 (pdf 11 right) -->
+Mất cả ngón út và đốt bàn 15-20%
+ Mất cả ngón út 10-15%
+22
+ Mất hai đốt 2 và 3 08-10%
+ Mất đốt 2 04-07%
+23 Cứng khớp bả vai 30-40%
+24 Cứng khớp khuỷu tay 25-35%
+25 Cứng khớp cổ tay 20-30%
+ Gãy tay can lệch hoặc mất xương làm chi ngắn trên 3cm và chức năng quay26 25-35% sấp ngửa hạn chế hoặc tạo thành khớp giả
+ CHI DƯỚI
+27 Mất một chân từ háng xuống (tháo khớp không một đùi) 75-85%
+ Cắt cụt một đùi
+28 1/3 trên 70-80%
+ 1/3 giữa hoặc dưới 55-75%
+29 Cắt cụt một chân từ gối xuống (tháo khớp gối) 60-70%
+30 Tháo khớp cổ chân hoặc mất một bàn chân 55-65%
+31 Mất xương sên 35-40%
+32 Mất xương gót 35-45%
+33 Mất đoạn xương chày, mác gây khớp giả cẳng chân 35-45%
+34 Mất đoạn xương mác 20-30%
+ Mất mắt cá chân: Mắt cá ngoài 10-15%
+35
+ Mắt cá trong 15-20%
+36 Mất cả 5 ngón chân 45-55%
+37 Mất 4 ngón chân bao gồm cả ngón cái 38-48%
+38 Mất bốn ngón trừ ngón cái 35-45%
+39 Mất ba ngón 3 – 4 – 5 25-30%
+40 Mất ba ngón 1 – 2 – 3 30-35%
+41 Mất một ngón cái và ngón 2 20-25%
+42 Mất một ngón cái 15-20%
+43 Mất một ngón ngoài ngón cái 10-15%
+44 Mất một đốt ngón cái 08-12%
+45 Cứng khớp hông 45-55%
+46 Cứng khớp gối 30-40%
+47 Mất phần lớn xương bánh chè và giới hạn nhiều khả năng duỗi cẳng chân trên đùi 45-55%
+ Gãy chân can lệch hoặc mất xương làm ngắn chi
+48 Ít nhất 5 cm 40-45%
+ Từ 3 đến 5 cm 35-40%
+49 Liệt hoàn toàn dây thần kinh hông khoeo ngoài 35-45%
+50 Liệt hoàn toàn dây thần kinh hông khoeo trong 25-35%
+ CỘT SỐNG
+ Cắt bỏ cung sau của một đốt sống 35-40%
+51
+ Cắt bỏ cung sau của 2 – 3 đốt sống trở lên 45-60%
+ SỌ NÃO
+52 Khuyết xương sọ (chưa có biểu hiện thần kinh, tâm thần) gây ra đau đầu kéo dài 35-45%
+
+ 21
+
+<!-- page 22 (pdf 12 left) -->
+LỒNG NGỰC
+ 53 Cắt bỏ 1 -2 xương sườn 15-20%
+ 54 Cắt bỏ từ 3 xương sườn trở lên 25-35%
+ 55 Cắt bỏ đoạn mỗi xương sườn 08-10%
+ 56 Cắt toàn bộ một bên phổi 70-80%
+ 57 Cắt nhiều thùy phổi ở 2 bên, DTS giảm trên 50% 65-75%
+ 58 Cắt nhiều thùy phổi ở 2 bên 50-60%
+ 59 Cắt một thùy phổi 35-45%
+ BỤNG
+ 60 Cắt toàn bộ dạ dày 75-85%
+ 61 Cắt đoạn dạ dày 50-60%
+ 62 Cắt gần hết ruột non (còn lại dưới 1 m) 75-85%
+ 63 Cắt đoạn ruột non 40-50%
+ 64 Cắt toàn bộ đại tràng 75-85%
+ 65 Cắt đoạn đại tràng 50-60%
+ 66 Cắt bỏ gan phải Quy tắc thuần 70-80%
+ 67 Cắt bỏ gan trái Quy tắc thuần 60-70%
+ 68 Cắt phần thùy gan, tùy vị trí, số lượng và kết quả phẫu thuật 40-60%
+ 69 Cắt bỏ túi mật 45-55%
+ 70 Cắt bỏ lá lách 40-50%
+ 71 Cắt bỏ đuôi tụy, lách 60-70%
+ CƠ QUAN TIẾT NIỆU, SINH DỤC
+ 72 Cắt bỏ một thận, thận còn lại bình thường 50-60%
+ 73 Cắt bỏ một thận, thận còn lại bị thương hoặc bệnh lý 70-80%
+ 74 Cắt một phần thận trái hoặc phải 30-40%
+ 75 Cắt một phần bàng quang 27-35%
+ Mất dương vật và 2 tinh hoàn ở người:
+ Dưới 55 tuổi chưa có con 70-80%
+ 76
+ Dưới 55 tuổi đã có con 55-65%
+ Trên 55 tuổi 35-40%
+ Cắt bỏ dạ con và buồng trứng ở người:
+ Dưới 45 tuổi chưa có con 60-70%
+ 77
+ Dưới 45 tuổi đã có con 30-40%
+ Trên 45 tuổi 25-30%
+ Cắt vú ở nữ:
+ Dưới 45 tuổi: một bên 20-30%
+ 78 Dưới 45 tuổi: hai bên 45-55%
+ Trên 45 tuổi: một bên 15-30%
+ Trên 45 tuổi: hai bên 30-40%
+ MẮT
+ Mất hoặc mù hoàn toàn một mắt
+ 79 Không lắp được mắt giả 55-65%
+ Lắp được mắt giả 50-60%
+
+<!-- page 23 (pdf 12 right) -->
+Mất hoặc mù hoàn toàn một mắt nhưng trước khi xảy ra tai nạn này đã mất 80 80-90% hoặc mù một mắt rồi
+ TAI – MŨI – HỌNG
+ Điếc 2 tai, hoàn toàn không phục hồi được 75-85%
+ Nặng (nói to hoặc thét vào tai người nghe) 60-70%
+ 81
+ Vừa (nói to 1-2m vẫn có khả năng nghe) 35-45%
+ Nhẹ (nói to 2-4m vẫn có khả năng nghe) 15-20%
+ Điếc một tai, hoàn toàn không phục hồi được 30-40%
+ 82 Vừa 15-20%
+ Nhẹ 08-15%
+ 83 Mất vành tai hai bên 20-40%
+ 84 Mất vành tai một bên 10-25%
+ 85 Mất mũi, biến dạng mũi 18-40%
+ MẶT
+ Mất toàn bộ xương hàm trên và một phần xương hàm dưới từ cành cao trở
+ xuống
+ 86 Khác bên 80-90%
+ Cùng bên 70-80%
+ 87 Mất toàn bộ xương hàm trên hoặc dưới 70-80%
+ Mất một phần xương hàm trên hoặc một phần xương hàm dưới từ 1/3 đến 88 35-45% 1/2 bị mất từ cành cao trở xuống
+ Mất răng: trên 6 cái không lắp được răng giả 30-40%
+ 89
+ Từ 5 – 7 răng 15-25%
+ 90 Mất 3/4 lưỡi, còn gốc lưỡi 75-85%
+ 91 Mất 2/3 lưỡi từ đầu lưỡi 50-60%
+ 92 Mất 1/3 lưỡi ảnh hưởng đến phát âm 15-25%
+ 93 Mất một phần nhỏ lưỡi (dưới 1/3) ảnh hưởng đến phát âm 10-15%
+ Nguyên tắc xét trả tiền bảo hiểm
+Việc xét giải quyết trả tiền theo Bảng này sẽ căn cứ trên các chứng từ điều trị của khách hàng
+cung cấp cho Công ty bảo hiểm và các quy định dưới đây:
+1) Mất hẳn chức năng của từng bộ phận hoặc hỏng vĩnh viễn chi được coi như mất từng bộ
+ phận đó hoặc mất chi.
+2) Những trường hợp thương tật không liệt kê trong Bảng sẽ được bồi thường theo tỷ lệ trên
+ cơ sở so sánh tính nghiêm trọng của nó với những trường hợp khác có trong Bảng.
+3) Vết thương điều trị bình thường, vết thương không bị nhiễm trùng sẽ được trả tiền bảo hiểm
+ tương ứng với mức thấp nhất của thang tỷ lệ trả tiền bảo hiểm quy định cho trường hợp này.
+4) Vết thương điều trị phức tạp, vết thương bị nhiễm trùng hoặc sau khi điều trị còn để lại di
+ chứng thì tùy theo mức độ nặng, nhẹ được trả cao dần cho tới mức tối đa của thang tỷ lệ trả
+ tiền bảo hiểm quy định cho trườn g hợp này.
+5) Trường hợp đa vết thương được trả tiền bảo hiểm cho từng vết thương nhưng tổng số tiền
+ trả cho Người được bảo hiểm không vượt quá số tiền bảo hiểm. Trường hợp đa vết thương
+ ở cùng một chi, tổng số tiền trả cho các vết thương không được vượt quá tỷ lệ mất chi đó.
+6) Những trường hợp phải mổ lại, đập can xương làm lại được trả thêm 50% mức tối thiểu của
+ thang tỷ lệ trả cho trường hợp đó nhưng tổng số tiền chi trả không vượt quá số tiền bảo hiểm.
+
+ 23
+
+<!-- page 24-25 (pdf 13 spread) -->
+BẢNG QUYỀN LỢI BẢO HIỂM “BẢO VIỆT AN GIA”
+ (Ban hành theo Quyết định triển khai số 4542 ngày 13 tháng 10 năm 2016 của Tổng Giám đốc - Tổng Công ty Bảo hiểm Bảo Việt)
+ Đơn vị: VND
+ CHƯƠNG TRÌNH BẢO HIỂM ĐỒNG BẠC VÀNG BẠCH KIM KIM CƯƠNG
+ A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH – Điều trị nội trú do ốm bệnh, tai nạn
+ Tổng hạn mức quyền lợi bảo hiểm chính/người/năm 93.800.000/ng/năm 137.600.000/ng/năm 230.00 0.000/ng/năm 342.000.000/ng/năm 454.000.000/ng/năm
+ Phạm vi lãnh thổ Việt Nam Việt Nam Việt Nam Việt Nam Việt Nam
+ 1. Chi phí nằm viện 2.000.000/ngày Lên đến 3.000.000/ngày Lên đến 5.000.000/ngày Lên đến 7.500.000/ngày Lên đến 10.000.000/ngày Lên đến Chi phí phòng, giường bệnh 40.000.000/năm, không quá 60.000.000/năm không quá 100.000.000/năm không 150.000.000/năm không 200.000.000/ năm không Chi phí phòng chăm sóc đặc biệt 60 ngày/năm. 60 ngày/năm quá 60 ngày/năm quá 60 ngày/năm quá 60 ngày/năm Các chi phí bệnh viện tổng hợp
+ 2. Chi phí khám và điều trị trong vòng 30 ngày trước khi 2.000.000/năm 3.000.000/năm 5.000.000/năm 7.500.000/năm 10.000.000/năm nhập viện
+ 3. Chi phí tái khám và điều trị trong vòng 30 ngày sau 2.000.000/năm 3.000.000/năm 5.000.000/năm 7.500.000/năm 10.000.000/năm khi xuất viện
+ 4. Dịch vụ xe cứu thương, xe cấp cứu bằng đường bộ 5.000.000/năm 5.000.000/năm 10.000.000/năm 10.000.000/năm 10.000.000/năm
+
+ 5. Chi phí Phẫu thuật (không bảo hiểm chi phí mua các bộ 40.000.000/năm 60.000.000/năm 100.000.000/năm 150.000.000/năm 200.000.000/năm phận nội tạng và chi phí hiến các bộ phận nội tạng)
+ 6. Phục hồi chức năng 4.000.000/năm 6.000.000/năm 10.000.000/năm 15.000.000/năm 20.000.000/năm
+ 80.000/ ngày Không quá 60 120.000/ngày Không quá 200.000/ngày Không quá 300.000/ngày Không quá 400.000/ngày Không quá 7. Trợ cấp bệnh viện công ngày/năm 60 ngày/năm 60 ngày/năm 60 ngày/năm 60 ngày/năm
+ 8. Trợ cấp mai táng phí trong trường hợp tử vong tại bệnh viện 500.000/vụ 500.000/vụ 500.000/vụ 500.000/vụ 500.000/vụ
+ B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG
+ 1. Điều trị ngoại trú do ốm bệnh, tai nạn 6.000.000/NĂM 6.000.000/năm 6.000.000/năm 10.000.000/năm 15.000.000/năm
+ 1.200.000/lần 1.200.000/lần 1.200.000/lần 2.000.000/lần 3.000.000/lần Giới hạn /lần khám Không quá 10 lần/năm Không quá 10 lần/năm Không quá 10 lần/năm Không quá 10 lần/năm Không quá 10 lần/năm
+ 50.000/ngày 50.000/ngày 50.000/ngày 100.000/ngày 150.000/ngày Điều trị vật lý trị liệu Không quá 60 ngày/năm Không quá 60 ngày/năm Không quá 60 ngày/năm Không quá 60 ngày/năm Không quá 60 ngày/năm
+
+ 2. Bảo hiểm Tai nạn cá nhân STBH /người/vụ Tối đa 1 tỷ đồng Tối đa 1 tỷ đồng Tối đa 1 tỷ đồng Tối đa 1 tỷ đồng Tối đa 1 tỷ đồng
+
+ 3. Bảo hiểm Sinh mạng cá nhân STBH/người/vụ Tối đa 1 tỷ đồng Tối đa 1 tỷ đồng Tối đa 1 tỷ đồng Tối đa 1 tỷ đồng Tối đa 1 tỷ đồng
+
+ 4. Bảo hiểm Nha khoa
+ Khám và chẩn đoán bệnh về răng
+ Lấy cao răng
+ Trám răng bằng các chất liệu thông thường 2.000.000/năm 2.000.000/năm 5.000.000/năm 10.000.000/năm 15.000.000/năm Nhổ răng bệnh lý 1.000.000/lần khám 1.000.000/lần khám 2.500.000/lần khám 5.000.000/lần khám 7.500.000/lần khám Lấy u vôi răng (lấy vôi răng sâu dưới nướu)
+ Phẫu thuật cắt chóp răng
+ Chữa tủy răng
+ Điều trị viêm nướu, viêm nha chu
+ 5. Bảo hiểm Thai sản KHÔNG Không Không 21.000.000/năm 31.500.000/năm
+QUY ĐỊNH ĐỒNG CHI TRẢ ĐỐI VỚI TRẺ EM TỪ 15 NGÀY TUỔI ĐẾN 3 TUỔI
+- Tỷ lệ áp đồng chi trả : 70/30 ( Bảo Việt chi trả 70%, Người được bảo hiểm tự chi trả 30%)
+- Qui định này không áp dụng trong trường hợp Người được bảo hiểm khám và điều trị tại các cơ sở y tế/bệnh viện công lập (trừ các khoa điều trị tự nguyện/điều trị theo yêu cầu của Bệnh viện công lập)
+
+24 www.baoviet.com.vn/baohiem 25
+
+<!-- page 26 (pdf 14 left) -->
+BIỂU PHÍ BẢO HIỂM “BẢO VIỆT AN GIA”
+ (Ban hành theo Quyết định triển khai số 4542 ngày 13 tháng 10 năm 2016
+ của Tổng Giám đốc - Tổng Công ty Bảo hiểm Bảo Việt)
+
+ Đơn vị: VND/người/năm
+ CHƯƠNG TRÌNH ĐỒNG BẠC VÀNG BẠCH KIM KIM CƯƠNG BẢO HIỂM
+A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH – Điều trị nội trú do ốm bệnh, tai nạn
+• Từ 1 đến 3 tuổi 2.585.000 3.707.000 5.616.000 7.582.000 9.267.000
+• Từ 4 đến 6 tuổi 1.450.000 2.081.000 3.153.000 4.257.000 5.203.000
+• Từ 7 đến 9 tuổi 1.320.000 1.900.000 2.867.000 3.870.000 4.730.000
+• Từ 10 đến 18 tuổi 1.255.800 1.801.800 2.730.000 3.685.500 4.504.500
+• Từ 19 đến 30 tuổi 1.196.000 1.716.000 2.600.000 3.510.000 4.290.000
+• Từ 31 đến 40 tuổi 1.315.600 1.887.600 2.860.000 3.861.000 4.719.000
+• Từ 41 đến 50 tuổi 1.375.400 1.973.400 2.990.000 4.036.500 4.933.500
+• Từ 51 đến 60 tuổi 1.435.200 2.059.200 3.120.000 4.212.000 5.148.000
+• Từ 61 đến 65 tuổi 1.554.800 2.230.800 3.380.000 4.563.000 5.577.000
+B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG
+1. Điều trị ngoại trú do ĐỒNG BẠC VÀNG BẠCH KIM KIM CƯƠNG ốm bệnh, tai nạn
+• Từ 1 đến 3 tuổi 3.370.000 3.370.000 3.370.000 5.516.000 8.424.000
+• Từ 4 đến 6 tuổi 1.900.000 1.900.000 1.900.000 3.153.000 4.730.000
+• Từ 7 đến 9 tuổi 1.720.000 1.720.000 1.720.000 2.867.000 4.300.000
+• Từ 10 đến 18 tuổi 1.638.000 1.638.000 1.638.000 2.730.000 4.095.000
+• Từ 19 đến 30 tuổi 1.560.000 1.560.000 1.560.000 2.600.000 3.900.000
+• Từ 31 đến 40 tuổi 1.716.000 1.716.000 1.716.000 2.860.000 4.290.000
+• Từ 41 đến 50 tuổi 1.794.000 1.794.000 1.794.000 2.990.000 4.485.000
+• Từ 51 đến 60 tuổi 1.872.000 1.872.000 1.872.000 3.120.000 4.680.000
+• Từ 61 đến 65 tuổi 2.028.000 2.028.000 2.028.000 3.380.000 5.070.000
+2. BH Tai nạn cá nhân 0,09% STBH 0,09% TBH 0,09% STBH 0,09% STBH 0,09% STBH
+
+3. BH Sinh mạng cá nhân 0,2% STBH 0,2% STBH 0,2% STBH 0,2% STBH 0,2% STBH
+
+ Từ 1 đến 600.000 600.000 1.500.000 2.600.000 3.900.000
+4. Bảo hiểm 18 tuổi
+ Nha khoa Từ 19 đến 490.000 490.000 1.200.000 2.000.000 3.000.000 65 tuổi
+5. Bảo hiểm Từ 18 đến Không Không Không 4.800.000 5.500.000 Thai sản 45 tuổi
+
+<!-- page 27 (pdf 14 right) -->
+27
+
+<!-- page 28 (pdf 15 full) -->
+CÔNG TY THÀNH VIÊN
+TẠI TẤT CẢ CÁC TỈNH,
+THÀNH PHỐ TRÊN CẢ NƯỚC
+
+
+
+
+
+ www.baovietonline.com.vn

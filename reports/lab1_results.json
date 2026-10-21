@@ -1,0 +1,573 @@
+{
+ "timing": [
+  {
+   "doc_id": "bv-angia-2016",
+   "parser": "pymupdf",
+   "pages": 27,
+   "seconds": 0.2,
+   "removed_header_footer_lines": 2
+  },
+  {
+   "doc_id": "bv-angia-2016",
+   "parser": "pymupdf_sort",
+   "pages": 27,
+   "seconds": 0.8,
+   "removed_header_footer_lines": 2
+  },
+  {
+   "doc_id": "bv-angia-2016",
+   "parser": "docling",
+   "pages": 27,
+   "seconds": 26.5,
+   "removed_header_footer_lines": 2
+  },
+  {
+   "doc_id": "bv-taman-2019",
+   "parser": "pymupdf",
+   "pages": 28,
+   "seconds": 0.1,
+   "removed_header_footer_lines": 2
+  },
+  {
+   "doc_id": "bv-taman-2019",
+   "parser": "pymupdf_sort",
+   "pages": 28,
+   "seconds": 0.5,
+   "removed_header_footer_lines": 2
+  },
+  {
+   "doc_id": "bv-taman-2019",
+   "parser": "docling",
+   "pages": 28,
+   "seconds": 5.7,
+   "removed_header_footer_lines": 2
+  },
+  {
+   "doc_id": "bvl-avsk-2022",
+   "parser": "pymupdf",
+   "pages": 24,
+   "seconds": 0.1,
+   "removed_header_footer_lines": 3
+  },
+  {
+   "doc_id": "bvl-avsk-2022",
+   "parser": "pymupdf_sort",
+   "pages": 24,
+   "seconds": 0.5,
+   "removed_header_footer_lines": 3
+  },
+  {
+   "doc_id": "bvl-avsk-2022",
+   "parser": "docling",
+   "pages": 24,
+   "seconds": 14.7,
+   "removed_header_footer_lines": 4
+  },
+  {
+   "doc_id": "bvl-avsk-tomtat-2022",
+   "parser": "pymupdf",
+   "pages": 2,
+   "seconds": 0.0,
+   "removed_header_footer_lines": 0
+  },
+  {
+   "doc_id": "bvl-avsk-tomtat-2022",
+   "parser": "pymupdf_sort",
+   "pages": 2,
+   "seconds": 0.0,
+   "removed_header_footer_lines": 0
+  },
+  {
+   "doc_id": "bvl-avsk-tomtat-2022",
+   "parser": "docling",
+   "pages": 2,
+   "seconds": 0.4,
+   "removed_header_footer_lines": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "parser": "pymupdf",
+   "pages": 26,
+   "seconds": 0.2,
+   "removed_header_footer_lines": 1
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "parser": "pymupdf_sort",
+   "pages": 26,
+   "seconds": 0.7,
+   "removed_header_footer_lines": 1
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "parser": "docling",
+   "pages": 26,
+   "seconds": 13.0,
+   "removed_header_footer_lines": 2
+  },
+  {
+   "doc_id": "daiichi-tktt2015-2025",
+   "parser": "pymupdf",
+   "pages": 19,
+   "seconds": 0.1,
+   "removed_header_footer_lines": 2
+  },
+  {
+   "doc_id": "daiichi-tktt2015-2025",
+   "parser": "pymupdf_sort",
+   "pages": 19,
+   "seconds": 0.5,
+   "removed_header_footer_lines": 1
+  },
+  {
+   "doc_id": "daiichi-tktt2015-2025",
+   "parser": "docling",
+   "pages": 19,
+   "seconds": 3.4,
+   "removed_header_footer_lines": 3
+  }
+ ],
+ "tables": [
+  {
+   "test": "angia_bieu_phi",
+   "parser": "pymupdf",
+   "cells": 90,
+   "value_recall": 1.0,
+   "row_integrity": 0.0
+  },
+  {
+   "test": "angia_bieu_phi",
+   "parser": "pymupdf_sort",
+   "cells": 90,
+   "value_recall": 1.0,
+   "row_integrity": 1.0
+  },
+  {
+   "test": "angia_bieu_phi",
+   "parser": "docling",
+   "cells": 90,
+   "value_recall": 1.0,
+   "row_integrity": 1.0
+  },
+  {
+   "test": "angia_bieu_phi",
+   "parser": "pymupdf_find_tables",
+   "cells": 90,
+   "value_recall": 1.0,
+   "row_integrity": 0.0
+  },
+  {
+   "test": "angia_bieu_phi",
+   "parser": "pymupdf_find_tables_lenient",
+   "cells": 90,
+   "value_recall": 1.0,
+   "row_integrity": 1.0
+  },
+  {
+   "test": "taman_bieu_phi",
+   "parser": "pymupdf",
+   "cells": 27,
+   "value_recall": 1.0,
+   "row_integrity": 0.0
+  },
+  {
+   "test": "taman_bieu_phi",
+   "parser": "pymupdf_sort",
+   "cells": 27,
+   "value_recall": 1.0,
+   "row_integrity": 1.0
+  },
+  {
+   "test": "taman_bieu_phi",
+   "parser": "docling",
+   "cells": 27,
+   "value_recall": 1.0,
+   "row_integrity": 1.0
+  },
+  {
+   "test": "taman_bieu_phi",
+   "parser": "pymupdf_find_tables",
+   "cells": 27,
+   "value_recall": 1.0,
+   "row_integrity": 0.0
+  },
+  {
+   "test": "taman_bieu_phi",
+   "parser": "pymupdf_find_tables_lenient",
+   "cells": 27,
+   "value_recall": 1.0,
+   "row_integrity": 1.0
+  },
+  {
+   "test": "angia_quyen_loi",
+   "parser": "pymupdf",
+   "cells": 22,
+   "value_recall": 1.0,
+   "row_integrity": 0.0
+  },
+  {
+   "test": "angia_quyen_loi",
+   "parser": "pymupdf_sort",
+   "cells": 22,
+   "value_recall": 1.0,
+   "row_integrity": 1.0
+  },
+  {
+   "test": "angia_quyen_loi",
+   "parser": "docling",
+   "cells": 22,
+   "value_recall": 1.0,
+   "row_integrity": 1.0
+  },
+  {
+   "test": "angia_quyen_loi",
+   "parser": "pymupdf_find_tables",
+   "cells": 22,
+   "value_recall": 1.0,
+   "row_integrity": 0.0
+  },
+  {
+   "test": "angia_quyen_loi",
+   "parser": "pymupdf_find_tables_lenient",
+   "cells": 22,
+   "value_recall": 1.0,
+   "row_integrity": 1.0
+  }
+ ],
+ "split_compare": [
+  {
+   "mode": "split=all (naive)",
+   "cells": 22,
+   "value_recall": 1.0,
+   "row_integrity": 0.227
+  },
+  {
+   "mode": "split=manifest (giữ trang 13)",
+   "cells": 22,
+   "value_recall": 1.0,
+   "row_integrity": 1.0
+  }
+ ],
+ "reading_order": [
+  {
+   "parser": "pymupdf",
+   "found": "21/21",
+   "in_order": 1.0,
+   "order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+   ]
+  },
+  {
+   "parser": "pymupdf_sort",
+   "found": "21/21",
+   "in_order": 0.619,
+   "order": [
+    6,
+    1,
+    7,
+    2,
+    8,
+    3,
+    9,
+    4,
+    10,
+    5,
+    11,
+    12,
+    19,
+    13,
+    20,
+    14,
+    15,
+    21,
+    16,
+    17,
+    18
+   ]
+  },
+  {
+   "parser": "docling",
+   "found": "21/21",
+   "in_order": 1.0,
+   "order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+   ]
+  }
+ ],
+ "quality": [
+  {
+   "doc_id": "bv-angia-2016",
+   "parser": "pymupdf",
+   "chars": 66477,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 43,
+   "'bảo hiểm'": 450,
+   "'người được bảo hiểm'": 72,
+   "'quyền lợi'": 52,
+   "empty_pages": 1
+  },
+  {
+   "doc_id": "bv-angia-2016",
+   "parser": "pymupdf_sort",
+   "chars": 67076,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 451,
+   "'người được bảo hiểm'": 72,
+   "'quyền lợi'": 52,
+   "empty_pages": 1
+  },
+  {
+   "doc_id": "bv-angia-2016",
+   "parser": "docling",
+   "chars": 73121,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 44,
+   "'bảo hiểm'": 505,
+   "'người được bảo hiểm'": 92,
+   "'quyền lợi'": 57,
+   "empty_pages": 1
+  },
+  {
+   "doc_id": "bv-taman-2019",
+   "parser": "pymupdf",
+   "chars": 53056,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 461,
+   "'người được bảo hiểm'": 109,
+   "'quyền lợi'": 43,
+   "empty_pages": 3
+  },
+  {
+   "doc_id": "bv-taman-2019",
+   "parser": "pymupdf_sort",
+   "chars": 54062,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 461,
+   "'người được bảo hiểm'": 109,
+   "'quyền lợi'": 43,
+   "empty_pages": 3
+  },
+  {
+   "doc_id": "bv-taman-2019",
+   "parser": "docling",
+   "chars": 54967,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 470,
+   "'người được bảo hiểm'": 118,
+   "'quyền lợi'": 45,
+   "empty_pages": 2
+  },
+  {
+   "doc_id": "bvl-avsk-2022",
+   "parser": "pymupdf",
+   "chars": 49381,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 283,
+   "'người được bảo hiểm'": 55,
+   "'quyền lợi'": 120,
+   "empty_pages": 1
+  },
+  {
+   "doc_id": "bvl-avsk-2022",
+   "parser": "pymupdf_sort",
+   "chars": 50230,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 283,
+   "'người được bảo hiểm'": 55,
+   "'quyền lợi'": 120,
+   "empty_pages": 1
+  },
+  {
+   "doc_id": "bvl-avsk-2022",
+   "parser": "docling",
+   "chars": 58825,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 310,
+   "'người được bảo hiểm'": 72,
+   "'quyền lợi'": 160,
+   "empty_pages": 1
+  },
+  {
+   "doc_id": "bvl-avsk-tomtat-2022",
+   "parser": "pymupdf",
+   "chars": 3033,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 32,
+   "'người được bảo hiểm'": 2,
+   "'quyền lợi'": 12,
+   "empty_pages": 0
+  },
+  {
+   "doc_id": "bvl-avsk-tomtat-2022",
+   "parser": "pymupdf_sort",
+   "chars": 3085,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 32,
+   "'người được bảo hiểm'": 2,
+   "'quyền lợi'": 12,
+   "empty_pages": 0
+  },
+  {
+   "doc_id": "bvl-avsk-tomtat-2022",
+   "parser": "docling",
+   "chars": 3080,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 32,
+   "'người được bảo hiểm'": 2,
+   "'quyền lợi'": 13,
+   "empty_pages": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "parser": "pymupdf",
+   "chars": 67899,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 483,
+   "'người được bảo hiểm'": 87,
+   "'quyền lợi'": 119,
+   "empty_pages": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "parser": "pymupdf_sort",
+   "chars": 68893,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 483,
+   "'người được bảo hiểm'": 87,
+   "'quyền lợi'": 119,
+   "empty_pages": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "parser": "docling",
+   "chars": 78671,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 505,
+   "'người được bảo hiểm'": 100,
+   "'quyền lợi'": 135,
+   "empty_pages": 0
+  },
+  {
+   "doc_id": "daiichi-tktt2015-2025",
+   "parser": "pymupdf",
+   "chars": 45341,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 438,
+   "'người được bảo hiểm'": 87,
+   "'quyền lợi'": 47,
+   "empty_pages": 0
+  },
+  {
+   "doc_id": "daiichi-tktt2015-2025",
+   "parser": "pymupdf_sort",
+   "chars": 45944,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 439,
+   "'người được bảo hiểm'": 87,
+   "'quyền lợi'": 47,
+   "empty_pages": 0
+  },
+  {
+   "doc_id": "daiichi-tktt2015-2025",
+   "parser": "docling",
+   "chars": 47554,
+   "replacement_chars": 0,
+   "private_use_chars": 0,
+   "non_nfc_marks": 0,
+   "control_chars_before_clean": 0,
+   "'bảo hiểm'": 451,
+   "'người được bảo hiểm'": 95,
+   "'quyền lợi'": 50,
+   "empty_pages": 0
+  }
+ ]
+}

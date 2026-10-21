@@ -1,0 +1,85 @@
+# Metadata của corpus. doc_id dùng cho trích dẫn, lọc và versioning.
+# page_layout: spread = 1 trang PDF chứa 2 trang in (cần tách trước khi parse).
+# page_ranges dùng số trang PDF (1-based).
+documents:
+  - doc_id: bv-angia-2016
+    file: raw/BaoVietInsurance_AnGia_QuyTac_2016.pdf
+    original_name: QuyTacBVAG.pdf
+    insurer: Tổng Công ty Bảo hiểm Bảo Việt
+    product: Bảo Việt An Gia
+    doc_type: quy_tac
+    decision_no: "Quyết định triển khai số 4542"
+    issued_date: 2016-10-13
+    product_year: 2016
+    page_layout: spread
+    page_ranges: {cover: [1, 1], full: [2, 14], back: [15, 15]}
+    keep_spread_pages: [13]  # bảng quyền lợi trải ngang cả 2 nửa trang đôi, không được tách
+    notes: Bảng quyền lợi ở PDF trang 13 (in 24-25), Biểu phí ở PDF trang 14 (in 26).
+    source_url: https://www.baovietbank.vn/media/BANCA/QuyTacBVAG.pdf
+
+  - doc_id: bv-taman-2019
+    file: raw/BaoVietInsurance_TamAn_QuyTac_2019.pdf
+    original_name: SP18032011_1. Quy tac Bao Viet Tam An.pdf
+    insurer: Tổng Công ty Bảo hiểm Bảo Việt
+    product: Bảo Việt Tâm An
+    doc_type: quy_tac
+    decision_no: 1808/QĐ-BHBV
+    issued_date: 2019-03-29
+    product_year: 2019
+    page_layout: spread
+    page_ranges: {cover: [1, 1], full: [2, 15]}
+    source_url: https://baoviet.com.vn/insurance/Uploads/Library/Images/SP18032011_1.%20Quy%20tac%20Bao%20Viet%20Tam%20An.pdf
+
+  - doc_id: bvl-avsk-2022
+    file: raw/BaoVietLife_AnVuiSongKhoe_QuyTacDieuKhoan_2022.pdf
+    original_name: DK-R20-An-vui-song-khoe.pdf
+    insurer: Tổng Công ty Bảo Việt Nhân thọ
+    product: An Vui Sống Khỏe - Bảo hiểm Chăm sóc sức khỏe (sản phẩm bổ trợ)
+    doc_type: quy_tac
+    decision_no: Công văn phê chuẩn 2217/BTC-QLBH
+    issued_date: 2022-03-08
+    product_year: 2022
+    page_layout: single
+    page_ranges: {summary: [1, 2], full: [3, 24]}
+    source_url: https://baovietnhantho.com.vn/storage/9d098962-1cee-4778-bf0a-fdf804fa6fca/DK-R20-An-vui-song-khoe.pdf
+
+  - doc_id: bvl-avsk-tomtat-2022
+    file: raw/BaoVietLife_AnVuiSongKhoe_TomTat_2022.pdf
+    original_name: BTR20_AnVuiSongKhoe_tom_tat_dieu_khoan_va_mot_so_luu_y_quan_trong.pdf
+    insurer: Tổng Công ty Bảo Việt Nhân thọ
+    product: An Vui Sống Khỏe - Bảo hiểm Chăm sóc sức khỏe (sản phẩm bổ trợ)
+    doc_type: tom_tat
+    decision_no: null
+    issued_date: null
+    product_year: 2022
+    page_layout: single
+    page_ranges: {summary: [1, 2]}
+    notes: Gần trùng nội dung với bvl-avsk-2022 trang 1-2 (dùng để test dedup).
+    source_url: https://www.baovietnhantho.com.vn/storage/9a7d81ac-def8-47ff-b366-0affa4b81a49/BTR20_AnVuiSongKhoe_tom_tat_dieu_khoan_va_mot_so_luu_y_quan_trong.pdf
+
+  - doc_id: manulife-cssknc-2026
+    file: raw/Manulife_ChamSocSucKhoeNangCao_QuyTacDieuKhoan_2026.pdf
+    original_name: quy-tac-dieu-kien-va-dieu-khoan-san-pham.pdf
+    insurer: Công ty TNHH Manulife (Việt Nam)
+    product: Chăm Sóc Sức Khỏe Nâng Cao - Tái Tục Hàng Năm
+    doc_type: quy_tac
+    decision_no: 00133/2026/MVL-Product (sửa đổi 03637/2026/MVL-Product ngày 09/09/2026)
+    issued_date: 2026-01-05
+    product_year: 2026
+    page_layout: single
+    page_ranges: {full: [1, 26]}
+    source_url: https://www.manulife.com.vn/content/dam/insurance/vn/documents/service-docs/san-pham/song-khoe-moi-ngay-phien-ban-cai-tien/quy-tac-dieu-kien-va-dieu-khoan-san-pham.pdf
+
+  - doc_id: daiichi-tktt2015-2025
+    file: raw/DaiichiLife_TuKyTaiTucHangThang2015_QuyTacDieuKhoan_2025.pdf
+    original_name: Quy tắc và Điều khoản Sản phẩm bảo hiểm nhân thọ Tử kỳ tái tục hàng tháng (2015) (cập nhật ngày 30.06.2025).pdf
+    insurer: Công ty TNHH BHNT Dai-ichi Việt Nam
+    product: Tử kỳ tái tục hàng tháng (2015)
+    doc_type: quy_tac
+    decision_no: 424/GD/Dai-ichi/2025
+    issued_date: 2025-06-30
+    product_year: 2015
+    page_layout: single
+    page_ranges: {summary: [1, 3], full: [4, 19]}
+    notes: Sản phẩm 2015, Quy tắc ban hành lại 2025 (test product_year khác version).
+    source_url: https://dai-ichi-life.com.vn

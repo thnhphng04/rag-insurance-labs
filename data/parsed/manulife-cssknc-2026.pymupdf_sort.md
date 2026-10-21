@@ -1,0 +1,1503 @@
+<!-- page 1 (pdf 1 full) -->
+Quy tắc, Điều kiện và Điều khoản Sản phẩm Bảo hiểm
+
+Chăm Sóc
+Sức Khỏe Nâng Cao
+Tái Tục Hàng Năm
+
+
+
+
+
+Phương pháp, cơ sở tính phí của sản phẩm bảo hiểm này được phê chuẩn theo Công văn số 11444/BTC-QLBH ngày
+23/10/2024 của Bộ Tài chính. Quy tắc, Điều kiện và Điều khoản này được ban hành theo Quyết định số 00133/2026/MVL-
+Product ngày 05/01/2026, sửa đổi theo Quyết định số 03637/2026/MVL-Product ngày 09/09/2026 của Tổng Giám đốc
+Công ty TNHH Manulife (Việt Nam).
+
+<!-- page 2 (pdf 2 full) -->
+MỘT SỐ ĐIỂM LƯU Ý ĐỐI VỚI KHÁCH HÀNG KHI THAM GIA SẢN
+PHẨM BẢO HIỂM CHĂM SÓC SỨC KHỎE NÂNG CAO – TÁI TỤC
+HÀNG NĂM
+
+ 41
+ Trừ trường hợp được quy định một cách cụ thể hoặc đượcQuy Tắc, Điều Kiện và Điều Khoản của Sản Phẩm Bảo Hiểm
+ giải thích riêng tại Quy Tắc, Điều Kiện và Điều Khoản SảnChăm Sóc Sức Khỏe Nâng Cao (sau đây được gọi tắt là “Sản
+ Phẩm Bảo Hiểm này:Phẩm Bảo Hiểm”) có thể được đính kèm theo Hợp Đồng Bảo
+Hiểm và là một phần của Hợp Đồng Bảo Hiểm.
+ • Tất cả các thuật ngữ viết hoa được sử dụng tại đây
+ sẽ có cùng ý nghĩa với các thuật ngữ viết hoa được
+ định nghĩa trong Hợp Đồng Bảo Hiểm;
+
+ • Các quy định của Hợp Đồng Bảo Hiểm mà Sản Phẩm2
+ Bảo Hiểm này được đính kèm sẽ áp dụng cho Sản
+Đối với các Hợp Đồng Bảo Hiểm phát hành trước ngày
+ Phẩm Bảo Hiểm này. Trong trường hợp có sự khác
+01/07/2025: Sản Phẩm Bảo Hiểm này khi được đính kèm
+ biệt, Quy Tắc, Điều Kiện và Điều Khoản của Sản
+theo Sản Phẩm Bảo Hiểm Liên Kết Chung Đóng Phí Linh
+ Phẩm Bảo Hiểm này sẽ được áp dụng.
+Hoạt (Phiên bản 2) sẽ có nguyên tắc hoạt động giống
+“Sản Phẩm Bảo Hiểm Bổ Trợ” và khi được đính kèm theo
+Sản phẩm Bảo hiểm Liên Kết Đơn Vị Đóng Phí Định Kỳ
+(Phiên bản 3 và Phiên bản 5) sẽ có nguyên tắc hoạt động
+giống “Sản phẩm Bảo hiểm Bổ Trợ
+- nhóm B”. 5
+
+ Trong trường hợp pháp luật Việt Nam có quy định riêng về
+ khái niệm, thuật ngữ y học hoặc các hướng dẫn chẩn đoán3 và điều trị thì các quy định của pháp luật sẽ được áp dụng.
+Trong phạm vi của Quy Tắc, Điều Kiện và Điều Khoản
+Sản Phẩm Bảo Hiểm này, khi đề cập đến Người Được
+Bảo Hiểm có nghĩa là Người Được Bảo Hiểm của riêng
+Sản Phẩm Bảo Hiểm này.
+
+<!-- page 3 (pdf 3 full) -->
+Mục lục
+
+
+ Chương I. QUYỀN LỢI BẢO HIỂM 4
+
+ Điều 1. QUYỀN LỢI BẢO HIỂM 4
+
+ 1.1. Quyền lợi Điều Trị Nội Trú 5
+ 1.2. Quyền lợi Điều Trị Ngoại Trú (áp dụng khi BMBH lựa chọn thêm) 7
+ 1.3. Quyền lợi Điều Trị Nha Khoa (áp dụng khi BMBH lựa chọn thêm) 8
+ 1.4. Quyền lợi thai sản (áp dụng khi BMBH lựa chọn thêm) 9
+
+ Điều 2. THỜI GIAN CHỜ 10
+
+ Điều 3. CÁC TRƯỜNG HỢP LOẠI TRỪ TRÁCH NHIỆM BẢO HIỂM 10
+
+
+ Chương II. QUYỀN VÀ NGHĨA VỤ CỦA BÊN MUA BẢO HIỂM 12
+
+ Điều 4. QUYỀN CỦA BÊN MUA BẢO HIỂM 12
+
+ Điều 5. NGHĨA VỤ CỦA BÊN MUA BẢO HIỂM 12
+
+
+ Chương III. GIẢI QUYẾT QUYỀN LỢI BẢO HIỂM 13
+
+ Điều 6. GIẢI QUYẾT QUYỀN LỢI BẢO HIỂM 13
+
+
+ Chương IV. PHÍ BẢO HIỂM 15
+
+ Điều 7. PHÍ BẢO HIỂM, ĐỊNH KỲ ĐÓNG PHÍ BẢO HIỂM 15
+
+
+ Chương V. HIỆU LỰC CỦA SẢN PHẨM BẢO HIỂM 16
+
+ Điều 8. THỜI HẠN BẢO HIỂM VÀ THỜI HẠN ĐÓNG PHÍ 16
+
+ Điều 9. MẤT HIỆU LỰC VÀ KHÔI PHỤC HIỆU LỰC SẢN PHẨM BẢO HIỂM 16
+
+ Điều 10. CHẤM DỨT SẢN PHẨM BẢO HIỂM 16
+
+ Điều 11. HỦY BỎ SẢN PHẨM BẢO HIỂM 17
+
+
+ Chương VI. QUY ĐỊNH CHUNG 18
+
+ Điều 12. TRÁCH NHIỆM CUNG CẤP THÔNG TIN 18
+
+ Điều 13. BẢO MẬT VÀ BẢO VỆ DỮ LIỆU 18
+
+ Điều 14. NHẦM LẪN KHI KÊ KHAI TUỔI 20
+
+ Điều 15. MIỄN TRUY XÉT 20
+
+ Điều 16. GIẢI QUYẾT MÂU THUẪN VÀ TRANH CHẤP 20
+
+
+ Chương VII. CÁC THUẬT NGỮ CẦN BIẾT 21
+
+<!-- page 4 (pdf 4 full) -->
+Chương I. QUYỀN LỢI BẢO HIỂM
+
+
+
+ĐIỀU 1. QUYỀN LỢI BẢO HIỂM
+
+Bên Mua Bảo Hiểm có quyền lựa chọn tham gia một trong các chương trình bảo hiểm (Bạc, Titan, Vàng, Bạch Kim hoặc
+Kim Cương) cho Người Được Bảo Hiểm để nhận quyền lợi bảo hiểm tương ứng theo quy định.
+
+
+ BẠC TITAN VÀNG BẠCH KIM KIM CƯƠNG
+
+
+ Quyền lợi
+ 1.1 Quyền lợi Điều Trị Nội Trú
+ mặc định
+
+ 1.2 Quyền lợi Điều Trị Ngoại Trú
+ Quyền lợi
+ Không
+ lựa chọn 1.3 Quyền lợi Điều Trị Nha Khoa áp dụng
+ thêm
+ 1.4 Quyền lợi thai sản
+
+
+
+ Theo đó:
+ • Quyền lợi Điều Trị Nội Trú là quyền lợi bảo hiểm mặc định cho tất cả các chương trình bảo hiểm;
+ • Quyền lợi Điều Trị Ngoại Trú, quyền lợi Điều Trị Nha Khoa, quyền lợi thai sản là quyền lợi bảo hiểm có thể
+ được lựa chọn thêm theo yêu cầu của Bên Mua Bảo Hiểm, với điều kiện chương trình bảo hiểm của quyền lợi
+ bảo hiểm lựa chọn thêm không vượt quá chương trình bảo hiểm của quyền lợi Điều Trị Nội Trú.
+
+
+Chương trình bảo hiểm Bên Mua Bảo Hiểm lựa chọn được thể hiện trên Trang Hợp Đồng (Giấy Chứng Nhận Bảo Hiểm) hoặc
+Xác Nhận Thay Đổi Hợp Đồng, nếu có.
+
+Trong trường hợp quyền lợi bảo hiểm được chấp nhận chi trả theo các quy định của Sản Phẩm Bảo Hiểm này, Manulife sẽ
+chi trả Chi Phí Y Tế Thực Tế sau khi áp dụng Mức Đồng Chi Trả(*). Quyền lợi bảo hiểm thực chi sẽ không vượt quá các giới
+hạn bảo hiểm của chương trình bảo hiểm và quyền lợi bảo hiểm tương ứng mà Bên Mua Bảo Hiểm đã lựa chọn tham gia.
+
+
+ (*) Mức Đồng Chi Trả:
+ Mức Đồng Chi Trả được ghi nhận tại thời điểm phát hành hợp đồng sẽ áp dụng xuyên suốt thời hạn hợp đồng
+ (bao gồm thời gian tái tục).
+ Trong trường hợp Manulife có sự thay đổi về Mức Đồng Chi Trả, Mức Đồng Chi Trả mới sẽ chỉ áp dụng với các
+ Hợp Đồng phát hành mới kể từ thời điểm thay đổi, trừ trường hợp có thỏa thuận khác giữa Bên Mua Bảo Hiểm
+ và Manulife.
+
+
+Minh họa về việc bổ sung thêm quyền lợi bảo hiểm
+
+
+ Chị H. đang tham gia sản phẩm Chương trình bảo hiểm hiện tại: Vàng
+ Chăm Sóc Sức Khỏe Nâng Cao
+ – Tái Tục Hàng Năm với chi tiết như sau: Quyền lợi bảo hiểm: Điều Trị Nội Trú
+
+
+ Chị H. muốn lựa chọn thêm quyền lợi bảo hiểm. Dưới đây là minh họa về các Chương trình bảo hiểm và Quyền lợi
+ lựa chọn thêm tương ứng mà chị có thể tham gia:
+
+ Chương trình
+ BẠC TITAN VÀNG BẠCH KIM KIM CƯƠNG Bảo hiểm
+
+ Quyền lợi Điều Trị
+ Ngoại Trú
+ Không thỏa Không thỏa
+ Quyền lợi Điều Trị Không điều kiện điều kiện
+ Nha Khoa áp dụng tham gia tham gia
+
+ Quyền lợi thai sản
+
+<!-- page 5 (pdf 5 full) -->
+Bảng liệt kê Quyền lợi bảo hiểm & Phạm vi địa lý được bảo hiểm
+
+
+ Chương trình
+ Quyền lợi bảo hiểm BẠC TITAN VÀNG BẠCH KIM KIM CƯƠNG
+ bảo hiểm
+
+ Đông Toàn cầu
+ 1.1 Quyền lợi Điều Trị Nội Trú Việt Nam Nam Á (Trừ Hoa Kỳ)
+
+ 1.2 Quyền lợi Điều Trị Ngoại Trú
+ Toàn cầu
+ Không
+ 1.3 Quyền lợi Điều Trị Nha Khoa Việt Nam áp dụng
+
+ 1.4 Quyền lợi thai sản
+
+
+
+
+ 1.1 Quyền lợi Điều Trị Nội Trú
+
+
+
+ Mức Đồng Chi Trả:
+ Người Được Bảo Hiểm trong độ tuổi từ 30 (ba mươi) ngày Tuổi đến 4 (bốn) Tuổi: 20%.
+ Người Được Bảo Hiểm trong độ tuổi từ 5 (năm) Tuổi trở lên: 0%.
+
+
+
+ Đơn vị: Việt Nam đồng
+
+ Chương trình bảo hiểm BẠC TITAN VÀNG BẠCH KIM KIM CƯƠNG
+
+ Giới hạn bảo hiểm/ năm hợp đồng
+ (là tổng quyền lợi bảo hiểm thực chi cho 125 triệu 250 triệu 500 triệu 1 tỷ 2 tỷ
+ tất cả các mục dưới đây)
+
+ A. Cấy Ghép Nội Tạng
+
+ 1. Chi phí Cấy Ghép Nội Tạng của người
+ Chi Phí Y Tế Thực Tế
+ nhận tạng (Người Được Bảo Hiểm)
+
+ 2. Chi phí phẫu thuật và chi phí y tế của
+ người hiến tạng (không phải là Người 50% Chi phí phẫu thuật và chi phí y tế
+ Được Bảo Hiểm)
+
+ B. Điều trị Ung Thư (bao gồm Điều Trị Nội Trú, Điều Trị Trong Ngày và Điều Trị Ngoại Trú)
+
+
+ 1. Chi phí Điều Trị Ung Thư Chi Phí Y Tế Thực Tế
+
+ 2. Chi phí Tái Tạo Tuyến Vú Sau Đoạn Không áp
+ Chi Phí Y Tế Thực Tế
+ Nhũ Do Ung Thư dụng
+
+ C. Giới hạn cho mỗi Đợt Điều Trị
+ (là tổng quyền lợi bảo hiểm thực chi cho 50 triệu 100 triệu 200 triệu 400 triệu 600 triệu
+ tất cả các mục từ D.1 đến D.9)
+
+
+ D. Các giới hạn phụ (áp dụng cho mục A.1, B, C)
+
+
+ 1. Chi phí Phòng và Giường/ Ngày Nằm Viện
+ 750 nghìn 1,5 triệu 2,5 triệu 5 triệu 10 triệu
+ (tối đa 60 Ngày Nằm Viện/ năm hợp đồng)
+
+<!-- page 6 (pdf 6 full) -->
+Đơn vị: Việt Nam đồng
+
+Chương trình bảo hiểm BẠC TITAN VÀNG BẠCH KIM KIM CƯƠNG
+
+2. Chi phí Phòng và Giường tại Khoa
+ Chăm Sóc Đặc Biệt hoặc Giường Hồi
+ Chi Phí Y Tế Thực Tế
+ Sức Tích Cực/ Ngày Nằm Viện (tối đa
+ 60 Ngày Nằm Viện/ năm hợp đồng)
+
+3. Trợ Cấp Nằm Viện/ Ngày Nằm Viện (chi
+ trả dựa theo số Ngày Nằm Viện Người
+ Được Bảo Hiểm sử dụng Phòng Tiêu Không áp dụng 250 nghìn 500 nghìn 1 triệu
+ Chuẩn của Bệnh Viện Công Lập, Tối đa
+ 30 Ngày Nằm Viện/ năm hợp đồng)
+
+4. Chi phí Vật Lý Trị Liệu/ Đợt Điều Trị
+ (tối đa 1 lần/ Đợt Điều Trị, trong vòng 30
+ 1,5 triệu 3 triệu 5 triệu 10 triệu 20 triệu
+ ngày trước khi nhập viện & 60 ngày sau
+ khi xuất viện)
+
+5. Chi phí Dịch Vụ Chăm Sóc Y Tế Tại
+ Nhà/ ngày (trong vòng 60 ngày sau khi 125 nghìn 250 nghìn 500 nghìn 1 triệu 2 triệu
+ xuất viện, tối đa 10 ngày/ năm hợp đồng)
+
+6. Chi phí phẫu thuật/ Đợt Điều Trị (ngoại Chi Phí Y Tế
+ 12,5 triệu 25 triệu 50 triệu 100 triệu
+ trừ Phẫu Thuật để Điều Trị Ung Thư) Thực Tế
+
+
+7. Chi phí Điều Trị Trước Khi Nhập Viện
+ (trong vòng 30 ngày trước khi nhập viện)
+
+
+8. Chi phí Điều Trị Sau Khi Xuất Viện Chi Phí Y Tế Thực Tế
+ (trong 60 ngày sau khi xuất viện)
+
+
+9. Chi Phí Y Tế Nội Trú Khác
+
+
+E. Chi Phí Xe Cứu Thương/ năm hợp đồng 1,5 triệu 3 triệu 5 triệu Chi Phí Y Tế Thực Tế
+
+F. Quyền lợi Điều Trị Ngoại Trú đặc biệt
+
+1. Chi phí Phẫu Thuật Trong Ngày/ năm
+ 5 triệu 10 triệu 20 triệu 40 triệu 60 triệu
+ hợp đồng
+
+2. Chi phí Điều Trị Ngoại Trú do Tai Nạn
+ (trong vòng 24 giờ kể từ thời điểm xảy ra 3 triệu 6 triệu 10 triệu Chi Phí Y Tế Thực Tế
+ Tai Nạn/ năm hợp đồng)
+
+ Chi Phí Y Tế
+3. Chi phí lọc máu ngoài thận/ năm hợp đồng Không áp dụng 10 triệu 20 triệu
+ Thực Tế
+
+
+ Lưu ý: Quyền lợi Trợ Cấp Nằm Viện không áp dụng Mức Đồng Chi Trả.
+
+<!-- page 7 (pdf 7 full) -->
+1.2 Quyền lợi Điều Trị Ngoại Trú (áp dụng khi BMBH lựa chọn thêm)
+
+
+
+ Mức Đồng Chi Trả:
+ 20% (áp dụng cho Người Được Bảo Hiểm tại mọi độ tuổi)
+
+
+ Đơn vị: Việt Nam đồng
+
+ Chương trình bảo hiểm TITAN VÀNG BẠCH KIM KIM CƯƠNG
+
+ Giới hạn bảo hiểm/ năm hợp đồng
+ (là tổng quyền lợi bảo hiểm thực chi cho tất cả 6 triệu 12 triệu 24 triệu 60 triệu
+ các mục dưới đây)
+
+ A. Chi phí Vật Lý Trị Liệu và trị liệu thần kinh
+ 1 triệu 2 triệu 4 triệu 10 triệu
+ cột sống/ năm hợp đồng
+
+ B. Chi phí Y Học Thay Thế/ năm hợp đồng 1 triệu 2 triệu 4 triệu 10 triệu
+
+ C. Giới hạn cho mỗi Lần Thăm Khám
+ (là tổng quyền lợi bảo hiểm thực chi 1 triệu 2 triệu 4 triệu 10 triệu
+ cho tất cả các mục C.1 đến C.3)
+
+ 1. Chi phí khám bệnh
+
+
+ 2. Chi phí Thuốc Kê Toa Chi Phí Y Tế Thực Tế
+
+ 3. Chi phí chẩn đoán, xét nghiệm do Bác Sĩ
+ chỉ định và Cần Thiết Về Mặt Y Khoa
+
+
+
+ Lưu ý:
+ • Các Chi Phí Y Tế Thực Tế từ việc Điều Trị Ngoại Trú để Điều Trị Ung Thư đã được chấp nhận chi trả tại
+ mục 1.1 sẽ không được xem xét chi trả theo quyền lợi Điều Trị Ngoại Trú tại mục 1.2 này.
+ • Các Chi Phí Y Tế Thực Tế từ việc Điều Trị Ngoại Trú để Điều Trị Ung Thư vượt quá mức được chấp nhận
+ chi trả tại mục 1.1 sẽ được xem xét chi trả theo quyền lợi Điều Trị Ngoại Trú tại mục 1.2 này.
+
+<!-- page 8 (pdf 8 full) -->
+1.3 Quyền lợi Điều Trị Nha Khoa (áp dụng khi BMBH lựa chọn thêm)
+
+
+
+ Mức Đồng Chi Trả:
+ 20% (áp dụng cho Người Được Bảo Hiểm tại mọi độ tuổi)
+
+
+ Đơn vị: Việt Nam đồng
+
+ Chương trình bảo hiểm TITAN VÀNG BẠCH KIM KIM CƯƠNG
+
+ Giới hạn bảo hiểm/ năm hợp đồng
+ (là tổng quyền lợi bảo hiểm thực chi cho tất cả 3 triệu 6 triệu 12 triệu 25 triệu
+ các mục dưới đây)
+
+ A. Chi phí mão răng, răng giả/ năm hợp đồng
+ 500 nghìn 1 triệu 2 triệu 4 triệu
+ (LOẠI TRỪ chi phí Cấy Ghép Implant)
+
+ B. Chi phí cạo vôi răng/ năm hợp đồng
+ 500 nghìn 1 triệu 2 triệu 4 triệu
+ (tối đa 2 lần/ năm hợp đồng)
+
+ C. Giới hạn cho mỗi Lần Thăm Khám
+ (là tổng quyền lợi bảo hiểm thực chi cho tất cả 1 triệu 2 triệu 4 triệu 10 triệu
+ các mục C.1 đến C.8)
+
+ 1. Chi phí khám, chẩn đoán nha khoa
+
+
+ 2. Chi phí điều trị nha chu, viêm nướu
+
+
+ 3. Chi phí Thuốc Kê Toa
+
+
+ 4. Chi phí trám răng (amalgam, composite,
+ fuji hoặc các chất liệu tương đương)
+ Chi Phí Y Tế Thực Tế
+
+ 5. Chi phí chụp X-quang
+
+
+ 6. Chi phí chữa tủy răng
+
+
+ 7. Chi phí nhổ răng bệnh lý (không Phẫu Thuật)
+
+
+ 8. Chi phí cắt u mô cứng của răng, cắt cuống răng
+
+
+
+
+ Lưu ý:
+ Các chi phí y tế liên quan đến Điều Trị Nha Khoa (bao gồm Phẫu Thuật miệng và việc Điều Trị Nội Trú liên quan
+ đến Điều Trị Nha Khoa) sẽ không được xem xét chi trả theo bất kỳ quyền lợi nào khác ngoài mục 1.3 này.
+
+<!-- page 9 (pdf 9 full) -->
+1.4 Quyền lợi thai sản (áp dụng khi BMBH lựa chọn thêm)
+
+
+
+ Mức Đồng Chi Trả:
+ 20% (áp dụng cho Người Được Bảo Hiểm tại mọi độ tuổi)
+
+
+ Đơn vị: Việt Nam đồng
+
+ Chương trình bảo hiểm TITAN VÀNG BẠCH KIM KIM CƯƠNG
+
+ Giới hạn tối đa cho mỗi lần mang thai bao
+ gồm: Sinh Thường, Sinh Mổ và Biến Chứng
+ Thai Sản 12 triệu 25 triệu 35 triệu 70 triệu
+ (là tổng quyền lợi bảo hiểm thực chi cho tất cả
+ các mục dưới đây)
+
+ A. Chi phí Phòng và Giường/ Ngày Nằm Viện
+ 1,5 triệu 2,5 triệu 5 triệu 10 triệu
+ (tối đa 60 ngày/ năm hợp đồng)
+
+ B. Chi phí Phòng và Giường tại Khoa Chăm
+ Sóc Đặc Biệt hoặc Giường Hồi Sức Tích
+ Chi Phí Y Tế Thực Tế
+ Cực/ Ngày Nằm Viện
+ (tối đa 60 ngày/ năm hợp đồng)
+
+ C. Chi phí Kiểm Tra Thai Định
+ Kỳ/ Lần Thăm Khám 500 nghìn 1 triệu 2 triệu 3 triệu
+ (tối đa 8 lần/ năm hợp đồng)
+
+ D. Chi Phí Dưỡng Nhi/ năm hợp đồng
+ (trong vòng 7 ngày kể từ ngày sinh, 3 triệu 5 triệu 10 triệu 20 triệu
+ LOẠI TRỪ Bệnh Bẩm Sinh/ Dị Tật Bẩm Sinh)
+
+ E. Chi phí sinh
+
+
+ F. Chi phí Điều Trị Cấp Cứu cho thai
+ Chi Phí Y Tế Thực Tế sản do Tai Nạn
+
+
+ G. Chi phí điều trị Biến Chứng Thai Sản
+
+
+
+ Lưu ý:
+ • Quyền lợi thai sản chỉ được chi trả cho Người Được Bảo Hiểm có Tuổi từ đủ 18 (mười tám) đến 45 (bốn mươi
+ lăm) tại thời điểm phát sinh chi phí thai sản.
+ • Các chi phí y tế liên quan đến thai sản (bao gồm việc Điều Trị Nội Trú và Điều Trị Ngoại Trú liên quan đến
+ thai sản) sẽ không được xem xét chi trả theo bất kỳ quyền lợi nào khác ngoài mục 1.4 này.
+
+<!-- page 10 (pdf 10 full) -->
+Điều 2. THỜI GIAN CHỜ
+
+ Thời gian chờ là thời gian mà trong đó nếu ngày khám, ngày chẩn đoán Bệnh, ngày bắt đầu của Đợt Điều Trị xảy ra trong
+ thời gian này, Manulife sẽ không chi trả bất kỳ quyền lợi bảo hiểm có liên quan đến việc khám, Bệnh được chẩn đoán, Đợt
+ Điều Trị đó.
+ Thời gian chờ được tính từ các mốc thời gian dưới đây, tùy vào ngày nào đến sau:
+
+
+ Ngày khôi phục hiệu lực gần nhất của Sản Phẩm Ngày Hiệu Lực của Sản Phẩm Bảo Hiểm này;
+ Bảo Hiểm này;
+
+
+ Ngày Hiệu Lực của việc bổ sung quyền lợi Ngày Hiệu Lực của việc nâng cấp chương trình
+ bảo hiểm; bảo hiểm.
+ (áp dụng cho quyền lợi lựa chọn thêm) (áp dụng cho phần quyền lợi tăng thêm)
+
+
+
+ Thời gian chờ không áp dụng đối với trường hợp:
+ a. Điều trị do Tai Nạn; hoặc
+ b. Thay đổi sang chương trình bảo hiểm thấp hơn; hoặc
+ c. Tái tục Sản Phẩm Bảo Hiểm này.
+
+
+ Thời gian chờ được áp dụng cho Sản Phẩm Bảo Hiểm này được quy định cụ thể như sau:
+
+0 ngày 30 ngày 90 ngày 270 ngày
+
+
+
+
+
+ Điều trị do Tai Nạn Điều trị Nội trú Bệnh Đặc Biệt Thai sản
+ (trừ trường hợp Thay đổi sang Điều Trị Ung Thư
+ điều trị bệnh Đặc Biệt,
+ chương trình Điều Trị Ung Thư và Cấy Ghép Nội Tạng
+ bảo hiểm thấp hơn Cấy Ghép Nội Tạng)
+ Tái tục Sản Phẩm Điều Trị Ngoại Trú
+ Bảo Hiểm
+ Điều Trị Nha Khoa
+
+ Điều 3. CÁC TRƯỜNG HỢP LOẠI TRỪ TRÁCH NHIỆM BẢO HIỂM
+
+ Manulife sẽ không chi trả quyền lợi bảo hiểm phát sinh từ, liên quan đến hay là hậu quả của bất kỳ trường hợp sau đây:
+
+ 1. Bệnh Có Sẵn không được khai báo, cung cấp thông tin đầy đủ, trung thực cho Manulife tại thời điểm yêu cầu tham gia
+ hoặc khôi phục hiệu lực Sản Phẩm Bảo Hiểm, mà nếu biết về Bệnh Có Sẵn này, Manulife đã loại trừ trách nhiệm bảo
+ hiểm đối với sự kiện bảo hiểm liên quan đến Bệnh Có Sẵn đó. Điều khoản loại trừ này không áp dụng với trường hợp
+ Bệnh Có Sẵn đã được kê khai và được Manulife chấp thuận;
+
+ 2. Tình trạng nhiễm vi rút suy giảm miễn dịch ở người (HIV), hội chứng suy giảm miễn dịch mắc phải (AIDS), bệnh hoa liễu
+ và các bệnh lây truyền qua đường tình dục kể cả các biến chứng của bệnh và các tác dụng phụ của việc điều trị Bệnh,
+ trừ trường hợp nhiễm HIV trong khi đang thực hiện nhiệm vụ tại nơi làm việc với tư cách là một nhân viên y tế hoặc
+ công an, cảnh sát;
+
+ 3. Bệnh Bẩm Sinh/ Dị Tật Bẩm Sinh, Bệnh di truyền, xét nghiệm hoặc tư vấn liên quan đến di truyền;
+
+ 4. Kiểm tra, điều trị liên quan đến các tình trạng bất lực, rối loạn chức năng sinh dục, dậy thì sớm, hẹp bao quy đầu, hỗ trợ
+ sinh sản (bao gồm điều trị vô sinh, thụ tinh nhân tạo, thụ tinh trong ống nghiệm, cấy truyền phôi thai, ...) và các phương
+ pháp kế hoạch hóa gia đình (bao gồm tránh thai, triệt sản, ...);
+
+ 5. Mang thai, sinh đẻ, sảy thai, nạo, phá thai, điều trị trước và sau khi sinh đẻ, các Biến Chứng Thai Sản hay bất kỳ bệnh
+ tật ốm đau nào hoặc tổn thương nào liên quan đến các sự kiện này, trừ trường hợp tham gia thêm quyền lợi thai sản,
+ khi đó các quyền lợi thai sản theo danh sách quyền lợi nêu tại Điều 1.4 sẽ được xem xét chi trả;
+
+<!-- page 11 (pdf 11 full) -->
+6. Điều dưỡng trừ trường hợp các phương pháp điều trị này là một phần cần thiết của việc Điều Trị Nội Trú theo chỉ định
+ của Bác Sĩ và việc điều trị này phải được thực hiện tại Bệnh Viện;
+7. Điều trị bệnh tâm thần, rối loạn tâm thần, điều trị liên quan đến các rối loạn thần kinh bao gồm căng thẳng, lo âu, trầm
+ cảm, tự kỷ, tăng động giảm chú ý, các rối loạn phát triển tâm thần và thể chất, rối loạn giao tiếp, rối loạn hành vi, các rối
+ loạn cảm giác ăn liên quan chán ăn, nghiện ăn;
+
+8. Phẫu thuật và điều trị thẩm mỹ hoặc phẫu thuật và điều trị tạo hình liên quan đến thẩm mỹ, trừ trường hợp Phẫu Thuật
+ khi bị Thương Tích được Bác Sĩ chỉ định là Cần Thiết Về Mặt Y Khoa nhằm tái tạo lại chức năng của Người Được Bảo
+ Hiểm; bất kỳ phẫu thuật theo yêu cầu của Người Được Bảo Hiểm, bao gồm thay đổi giới tính; điều trị liên quan đến da
+ như mụn trứng cá, tàn nhang, nám da, khuyết điểm sắc tố da, mụn thịt dư, gàu;
+
+9. Điều trị béo phì (bao gồm béo phì bệnh lý), các chương trình kiểm soát cân nặng hoặc phẫu thuật giảm cân;
+
+10. Điều trị rối loạn giấc ngủ, trừ trường hợp việc điều trị chứng ngưng thở khi ngủ đe dọa tính mạng có sự xác nhận của
+ Bác Sĩ chuyên khoa;
+
+11. Việc khám sức khỏe định kỳ, kiểm tra sức khỏe tổng quát hoặc thực hiện các kiểm tra hoặc xét nghiệm tầm soát kể cả
+ việc tiêm chủng, vắc xin và thuốc chủng ngừa, trừ trường hợp tiêm ngừa dại do động vật tấn công và uốn ván do Tai
+ Nạn;
+
+12. Khám và xét nghiệm không có kết luận về Bệnh hoặc Thương Tích của Bác Sĩ; khám có chẩn đoán xác định Bệnh hoặc
+ Thương Tích nhưng không cần điều trị và Bác Sĩ chỉ tư vấn theo dõi, tái khám định kỳ, trừ trường hợp kiểm tra thai định
+ kỳ khi Người Được Bảo Hiểm tham gia quyền lợi thai sản theo Điều 1.4;
+
+13. Chi phí phát sinh liên quan đến thị lực bao gồm: khám thị lực; phẫu thuật LASIK; kính gọng; kính áp tròng; các phương
+ pháp điều chỉnh tật khúc xạ như cận thị, viễn thị, loạn thị, lão thị; rối loạn điều tiết; khô mắt; đục thủy tinh thể đối với
+ Người Được Bảo Hiểm trên 60 (sáu mươi) Tuổi;
+
+14. Điều trị theo phương pháp Y Học Thay Thế đối với quyền lợi Điều Trị Nội Trú; phục hồi chức năng (ngoại trừ Vật Lý Trị
+ Liệu) đối với quyền lợi Điều Trị Nội Trú và quyền lợi Điều Trị Ngoại Trú; điều trị y tế thử nghiệm; sử dụng công nghệ/ thủ
+ thuật/ liệu pháp y tế mang tính thử nghiệm; thuốc/ liệu pháp tế bào gốc mới chưa được chính phủ, cơ quan Nhà nước
+ và hiệp hội y tế công nhận tại nước sở tại;
+
+15. Các chi phí cung cấp, bảo dưỡng, lắp đặt, lắp ráp, sửa chữa thiết bị hỗ trợ hoặc bộ phận giả hoặc các thiết bị có tính
+ chất tương tự, dụng cụ chỉnh hình, các vật tư lắp vĩnh viễn trong cơ thể, trừ trường hợp các chi phí này được liệt kê
+ trong định nghĩa Chi Phí Phẫu Thuật Cấy Ghép;
+
+16. Các chi phí dịch vụ phi y tế, bao gồm bữa ăn dành cho người thân, điện thoại, máy photocopy, vật dụng cá nhân, phí
+ khai báo y tế và các chi phí dịch vụ không phục vụ cho việc khám, chữa và điều trị Bệnh và Thương Tích;
+
+17. Điều trị giảm nhẹ các triệu chứng phổ biến liên quan đến quá trình lão hóa, mãn kinh, tiền mãn kinh mà không do Bệnh;
+
+18. Sử dụng bất kỳ loại thuốc, chất gây nghiện, ma túy, chất độc, thuốc kích thích, trừ trường hợp có chỉ định của Bác Sĩ;
+
+19. Chiến tranh (dù là được tuyên bố hay không); bạo loạn, ẩu đả, khởi nghĩa, bạo động dân sự, biểu tình, đình công hay
+ khủng bố; Người Được Bảo Hiểm tham gia lực lượng vũ trang với tư cách là một người lính, cảnh sát, các tình nguyện
+ viên, lực lượng dân phòng trong chiến đấu hoặc trấn áp tội phạm;
+
+20. Điều trị do việc cố ý tự gây Thương Tích, tự tử (dù đang trong tình trạng tỉnh táo hay không); Thương Tích phát sinh từ
+ việc tham gia, lôi kéo, khởi xướng gây gổ, ẩu đả trừ trường hợp phòng vệ chính đáng hoặc thực hiện yêu cầu công việc;
+
+21. Bất kỳ Thương Tích nào của Người Được Bảo Hiểm khi vi phạm pháp luật hoặc cố tình cản trở hoặc chống lại việc truy
+ bắt của người thi hành công vụ hoặc do hậu quả trực tiếp hoặc gián tiếp từ các hành vi điều khiển phương tiện giao
+ thông đường bộ vượt quá tốc độ quy định từ 05 (năm) km/h hoặc tham gia điều khiển phương tiện giao thông mà trong
+ máu hoặc hơi thở có nồng độ cồn vượt quá mức trị số bình thường theo hướng dẫn của Bộ Y Tế tại thời điểm xảy ra
+ Thương Tích;
+
+22. Điều trị Thương Tích do tham gia vào các hoạt động Thể Thao Chuyên Nghiệp, Thể Thao Và Các Hoạt Động Mạo Hiểm,
+ các môn Thể Thao Đối Kháng;
+
+23. Điều trị do phơi nhiễm năng lượng hạt nhân, phóng xạ ion hóa hay nhiễm phóng xạ từ bất kỳ nguồn nào, bất kỳ tình
+ trạng nào là hậu quả trực tiếp hoặc gián tiếp của ô nhiễm hóa học hoặc sinh học dù gây ra bởi bất kỳ nguyên nhân nào,
+ hoặc bệnh bụi phổi, trừ trường hợp Người Được Bảo Hiểm bị phơi nhiễm phóng xạ do nguyên nhân sử dụng phương
+ pháp xạ trị trong Điều Trị Ung Thư;
+
+24. Người Được Bảo Hiểm có hành vi phạm tội theo quy định trong Bộ luật hình sự hoặc Bên Mua Bảo Hiểm, Người Thụ
+ Hưởng hoặc bất kỳ người nào sẽ nhận quyền lợi bảo hiểm có hành vi phạm tội theo quy định trong Bộ luật hình sự đối
+ với Người Được Bảo Hiểm;
+
+25. Các trường hợp loại trừ được quy định tại các Điều 1.3 – Quyền lợi Điều Trị Nha Khoa, Điều 1.4 – Quyền lợi thai sản;
+ và các trường hợp loại trừ khác được quy định trong các định nghĩa Bệnh Viện, Cấy Ghép Nội Tạng, Chi Phí Phẫu
+ Thuật, Cơ Sở Y Tế, Điều Trị Nha Khoa, Phạm Vi Địa Lý tại Chương VII trong Quy Tắc, Điều Kiện và Điều Khoản của
+ Sản Phẩm Bảo Hiểm này.
+
+<!-- page 12 (pdf 12 full) -->
+Chương II. QUYỀN VÀ NGHĨA VỤ CỦA BÊN MUA BẢO HIỂM
+
+
+
+Điều 4. QUYỀN CỦA BÊN MUA BẢO HIỂM
+
+ 4.1. Thay đổi chương trình bảo hiểm
+ Trong thời gian Sản Phẩm Bảo Hiểm này có hiệu lực, Bên Mua Bảo Hiểm có thể yêu cầu thay đổi chương trình bảo
+ hiểm bằng cách gửi văn bản thông báo đến Manulife. Nếu Manulife đồng ý, việc thay đổi chương trình bảo hiểm của
+ quyền lợi bảo hiểm tương ứng sẽ có hiệu lực kể từ Ngày Kỷ Niệm Năm Hợp Đồng tiếp theo và được nêu tại văn
+ bản chấp thuận của Manulife.
+ Đối với yêu cầu nâng cấp chương trình bảo hiểm, Manulife có thể yêu cầu thẩm định y tế đối với Người Được Bảo Hiểm.
+
+ 4.2. Bổ sung, chấm dứt quyền lợi lựa chọn thêm
+ Trong thời gian Sản Phẩm Bảo Hiểm này có hiệu lực, Bên Mua Bảo Hiểm có thể yêu cầu bổ sung, chấm dứt quyền
+ lợi lựa chọn thêm bằng cách gửi văn bản thông báo đến Manulife. Chương trình bảo hiểm của quyền lợi bảo hiểm
+ lựa chọn thêm không vượt quá chương trình bảo hiểm của quyền lợi Điều Trị Nội Trú hiện tại của Người Được Bảo
+ Hiểm. Nếu Manulife đồng ý với yêu cầu này, việc bổ sung, chấm dứt quyền lợi lựa chọn thêm sẽ có hiệu lực kể từ
+ Ngày Kỷ Niệm Năm Hợp Đồng tiếp theo và được nêu tại văn bản chấp thuận của Manulife.
+ Đối với yêu cầu bổ sung thêm quyền lợi bảo hiểm, Manulife có thể yêu cầu thẩm định y tế đối với Người Được Bảo Hiểm.
+
+ 4.3. Chấm dứt sản phẩm bảo hiểm theo yêu cầu của Bên Mua Bảo Hiểm
+ Trong thời gian Sản Phẩm Bảo Hiểm này có hiệu lực, Bên Mua Bảo Hiểm có thể yêu cầu chấm dứt Sản Phẩm Bảo
+ Hiểm này. Việc chấm dứt sẽ có hiệu lực vào ngày đến hạn đóng phí tiếp theo và được ghi trên Xác Nhận Thay Đổi
+ Hợp Đồng do Manulife phát hành.
+
+
+Điều 5. NGHĨA VỤ CỦA BÊN MUA BẢO HIỂM
+
+Trong thời gian Sản Phẩm Bảo Hiểm này còn hiệu lực, Bên Mua Bảo Hiểm có các nghĩa vụ sau đây:
+
+ 5.1. Kê khai đầy đủ, trung thực mọi nội dung có liên quan đến Sản Phẩm Bảo Hiểm theo yêu cầu của Manulife;
+
+ 5.2. Đọc và hiểu rõ điều kiện, điều khoản bảo hiểm, quyền, nghĩa vụ của Bên Mua Bảo Hiểm khi giao kết hợp đồng bảo
+ hiểm và nội dung khác của Sản Phẩm Bảo Hiểm;
+
+ 5.3. Đóng phí bảo hiểm đầy đủ, đúng hạn theo thỏa thuận trong Sản Phẩm Bảo Hiểm;
+
+ 5.4. Thông báo cho Manulife về việc xảy ra sự kiện bảo hiểm theo quy định tại Điều 6;
+
+ 5.5. Thông báo về thông tin thay đổi của Người Được Bảo Hiểm, Bên Mua Bảo Hiểm trong các trường hợp sau đây:
+
+ a. Nếu Bên Mua Bảo Hiểm, Người Được Bảo Hiểm có thay đổi thông tin cá nhân (căn cước, căn cước công
+ dân, hộ chiếu, số điện thoại, thư điện tử, địa chỉ liên lạc tại Việt Nam): Bên Mua Bảo Hiểm, Người Được
+ Bảo Hiểm cần thông báo và cung cấp các giấy tờ cần thiết trong thời gian sớm nhất cho Manulife, để
+ không ảnh hưởng đến việc liên hệ, trao đổi thông tin từ Manulife cũng như việc thực hiện Hợp Đồng.
+
+
+ b. Nếu Người Được Bảo Hiểm ra khỏi lãnh thổ Việt Nam trong thời gian từ 03 tháng liên tục trở lên hoặc
+ có sự thay đổi nghề nghiệp, tính chất công việc: Bên Mua Bảo Hiểm cần thông báo cho Manulife
+ trong thời gian sớm nhất.
+ Sau khi có sự thay đổi, nếu xảy ra sự kiện bảo hiểm, Manulife sẽ thực hiện tái thẩm định và tùy từng
+ trường hợp theo quyết định của Manulife, Hợp Đồng có thể:
+ i. Tiếp tục duy trì hiệu lực theo các điều kiện và điều khoản của Hợp Đồng nếu việc thay đổi
+ không làm tăng rủi ro bảo hiểm;
+ ii. Tiếp tục duy trì hiệu lực và loại trừ một số quyền lợi bảo hiểm nếu việc thay đổi làm tăng rủi ro
+ bảo hiểm và thuộc phạm vi chấp thuận của Manulife;
+ iii. Chấm dứt Hợp Đồng nếu việc thay đổi làm tăng rủi ro bảo hiểm và không thuộc phạm vi chấp
+ thuận của Manulife. Trong trường hợp này, Manulife sẽ chi trả khoản phí bảo hiểm chưa sử
+ dụng (nếu có).
+ Hiệu lực của các quyết định trên được bắt đầu từ thời điểm Người Được Bảo Hiểm di chuyển ra khỏi
+ lãnh thổ Việt Nam hoặc có sự thay đổi nghề nghiệp, tính chất công việc.
+ Trong trường hợp chấm dứt Sản Phẩm Bảo Hiểm, Manulife sẽ chi trả khoản phí bảo hiểm chưa sử
+ dụng (nếu có) của Sản Phẩm Bảo Hiểm này.
+
+ 5.6. Nghĩa vụ khác theo quy định của pháp luật.
+
+<!-- page 13 (pdf 13 full) -->
+Chương III. GIẢI QUYẾT QUYỀN LỢI BẢO HIỂM
+
+
+
+Điều 6. GIẢI QUYẾT QUYỀN LỢI BẢO HIỂM
+
+ 6.1. Người nhận quyền lợi bảo hiểm
+ Trừ trường hợp có thỏa thuận khác giữa Manulife và Bên Mua Bảo Hiểm, các quyền lợi bảo hiểm nêu tại Sản Phẩm
+ Bảo Hiểm này sẽ được Manulife chi trả theo thứ tự ưu tiên sau:
+
+
+ Bên Mua Bảo Hiểm là cá nhân Bên Mua Bảo Hiểm là tổ chức
+
+ Người Được Bảo Hiểm trong trường hợp
+ Ưu tiên 1 Bên Mua Bảo Hiểm; Người Được Bảo Hiểm đủ 18 (mười tám) Tuổi
+ tại thời điểm chi trả quyền lợi bảo hiểm;
+
+ Người giám hộ của Người Được Bảo Hiểm
+ Người thừa kế hợp pháp của Bên Mua trong trường hợp Người Được Bảo Hiểm chưa
+ Ưu tiên 2
+ Bảo Hiểm. đủ 18 (mười tám) Tuổi tại thời điểm chi trả
+ quyền lợi bảo hiểm;
+
+ Người thừa kế hợp pháp của Người Được
+ Ưu tiên 3 Bảo Hiểm.
+
+
+ 6.2. Thời hạn nộp đơn yêu cầu giải quyết quyền lợi bảo hiểm
+ Thời hạn nộp hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm theo quy định tại Điều 6.3 là 01 (một) năm kể từ ngày xảy
+ ra sự kiện bảo hiểm. Thời gian 01 (một) năm này không bao gồm thời gian trì hoãn do các trở ngại khách quan và
+ sự kiện bất khả kháng như thiên tai, dịch bệnh.
+
+ 6.3. Hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm
+
+
+ Đơn yêu cầu giải quyết quyền lợi bảo hiểm (theo mẫu của Manulife);
+
+
+ Giấy ủy quyền hợp lệ được điền đầy đủ, trung thực và chính xác;
+
+
+ Chứng từ thanh toán:
+ • Hóa đơn tài chính hợp lệ, các biên lai/ phiếu thu tiền khám và điều trị theo quy định của Nhà nước;
+ • Bảng kê chi tiết các chi phí phát sinh.
+
+
+ Chứng từ y tế:
+ • Phiếu khám, kết quả khám, sổ khám bệnh, kết quả xét nghiệm, chẩn đoán theo chỉ định của Bác Sĩ;
+ • Tóm tắt bệnh án hoặc báo cáo y khoa có thể hiện nguyên nhân bệnh lý;
+ • Toa thuốc (có đầy đủ chẩn đoán, họ tên đầy đủ và chữ ký của Bác Sĩ, con dấu của Cơ Sở Y Tế nơi
+ thực hiện việc khám và điều trị theo mẫu quy định của Nhà nước);
+ • Giấy ra viện (trừ trường hợp Điều Trị Ngoại Trú và Điều Trị Nha Khoa);
+ • Giấy chứng nhận Phẫu Thuật (trong trường hợp Phẫu Thuật theo chỉ định của Bác Sĩ bao gồm cả
+ trường hợp Phẫu Thuật Trong Ngày);
+ • Chỉ định và phiếu theo dõi tập Vật Lý Trị Liệu (trong trường hợp yêu cầu chi trả quyền lợi chi phí
+ Vật Lý Trị Liệu);
+ • Phiếu Điều Trị Nha Khoa trong đó có ghi rõ số răng và phương pháp điều trị chi tiết (trong trường
+ hợp yêu cầu chi trả quyền lợi Điều Trị Nha Khoa).
+
+ Đối với trường hợp Tai Nạn, cần cung cấp thêm các chứng từ sau:
+ • Biên bản tai nạn hoặc tường trình tai nạn, biên bản khám nghiệm hiện trường, kết luận điều tra của
+ cơ quan có thẩm quyền (nếu có);
+ • Giấy chứng nhận đăng ký xe, giấy phép lái xe (trong trường hợp Người Được Bảo Hiểm bị Tai Nạn
+ giao thông khi đang điều khiển phương tiện giao thông trên 50cc).
+
+<!-- page 14 (pdf 14 full) -->
+6.4. Thời hạn giải quyết quyền lợi bảo hiểm
+
+ a. Manulife có trách nhiệm giải quyết quyền lợi bảo hiểm trong vòng 30 (ba mươi) ngày kể từ ngày
+ nhận được đầy đủ các chứng từ hợp lệ theo yêu cầu.
+
+
+ b. Trong trường hợp quyền lợi bảo hiểm được chấp thuận chi trả mà quá thời hạn nêu trên, Manulife
+ sẽ trả thêm lãi của khoản chi trả bảo hiểm tương ứng thời gian quá hạn. Mức lãi suất áp dụng
+ bằng với Lãi suất vay trên Hợp đồng Bảo hiểm được công bố trên cổng thông tin điện tử
+ www.manulife.com.vn tại từng thời điểm.
+
+
+6.5. Nếu chứng từ cần nộp có ngôn ngữ khác với tiếng Việt, Người Được Bảo Hiểm phải tự chịu chi phí dịch thuật sang
+ tiếng Việt và chứng thực các chứng từ đó trước khi nộp cho Manulife.
+
+6.6. Trường hợp Người Được Bảo Hiểm có tham gia các sản phẩm bảo hiểm chi trả chi phí y tế thực tế khác (có bao
+ gồm bảo hiểm y tế nhà nước) và đã được chi trả một phần quyền lợi bảo hiểm, sau đó yêu cầu Manulife chi trả phần
+ còn lại theo Sản Phẩm Bảo Hiểm này, ngoài hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm theo quy định tại Điều 6.3,
+ Bên Mua Bảo Hiểm cần nộp cho Manulife bản sao các chứng từ y tế, hóa đơn và xác nhận của công ty bảo hiểm về
+ thông tin chi trả quyền lợi bảo hiểm và số tiền đã được chi trả.
+
+6.7. Trong tất cả các trường hợp, Manulife có quyền yêu cầu Người Được Bảo Hiểm, người nhận quyền lợi bảo hiểm
+ cung cấp thêm các giấy tờ hoặc bằng chứng bổ sung khác nhằm hoàn tất quá trình thẩm định bồi thường và chi trả
+ đúng phạm vi bảo hiểm theo quy định của Sản Phẩm Bảo Hiểm này.
+
+<!-- page 15 (pdf 15 full) -->
+Chương IV. PHÍ BẢO HIỂM
+
+
+
+Điều 7. PHÍ BẢO HIỂM, ĐỊNH KỲ ĐÓNG PHÍ BẢO HIỂM
+
+ 7.1. Phí bảo hiểm được tính theo quyền lợi bảo hiểm, chương trình bảo hiểm, Mức Đồng Chi Trả, Tuổi, tình trạng sức
+ khỏe của Người Được Bảo Hiểm tại Ngày Hiệu Lực hoặc Ngày Kỷ Niệm Năm Hợp Đồng nếu Sản Phẩm Bảo Hiểm
+ này được tái tục.
+
+ 7.2. Trong trường hợp phí bảo hiểm của Sản Phẩm Bảo Hiểm này có sự thay đổi và được áp dụng từ Ngày Kỷ Niệm
+ Năm Hợp Đồng tiếp theo, Manulife sẽ thông báo đến Bên Mua Bảo Hiểm trước ngày tái tục. Trong trường hợp Bên
+ Mua Bảo Hiểm không đồng ý với mức phí bảo hiểm mới, Sản Phẩm Bảo Hiểm này sẽ không được tái tục kể từ Ngày
+ Kỷ Niệm Năm Hợp Đồng tiếp theo. Bằng việc đóng phí theo mức phí bảo hiểm mới, Bên Mua Bảo Hiểm được coi là
+ đã đồng ý với mức phí bảo hiểm mới này.
+
+ 7.3. Phí bảo hiểm của Sản Phẩm Bảo Hiểm này cần được đóng đầy đủ và đúng hạn.
+
+ 7.4. Sản Phẩm Bảo Hiểm này sẽ có cùng định kỳ đóng phí với Hợp Đồng Bảo Hiểm và có thời gian gia hạn là 60 (sáu
+ mươi) ngày kể từ ngày đến hạn đóng phí. Trong thời gian gia hạn đóng phí, Sản Phẩm Bảo Hiểm này vẫn có hiệu
+ lực. Trong trường hợp có yêu cầu giải quyết quyền lợi bảo hiểm cho các sự kiện bảo hiểm phát sinh trong thời gian
+ gia hạn đóng phí, Manulife sẽ chi trả quyền lợi bảo hiểm sau khi trừ đi phí bảo hiểm đến hạn chưa được thanh toán.
+
+ 7.5. Dịch vụ bảo lãnh viện phí không được áp dụng khi Bên Mua Bảo Hiểm chưa thanh toán đầy đủ phí bảo hiểm đến hạn.
+
+<!-- page 16 (pdf 16 full) -->
+Chương V. HIỆU LỰC CỦA SẢN PHẨM BẢO HIỂM
+
+
+
+Điều 8. THỜI HẠN BẢO HIỂM VÀ THỜI HẠN ĐÓNG PHÍ
+
+ 8.1. Thời hạn bảo hiểm của Sản Phẩm Bảo Hiểm này là 01 (một) năm tính từ ngày Sản Phẩm Bảo Hiểm này có hiệu lực
+ và có thể được tái tục hàng năm.
+
+ 8.2. Trừ trường hợp chấm dứt hiệu lực theo quy định tại Điều 10, Sản Phẩm Bảo Hiểm này có thể được tái tục hàng năm
+ tại mỗi Ngày Kỷ Niệm Năm Hợp Đồng, tối đa 19 (mười chín) lần hoặc đến khi Người Được Bảo Hiểm đạt 75 (bảy
+ mươi lăm) Tuổi, tùy thời điểm nào đến trước. Bên Mua Bảo Hiểm sẽ đóng phí bảo hiểm theo mức phí do Manulife
+ áp dụng tại thời điểm tái tục.
+
+ Trong vòng 60 (sáu mươi) ngày kể từ ngày kết thúc năm hợp đồng tái tục lần thứ 19, Manulife sẽ không yêu cầu thẩm
+ định nếu Người Được Bảo Hiểm vẫn thuộc độ tuổi tham gia và có yêu cầu tham gia thêm Sản Phẩm Bảo Hiểm này.
+
+ 8.3. Thời hạn đóng phí của sản phẩm này bằng thời hạn bảo hiểm của Sản Phẩm Bảo Hiểm.
+
+ 8.4. Những quy định về chương trình bảo hiểm, quyền lợi bảo hiểm, các điều khoản và điều kiện khác sẽ tiếp tục được
+ áp dụng sau khi Sản Phẩm Bảo Hiểm này được tái tục.
+
+ 8.5. Trong trường hợp Manulife từ chối tái tục Sản Phẩm Bảo Hiểm này vì bất kỳ lý do nào, Manulife sẽ gửi thông báo
+ bằng văn bản cho Bên Mua Bảo Hiểm ít nhất 30 (ba mươi) ngày trước Ngày Kỷ Niệm Năm Hợp Đồng tiếp theo.
+
+
+Điều 9. MẤT HIỆU LỰC VÀ KHÔI PHỤC HIỆU LỰC SẢN PHẨM BẢO HIỂM
+
+ 9.1. Sản Phẩm Bảo Hiểm này sẽ mất hiệu lực trong bất kỳ trường hợp sau đây:
+
+ a. Phí bảo hiểm của Sản Phẩm Bảo Hiểm này chưa được đóng đầy đủ trong thời gian gia hạn 60
+ (sáu mươi) ngày kể từ ngày đến hạn đóng phí bảo hiểm;
+
+
+ b. Hợp Đồng Bảo Hiểm mất hiệu lực.
+
+
+ 9.2. Bên Mua Bảo Hiểm có thể yêu cầu khôi phục hiệu lực Sản Phẩm Bảo Hiểm này trong vòng 02 (hai) năm kể từ ngày
+ Sản Phẩm Bảo Hiểm này mất hiệu lực nhưng không trễ hơn Ngày Đáo Hạn Hợp Đồng và đáp ứng các quy định của
+ Manulife tại thời điểm khôi phục.
+
+
+Điều 10. CHẤM DỨT SẢN PHẨM BẢO HIỂM
+
+ 10.1. Sản Phẩm Bảo Hiểm này sẽ chấm dứt trong bất kỳ trường hợp nào sau đây:
+
+ a. Sản Phẩm Bảo Hiểm này mất hiệu lực theo quy định tại Điều 9.1 và không được khôi phục trong
+ vòng 02 (hai) năm kể từ ngày mất hiệu lực;
+
+
+ b. Sản Phẩm Bảo Hiểm này chấm dứt theo yêu cầu của Bên Mua Bảo Hiểm theo quy định tại Điều 4.3;
+
+
+
+ c. Sản Phẩm Bảo Hiểm này không được tái tục theo quy định tại Điều 8;
+
+
+
+ d. Người Được Bảo Hiểm tử vong;
+
+
+
+ e. Hợp Đồng Bảo Hiểm chấm dứt hiệu lực;
+
+<!-- page 17 (pdf 17 full) -->
+f. Người Được Bảo Hiểm không còn đáp ứng điều kiện để được bảo hiểm, cụ thể như sau:
+
+ (i) Tuổi của Người Được Bảo Hiểm nằm ngoài độ tuổi bảo hiểm của Sản Phẩm Bảo Hiểm; hoặc
+
+ (ii) Người Được Bảo Hiểm thay đổi nghề nghiệp, tính chất công việc hoặc ra khỏi lãnh thổ Việt
+ Nam dẫn đến tăng rủi ro bảo hiểm và Manulife chấm dứt Sản Phẩm Bảo Hiểm này như được
+ quy định tại Điều 5.5.a hoặc 5.5.b.
+
+
+ 10.2. Manulife sẽ chi trả khoản phí bảo hiểm chưa sử dụng (nếu có) của Sản Phẩm Bảo Hiểm này trong trường hợp
+ Sản Phẩm Bảo Hiểm này bị chấm dứt theo quy định tại Điều 10.1.d và Điều 10.1.f.
+
+
+Điều 11. HỦY BỎ SẢN PHẨM BẢO HIỂM
+
+ 11.1. Sản Phẩm Bảo Hiểm này sẽ bị hủy bỏ và không có hiệu lực kể từ Ngày Hiệu Lực của Sản Phẩm Bảo Hiểm này trong
+ bất kỳ trường hợp sau đây:
+
+
+ a. Yêu cầu bảo hiểm của Sản Phẩm Bảo Hiểm này không có sự đồng ý bằng văn bản hoặc không
+ được ký, xác thực bởi Người Được Bảo Hiểm/người giám hộ hợp pháp của Người Được Bảo
+ Hiểm (nếu Người Được Bảo Hiểm là người chưa thành niên);
+
+
+ b. Sản Phẩm Bảo Hiểm này bị hủy bỏ theo quy định tại Điều 12;
+
+
+ c. Hợp Đồng Bảo Hiểm bị hủy bỏ.
+
+
+
+ 11.2. Khi Sản Phẩm Bảo Hiểm này bị hủy bỏ, Manulife sẽ gửi thư thông báo tới Bên Mua Bảo Hiểm và không thanh toán
+ bất kỳ quyền lợi nào theo quy định tại Quy tắc, Điều Kiện và Điều Khoản của Sản Phẩm Bảo Hiểm này và sẽ hoàn
+ lại toàn bộ phí bảo hiểm đã đóng của Sản Phẩm Bảo Hiểm này (không có lãi) cho Bên Mua Bảo Hiểm sau khi trừ
+ đi các chi phí sau:
+
+
+ a. Tổng số tiền đã chi trả quyền
+ b. Chi phí kiểm tra y tế.
+ lợi bảo hiểm; và
+
+<!-- page 18 (pdf 18 full) -->
+Chương VI. QUY ĐỊNH CHUNG
+
+
+
+Điều 12. TRÁCH NHIỆM CUNG CẤP THÔNG TIN
+
+ 12.1. Trách nhiệm cung cấp thông tin của Bên Mua Bảo Hiểm
+
+ Khi yêu cầu tham gia Sản Phẩm Bảo Hiểm này, Bên Mua Bảo Hiểm có trách nhiệm cung cấp đầy đủ, trung thực
+ thông tin liên quan đến Người Được Bảo Hiểm theo yêu cầu của Manulife.
+
+ Trường hợp Bên Mua Bảo Hiểm cố ý cung cấp không đầy đủ thông tin hoặc cung cấp thông tin sai sự thật nhằm
+ tham gia Sản Phẩm Bảo Hiểm để được trả tiền bảo hiểm thì Manulife có quyền hủy bỏ Sản Phẩm Bảo Hiểm này.
+ Manulife không chi trả quyền lợi bảo hiểm và sẽ hoàn lại toàn bộ phí bảo hiểm đã đóng của Sản Phẩm Bảo Hiểm
+ này (không có lãi) cho Bên Mua Bảo Hiểm sau khi khấu trừ các chi phí sau:
+
+
+ a. Tổng số tiền đã chi trả quyền lợi
+ b. Chi phí kiểm tra y tế.
+ bảo hiểm; và
+
+ Bên Mua Bảo Hiểm phải bồi thường thiệt hại phát sinh cho Manulife (nếu có).
+
+
+ 12.2. Trách nhiệm cung cấp thông tin của Manulife
+
+ Khi Bên Mua Bảo Hiểm yêu cầu tham gia Sản Phẩm Bảo Hiểm này, Manulife có trách nhiệm cung cấp đầy đủ,
+ chính xác thông tin liên quan, giải thích các điều kiện, điều khoản bảo hiểm cho Bên Mua Bảo Hiểm. Trường hợp
+ Manulife cố ý không thực hiện nghĩa vụ cung cấp thông tin hoặc cung cấp thông tin sai sự thật thì Bên Mua Bảo
+ Hiểm có quyền hủy bỏ Sản Phẩm Bảo Hiểm này. Bên Mua Bảo Hiểm sẽ được hoàn lại toàn bộ phí bảo hiểm đã
+ đóng của Sản Phẩm Bảo Hiểm này (không có lãi).
+
+ Manulife phải bồi thường thiệt hại phát sinh cho Bên Mua Bảo Hiểm (nếu có).
+
+
+Điều 13. BẢO MẬT VÀ BẢO VỆ DỮ LIỆU
+
+ 13.1. Dữ liệu được bảo mật và bảo vệ là những dữ liệu cá nhân do Bên Mua Bảo Hiểm/ Người Được Bảo Hiểm/ Người
+ Thụ Hưởng cung cấp và cho phép Manulife thu thập, sử dụng và xử lý theo quy định pháp luật hiện hành, bao gồm
+ nhưng không giới hạn ở những dữ liệu sau:
+
+ a. Dữ liệu cá nhân cơ bản: họ, chữ đệm và tên khai sinh, tên gọi khác, ngày, tháng, năm sinh,
+ ngày, tháng, năm chết hoặc mất tích, giới tính, nơi sinh, nơi thường trú, nơi tạm trú, nơi ở hiện
+ tại, quê quán, địa chỉ liên hệ, địa chỉ thư điện tử, số điện thoại, thông tin về mối quan hệ gia đình
+ và những người khác được chỉ định là Người Được Bảo Hiểm, Người Thụ Hưởng hoặc được
+ ủy quyền theo chương trình bảo hiểm, số chứng minh nhân dân, số định danh cá nhân, số hộ
+ chiếu, số bảo hiểm xã hội, số thẻ bảo hiểm y tế, số hợp đồng bảo hiểm, quốc tịch, hình ảnh của
+ cá nhân, tình trạng hôn nhân, thông tin liên quan đến (các) hợp đồng bảo hiểm tại Manulife.
+
+
+ b. Dữ liệu cá nhân nhạy cảm: tình trạng y tế, sức khỏe và đời tư được ghi trong hồ sơ bệnh án,
+ thông tin về đặc điểm di truyền được thừa hưởng hoặc có được của cá nhân.
+
+
+ 13.2. Manulife sẽ thực hiện việc bảo mật và bảo vệ dữ liệu cá nhân theo quy định pháp luật hiện hành. Manulife sẽ chỉ
+ xử lý dữ liệu cá nhân như quy định tại Điều 13.1 cho các mục đích mà Bên Mua Bảo Hiểm/ Người Được Bảo
+ Hiểm/Người Thụ Hưởng đã đồng ý, không chuyển giao dữ liệu cá nhân này cho bất kỳ bên thứ ba nào khác, trừ
+ các trường hợp sau đây:
+
+ a. Thu thập, sử dụng, chuyển giao, xử lý theo yêu cầu của cơ quan nhà nước có thẩm quyền, của
+ công ty thành viên trong nhóm công ty của Manulife;
+
+ b. Cho mục đích xác nhận danh tính của Bên Mua Bảo Hiểm/Người Được Bảo Hiểm/Người Thụ
+ Hưởng, tính chính xác của dữ liệu, thông tin về Bên Mua Bảo Hiểm/Người Được Bảo Hiểm/
+ Người Thụ Hưởng;
+
+
+ c. Cho mục đích đánh giá khả năng chi trả của Bên Mua Bảo Hiểm đối với các sản phẩm bảo hiểm,
+ dịch vụ mà Bên Mua Bảo Hiểm đăng ký mua; thẩm định, đánh giá rủi ro, tính toán phí bảo hiểm,
+ phát hành, giao kết Hợp Đồng Bảo Hiểm, thu phí bảo hiểm; đánh giá rủi ro bảo hiểm khi có bất
+ kỳ thay đổi hoặc gia hạn Hợp Đồng Bảo Hiểm nào;
+
+<!-- page 19 (pdf 19 full) -->
+d. Cho mục đích thực hiện các chức năng và hoạt động liên quan đến sản phẩm, dịch vụ của
+ Manulife, ví dụ như: tái bảo hiểm, trích lập dự phòng nghiệp vụ, cung cấp và duy trì việc cung
+ cấp các sản phẩm, dịch vụ trực tuyến, các hoạt động tiếp thị hoặc các hoạt động có liên quan
+ khác;
+
+ e. Cho mục đích quản lý, giám sát, kiểm soát toàn bộ quá trình cung cấp các sản phẩm, dịch vụ
+ của Manulife, bao gồm cả việc xác minh, rà soát, đánh giá và giải quyết khiếu nại, tranh chấp
+ có liên quan;
+
+ f. Cho mục đích giải quyết quyền lợi bảo hiểm;
+
+
+
+ g. Cho mục đích cung cấp các dịch vụ chăm sóc khách hàng;
+
+
+ h. Cho mục đích thanh toán hoặc nhận các khoản thanh toán; thu hồi các khoản nợ liên quan đến
+ việc cung cấp các sản phẩm, dịch vụ của Manulife;
+
+ i. Cho mục đích phát hiện, xác minh và ngăn chặn, phòng, chống gian lận bảo hiểm hoặc các hoạt
+ động bất hợp pháp hoặc không chính đáng khác;
+
+
+ j. Cho mục đích huấn luyện nhân sự và giám sát để đảm bảo chất lượng sản phẩm, dịch vụ;
+
+
+ k. Cho mục đích giải quyết khiếu nại và xử lý các yêu cầu truy cập, cung cấp, chỉnh sửa, xóa dữ
+ liệu cá nhân của Bên Mua Bảo Hiểm/Người Được Bảo Hiểm/Người Thụ Hưởng;
+
+
+ l. Cho mục đích giám sát tuân thủ, kiểm toán, và các mục đích quản trị khác;
+
+
+ m. Cho mục đích giúp Bên Mua Bảo Hiểm/Người Được Bảo Hiểm/Người Thụ Hưởng theo dõi sức
+ khỏe và các hoạt động chăm sóc sức khỏe của mình;
+
+ n. Cho mục đích vận hành hoạt động kinh doanh; cải thiện, phát triển các hạ tầng kỹ thuật, công
+ nghệ thông tin phục vụ, hỗ trợ cho việc cung cấp sản phẩm, dịch vụ của Manulife;
+
+ o. Cho các hoạt động thống kê, nghiên cứu hoặc phân tích dữ liệu liên quan đến các sản phẩm,
+ dịch vụ được Manulife cung cấp;
+
+ p. Cho các mục đích khác không được đề cập ở trên nhưng được quy định rõ trong bất kỳ sản
+ phẩm, dịch vụ cụ thể nào do Manulife cung cấp, hoặc được pháp luật hoặc cơ quan nhà nước
+ có thẩm quyền cho phép.
+
+
+13.3. Bên Mua Bảo Hiểm/Người Được Bảo Hiểm/Người Thụ Hưởng bảo mật dữ liệu cá nhân của mình như quy định tại
+ Điều 13 và có các quyền sau:
+
+
+ a. Đồng ý, không đồng ý hoặc rút lại sự đồng ý cho phép xử lý dữ liệu cá nhân của mình.
+
+
+ b. Truy cập để xem, chỉnh sửa hoặc yêu cầu chỉnh sửa dữ liệu cá nhân của mình;
+
+
+ c. Xóa hoặc yêu cầu xóa dữ liệu cá nhân của mình;
+
+
+ d. Yêu cầu hạn chế hoặc phản đối việc xử lý dữ liệu cá nhân;
+
+
+ e. Yêu cầu cung cấp cho bản thân dữ liệu cá nhân của mình;
+
+
+ f. Các quyền khác theo quy định của pháp luật.
+
+<!-- page 20 (pdf 20 full) -->
+Điều 14. NHẦM LẪN KHI KÊ KHAI TUỔI
+
+ 14.1. Trong trường hợp kê khai nhầm Tuổi của Người Được Bảo Hiểm và Tuổi đúng vẫn thuộc nhóm tuổi tham gia Sản
+ Phẩm Bảo Hiểm này:
+
+
+ a. Phí bảo hiểm tính theo Tuổi đúng của Người Được Bảo Hiểm thấp hơn phí bảo hiểm đã đóng:
+ Bên Mua Bảo Hiểm có quyền yêu cầu Manulife giảm phí bảo hiểm cho thời gian còn lại của Sản Phẩm
+ Bảo Hiểm này. Trường hợp Manulife không chấp nhận yêu cầu này, Bên Mua Bảo Hiểm có quyền đơn
+ phương chấm dứt Sản Phẩm Bảo Hiểm này và thông báo bằng văn bản cho Manulife. Manulife sẽ hoàn
+ lại phí bảo hiểm cho thời gian còn lại của Sản Phẩm Bảo Hiểm này.
+
+
+ b. Phí bảo hiểm tính theo Tuổi đúng của Người Được Bảo Hiểm cao hơn phí bảo hiểm đã đóng:
+ Manulife sẽ tính lại phí bảo hiểm cho thời gian còn lại của Sản Phẩm Bảo Hiểm này. Trường hợp Bên
+ Mua Bảo Hiểm không chấp nhận phí bảo hiểm mới này, Manulife có quyền đơn phương chấm dứt Sản
+ Phẩm Bảo Hiểm này và thông báo bằng văn bản cho Bên Mua Bảo Hiểm. Manulife sẽ hoàn lại phí bảo
+ hiểm cho thời gian còn lại của Sản Phẩm Bảo Hiểm này.
+
+
+ 14.2. Trong trường hợp kê khai nhầm Tuổi của Người Được Bảo Hiểm và Tuổi đúng không thuộc nhóm tuổi tham gia Sản
+ Phẩm Bảo Hiểm này, Manulife có quyền hủy bỏ Sản Phẩm Bảo Hiểm này. Manulife sẽ hoàn lại toàn bộ phí bảo hiểm
+ đã đóng của Sản Phẩm Bảo Hiểm này (không có lãi) cho Bên Mua Bảo Hiểm sau khi khấu trừ các chi phí sau:
+
+
+ a. Tổng số tiền đã chi trả quyền lợi b. Chi phí kiểm tra y tế.
+ bảo hiểm; và
+
+
+
+Điều 15. MIỄN TRUY XÉT
+
+ 15.1. Trong thời gian Sản Phẩm Bảo Hiểm này có hiệu lực, việc Bên Mua Bảo Hiểm, Người Được Bảo Hiểm kê khai
+ không chính xác hoặc bỏ sót các thông tin trong Hồ sơ yêu cầu bảo hiểm hoặc các mẫu đơn, bản kê khai liên quan
+ đến việc thẩm định và chấp thuận bảo hiểm sẽ không làm cho Sản Phẩm Bảo Hiểm này bị hủy bỏ nếu Sản Phẩm
+ Bảo Hiểm này đã có hiệu lực ít nhất 24 (hai mươi tư) tháng kể từ Ngày Hiệu Lực hoặc kể từ ngày khôi phục hiệu
+ lực gần nhất, tùy vào ngày nào đến sau.
+
+ 15.2. Các quy định tại Điều 15.1 sẽ không áp dụng cho các trường hợp sau:
+
+
+ a. Nhầm lẫn khi kê khai Tuổi như quy định tại Điều 14;
+
+
+ b. Bên Mua Bảo Hiểm, Người Được Bảo Hiểm cố ý cung cấp không đầy đủ thông tin hoặc cung
+ cấp thông tin sai sự thật mà nếu biết được các thông tin này, Manulife sẽ từ chối cấp Sản Phẩm
+ Bảo Hiểm này.
+
+
+
+Điều 16. GIẢI QUYẾT MÂU THUẪN VÀ TRANH CHẤP
+
+ 16.1. Hợp Đồng Bảo Hiểm được điều chỉnh và giải thích theo pháp luật của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.
+
+ 16.2. Nếu có bất kỳ tranh chấp nào không thể giải quyết thông qua thương lượng thì tranh chấp đó sẽ được đưa ra tòa
+ án có thẩm quyền nơi Bên Mua Bảo Hiểm cư trú hợp pháp hoặc nơi Manulife có trụ sở chính để giải quyết.
+
+<!-- page 21 (pdf 21 full) -->
+Chương VII. CÁC THUẬT NGỮ CẦN BIẾT
+
+
+
+
+1. Bác Sĩ Là người được cấp chứng chỉ hành nghề khám bệnh, chữa bệnh bởi cơ quan nhà nước có thẩm
+ quyền và thực hiện khám bệnh, chữa bệnh. Trừ trường hợp có sự phân công/văn bản của cấp
+ có thẩm quyền, Bác Sĩ điều trị hoặc Bác Sĩ ký tên trên hồ sơ y tế không được đồng thời là:
+ (i) Bên Mua Bảo Hiểm; hoặc
+ (ii) Người Được Bảo Hiểm; hoặc
+ (iii) Người Thụ Hưởng; hoặc
+ (iv) Đại lý bảo hiểm của Hợp Đồng Bảo Hiểm; hoặc
+ (v) Người có quan hệ gia đình với Bên Mua Bảo Hiểm, Người Được Bảo Hiểm, Người Thụ
+ Hưởng, đại lý bảo hiểm của Hợp Đồng Bảo Hiểm bao gồm: vợ, chồng, bố đẻ, mẹ đẻ, bố
+ nuôi, mẹ nuôi, bố chồng, mẹ chồng, bố vợ, mẹ vợ, con đẻ, con nuôi, con rể, con dâu,
+ anh ruột, chị ruột, em ruột, anh rể, em rể, chị dâu, em dâu, anh ruột của vợ, anh ruột của
+ chồng, chị ruột của vợ, chị ruột của chồng, em ruột của vợ, em ruột của chồng.
+
+2. Bên Mua Bảo Hiểm Là tổ chức được thành lập và hoạt động hợp pháp tại Việt Nam hoặc cá nhân từ đủ 18 (mười
+ tám) Tuổi trở lên, đang sinh sống tại Việt Nam và có năng lực hành vi dân sự đầy đủ; và
+ được ghi nhận là Bên Mua Bảo Hiểm trong Trang Hợp Đồng (Giấy Chứng Nhận Bảo Hiểm),
+ hoặc Xác Nhận Thay Đổi Hợp Đồng (nếu có).
+
+3. Bệnh Là tình trạng bất thường về hình thái, cấu trúc, chức năng của một hay nhiều cơ quan trong
+ cơ thể phát sinh do nguyên nhân bên trong hoặc bên ngoài.
+ Một bệnh được xem như bắt đầu khi bệnh đó đã được tham vấn, chẩn đoán, điều trị bởi Bác
+ Sĩ hoặc đã làm phát sinh những triệu chứng khiến cho một người bình thường phải tìm sự
+ tham vấn, chẩn đoán, hoặc điều trị của Bác Sĩ.
+4. Bệnh Bẩm Sinh/ Là những bất thường về hình thái, cấu trúc, chức năng của cơ thể phát sinh trong quá trình thụ
+Dị Tật Bẩm Sinh tinh hình thành phôi, mang thai. Bệnh Bẩm Sinh/Dị Tật Bẩm Sinh có thể biểu hiện và được chẩn
+ đoán trước khi sinh, ngay sau khi sinh, hoặc ở các giai đoạn sống về sau của con người.
+
+5. Bệnh Có Sẵn Bệnh Có Sẵn là tình trạng bệnh tật của Người Được Bảo Hiểm đã được Bác Sĩ chẩn đoán
+ hoặc điều trị trước: (i) Ngày Hiệu Lực của Sản Phẩm Bảo Hiểm này hoặc Ngày Hiệu Lực của
+ việc bổ sung quyền lợi bảo hiểm (áp dụng cho quyền lợi lựa chọn thêm); (ii) ngày khôi phục
+ hiệu lực gần nhất của Sản Phẩm Bảo Hiểm này, tùy vào ngày nào đến sau.
+ Việc xác định bệnh có sẵn phải căn cứ vào hồ sơ y tế được lưu trữ tại Bệnh Viện hoặc Cơ
+ Sở Y Tế được thành lập hợp pháp, các tài liệu y khoa được Bộ Y tế và các cơ quan có thẩm
+ quyền ban hành hoặc các thông tin do Bên Mua Bảo Hiểm, Người Được Bảo Hiểm tự kê khai
+ trên Hồ sơ yêu cầu bảo hiểm hoặc phiếu bổ sung thông tin.
+
+6. Bệnh Đặc Biệt Bao gồm: sỏi đường niệu, sỏi đường mật, tăng huyết áp, bệnh hệ tuần hoàn, bệnh đái tháo
+ đường, tất cả các khối u, nang, polip hoặc ung thư, viêm xoang, thoát vị, bệnh trĩ hoặc rò hậu
+ môn, lạc nội mạc tử cung, chảy máu tử cung do rối loạn cơ năng, các bệnh lý cột sống, phì
+ đại tiền liệt tuyến, bệnh lao, hen, loét đường tiêu hóa, đục thủy tinh thể, Gout, bệnh Parkinson,
+ viêm gan (B, C), viêm thận, viêm khớp và các bệnh liên quan đến hệ thống tái tạo máu (bao
+ gồm thay máu, lọc máu, chạy thận nhân tạo, bệnh suy tủy, bạch cầu cấp, bạch cầu mãn tính).
+
+7. Bệnh Viện Là Cơ Sở Y Tế được thành lập hợp pháp và hoạt động theo luật của nước sở tại tại nơi tổ
+ chức này đặt cơ sở, có giấy phép hoạt động và đáp ứng tất cả các yêu cầu sau:
+ a. Được thành lập và hoạt động liên tục 24 giờ trong ngày nhằm cung cấp dịch vụ khám,
+ chẩn đoán và điều trị cho người bị bệnh tật, thương tích;
+ b. Có đầy đủ năng lực và phương tiện để thực hiện các ca phẫu thuật y khoa;
+ c. Có đầy đủ điều kiện cho hoạt động điều trị nội trú và theo dõi bệnh nhân;
+ d. Có lưu giữ đầy đủ bệnh án và hồ sơ của bệnh nhân theo tiêu chuẩn quy định của cơ
+ quan có thẩm quyền. Bệnh Viện bao gồm Bệnh Viện Công Lập và Bệnh Viện Tư Nhân;
+ LOẠI TRỪ: nơi an dưỡng, dưỡng lão, spa, thẩm mỹ, massage, xông hơi, cơ sở chữa trị dành
+ riêng cho người nghiện rượu, ma túy, chất kích thích, người bị bệnh tâm thần, rối loạn tâm thần,
+ bệnh phong.
+
+8. Bệnh Viện Công Lập Là Bệnh Viện do cơ quan Nhà nước có thẩm quyền thành lập, sở hữu duy nhất và quản lý
+ theo quy định của pháp luật của nước sở tại, hoặc được sở hữu, quản lý và hoạt động dựa
+ trên liên kết giữa cơ quan Nhà nước với cá nhân, doanh nghiệp hoặc tổ chức không phải là
+ tổ chức Nhà nước.
+
+<!-- page 22 (pdf 22 full) -->
+9. Bệnh Viện Tư Nhân Là Bệnh Viện được thành lập, sở hữu và quản lý bởi cá nhân, doanh nghiệp hoặc tổ chức
+ không phải là tổ chức Nhà nước.
+
+10. Biến Chứng Thai Sản Là những biến chứng xảy ra trong quá trình mang thai và sinh đẻ bao gồm: sảy thai, nhau
+ tiền đạo, thai trứng, thai ngoài tử cung, thuyên tắc ối (tắc mạch ối), đông máu nội mạch lan
+ tỏa, gan nhiễm mỡ cấp tính trong thai kỳ, nhau cài răng lược, băng huyết sau sinh, sản giật
+ hoặc tiền sản giật, thai lưu, vỡ tử cung, các trường hợp phá thai do bệnh lý/dị tật bẩm sinh
+ của thai nhi mà cần chấm dứt thai kì nhằm đảm bảo tính mạng của người mẹ theo chỉ định
+ của Bác Sĩ.
+ Những biến chứng không thuộc danh sách trên sẽ không được Manulife chi trả trong
+ phạm vi của Sản Phẩm Bảo Hiểm này.
+
+11. Cần Thiết Về Mặt Y Khoa Là dịch vụ y tế hoặc điều trị y tế đáp ứng tất cả các điều kiện sau:
+ a. Nhằm mục đích chẩn đoán và theo đúng chẩn đoán của Bác Sĩ để điều trị cho Bệnh,
+ Thương Tích của Người Được Bảo Hiểm;
+ b. Phù hợp với các chẩn đoán và thông lệ về chẩn trị y tế đối với Bệnh, Thương Tích hoặc
+ thai sản;
+ c. Phù hợp với tiêu chuẩn về hành nghề y dược;
+ d. Có tính chất bắt buộc và phải thực hiện tại Cơ Sở Y Tế;
+ e. Không nhằm mục đích thử nghiệm, nghiên cứu, phòng ngừa hoặc tầm soát;
+ f. Có số ngày nằm viện là hợp lý và phù hợp với thông lệ điều trị cho Bệnh hoặc Thương
+ Tích liên quan.
+
+12. Cấy Ghép Implant Là phương pháp trồng răng sử dụng Titanium với hình dáng giống chân răng được cấy ghép
+ vào trong xương hàm, có chức năng nâng đỡ cho một mão, một cầu răng hay một hàm răng
+ giả để thay thế các răng đã mất.
+
+13. Cấy Ghép Nội Tạng Là việc Phẫu Thuật Cấy Ghép tim, phổi, gan, tuyến tụy, thận, tủy xương cho Người Được
+ Bảo Hiểm được tiến hành tại Bệnh Viện.
+ LOẠI TRỪ việc Cấy Ghép Nội Tạng bất hợp pháp hoặc phát sinh từ giao dịch bất hợp pháp.
+
+14. Chi Phí Dưỡng Nhi Là các chi phí y tế cần thiết phát sinh trong vòng 07 (bảy) ngày kể từ khi sinh để chăm sóc
+ trẻ sơ sinh trong Bệnh Viện. Chi Phí Dưỡng Nhi không bao gồm chi phí khám, chẩn đoán,
+ xét nghiệm hoặc điều trị Bệnh Bẩm Sinh/ Dị Tật Bẩm Sinh. Thời điểm phát sinh của Chi Phí
+ Dưỡng Nhi sẽ được tính từ ngày sinh.
+
+15. Chi Phí Phẫu Thuật Là chi phí dùng trong Phẫu Thuật, bao gồm: chi phí thuốc, Vật Tư Tiêu Hao, chi phí phòng
+ mổ, chi phí Bác Sĩ phẫu thuật, chi phí gây mê, gây tê (không áp dụng đối với gây tê tại chỗ)
+ và các bộ phận giả theo tiêu chuẩn được lắp đặt trong quá trình Phẫu Thuật và các Chi Phí
+ Y Tế Thực Tế khác cho ca Phẫu Thuật.
+ Chi Phí Phẫu Thuật Cấy Ghép bao gồm chi phí máy tạo nhịp tim, máy khử rung tim cấy
+ ghép (ICD), thấu kính nội nhãn (bao gồm thấu kính đa tiêu cự), cấy ghép ốc tai điện tử.
+ Vật Tư Tiêu Hao là vật tư được sử dụng nhằm mục đích hỗ trợ điều trị Bệnh hoặc Thương
+ Tích và không được lắp đặt vĩnh viễn trong cơ thể.
+ LOẠI TRỪ các vật tư:
+ (i) tự tiêu trong cơ thể, hoặc
+ (ii) có thể lấy ra khỏi cơ thể mà không ảnh hưởng đến chức năng hoạt động của cơ thể
+ nhưng do cơ thể không đào thải nên không cần thiết lấy ra.
+
+16. Chi Phí Tái Tạo Tuyến Vú Là các Chi Phí Y Tế Thực Tế cần thiết phát sinh để tái tạo tuyến vú sau đoạn nhũ do ung thư
+Sau Đoạn Nhũ Do Ung Thư vú và phải đáp ứng tất cả các điều kiện sau:
+ a. Việc tái tạo tuyến vú phải được thực hiện sau thời gian chờ áp dụng cho Điều Trị Ung
+ Thư và trong vòng 06 (sáu) tháng kể từ ngày việc Điều Trị Ung Thư được thực hiện;
+ b. Bất kì can thiệp nào liên quan đến việc phẫu thuật hoặc tái tạo bên vú còn lại nhằm mục
+ đích cân xứng sẽ không được bảo hiểm.
+
+17. Chi Phí Xe Cứu Thương Là chi phí vận chuyển cấp cứu bằng xe cứu thương và chăm sóc trong quá trình vận chuyển
+ Người Được Bảo Hiểm đang trong Tình Trạng Khẩn Cấp tới Cơ Sở Y Tế gần nhất hoặc chi
+ phí cho việc vận chuyển cấp cứu giữa các Bệnh Viện hoặc Cơ Sở Y Tế trong trường hợp có
+ chỉ định của Bác Sĩ. Manulife không chi trả chi phí này cho trường hợp thai sản.
+ LOẠI TRỪ cấp cứu thai sản do Tai Nạn.
+
+18. Chi Phí Y Tế Nội Trú Khác Là chi phí y tế khi thực hiện các xét nghiệm, chẩn đoán hình ảnh, thuốc, dịch truyền, máu,
+ huyết tương, tiêm truyền tĩnh mạch, phí thăm khám của Bác Sĩ, chi phí thuê xe lăn, chi phí
+ hành chính, Vật Tư Tiêu Hao và các Chi Phí Y Tế Thực Tế khác.
+
+<!-- page 23 (pdf 23 full) -->
+19. Chi Phí Y Tế Thông Lệ Và a. Là mức giá dịch vụ thông thường mà Cơ Sở Y Tế áp dụng chung cho tất cả bệnh nhân
+Hợp Lý của mình theo mức dịch vụ cơ bản tại Cơ Sở Y Tế đó mà không phải là dịch vụ theo yêu
+ cầu của bệnh nhân hay dịch vụ nâng cao; hoặc
+ b. Là mức giá dịch vụ do Manulife xác định dựa trên các trường hợp tương tự Manulife đã
+ xử lý và các báo giá dịch vụ tương đương của các Cơ Sở Y Tế có cùng tiêu chuẩn trong
+ cùng khu vực địa lý.
+
+20. Chi Phí Y Tế Thực Tế Là chi phí phát sinh thực tế để trả cho Đợt Điều Trị hoặc Lần Thăm Khám mà Người Được
+ Bảo Hiểm sử dụng theo quy định trong Quy Tắc, Điều Kiện và Điều Khoản Sản Phẩm và phải
+ đáp ứng tất cả các điều kiện sau:
+ a. Phát sinh phù hợp với phạm vi giấy phép hoạt động của Cơ Sở Y Tế;
+ b. Chi trả cho các dịch vụ y tế Cần Thiết Về Mặt Y Khoa;
+ c. Theo chỉ định của Bác Sĩ điều trị, phát sinh khi Người Được Bảo Hiểm phải điều trị Bệnh,
+ Thương Tích hoặc thai sản tại Cơ Sở Y Tế (không bao gồm chi phí đã được bảo hiểm y
+ tế nhà nước hoặc sản phẩm bảo hiểm khác chi trả);
+ d. Không thuộc trường hợp loại trừ theo quy định tại Điều 3;
+ e. Không phải là chi phí, dịch vụ y tế nhằm phục vụ cho sự tiện lợi của bệnh nhân hoặc gia
+ đình của bệnh nhân hoặc Bác Sĩ;
+ f. Theo đúng tiêu chuẩn được chấp nhận chung để chăm sóc cho các bệnh nhân và được
+ xem là thích hợp cho việc điều trị Bệnh/ Thương Tích của bệnh nhân;
+ g. Là mức Chi Phí Y Tế Thông Lệ Và Hợp Lý.
+
+21. Cơ Sở Y Tế Là một cơ sở khám chữa bệnh hợp pháp và được cơ quan nhà nước có thẩm quyền của
+ nước sở tại cấp giấy phép hoạt động;
+ LOẠI TRỪ: phòng mạch Bác Sĩ tư, nơi an dưỡng, dưỡng lão, spa, thẩm mỹ, massage, xông
+ hơi, cơ sở chữa trị dành riêng cho người nghiện rượu, ma túy, chất kích thích, người bị bệnh
+ tâm thần và bệnh phong.
+
+22. Dịch Vụ Chăm Sóc Y Tế Là dịch vụ chăm sóc y tế tại nơi ở của Người Được Bảo Hiểm, được thực hiện bởi Y Tá/
+Tại Nhà Điều Dưỡng hoặc Bác Sĩ ngay sau khi xuất viện theo chỉ định của Bác Sĩ tại Bệnh Viện nơi
+ Người Được Bảo Hiểm Điều Trị Nội Trú trong vòng 60 (sáu mươi) ngày kể từ ngày xuất viện.
+ Chi phí cho dịch vụ này phải có hóa đơn tài chính của Bệnh Viện.
+ Quyền lợi này không áp dụng cho trường hợp xuất viện sau sinh.
+
+23. Điều Trị Cấp Cứu Là việc điều trị Tình Trạng Khẩn Cấp do Tai Nạn của Người Được Bảo Hiểm tại phòng cấp
+ cứu của Bệnh Viện được thực hiện trong vòng 24 (hai mươi tư) giờ kể từ khi xảy ra Tai Nạn.
+
+24. Điều Trị Ngoại Trú Là việc Người Được Bảo Hiểm điều trị y tế (bao gồm khám chữa bệnh trực tuyến) mà không
+ phải là Điều Trị Nội Trú hoặc Điều Trị Trong Ngày tại Cơ Sở Y Tế theo chỉ định Bác Sĩ.
+ Nếu có nhiều Lần Thăm Khám cho cùng một chẩn đoán trong một ngày, Manulife chỉ xem
+ xét chi trả quyền lợi cho một Lần Thăm Khám có chi phí cao nhất.
+
+25. Điều Trị Nội Trú Là việc Người Được Bảo Hiểm nhập viện điều trị và ở lại qua đêm theo tiêu chí Ngày Nằm
+ Viện tại Bệnh Viện theo chỉ định của Bác Sĩ và Cần Thiết Về Mặt Y Khoa.
+ Trong đó, Ngày Nằm Viện được tính ít nhất là 18 (mười tám) giờ lưu trú trong Bệnh Viện và
+ được thể hiện trong giấy ra viện hoặc bảng kê viện phí chi tiết.
+
+26. Điều Trị Nha Khoa Là việc Người Được Bảo Hiểm được kiểm tra, thăm khám, điều trị và phẫu thuật liên quan
+ đến những bệnh của răng và nướu hoặc hàm có liên quan đến răng và được thực hiện bởi
+ Nha Sĩ.
+ LOẠI TRỪ các chi phí liên quan đến cầu răng; răng giả do Cấy Ghép Implant.
+
+27. Điều Trị Sau Khi Là lần điều trị y tế tiếp theo ngay sau khi xuất viện theo chỉ định của Bác Sĩ bao gồm thăm
+Xuất Viện khám, xét nghiệm, chẩn đoán, Thuốc Kê Toa liên quan trực tiếp đến Bệnh hoặc Thương Tích
+ đã được Điều Trị Nội Trú trước đó. Điều Trị Sau Khi Xuất Viện phải được thực hiện trong
+ vòng 60 (sáu mươi) ngày kể từ ngày xuất viện của Đợt Điều Trị đó. Các chỉ định này phải
+ liên quan trực tiếp đến Bệnh hoặc Thương tích được Điều Trị Nội Trú trước đó.
+ Điều Trị Sau Khi Xuất Viện chỉ được chi trả 01 (một) lần cho một Đợt Điều Trị và không áp
+ dụng cho quyền lợi thai sản.
+
+28. Điều Trị Trong Ngày Là việc Người Được Bảo Hiểm nhập viện, có phát sinh chi phí giường bệnh và được điều trị
+ tại Bệnh Viện nhưng không nằm qua đêm. Giấy ra viện là chứng từ cần thiết để yêu cầu giải
+ quyết cho quyền lợi này.
+
+<!-- page 24 (pdf 24 full) -->
+29. Điều Trị Trước Khi Là lần điều trị gần nhất trước ngày nhập viện Điều Trị Nội Trú bao gồm các dịch vụ thăm khám,
+Nhập Viện xét nghiệm, chẩn đoán hình ảnh liên quan trực tiếp đến chẩn đoán xác định Bệnh hoặc Thương
+ Tích mà Người Được Bảo Hiểm cần phải nhập viện để điều trị theo chỉ định của Bác Sĩ và phải
+ được thực hiện trong vòng 30 (ba mươi) ngày trước ngày nhập viện của Đợt Điều Trị đó.
+ Điều Trị Trước Khi Nhập Viện không áp dụng cho quyền lợi thai sản, Điều Trị Trong Ngày.
+
+30. Điều Trị Ung Thư Là việc điều trị ung thư bao gồm Điều Trị Nội Trú, Điều Trị Trong Ngày và Điều Trị Ngoại Trú,
+ dựa trên chẩn đoán xác định là ung thư, bao gồm Phẫu Thuật, xạ trị, hóa trị và liệu pháp
+ trúng đích, liệu pháp miễn dịch và liệu pháp nội tiết được thực hiện bởi Bác Sĩ liên quan đến
+ chẩn đoán ung thư đó.
+
+31. Đợt Điều Trị Là một đợt Điều Trị Nội Trú liên quan đến Bệnh, Thương Tích hoặc thai sản của Người Được
+ Bảo Hiểm. Giấy ra viện là bằng chứng chứng minh kết thúc Đợt Điều Trị.
+ Nếu các Đợt Điều Trị của cùng một Bệnh, Thương Tích, hoặc thai sản mà thời gian giữa các
+ Đợt Điều Trị này không vượt quá 30 (ba mươi) ngày thì được coi là cùng một Đợt Điều Trị.
+
+32. Đồng Chi Trả Là việc Bên Mua Bảo Hiểm và Manulife cùng chi trả cho Chi Phí Y Tế Thực Tế phát sinh.
+ Mức Đồng Chi Trả là tỷ lệ phần trăm của Chi Phí Y Tế Thực Tế phát sinh mà Bên Mua Bảo
+ Hiểm tự chi trả, Manulife sẽ chi trả phần còn lại nhưng không vượt quá các giới hạn về hạn
+ mức tối đa theo quy định của từng quyền lợi bảo hiểm tại Điều 1 của Sản Phẩm Bảo Hiểm này.
+ Mức Đồng Chi Trả trong phạm vi của Sản Phẩm Bảo Hiểm này không áp dụng đối với quyền
+ lợi Trợ Cấp Nằm Viện.
+
+33. Giường Hồi Sức Tích Cực Là loại giường được sử dụng trong các khu vực hoặc đơn vị chăm sóc tích cực (ICU) để hỗ
+ trợ việc điều trị và chăm sóc y tế đặc biệt dành cho các bệnh nhân có Tình Trạng Khẩn Cấp
+ phải duy trì hoặc khôi phục sự sống, cần được theo dõi cẩn thận một cách đặc biệt và liên
+ tục theo chỉ định của Bác Sĩ.
+
+34. Hợp Đồng Bảo Hiểm Là thỏa thuận bằng văn bản giữa Bên Mua Bảo Hiểm và Manulife, trong đó ghi nhận quyền
+ và nghĩa vụ của các bên trong quá trình thực hiện hợp đồng bảo hiểm.
+ Hợp Đồng Bảo Hiểm bao gồm các tài liệu sau:
+ a. Hồ Sơ Yêu Cầu Bảo Hiểm; và
+ b. Trang Hợp Đồng (Giấy Chứng Nhận Bảo Hiểm); và
+ c. Quy tắc, Điều kiện và Điều khoản của sản phẩm bảo hiểm nhân thọ, sản phẩm bảo
+ hiểm đính kèm
+ (nếu có); và
+ d. (Các) Xác Nhận Thay Đổi Hợp Đồng (nếu có); và
+ e. (Các) văn bản sửa đổi, bổ sung Hợp Đồng (nếu có).
+
+35. Khoa Chăm Sóc Đặc Biệt Là một khoa/phòng hoặc một bộ phận của Bệnh Viện nhưng không phải là khoa/phòng hậu
+ phẫu hay khoa/phòng cấp cứu hoặc khoa/phòng hồi sức cấp cứu và:
+ a. Được Bệnh Viện thành lập nhằm chăm sóc và điều trị tích cực 24/24 giờ; và
+ b. Chỉ dành riêng cho các bệnh nhân mắc bệnh nặng đòi hỏi sự theo dõi, quan sát liên tục
+ do Bác Sĩ chỉ định; và
+ c. Cung cấp tất cả các trang thiết bị, thuốc men và các phương tiện cấp cứu cần thiết để
+ có thể can thiệp kịp thời.
+
+36. Kiểm Tra Thai Định Kỳ Là Chi Phí Y Tế Thực Tế phát sinh cho việc kiểm tra thai định kỳ bao gồm các chi phí khám,
+ xét nghiệm nước tiểu thông thường, xét nghiệm máu cơ bản, chi phí chích ngừa, siêu âm
+ thai theo chỉ định của Bác Sĩ.
+ Manulife không chi trả cho các chi phí xét nghiệm tầm soát trước khi sinh để phát hiện các dị
+ tật thai nhi, bệnh lý gen hoặc giảm thiểu trí tuệ ví dụ như đo độ mờ da gáy, chọc ối, xét
+ nghiệm nhiễm sắc thể, … và thuốc bổ thai.
+
+37. Lần Thăm Khám Là 01 (một) lần Người Được Bảo Hiểm đến điều trị y tế tại Cơ Sở Y Tế và được Bác Sĩ chỉ định
+ làm các xét nghiệm, chẩn đoán và kê đơn thuốc điều trị liên quan đến Bệnh hoặc Thương Tích.
+
+38. Manulife Là Công ty TNHH Manulife (Việt Nam), công ty bảo hiểm nhân thọ được thành lập và hoạt
+ động theo pháp luật Việt Nam.
+
+39. Ngày Đáo Hạn Hợp Đồng Là ngày cuối cùng của thời hạn Hợp Đồng Bảo Hiểm và được ghi nhận tại Trang Hợp Đồng
+ (Giấy Chứng Nhận Bảo Hiểm) nếu Hợp Đồng Bảo Hiểm còn hiệu lực đến thời điểm đó.
+
+40. Ngày Hiệu Lực Nếu Bên Mua Bảo Hiểm và Người Được Bảo Hiểm còn sống vào thời điểm Hồ Sơ Yêu Cầu
+ Bảo Hiểm được Manulife chấp thuận cấp Sản Phẩm Bảo Hiểm này, Ngày Hiệu Lực được ghi
+ nhận tại Trang Hợp Đồng (Giấy Chứng Nhận Bảo Hiểm) hoặc Xác Nhận Thay Đổi Hợp Đồng
+ (nếu có).
+
+<!-- page 25 (pdf 25 full) -->
+41. Ngày Kỷ Niệm Là ngày kỷ niệm tương ứng hàng năm của Ngày Hiệu Lực Hợp Đồng trong suốt thời hạn
+Năm Hợp Đồng Hợp Đồng. Nếu năm không có ngày này thì ngày cuối cùng của tháng đó sẽ là Ngày Kỷ Niệm
+ Năm Hợp Đồng của năm đó.
+
+42. Người Được Bảo Hiểm Là người mà tính mạng, sức khỏe của người đó là đối tượng được bảo hiểm theo quy định
+ của Sản Phẩm Bảo Hiểm này.
+ Tùy thuộc vào yêu cầu của Bên Mua Bảo Hiểm và sự chấp thuận của Manulife, Người Được
+ Bảo Hiểm phải đáp ứng tất cả các điều kiện sau vào Ngày Hiệu Lực của Sản Phẩm Bảo
+ Hiểm này:
+ • Còn sống và có quyền lợi có thể được bảo hiểm với Bên Mua Bảo Hiểm;
+ • Đang cư trú và hiện diện tại Việt Nam;
+ • Trong độ tuổi từ 30 (ba mươi) ngày Tuổi đến 65 (sáu mươi lăm) Tuổi.
+
+43. Nha Sĩ Là Bác Sĩ chuyên về khám, chữa và điều trị đối với các vấn đề về sức khỏe răng miệng và
+ có bằng cấp chứng nhận và được phép hành nghề nha khoa theo quy định của pháp luật.
+
+44. Phạm Vi Địa Lý Là các quốc gia, vùng lãnh thổ (LOẠI TRỪ các nước bị cấm vận theo nghị quyết của Liên
+ Hiệp Quốc, Hợp chúng Quốc Hoa Kỳ, Liên Minh Châu Âu và Vương Quốc Anh cũng như quy
+ định pháp luật có liên quan tại Việt Nam), mà Manulife chấp nhận chi trả các chi phí y tế phát
+ sinh khi Người Được Bảo Hiểm khám, điều trị trong thời gian Sản Phẩm Bảo Hiểm này còn
+ hiệu lực, tương ứng với chương trình bảo hiểm được lựa chọn.
+
+45. Phẫu Thuật Là một phương pháp y khoa được Bác Sĩ phẫu thuật dùng chuyên môn sử dụng trang thiết
+ bị y tế và dụng cụ chuyên dụng để tác động vào cơ thể bệnh nhân dùng để điều trị Bệnh
+ hoặc Thương Tích (không bao gồm các trường hợp thai sản) được thực hiện trong phòng
+ phẫu thuật của Bệnh Viện hoặc Cơ Sở Y Tế. Tất cả các Phẫu Thuật được thực hiện bằng
+ cách: (i) gây tê tại chỗ hoặc (ii) phục vụ cho mục đích chẩn đoán bệnh sẽ không được hiểu
+ là Phẫu Thuật theo định nghĩa này.
+ Các thủ thuật loại một hoặc loại đặc biệt được quy định theo Danh mục phân loại phẫu
+ thuật/thủ thuật của Bộ Y tế Việt Nam tại từng thời điểm được gọi chung là Phẫu Thuật. Việc
+ phân loại được căn cứ theo danh mục phân loại phẫu thuật, thủ thuật của Bộ Y tế Việt Nam
+ có hiệu lực tại thời điểm thực hiện Phẫu Thuật, thủ thuật cho dù được thực hiện tại bất kì
+ quốc gia nào nằm trong Phạm Vi Địa Lý được bảo hiểm.
+
+46. Phẫu Thuật Trong Ngày Là hình thức Phẫu Thuật mà Người Được Bảo Hiểm nhập viện và điều trị tại Bệnh Viện
+ nhưng không nằm qua đêm. Manulife chỉ chi trả cho các trường hợp có thời gian Phẫu Thuật
+ và điều trị lớn hơn 06 (sáu) giờ tại Bệnh Viện.
+
+47. Phòng và Giường Là phòng và giường đơn của Bệnh Viện, bao gồm suất ăn của bệnh nhân trong trường hợp
+ Bệnh Viện có cung cấp. Phòng bao là phòng có hai hoặc nhiều giường được một bệnh nhân
+ đăng ký sử dụng.
+ Nếu Người Được Bảo Hiểm nằm viện tại phòng bao (là phòng có hai hay nhiều giường được
+ đăng ký cho một bệnh nhân sử dụng), Manulife sẽ chi trả theo mức chi phí tiền giường và
+ phòng của một giường đơn.
+
+48. Phòng Tiêu Chuẩn Là phòng đơn của Bệnh Viện và không phải là các loại phòng tương tự như phòng cao cấp,
+ phòng dịch vụ, phòng theo yêu cầu, phòng VIP, phòng bao.
+
+49. Sinh Mổ Là việc sinh con của Người Được Bảo Hiểm cần phải can thiệp Phẫu Thuật tại Bệnh Viện và
+ được thể hiện trên giấy ra viện.
+
+50. Sinh Thường Là việc sinh con tự nhiên của Người Được Bảo Hiểm tại Bệnh Viện không có can thiệp bằng
+ Phẫu Thuật và được thể hiện trên giấy ra viện.
+
+51. Tai Nạn Là một sự kiện hoặc một chuỗi sự kiện liên tục, khách quan xảy ra do tác động của một lực,
+ một vật bất ngờ từ bên ngoài lên cơ thể của Người Được Bảo Hiểm và gây ra Thương Tật
+ hoặc tử vong cho Người Được Bảo Hiểm. Sự kiện hoặc chuỗi sự kiện nêu trên phải là nguyên
+ nhân trực tiếp, duy nhất và không liên quan đến bất kỳ nguyên nhân nào khác gây ra Thương
+ Tật hoặc tử vong cho Người Được Bảo Hiểm trong vòng 180 (một trăm tám mươi) ngày kể
+ từ ngày xảy ra sự kiện hoặc chuỗi sự kiện đó.
+
+52. Thể Thao Chuyên Nghiệp Là hình thức thể thao mà Người Được Bảo Hiểm tham gia huấn luyện, biểu diễn, hoặc thi
+ đấu như là nghề của mình và được nhận tiền lương, thưởng, phụ cấp, chu cấp, tài trợ, hoặc
+ thù lao từ hoạt động này.
+
+53. Thể Thao Đối Kháng Là hình thức thể thao mang tính chiến đấu trực tiếp bằng các bộ phận cơ thể như tay, chân,
+ đầu hoặc thân mình mà không dùng hoặc dùng rất ít thiết bị và phụ kiện hỗ trợ.
+ Thể Thao Đối Kháng mang hình thức một vận động viên thi đấu với một vận động viên như
+ judo, taekwondo, karate, vật, đấu kiếm, quyền anh, kickboxing, muay Thái, sumo.
+
+<!-- page 26 (pdf 26 full) -->
+54. Thể Thao Và Các Hoạt Là hình thức thể thao hoặc các hoạt động được thực hiện trong điều kiện nguy hiểm đòi hỏi
+Động Mạo Hiểm phải tuân thủ nghiêm ngặt phương pháp, yêu cầu đặc thù nhằm bảo đảm an toàn cho sức
+ khỏe và tính mạng người tham gia hoạt động và các hoạt động khác được pháp luật hoặc cơ
+ quan nhà nước có thẩm quyền công nhận là hoạt động mạo hiểm.
+ Bao gồm nhưng không giới hạn các hoạt động như: săn bắn động vật; tất cả các hình thức
+ đua không phải bằng chân, đua xe go-kart, đua xe hơi đường trường và thử nghiệm xe hơi;
+ trượt băng, trượt patin, trượt tuyết, trượt tuyết trên ván trượt, trượt ván; quyền anh, karate,
+ võ thuật, đấu vật; nhảy dù (ngoại trừ những tình huống để bảo toàn mạng sống), đi lên hoặc
+ di chuyển trên một khí cầu, bay lượn, nhảy bungee; lặn có bình dưỡng khí, lặn với thiết bị
+ thở dưới nước, lặn biển thể thao giải trí; đạp xe đạp địa hình.
+
+55. Thuốc Kê Toa Là các loại thuốc điều trị hợp lý, Cần Thiết Về Mặt Y Khoa và được kê toa bởi Bác Sĩ. Các loại
+ thuốc phải được đăng ký lưu hành theo quy định của Bộ Y tế Việt Nam hoặc được lưu hành
+ theo quy định của pháp luật tại nơi khám và điều trị (nếu việc khám và điều trị được thực hiện
+ ngoài lãnh thổ Việt Nam) và không bao gồm thực phẩm chức năng, khoáng chất, các chất hữu
+ cơ bổ sung cho chế độ dinh dưỡng hoặc phục vụ cho chế độ ăn kiêng, thuốc cho mục đích làm
+ đẹp, mỹ phẩm, vitamin/thuốc bổ, trừ các vitamin/thuốc bổ cần thiết và hỗ trợ cho việc điều trị,
+ được chỉ định bởi các Bác Sĩ và chi phí đó ít hơn so với các loại thuốc chính.
+
+56. Thương Tích Là các tổn thương cơ thể của Người Được Bảo Hiểm gây ra bởi nguyên nhân duy nhất và
+ trực tiếp do Tai Nạn.
+
+57. Tình Trạng Khẩn Cấp Là tình trạng sức khỏe mà theo ý kiến của Bác Sĩ điều trị là nguy kịch cần phải điều trị khẩn
+ cấp để tránh tử vong hay ảnh hưởng nghiêm trọng tới tình trạng sức khỏe hiện tại hoặc lâu
+ dài. Tình Trạng Khẩn Cấp sẽ được xem xét theo hoàn cảnh của địa phương, bản chất của
+ điều trị khẩn cấp và khả năng cung cấp dịch vụ cũng như cơ sở vật chất tại địa phương đó.
+
+58. Trợ Cấp Nằm Viện Là khoản trợ cấp thu nhập cho mỗi Ngày Nằm Viện khi Người Được Bảo Hiểm phải nằm viện
+ để Điều Trị Nội Trú tại Phòng Tiêu Chuẩn của Bệnh Viện Công Lập. Quyền lợi này được chi
+ trả từ Ngày Nằm Viện đầu tiên của mỗi Đợt Điều Trị và không áp dụng Mức Đồng Chi Trả.
+
+59. Tuổi Là tuổi của Người Được Bảo Hiểm tính theo ngày sinh nhật vừa qua trước:
+ a. Ngày Hiệu Lực (đối với Năm Hợp Đồng đầu tiên); hoặc
+ b. Ngày Kỷ Niệm Năm Hợp Đồng vừa qua (đối với các Năm Hợp Đồng tiếp theo).
+
+60. Vật Lý Trị Liệu Là phương pháp điều trị sử dụng các biện pháp vật lý để giảm đau, phục hồi chức năng của
+ cơ bắp hay các hoạt động bình thường hàng ngày của Người Được Bảo Hiểm theo chỉ định
+ của Bác Sĩ (không phải phương pháp massage, spa hay tập sửa dáng đi) và việc điều trị này
+ phải được thực hiện tại Cơ Sở Y Tế.
+
+61. Y Học Thay Thế Là các phương pháp chữa Bệnh hoặc Thương Tích không phải tây y, như phương pháp y
+ học dân tộc cổ truyền, theo sự chỉ định của Bác Sĩ và các phương pháp này phải được thực
+ hiện tại Bệnh Viện.
+
+62. Y Tá/ Điều Dưỡng Là nhân viên y tế được cấp phép hành nghề y tá/điều dưỡng hợp pháp tại nơi thực hiện việc
+ chăm sóc y tế. Trừ trường hợp có sự phân công/văn bản của cấp có thẩm quyền, Y Tá/Điều
+ Dưỡng không được đồng thời là:
+ a. Bên Mua Bảo Hiểm; hoặc
+ b. Người Được Bảo Hiểm; hoặc
+ c. Người Thụ Hưởng; hoặc
+ d. Đại lý bảo hiểm của Hợp Đồng Bảo Hiểm; hoặc
+ e. Người có quan hệ gia đình với Bên Mua Bảo Hiểm, Người Được Bảo Hiểm, Người Thụ
+ Hưởng, đại lý bảo hiểm của Hợp Đồng Bảo Hiểm bao gồm: vợ, chồng, bố đẻ, mẹ đẻ,
+ bố nuôi, mẹ nuôi, bố chồng, mẹ chồng, bố vợ, mẹ vợ, con đẻ, con nuôi, con rể, con dâu,
+ anh ruột, chị ruột, em ruột, anh rể, em rể, chị dâu, em dâu, anh ruột của vợ, anh ruột
+ của chồng, chị ruột của vợ, chị ruột của chồng, em ruột của vợ, em ruột của chồng.

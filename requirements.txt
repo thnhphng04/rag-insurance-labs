@@ -1,0 +1,24 @@
+# torch cài riêng bản CUDA SAU khi cài file này (docling/FlagEmbedding kéo về bản CPU),
+# driver hiện tại hỗ trợ CUDA 12.7 nên dùng cu126:
+#   pip install --force-reinstall --no-deps torch==2.14.1 torchvision==0.29.1 --index-url https://download.pytorch.org/whl/cu126
+pymupdf
+docling
+pyyaml
+pandas
+tabulate
+python-dotenv
+ipykernel
+nbconvert
+# Lab 2-3
+sentence-transformers
+FlagEmbedding
+rank-bm25
+pyvi
+psycopg[binary]
+pgvector
+# Lab 4-7
+openai
+langchain-openai
+langgraph
+ragas
+langfuse
