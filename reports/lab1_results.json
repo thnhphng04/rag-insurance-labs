@@ -18,7 +18,7 @@
    "doc_id": "bv-angia-2016",
    "parser": "docling",
    "pages": 27,
-   "seconds": 28.2,
+   "seconds": 30.2,
    "removed_header_footer_lines": 2
   },
   {
@@ -39,7 +39,7 @@
    "doc_id": "bv-taman-2019",
    "parser": "docling",
    "pages": 28,
-   "seconds": 5.9,
+   "seconds": 5.8,
    "removed_header_footer_lines": 2
   },
   {
@@ -60,7 +60,7 @@
    "doc_id": "bvl-avsk-2022",
    "parser": "docling",
    "pages": 24,
-   "seconds": 14.0,
+   "seconds": 13.8,
    "removed_header_footer_lines": 4
   },
   {
@@ -81,7 +81,7 @@
    "doc_id": "bvl-avsk-tomtat-2022",
    "parser": "docling",
    "pages": 2,
-   "seconds": 0.4,
+   "seconds": 0.5,
    "removed_header_footer_lines": 0
   },
   {
@@ -102,7 +102,7 @@
    "doc_id": "manulife-cssknc-2026",
    "parser": "docling",
    "pages": 26,
-   "seconds": 15.0,
+   "seconds": 14.4,
    "removed_header_footer_lines": 2
   },
   {
@@ -116,14 +116,14 @@
    "doc_id": "daiichi-tktt2015-2025",
    "parser": "pymupdf_sort",
    "pages": 19,
-   "seconds": 0.4,
+   "seconds": 0.5,
    "removed_header_footer_lines": 1
   },
   {
    "doc_id": "daiichi-tktt2015-2025",
    "parser": "docling",
    "pages": 19,
-   "seconds": 3.6,
+   "seconds": 3.7,
    "removed_header_footer_lines": 3
   }
  ],
@@ -649,7 +649,7 @@
    "cols": 6,
    "records": 1,
    "continued_from": NaN,
-   "issues": 0
+   "issues": 1
   },
   {
    "doc_id": "bvl-avsk-2022",
@@ -867,6 +867,7 @@
  "table_issues": [
   "bv-angia-2016 | trang 24-25, dòng 19: nhãn 'Điều trị viêm nướu, viêm nha chu 5. Bảo hiểm Thai sản' chứa mục 5. ở giữa -> đã sửa",
   "bv-angia-2016 | trang 26, dòng 24: nhãn 'Từ 1 đến' bị cắt dở -> chưa sửa, cần kiểm tra tay",
+  "bv-taman-2019 | trang 25, dòng 1: 'TỔNG SỐ TIỀN YÊU CẦU BỒI THƯỜNG' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
   "bvl-avsk-2022 | trang 13, dòng 6: '1. Chi phí cho người nhận tạng (là Người được bảo hiểm)' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
   "manulife-cssknc-2026 | trang 5, dòng 2: 'A. Cấy Ghép Nội Tạng' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
   "manulife-cssknc-2026 | trang 6, dòng 6: '7. Chi phí Điều Trị Trước Khi Nhập Viện (trong vòng 30 ngày ' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",

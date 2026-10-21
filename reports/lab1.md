@@ -73,7 +73,7 @@ Quy tắc chuyển đổi (`src/ragbv/tables.py`):
 - Bỏ qua bảng mục lục (cột cuối toàn số trang) và bảng 1 cột.
 - Text trong ô được chuẩn hóa NFC và loại ký tự điều khiển, vì DoclingDocument giữ nguyên `\x07` của PDF.
 
-Kết quả: 34 bảng từ 5 tài liệu. Chấm lại bằng ground truth của mục 3 thì cả 3 bảng đều đạt row_integrity 1.0 và không còn ô lặp. Có 18 cảnh báo: lỗi 7 (đã sửa tự động), lỗi 8 (1 dòng) và lỗi 10 (16 dòng), đều cần kiểm tra tay. Một số lỗi gốc của tài liệu được giữ nguyên văn và không tự sửa: "230.00 0.000" (tổng hạn mức gói Vàng), "0,09% TBH" (phí tai nạn gói Bạc, đúng phải là STBH).
+Kết quả: 34 bảng từ 5 tài liệu. Chấm lại bằng ground truth của mục 3 thì cả 3 bảng đều đạt row_integrity 1.0 và không còn ô lặp. Có 19 cảnh báo: lỗi 7 (đã sửa tự động), lỗi 8 (1 dòng), lỗi 10 (16 dòng) và 1 dòng của biểu mẫu trống Tâm An (trang 25), đều cần kiểm tra tay. Một số lỗi gốc của tài liệu được giữ nguyên văn và không tự sửa: "230.00 0.000" (tổng hạn mức gói Vàng), "0,09% TBH" (phí tai nạn gói Bạc, đúng phải là STBH).
 
 ## Ghi chú cho Lab 2 (chunking)
 - Dùng output `data/parsed/{doc_id}.docling.json` (đã làm sạch, có `pdf_page`, `page_label`).

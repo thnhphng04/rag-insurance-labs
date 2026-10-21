@@ -309,15 +309,12 @@
     "row": 1,
     "section": [],
     "label": "TỔNG SỐ TIỀN YÊU CẦU BỒI THƯỜNG",
-    "values": {
-     "Diễn biến sự kiện bảo hiểm": "TỔNG SỐ TIỀN YÊU CẦU BỒI THƯỜNG",
-     "Thời gian điều trị /Ngày tử vong": "TỔNG SỐ TIỀN YÊU CẦU BỒI THƯỜNG",
-     "Cơ sở y tế": "TỔNG SỐ TIỀN YÊU CẦU BỒI THƯỜNG",
-     "Chẩn đoán của bác sỹ": "TỔNG SỐ TIỀN YÊU CẦU BỒI THƯỜNG"
-    },
+    "values": {},
     "note": null
    }
   ],
-  "issues": []
+  "issues": [
+   "trang 25, dòng 1: 'TỔNG SỐ TIỀN YÊU CẦU BỒI THƯỜNG' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay"
+  ]
  }
 ]

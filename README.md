@@ -5,7 +5,8 @@
 | Lab | Chủ đề | Trạng thái |
 |---|---|---|
 | 1 | Parsing (PyMuPDF vs Docling) | ✅ [`reports/lab1.md`](reports/lab1.md) |
-| 2 | Chunking | ⏳ |
+| – | Golden set (20 câu + 5 ngoài phạm vi) | ✅ [`data/golden/golden_set_review.md`](data/golden/golden_set_review.md) |
+| 2 | Chunking (fixed / recursive / cấu trúc + breadcrumb / contextual) | ✅ [`reports/lab2.md`](reports/lab2.md) |
 | 3 | Hybrid search + rerank (pgvector, BM25, RRF) | ⏳ |
 | 4 | Generation có trích dẫn | ⏳ |
 | 5 | Eval (RAGAS + LangFuse) | ⏳ |

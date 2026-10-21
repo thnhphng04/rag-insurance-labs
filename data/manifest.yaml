@@ -14,6 +14,7 @@ documents:
     page_layout: spread
     page_ranges: {cover: [1, 1], full: [2, 14], back: [15, 15]}
     keep_spread_pages: [13]  # bảng quyền lợi trải ngang cả 2 nửa trang đôi, không được tách
+    exclude_pages: ["1", "2", "27", "28"]  # bìa, "bộ tài liệu", trang trống, bìa sau (chỉ áp dụng chunk theo cấu trúc)
     notes: Bảng quyền lợi ở PDF trang 13 (in 24-25), Biểu phí ở PDF trang 14 (in 26).
     source_url: https://www.baovietbank.vn/media/BANCA/QuyTacBVAG.pdf
 
@@ -28,6 +29,7 @@ documents:
     product_year: 2019
     page_layout: spread
     page_ranges: {cover: [1, 1], full: [2, 15]}
+    exclude_pages: ["1", "2", "23", "24", "25", "26", "27", "28"]  # bìa, biểu mẫu trống (23, 25), trang trống, bìa sau
     source_url: https://baoviet.com.vn/insurance/Uploads/Library/Images/SP18032011_1.%20Quy%20tac%20Bao%20Viet%20Tam%20An.pdf
 
   - doc_id: bvl-avsk-2022
@@ -41,6 +43,7 @@ documents:
     product_year: 2022
     page_layout: single
     page_ranges: {summary: [1, 2], full: [3, 24]}
+    exclude_pages: ["1", "2"]  # bản tóm tắt trùng với bvl-avsk-tomtat-2022 (dedup)
     source_url: https://baovietnhantho.com.vn/storage/9d098962-1cee-4778-bf0a-fdf804fa6fca/DK-R20-An-vui-song-khoe.pdf
 
   - doc_id: bvl-avsk-tomtat-2022

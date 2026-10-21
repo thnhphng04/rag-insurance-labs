@@ -143,7 +143,10 @@ def extract_tables(doc, doc_id: str, page_labels: dict[int, str]) -> list[Table]
                 section = [_text(row[0])]
                 continue
             label = " ".join(_row_texts(row, range(label_cols[0], label_cols[-1] + 1))).lstrip("• ").strip()
-            values = {columns[k]: _text(row[k]) for k in value_cols if row[k] is not None}
+            label_cells = {id(row[k]) for k in label_cols if row[k] is not None}
+            # Ô gộp phủ cả cột nhãn và cột giá trị (vd. "I - CHẾT" c0-2) chỉ tính là nhãn
+            values = {columns[k]: _text(row[k]) for k in value_cols
+                      if row[k] is not None and id(row[k]) not in label_cells}
             # Dòng tiêu đề phụ lặp lại tên cột, vd. "1. Điều trị ngoại trú | ĐỒNG | BẠC | ..."
             if values and all(v == k for k, v in values.items()):
                 section = section[:1] + [label]

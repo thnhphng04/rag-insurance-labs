@@ -23,6 +23,7 @@ class Evidence:
     section: str
     page_label: str
     must_contain: list[str]
+    group: str | None = None  # các bằng chứng cùng group là thay thế nhau; không có group = bắt buộc riêng
 
 
 @dataclass
