@@ -3,6 +3,7 @@
 # page_ranges dùng số trang PDF (1-based).
 documents:
   - doc_id: bv-angia-2016
+    aliases: ["An Gia", "Bảo Việt An Gia"]  # nhận diện sản phẩm trong câu hỏi (so khớp không dấu)
     file: raw/BaoVietInsurance_AnGia_QuyTac_2016.pdf
     original_name: QuyTacBVAG.pdf
     insurer: Tổng Công ty Bảo hiểm Bảo Việt
@@ -19,6 +20,7 @@ documents:
     source_url: https://www.baovietbank.vn/media/BANCA/QuyTacBVAG.pdf
 
   - doc_id: bv-taman-2019
+    aliases: ["Tâm An", "Bảo Việt Tâm An"]  # nhận diện sản phẩm trong câu hỏi (so khớp không dấu)
     file: raw/BaoVietInsurance_TamAn_QuyTac_2019.pdf
     original_name: SP18032011_1. Quy tac Bao Viet Tam An.pdf
     insurer: Tổng Công ty Bảo hiểm Bảo Việt
@@ -33,6 +35,7 @@ documents:
     source_url: https://baoviet.com.vn/insurance/Uploads/Library/Images/SP18032011_1.%20Quy%20tac%20Bao%20Viet%20Tam%20An.pdf
 
   - doc_id: bvl-avsk-2022
+    aliases: ["An Vui Sống Khỏe", "AVSK"]  # nhận diện sản phẩm trong câu hỏi (so khớp không dấu)
     file: raw/BaoVietLife_AnVuiSongKhoe_QuyTacDieuKhoan_2022.pdf
     original_name: DK-R20-An-vui-song-khoe.pdf
     insurer: Tổng Công ty Bảo Việt Nhân thọ
@@ -47,6 +50,7 @@ documents:
     source_url: https://baovietnhantho.com.vn/storage/9d098962-1cee-4778-bf0a-fdf804fa6fca/DK-R20-An-vui-song-khoe.pdf
 
   - doc_id: bvl-avsk-tomtat-2022
+    aliases: ["An Vui Sống Khỏe", "AVSK"]  # nhận diện sản phẩm trong câu hỏi (so khớp không dấu)
     file: raw/BaoVietLife_AnVuiSongKhoe_TomTat_2022.pdf
     original_name: BTR20_AnVuiSongKhoe_tom_tat_dieu_khoan_va_mot_so_luu_y_quan_trong.pdf
     insurer: Tổng Công ty Bảo Việt Nhân thọ
@@ -61,6 +65,7 @@ documents:
     source_url: https://www.baovietnhantho.com.vn/storage/9a7d81ac-def8-47ff-b366-0affa4b81a49/BTR20_AnVuiSongKhoe_tom_tat_dieu_khoan_va_mot_so_luu_y_quan_trong.pdf
 
   - doc_id: manulife-cssknc-2026
+    aliases: ["Manulife", "Chăm Sóc Sức Khỏe Nâng Cao"]  # nhận diện sản phẩm trong câu hỏi (so khớp không dấu)
     file: raw/Manulife_ChamSocSucKhoeNangCao_QuyTacDieuKhoan_2026.pdf
     original_name: quy-tac-dieu-kien-va-dieu-khoan-san-pham.pdf
     insurer: Công ty TNHH Manulife (Việt Nam)
@@ -74,6 +79,7 @@ documents:
     source_url: https://www.manulife.com.vn/content/dam/insurance/vn/documents/service-docs/san-pham/song-khoe-moi-ngay-phien-ban-cai-tien/quy-tac-dieu-kien-va-dieu-khoan-san-pham.pdf
 
   - doc_id: daiichi-tktt2015-2025
+    aliases: ["Dai-ichi", "Daiichi", "Tử kỳ tái tục hàng tháng"]  # nhận diện sản phẩm trong câu hỏi (so khớp không dấu)
     file: raw/DaiichiLife_TuKyTaiTucHangThang2015_QuyTacDieuKhoan_2025.pdf
     original_name: Quy tắc và Điều khoản Sản phẩm bảo hiểm nhân thọ Tử kỳ tái tục hàng tháng (2015) (cập nhật ngày 30.06.2025).pdf
     insurer: Công ty TNHH BHNT Dai-ichi Việt Nam
