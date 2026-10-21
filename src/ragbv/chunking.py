@@ -171,19 +171,27 @@ def _match_table(block: str, candidates: list[dict], used: set[int]) -> dict | N
 
 
 def _table_chunks(table: dict, breadcrumb: list[str], product: str, max_tokens: int) -> list[tuple[str, str]]:
-    """Gom các dòng cùng section thành một chunk 'nhãn: cột=giá trị; ...'. Trả về [(section, text)]."""
+    """Gom các dòng cùng section thành chunk 'nhãn — cột: giá trị; ...'. Trả về [(path, text)].
+
+    Chia nhóm dài theo ranh giới dòng, đo trên đúng thứ sẽ đem embed (breadcrumb + tiêu đề cột + các dòng),
+    để chunk bảng không phải cắt lại lần nữa và phần nào cũng có tiêu đề cột. Một dòng dài hơn
+    max_tokens vẫn giữ nguyên một chunk.
+    """
     groups: dict[str, list[str]] = {}
     for r in table["records"]:
         sec = " › ".join(r["section"])
         vals = "; ".join(f"{k}: {v}" for k, v in r["values"].items() if v)
         groups.setdefault(sec, []).append(f"- {r['label']}" + (f" — {vals}" if vals else ""))
+    # Chỉ liệt kê cột giá trị; ô gộp nhiều cột nhãn ("CHƯƠNG TRÌNH BẢO HIỂM" × 2) không lặp tên
+    value_cols = [c for i, c in enumerate(table["columns"]) if i not in table["label_columns"]]
+    header = f"Bảng ({', '.join(dict.fromkeys(value_cols))})"
     out = []
     for sec, rows in groups.items():
         path = " › ".join([product, *breadcrumb, *([sec] if sec else [])])
-        header = f"Bảng ({', '.join(table['columns'])})"
+        size = lambda part: n_tokens(f"[{path}]\n{header}\n" + "\n".join(part))
         body, cur = [], []
-        for row in rows:  # chia nhóm quá dài theo dòng, giữ nguyên dòng
-            if cur and n_tokens("\n".join(cur + [row])) > max_tokens:
+        for row in rows:
+            if cur and size(cur + [row]) > max_tokens:
                 body.append(cur)
                 cur = []
             cur.append(row)
@@ -264,10 +272,12 @@ def structure_chunks(meta: DocMeta, pages: list[Page], max_tokens: int = 400, mi
     out = []
     for s in merged:
         if s.get("table"):
-            path, kind = s["path_str"], "table"
+            # Chunk bảng đã được chia theo dòng trong _table_chunks: không cắt lại
+            path, kind, pieces = s["path_str"], "table", [s["text"]]
         else:
             path, kind = " › ".join([product, *s["path"]]), "text"
-        for piece in _split_long(s["text"], max_tokens):
+            pieces = _split_long(s["text"], max_tokens)
+        for piece in pieces:
             out.append(_make(meta.doc_id, "structure", piece, s["pages"], f"[{path}]\n{piece}", path, kind))
     return out
 

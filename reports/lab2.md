@@ -13,8 +13,8 @@ Notebook: `notebooks/lab2_chunking.ipynb` · Code: `src/ragbv/chunking.py`, `emb
 |---|---|---|---|---|
 | fixed | cửa sổ 512 token, chồng lấp 64 | nội dung | 197 | 505 / 512 |
 | recursive | `\n\n` → `\n` → câu → từ, ≤ 512 token, chồng lấp 64 | nội dung | 226 | 407 / 453 |
-| structure | Chương/Phần › Điều › mục; bảng gom theo nhóm từ tables JSON; bỏ mục lục, biểu mẫu, bìa, trang tóm tắt trùng | **breadcrumb** + nội dung | 402 (101 chunk bảng) | 239 / 215 |
-| structure_nobc | như structure | chỉ nội dung (ablation) | 402 | 239 / 215 |
+| structure | Chương/Phần › Điều › mục; bảng gom theo nhóm từ tables JSON; bỏ mục lục, biểu mẫu, bìa, trang tóm tắt trùng | **breadcrumb** + nội dung | 398 (97 chunk bảng) | 239 / 223 |
+| structure_nobc | như structure | chỉ nội dung (ablation) | 398 | 239 / 223 |
 
 ## Chi tiết các kỹ thuật chunk
 
@@ -70,13 +70,13 @@ Phải yêu cầu "kèm số" vì nếu không, "**Chương** trình Bảo hiể
 **f) Bảng.** Không cắt bảng Markdown mà **dựng lại từ `tables/{doc_id}.tables.json`** (Lab 1):
 1. Trong các bảng JSON **cùng trang**, chọn bảng có nhiều nhãn dòng (30 ký tự đầu) xuất hiện trong khối Markdown nhất. Bảng không khớp được thì bỏ qua: đó là mục lục, biểu mẫu, hoặc bảng 1 cột đã bị loại ở Lab 1.
 2. Mỗi dòng dữ liệu viết thành `- {nhãn} — {cột}: {giá trị}; {cột}: {giá trị}; …`. Ô trống được bỏ.
-3. Các dòng cùng `section` của bảng được gom vào một nhóm. `section` là các dòng tiêu đề nhóm, ví dụ "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH", "B › 1. Điều trị ngoại trú". Mỗi nhóm thành một hoặc vài chunk, có dòng đầu `Bảng (tên các cột)`.
+3. Các dòng cùng `section` của bảng được gom vào một nhóm. `section` là các dòng tiêu đề nhóm, ví dụ "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH", "B › 1. Điều trị ngoại trú". Mỗi nhóm thành một hoặc vài chunk, phần nào cũng có dòng đầu `Bảng (tên các cột giá trị)`. Nhóm dài được chia **theo ranh giới dòng**, đo trên đúng `embed_text` (≤ 400 token), và không bị cắt lại lần nữa.
 4. Breadcrumb của chunk bảng = sản phẩm › stack tiêu đề hiện tại › section của bảng.
 
 Ví dụ chunk bảng (biểu phí An Gia):
 ```
 [Bảo Việt An Gia › BIỂU PHÍ BẢO HIỂM "BẢO VIỆT AN GIA" › A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú…]
-Bảng (CHƯƠNG TRÌNH BẢO HIỂM, CHƯƠNG TRÌNH BẢO HIỂM, ĐỒNG, BẠC, VÀNG, BẠCH KIM, KIM CƯƠNG)
+Bảng (ĐỒNG, BẠC, VÀNG, BẠCH KIM, KIM CƯƠNG)
 - Từ 1 đến 3 tuổi — ĐỒNG: 2.585.000; BẠC: 3.707.000; VÀNG: 5.616.000; BẠCH KIM: 7.582.000; KIM CƯƠNG: 9.267.000
 - Từ 4 đến 6 tuổi — ĐỒNG: 1.450.000; …
 ```
@@ -95,15 +95,17 @@ Tiêu đề của chính section nằm ở dòng đầu `text`, còn breadcrumb 
 Cùng chunk với `structure` (cùng `text`, ranh giới, số lượng), nhưng `embed_text = text`. Mục đích: tách riêng tác dụng của **ranh giới cắt theo cấu trúc** với tác dụng của **ngữ cảnh breadcrumb**.
 
 ### 5. `structure+ctx`: Contextual Retrieval (bonus, chỉ AVSK)
-1. Lấy 58 chunk `structure` của AVSK.
+1. Lấy 57 chunk `structure` của AVSK.
 2. Với mỗi chunk, gọi `gpt-4.1-mini` (temperature 0). Prompt gồm **toàn văn AVSK** (bỏ trang 1–2) đặt ở đầu, sau đó là đoạn trích, kèm yêu cầu viết 1–2 câu tiếng Việt nêu sản phẩm, công ty, chương/điều/phần và nội dung chính của đoạn.
 3. Toàn văn ở đầu prompt giống hệt nhau giữa các lệnh gọi, nên OpenAI tự động **prompt caching** (93% token input được cache).
 4. `embed_text = câu ngữ cảnh + "\n" + breadcrumb + text`. Kết quả cache trong `data/cache/contextual/` theo hash (model, toàn văn, nội dung chunk), nên chạy lại không tốn phí.
 5. Các tài liệu khác giữ nguyên chunk `structure`.
 
-### Hạn chế đã biết của chunk bảng (chưa sửa)
-- **Một dòng bị tách lẻ do chia 2 lần.** `_table_chunks` chia nhóm theo ngưỡng 400 token nhưng chỉ đếm các dòng dữ liệu, không tính dòng `Bảng (…)` và breadcrumb. Sau đó `_split_long` lại cắt chunk bảng lần nữa bằng bộ cắt ký tự. Kết quả: nhóm "A" của biểu phí An Gia (9 dòng) thành 3 chunk, trong đó một chunk **chỉ có dòng 51–60 tuổi và không có dòng tiêu đề cột**. Cách sửa: chia nhóm theo dòng có tính cả tiêu đề và breadcrumb, và không cho `_split_long` cắt chunk bảng.
-- **Dòng tiêu đề cột lặp tên cột nhãn:** "Bảng (CHƯƠNG TRÌNH BẢO HIỂM, CHƯƠNG TRÌNH BẢO HIỂM, ĐỒNG, …)", vì ô gộp 2 cột nhãn được liệt kê 2 lần. Nên chỉ liệt kê các cột giá trị.
+### Lỗi chunk bảng đã sửa
+- **Một dòng bị tách lẻ do chia 2 lần.** Trước khi sửa, `_table_chunks` chia nhóm theo ngưỡng 400 token nhưng chỉ đếm các dòng dữ liệu. Sau đó `_split_long` lại cắt chunk bảng lần nữa bằng bộ cắt ký tự. Kết quả: nhóm "A" của biểu phí An Gia (9 dòng) thành 3 chunk, trong đó một chunk chỉ có dòng 51–60 tuổi và **mất dòng tiêu đề cột**. Sau khi sửa: kích thước được đo trên đúng `embed_text` (breadcrumb + tiêu đề cột + các dòng), chunk bảng không bị `_split_long` cắt lại, và một dòng dài quá ngưỡng vẫn giữ nguyên một chunk. Nhóm "A" giờ thành 2 chunk (6 + 3 dòng), cả hai đều có tiêu đề cột. Toàn corpus: 0/97 chunk bảng thiếu tiêu đề cột, 0 chunk vượt 400 token.
+- **Tiêu đề cột lặp tên cột nhãn.** "Bảng (CHƯƠNG TRÌNH BẢO HIỂM, CHƯƠNG TRÌNH BẢO HIỂM, ĐỒNG, …)" giờ chỉ còn các cột giá trị: "Bảng (ĐỒNG, BẠC, VÀNG, BẠCH KIM, KIM CƯƠNG)".
+
+### Hạn chế còn lại của chunk bảng
 - **Kế thừa lỗi parse của Lab 1:** nhãn Nha khoa bị cắt ("Từ 1 đến" / "4. Bảo hiểm Nha khoa 18 tuổi Từ 19 đến 65 tuổi"), các dòng Manulife mất giá trị do ô gộp dọc ("E. Chi phí sinh" không có giá trị, nên G03 trượt).
 - **Ghép bảng JSON với khối Markdown bằng nhãn dòng** có thể chọn nhầm nếu một trang có 2 bảng giống nhau. Chưa gặp trong corpus này.
 
@@ -113,9 +115,9 @@ Cùng chunk với `structure` (cùng `text`, ranh giới, số lượng), nhưng
 |---|---|---|---|---|---|---|
 | fixed | 0.25 | 0.65 | 0.70 | 0.633 | 0.808 | 0.452 |
 | recursive | 0.45 | 0.65 | 0.75 | 0.708 | 0.800 | 0.578 |
-| structure_nobc | 0.35 | 0.60 | 0.70 | 0.650 | 0.808 | 0.511 |
-| **structure** | **0.60** | **0.70** | **0.85** | **0.783** | **0.858** | **0.691** |
-| structure + ctx (AVSK) | 0.60 | 0.75 | 0.85 | 0.808 | 0.858 | 0.704 |
+| structure_nobc | 0.35 | 0.55 | 0.70 | 0.650 | 0.808 | 0.489 |
+| **structure** | **0.55** | **0.70** | **0.80** | **0.767** | **0.858** | **0.661** |
+| structure + ctx (AVSK) | 0.55 | 0.75 | 0.80 | 0.767 | 0.833 | 0.660 |
 
 recall@5 theo loại câu hỏi:
 
@@ -123,45 +125,54 @@ recall@5 theo loại câu hỏi:
 |---|---|---|---|---|
 | table_lookup (5) | 0.40 | 0.60 | 0.60 | **0.80** |
 | exclusion (1) | 0.00 | 0.00 | 0.00 | **1.00** |
-| fact (6) | 0.83 | 0.83 | 0.83 | 0.83 |
+| fact (6) | 0.83 | 0.83 | 0.83 | **1.00** |
 | multi_condition (3) | 1.00 | 1.00 | 1.00 | 1.00 |
 | versioning (1) | 1.00 | 1.00 | 1.00 | 1.00 |
-| comparison (2) | 0.58 | 0.58 | 0.25 | 0.58 |
-| no_diacritics (2) | 0.25 | 0.50 | 0.25 | 0.25 |
+| comparison (2) | **0.58** | **0.58** | 0.25 | 0.17 |
+| no_diacritics (2) | 0.25 | **0.50** | 0.25 | 0.00 |
 
-**Lưu ý về độ tin cậy:** chỉ có 20 câu, nên 1 câu thay đổi tương ứng 0.05 điểm hit@k. Chênh lệch giữa structure và recursive (+0.075 recall@5, +0.11 MRR) có hướng nhất quán, nhưng chưa đủ để khẳng định có ý nghĩa thống kê. Cần golden set khoảng 100–200 câu.
+**Lưu ý về độ tin cậy:** chỉ có 20 câu, nên 1 câu thay đổi tương ứng 0.05 điểm hit@k. Chênh lệch giữa structure và recursive (+0.06 recall@5, +0.08 MRR) có hướng nhất quán qua các lần chạy, nhưng chưa đủ để khẳng định có ý nghĩa thống kê. Cần golden set khoảng 100–200 câu. Mục "Ảnh hưởng của việc sửa chunk bảng" bên dưới cho thấy chỉ một thay đổi nhỏ trong cách chunk cũng làm các số xê dịch ±0.03.
 
 ## Nhận xét
 
-1. **Chunk theo cấu trúc tốt nhất ở mọi metric, nhưng phần lớn lợi ích đến từ breadcrumb chứ không phải từ ranh giới cắt.** Cùng ranh giới cắt, khi bỏ breadcrumb (structure_nobc) thì recall@5 giảm từ 0.783 xuống 0.650, ngang mức fixed. Nguyên nhân: một chunk như "Điều 10.18 … y học cổ truyền, châm cứu" đứng một mình không nói nó thuộc **sản phẩm nào**. Corpus có 4 sản phẩm sức khỏe với điều khoản gần giống nhau, nên embedding không phân biệt được. Ví dụ G15 (đông y, AVSK): structure xếp hạng 2, structure_nobc hạng 7, recursive trượt top-10.
-2. **Bảng là nơi chênh lệch rõ nhất** (table_lookup: fixed 0.40 so với structure 0.80). G01 (phí gói Bạc, 35 tuổi) chỉ structure tìm được (hạng 1). Với fixed và recursive, bảng biểu phí Markdown 7 cột có ô gộp lặp lại bị cắt ngang. Chunk dạng "Từ 31 đến 40 tuổi — ĐỒNG: 1.315.600; BẠC: 1.887.600; …" có section "A. Điều khoản chính" ngay trong breadcrumb.
-3. **Chunk nhỏ hơn thì hit@1 cao hơn.** Kích thước trung vị 215 token so với 453–512 token, giúp hit@1 tăng từ 0.25 (fixed) lên 0.60. Chunk 512 token chứa 3–4 điều khoản khác nhau nên embedding bị "loãng".
-4. **Câu không dấu thất bại ở mọi chiến lược.** G19 ("thoi han bao hiem … NDBH toi da bao nhieu tuoi") không tìm được bằng chứng nào trong top-10. Dense embedding BGE-M3 không bù được việc mất dấu và viết tắt. Đây là việc của Lab 3: viết lại câu hỏi (thêm dấu, mở rộng viết tắt) và BM25 trên văn bản đã bỏ dấu.
-5. **Câu so sánh nhiều sản phẩm là điểm yếu cấu trúc của truy xuất 1 lượt.** Ở G17 (thai sản Kim Cương An Gia so với Manulife), top-5 bị chiếm bởi chunk thai sản của **AVSK**, một sản phẩm thứ ba không được hỏi. Chunking không sửa được điều này. Cần tách câu hỏi (query decomposition) và lọc theo sản phẩm (Lab 3 và Lab 6).
+1. **Chunk theo cấu trúc tốt nhất ở các metric tổng, nhưng phần lớn lợi ích đến từ breadcrumb chứ không phải từ ranh giới cắt.** Cùng ranh giới cắt, khi bỏ breadcrumb (structure_nobc) thì recall@5 giảm từ 0.767 xuống 0.650, ngang mức fixed, và MRR giảm từ 0.661 xuống 0.489. Nguyên nhân: một chunk như "Điều 10.18 … y học cổ truyền, châm cứu" đứng một mình không nói nó thuộc **sản phẩm nào**. Corpus có 4 sản phẩm sức khỏe với điều khoản gần giống nhau, nên embedding không phân biệt được. Ví dụ G15 (đông y, AVSK): structure xếp hạng 2, structure_nobc hạng 6, recursive trượt top-10.
+2. **Bảng là nơi chênh lệch rõ nhất** (table_lookup: fixed 0.40 so với structure 0.80). G01 (phí gói Bạc, 35 tuổi) chỉ structure tìm được (hạng 2). Với fixed và recursive, bảng biểu phí Markdown 7 cột có ô gộp lặp lại bị cắt ngang. Chunk dạng "Từ 31 đến 40 tuổi — ĐỒNG: 1.315.600; BẠC: 1.887.600; …" có section "A. Điều khoản chính" ngay trong breadcrumb.
+3. **Chunk nhỏ hơn thì hit@1 cao hơn.** Kích thước trung vị 223 token so với 453–512 token, giúp hit@1 tăng từ 0.25 (fixed) lên 0.55. Chunk 512 token chứa 3–4 điều khoản khác nhau nên embedding bị "loãng".
+4. **Ngược lại, chunk nhỏ thua ở câu hỏi rộng.** Với câu so sánh, structure chỉ đạt 0.17, trong khi fixed và recursive đạt 0.58. Chunk 512 token chứa nhiều thông tin hơn nên khớp được với câu hỏi rộng; chunk theo Điều thì cụ thể, mỗi chunk chỉ trả lời một phần. Ở G17 (thai sản Kim Cương An Gia so với Manulife), top-5 bị chiếm bởi chunk thai sản của **AVSK**, một sản phẩm thứ ba không được hỏi. Đây là đánh đổi cố hữu giữa chunk nhỏ và chunk lớn. Cách xử lý đúng không phải là tăng kích thước chunk, mà là **tách câu hỏi** (query decomposition) thành từng câu cho từng sản phẩm và **lọc theo sản phẩm** (Lab 3 và Lab 6).
+5. **Câu không dấu thất bại.** G19 ("thoi han bao hiem … NDBH toi da bao nhieu tuoi") không tìm được bằng chứng nào trong top-10 ở cả 4 chiến lược. G20 chỉ recursive tìm được (hạng 3 và 1). Dense embedding BGE-M3 không bù được việc mất dấu và viết tắt. Đây là việc của Lab 3: viết lại câu hỏi (thêm dấu, mở rộng viết tắt) và BM25 trên văn bản đã bỏ dấu.
 6. **Lỗi parse lan sang truy xuất.** G03 (chi phí sinh Manulife) trượt ở cả 4 chiến lược. Dòng "E. Chi phí sinh" trong chunk bảng không có giá trị vì Docling làm mất ô gộp dọc (lỗi 10 của Lab 1), nên chunk không có gì liên quan đến "chi trả như thế nào". Phải sửa ở tầng parsing.
 
 ## Bonus: Contextual Retrieval (AVSK)
-Mỗi chunk structure của AVSK (58 chunk) được `gpt-4.1-mini` viết 1–2 câu ngữ cảnh dựa trên toàn văn tài liệu, rồi gắn vào trước breadcrumb. Ví dụ: "Đoạn trích thuộc Quy tắc, Điều khoản Sản phẩm bổ trợ của Bảo Việt Nhân thọ, nằm trong Chương I, Điều 1, giới thiệu các định nghĩa…".
+Mỗi chunk structure của AVSK (57 chunk) được `gpt-4.1-mini` viết 1–2 câu ngữ cảnh dựa trên toàn văn tài liệu, rồi gắn vào trước breadcrumb. Ví dụ: "Đoạn trích thuộc Quy tắc, Điều khoản Sản phẩm bổ trợ của Bảo Việt Nhân thọ, nằm trong Chương I, Điều 1, giới thiệu các định nghĩa…".
 
 | 6 câu có bằng chứng AVSK (G11–G16) | hit@1 | hit@3 | hit@5 | recall@5 | MRR |
 |---|---|---|---|---|---|
-| structure | 0.50 | 0.67 | 0.83 | 0.78 | 0.653 |
-| structure + ctx | 0.50 | **0.83** | **1.00** | **0.94** | **0.708** |
+| structure | 0.50 | 0.67 | 1.00 | 0.89 | 0.658 |
+| structure + ctx | 0.50 | 0.83 | 1.00 | 0.89 | 0.672 |
 
-- **Chi phí:** 58 lệnh gọi, 975.505 token input, trong đó **910.336 token (93%) được prompt caching** vì toàn văn tài liệu nằm ở đầu prompt, cộng 4.037 token output. Theo bảng giá gpt-4.1-mini tại thời điểm viết (0,40 / 0,10 / 1,60 USD mỗi 1 triệu token input / cached input / output), ước tính khoảng **0,12 USD** cho cả tài liệu. Lần chạy lại dùng cache nội bộ nên không tốn thêm.
-- **Nhận xét:** lợi ích thêm nhỏ hơn so với breadcrumb (breadcrumb đã cung cấp phần lớn ngữ cảnh "sản phẩm nào, điều nào"), nhưng có. Với sản phẩm có cấu trúc lỏng hơn (ít tiêu đề, nhiều trang tóm tắt), Contextual Retrieval sẽ có ích hơn. Đây là cùng kết luận với bài của Anthropic, nhưng ở đây là tiếng Việt và cỡ mẫu rất nhỏ.
+- **Chi phí:** lần chạy đầu gồm 58 lệnh gọi, 975.505 token input, trong đó **910.336 token (93%) được prompt caching** vì toàn văn tài liệu nằm ở đầu prompt, cộng 4.037 token output. Theo bảng giá gpt-4.1-mini tại thời điểm viết (0,40 / 0,10 / 1,60 USD mỗi 1 triệu token input / cached input / output), ước tính khoảng **0,12 USD** cho cả tài liệu. Sau khi sửa chunk bảng, chỉ 16 chunk bảng có nội dung thay đổi phải gọi lại (268.957 token input, 91% cached). 41 chunk còn lại dùng cache nội bộ.
+- **Nhận xét:** trên corpus này **không đo được lợi ích có ý nghĩa**: recall@5 không đổi, MRR chỉ tăng 0.014, và trên toàn bộ 20 câu thì bằng structure. Ở lần chạy trước khi sửa chunk bảng, ctx từng cho recall@5 AVSK tăng từ 0.78 lên 0.94. Lần này mức tăng đó biến mất, nên có thể đó chỉ là nhiễu. Lý do hợp lý: breadcrumb đã cung cấp gần hết ngữ cảnh "sản phẩm nào, chương/điều nào" mà câu ngữ cảnh của LLM mang lại. Contextual Retrieval đáng thử hơn với tài liệu ít cấu trúc (không có tiêu đề rõ, nhiều trang tóm tắt), nơi không tạo được breadcrumb tốt.
+
+## Ảnh hưởng của việc sửa chunk bảng
+| structure | recall@5 | MRR | Hạng thay đổi |
+|---|---|---|---|
+| Trước khi sửa (chunk bảng mất tiêu đề cột, tên cột lặp) | 0.783 | 0.691 | — |
+| Sau khi sửa | 0.767 | 0.661 | G01 1→2, G11 6→5, G16 (AVSK) 5→6, G17 (Manulife) 5→9, G20 5→6 |
+
+Mọi thay đổi đều là xê dịch 1 hạng quanh ngưỡng top-5, đúng mức nhiễu của 20 câu. Mình **vẫn giữ bản đã sửa**: chunk bảng không có tiêu đề cột thì khi đưa vào prompt (Lab 4) LLM không biết số đó thuộc gói nào. Đó là lỗi về độ đúng của dữ liệu, không phải chuyện điểm retrieval. Bài học: **không chọn thiết kế theo chênh lệch metric nhỏ hơn mức nhiễu của golden set**. Thay đổi nào đúng về mặt dữ liệu thì giữ, và chỉ kết luận từ metric khi chênh lệch đủ lớn hoặc golden set đủ nhiều câu.
 
 ## Lỗi của chính chunker (đã sửa)
 Phân tích lỗi phát hiện breadcrumb sai ở lần chạy đầu:
 - **AVSK:** "Điều 8" bị gắn vào "Bảng Giới hạn bảo hiểm tối đa…", vì "bảng giới hạn" bị xếp là tiêu đề cấp 1 và thay chỗ "CHƯƠNG II".
 - **Manulife:** "Điều 2. THỜI GIAN CHỜ" bị gắn vào "Chương trình Bảo hiểm", vì regex `chương` khớp cả "**Chương** trình".
 
-Cách sửa: "Chương"/"Phần" phải kèm số, và bảng nằm trong Điều là cấp 3. Lần chạy đầu (breadcrumb sai) có recall@5 0.808 và MRR 0.643; sau khi sửa là 0.783 và 0.691. Hạng của câu đúng **tăng** ở nhiều câu (MRR +0.05), nhưng G11 tụt từ hạng 2 xuống 6, làm recall@5 giảm 1 câu. Với 20 câu, cần thận trọng khi đọc các chênh lệch cỡ 0.025–0.05.
+Cách sửa: "Chương"/"Phần" phải kèm số, và bảng nằm trong Điều là cấp 3. Lần chạy đầu (breadcrumb sai) có recall@5 0.808 và MRR 0.643; sau khi sửa breadcrumb là 0.783 và 0.691 (trước khi sửa chunk bảng; số cuối cùng ở bảng Kết quả). Hạng của câu đúng **tăng** ở nhiều câu (MRR +0.05), nhưng G11 tụt từ hạng 2 xuống 6, làm recall@5 giảm 1 câu. Với 20 câu, cần thận trọng khi đọc các chênh lệch cỡ 0.025–0.05.
 
 Còn tồn tại: Dai-ichi có tiêu đề bị Docling gộp ("CHƯƠNG 1: … Điều 1: …") nên các Điều 2, 3 không thành tiêu đề riêng.
 
 ## Câu trả lời phỏng vấn rút ra
-- **"Chọn chunk size thế nào?"** Không chọn bằng cảm tính. Đo recall@k và MRR trên golden set có bằng chứng ở mức đoạn trích. Ở đây chunk theo Điều/mục (trung vị khoảng 215 token) kèm breadcrumb thắng cửa sổ 512 token: MRR 0.69 so với 0.45.
+- **"Chọn chunk size thế nào?"** Không chọn bằng cảm tính. Đo recall@k và MRR trên golden set có bằng chứng ở mức đoạn trích. Ở đây chunk theo Điều/mục (trung vị khoảng 220 token) kèm breadcrumb thắng cửa sổ 512 token: MRR 0.66 so với 0.45. Đổi lại, chunk nhỏ thua ở câu hỏi rộng hoặc so sánh. Cách bù là tách câu hỏi, không phải tăng chunk size.
 - **"Sửa lỗi gì?"** Chunk mất ngữ cảnh sản phẩm và điều khoản, bảng bị cắt ngang. **Tốn gì?** Phụ thuộc chất lượng parsing (tiêu đề sai thì breadcrumb sai) và cần luật cấp tiêu đề riêng cho từng hãng. **Đo bằng gì?** Recall@5, MRR, và ablation bỏ breadcrumb.
-- **Breadcrumb là cách "Contextual Retrieval miễn phí":** với tài liệu có cấu trúc tốt như quy tắc bảo hiểm, nó mang lại phần lớn lợi ích. Contextual Retrieval bằng LLM bổ sung thêm một chút, với chi phí khoảng 0,12 USD cho mỗi tài liệu 25 trang nhờ prompt caching.
+- **Breadcrumb là cách "Contextual Retrieval miễn phí":** với tài liệu có cấu trúc tốt như quy tắc bảo hiểm, nó mang lại gần hết lợi ích. Contextual Retrieval bằng LLM (khoảng 0,12 USD cho mỗi tài liệu 25 trang nhờ prompt caching) không cho thêm lợi ích đo được trên corpus này.
+- **Đọc metric có kỷ luật:** với 20 câu, chênh lệch dưới 0.05 là nhiễu. Một bản sửa đúng về dữ liệu có thể làm metric giảm nhẹ mà vẫn nên giữ.
 - Chunking không sửa được câu không dấu, câu so sánh nhiều sản phẩm, và lỗi parse. Đó là việc của query rewriting, hybrid search, lọc metadata và parser.
