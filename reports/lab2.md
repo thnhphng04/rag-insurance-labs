@@ -1,6 +1,6 @@
 # Lab 2 – Chunking
 
-Notebook: `notebooks/lab2_chunking.ipynb` · Code: `src/ragbv/chunking.py`, `embedding.py`, `metrics.py`, `contextual.py`, `golden.py` · Chunk: `data/chunks/*.jsonl` · Số liệu thô: `reports/lab2_results.json`
+Notebook: `notebooks/lab2_chunking.ipynb` · Code: `src/ragbv/chunking.py`, `embedding.py`, `metrics.py`, `contextual.py`, `golden.py` · Chunk: `data/chunks/*.jsonl` · Số liệu thô: `reports/lab2_results.json` · **Chi tiết từng câu (top-5 chunk mỗi chiến lược, đánh dấu chunk đúng): [`reports/lab2_retrieval_details.md`](lab2_retrieval_details.md)**
 
 ## Thiết lập
 - Đầu vào: output Docling đã làm sạch của Lab 1 (6 tài liệu) và tables JSON.

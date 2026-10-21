@@ -1345,11 +1345,11 @@
  ],
  "contextual": {
   "cost": {
-   "calls": 16,
-   "cached_calls": 41,
-   "prompt_tokens": 268957,
-   "cached_prompt_tokens": 243840,
-   "completion_tokens": 1262
+   "calls": 0,
+   "cached_calls": 57,
+   "prompt_tokens": 0,
+   "cached_prompt_tokens": 0,
+   "completion_tokens": 0
   },
   "avsk_items": [
    "G11",
