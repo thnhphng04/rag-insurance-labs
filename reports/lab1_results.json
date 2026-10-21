@@ -11,14 +11,14 @@
    "doc_id": "bv-angia-2016",
    "parser": "pymupdf_sort",
    "pages": 27,
-   "seconds": 0.8,
+   "seconds": 0.7,
    "removed_header_footer_lines": 2
   },
   {
    "doc_id": "bv-angia-2016",
    "parser": "docling",
    "pages": 27,
-   "seconds": 26.5,
+   "seconds": 27.8,
    "removed_header_footer_lines": 2
   },
   {
@@ -60,7 +60,7 @@
    "doc_id": "bvl-avsk-2022",
    "parser": "docling",
    "pages": 24,
-   "seconds": 14.7,
+   "seconds": 55.7,
    "removed_header_footer_lines": 4
   },
   {
@@ -81,7 +81,7 @@
    "doc_id": "bvl-avsk-tomtat-2022",
    "parser": "docling",
    "pages": 2,
-   "seconds": 0.4,
+   "seconds": 0.6,
    "removed_header_footer_lines": 0
   },
   {
@@ -95,14 +95,14 @@
    "doc_id": "manulife-cssknc-2026",
    "parser": "pymupdf_sort",
    "pages": 26,
-   "seconds": 0.7,
+   "seconds": 0.8,
    "removed_header_footer_lines": 1
   },
   {
    "doc_id": "manulife-cssknc-2026",
    "parser": "docling",
    "pages": 26,
-   "seconds": 13.0,
+   "seconds": 14.3,
    "removed_header_footer_lines": 2
   },
   {
@@ -569,5 +569,303 @@
    "'quyền lợi'": 50,
    "empty_pages": 0
   }
+ ],
+ "tables_json": [
+  {
+   "doc_id": "bv-angia-2016",
+   "page": "15",
+   "cols": 3,
+   "records": 2,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "bv-angia-2016",
+   "page": "20",
+   "cols": 3,
+   "records": 31,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "bv-angia-2016",
+   "page": "21",
+   "cols": 3,
+   "records": 40,
+   "continued_from": 2.0,
+   "issues": 0
+  },
+  {
+   "doc_id": "bv-angia-2016",
+   "page": "22",
+   "cols": 3,
+   "records": 37,
+   "continued_from": 3.0,
+   "issues": 0
+  },
+  {
+   "doc_id": "bv-angia-2016",
+   "page": "23",
+   "cols": 3,
+   "records": 22,
+   "continued_from": 4.0,
+   "issues": 0
+  },
+  {
+   "doc_id": "bv-angia-2016",
+   "page": "24-25",
+   "cols": 6,
+   "records": 17,
+   "continued_from": NaN,
+   "issues": 1
+  },
+  {
+   "doc_id": "bv-angia-2016",
+   "page": "26",
+   "cols": 7,
+   "records": 23,
+   "continued_from": NaN,
+   "issues": 1
+  },
+  {
+   "doc_id": "bv-taman-2019",
+   "page": "21",
+   "cols": 4,
+   "records": 10,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "bv-taman-2019",
+   "page": "22",
+   "cols": 4,
+   "records": 13,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "bv-taman-2019",
+   "page": "25",
+   "cols": 6,
+   "records": 1,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "bvl-avsk-2022",
+   "page": "11",
+   "cols": 6,
+   "records": 2,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "bvl-avsk-2022",
+   "page": "12",
+   "cols": 5,
+   "records": 11,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "bvl-avsk-2022",
+   "page": "13",
+   "cols": 5,
+   "records": 11,
+   "continued_from": 2.0,
+   "issues": 0
+  },
+  {
+   "doc_id": "bvl-avsk-2022",
+   "page": "14",
+   "cols": 5,
+   "records": 9,
+   "continued_from": 3.0,
+   "issues": 0
+  },
+  {
+   "doc_id": "bvl-avsk-2022",
+   "page": "15",
+   "cols": 5,
+   "records": 7,
+   "continued_from": 4.0,
+   "issues": 0
+  },
+  {
+   "doc_id": "bvl-avsk-2022",
+   "page": "16",
+   "cols": 2,
+   "records": 3,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "page": "4",
+   "cols": 6,
+   "records": 2,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "page": "5",
+   "cols": 6,
+   "records": 4,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "page": "5",
+   "cols": 6,
+   "records": 8,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "page": "6",
+   "cols": 6,
+   "records": 14,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "page": "7",
+   "cols": 5,
+   "records": 7,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "page": "8",
+   "cols": 5,
+   "records": 12,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "page": "9",
+   "cols": 5,
+   "records": 8,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "page": "13",
+   "cols": 3,
+   "records": 3,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "page": "21",
+   "cols": 2,
+   "records": 8,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "page": "22",
+   "cols": 2,
+   "records": 10,
+   "continued_from": 9.0,
+   "issues": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "page": "23",
+   "cols": 2,
+   "records": 10,
+   "continued_from": 10.0,
+   "issues": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "page": "24",
+   "cols": 2,
+   "records": 12,
+   "continued_from": 11.0,
+   "issues": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "page": "25",
+   "cols": 2,
+   "records": 13,
+   "continued_from": 12.0,
+   "issues": 0
+  },
+  {
+   "doc_id": "manulife-cssknc-2026",
+   "page": "26",
+   "cols": 2,
+   "records": 9,
+   "continued_from": 13.0,
+   "issues": 0
+  },
+  {
+   "doc_id": "daiichi-tktt2015-2025",
+   "page": "1",
+   "cols": 2,
+   "records": 6,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "daiichi-tktt2015-2025",
+   "page": "1",
+   "cols": 3,
+   "records": 1,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "daiichi-tktt2015-2025",
+   "page": "2",
+   "cols": 2,
+   "records": 2,
+   "continued_from": NaN,
+   "issues": 0
+  },
+  {
+   "doc_id": "daiichi-tktt2015-2025",
+   "page": "12",
+   "cols": 4,
+   "records": 1,
+   "continued_from": NaN,
+   "issues": 0
+  }
+ ],
+ "tables_json_scores": [
+  {
+   "test": "angia_bieu_phi",
+   "cells": 90,
+   "value_recall": 1.0,
+   "row_integrity": 1.0
+  },
+  {
+   "test": "taman_bieu_phi",
+   "cells": 27,
+   "value_recall": 1.0,
+   "row_integrity": 1.0
+  },
+  {
+   "test": "angia_quyen_loi",
+   "cells": 22,
+   "value_recall": 1.0,
+   "row_integrity": 1.0
+  }
+ ],
+ "table_issues": [
+  "bv-angia-2016 | trang 24-25, dòng 19: nhãn 'Điều trị viêm nướu, viêm nha chu 5. Bảo hiểm Thai sản' chứa mục 5. ở giữa -> đã sửa",
+  "bv-angia-2016 | trang 26, dòng 24: nhãn 'Từ 1 đến' bị cắt dở -> chưa sửa, cần kiểm tra tay"
  ]
 }

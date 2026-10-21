@@ -1,0 +1,694 @@
+[
+ {
+  "doc_id": "bvl-avsk-2022",
+  "table_id": 1,
+  "page_label": "11",
+  "columns": [
+   "Quyền lợi bảo hiểm / A. Quyền lợi Điều trị Nội trú",
+   "Quyền lợi bảo hiểm / A. Quyền lợi Điều trị Nội trú",
+   "Chương trình bảo hiểm / Bạc / 150 triệu đồng/năm",
+   "Chương trình bảo hiểm / Vàng / 250 triệu đồng/năm",
+   "Chương trình bảo hiểm / Bạch Kim / 500 triệu đồng/năm",
+   "Chương trình bảo hiểm / Kim Cương / 1 tỷ đồng/năm"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 3,
+    "section": [],
+    "label": "Quyền lợi bổ sung tùy chọn",
+    "values": {
+     "Quyền lợi bảo hiểm / A. Quyền lợi Điều trị Nội trú": "B. Quyền lợi Điều trị Ngoại trú",
+     "Chương trình bảo hiểm / Bạc / 150 triệu đồng/năm": "Không áp dụng",
+     "Chương trình bảo hiểm / Vàng / 250 triệu đồng/năm": "10 triệu đồng/năm",
+     "Chương trình bảo hiểm / Bạch Kim / 500 triệu đồng/năm": "20 triệu đồng/năm",
+     "Chương trình bảo hiểm / Kim Cương / 1 tỷ đồng/năm": "40 triệu đồng/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "Quyền lợi bổ sung tùy chọn",
+    "values": {
+     "Quyền lợi bảo hiểm / A. Quyền lợi Điều trị Nội trú": "C. Quyền lợi Điều trị Nha khoa",
+     "Chương trình bảo hiểm / Bạc / 150 triệu đồng/năm": "Không áp dụng",
+     "Chương trình bảo hiểm / Vàng / 250 triệu đồng/năm": "3 triệu đồng/năm",
+     "Chương trình bảo hiểm / Bạch Kim / 500 triệu đồng/năm": "5 triệu đồng/năm",
+     "Chương trình bảo hiểm / Kim Cương / 1 tỷ đồng/năm": "10 triệu đồng/năm"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "bvl-avsk-2022",
+  "table_id": 2,
+  "page_label": "12",
+  "columns": [
+   "Chương trình",
+   "Bạc",
+   "Vàng",
+   "Bạch Kim",
+   "Kim Cương"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "Giới hạn bảo hiểm tối đa cho Quyền lợi Điều trị Nội trú",
+    "values": {
+     "Bạc": "150.000.000 đồng/năm",
+     "Vàng": "250.000.000 đồng/năm",
+     "Bạch Kim": "500.000.000 đồng/năm",
+     "Kim Cương": "1.000.000.000 đồng/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "Đồng chi trả Quyền lợi Điều trị Nội trú",
+    "values": {
+     "Bạc": "Người được bảo hiểm tự chi trả: 0% Chi phí y tế thực tế.",
+     "Vàng": "Người được bảo hiểm tự chi trả: 0% Chi phí y tế thực tế.",
+     "Bạch Kim": "Người được bảo hiểm tự chi trả: 0% Chi phí y tế thực tế.",
+     "Kim Cương": "Người được bảo hiểm tự chi trả: 0% Chi phí y tế thực tế."
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "I. Chi phí Điều trị Nội trú (giới hạn cho mỗi Đợt điều trị, không bao gồm Thai sản)",
+    "values": {
+     "Bạc": "60.000.000 đồng/đợt",
+     "Vàng": "100.000.000 đồng/đợt",
+     "Bạch Kim": "200.000.000 đồng/đợt",
+     "Kim Cương": "400.000.000 đồng/đợt"
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "Giới hạn phụ trong Phần I",
+    "values": {
+     "Bạc": "Được chi trả theo Giới hạn phụ của từng mục từ Mục 1 đến Mục 8 dưới đây",
+     "Vàng": "Được chi trả theo Giới hạn phụ của từng mục từ Mục 1 đến Mục 8 dưới đây",
+     "Bạch Kim": "Được chi trả theo Giới hạn phụ của từng mục từ Mục 1 đến Mục 8 dưới đây",
+     "Kim Cương": "Được chi trả theo Giới hạn phụ của từng mục từ Mục 1 đến Mục 8 dưới đây"
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "1. Chi phí Phòng và Giường Tối đa 60 ngày/năm",
+    "values": {
+     "Bạc": "750.000 đồng/ngày",
+     "Vàng": "1.250.000 đồng/ngày",
+     "Bạch Kim": "2.500.000 đồng/ngày",
+     "Kim Cương": "5.000.000 đồng/ngày"
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "2. Chi phí Phòng và Giường ở Khoa Hồi sức tích cực (ICU) Tối đa 30 ngày/năm",
+    "values": {
+     "Bạc": "1.500.000 đồng/ngày",
+     "Vàng": "2.500.000 đồng/ngày",
+     "Bạch Kim": "5.000.000 đồng/ngày",
+     "Kim Cương": "10.000.000 đồng/ngày"
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "3. Chi phí Phẫu thuật",
+    "values": {
+     "Bạc": "24.000.000 đồng/đợt",
+     "Vàng": "40.000.000 đồng/đợt",
+     "Bạch Kim": "75.000.000 đồng/đợt",
+     "Kim Cương": "150.000.000 đồng/đợt"
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "4. Chi phí Điều trị trước khi nhập viện",
+    "values": {
+     "Bạc": "3.000.000 đồng/đợt",
+     "Vàng": "5.000.000 đồng/đợt",
+     "Bạch Kim": "8.000.000 đồng/đợt",
+     "Kim Cương": "10.000.000 đồng/đợt"
+    },
+    "note": null
+   },
+   {
+    "row": 10,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "5. Chi phí Điều trị sau khi xuất viện",
+    "values": {
+     "Bạc": "3.000.000 đồng/đợt",
+     "Vàng": "5.000.000 đồng/đợt",
+     "Bạch Kim": "8.000.000 đồng/đợt",
+     "Kim Cương": "10.000.000 đồng/đợt"
+    },
+    "note": null
+   },
+   {
+    "row": 11,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "6. Chi phí Giường dành cho người chăm sóc Tối đa 30 ngày/năm",
+    "values": {
+     "Bạc": "300.000 đồng/ngày",
+     "Vàng": "500.000 đồng/ngày",
+     "Bạch Kim": "700.000 đồng/ngày",
+     "Kim Cương": "1.000.000 đồng/ngày"
+    },
+    "note": null
+   },
+   {
+    "row": 12,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "7. Chi phí y tế nội trú khác",
+    "values": {
+     "Bạc": "Theo giới hạn tối đa của Phần I",
+     "Vàng": "Theo giới hạn tối đa của Phần I",
+     "Bạch Kim": "Theo giới hạn tối đa của Phần I",
+     "Kim Cương": "Theo giới hạn tối đa của Phần I"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "bvl-avsk-2022",
+  "table_id": 3,
+  "page_label": "13",
+  "columns": [
+   "Chương trình",
+   "Bạc",
+   "Vàng",
+   "Bạch Kim",
+   "Kim Cương"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": 2,
+  "records": [
+   {
+    "row": 0,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "8. Chi phí Điều trị Nội trú tổn thương răng do Tai nạn",
+    "values": {
+     "Bạc": "1.500.000 đồng/năm",
+     "Vàng": "2.000.000 đồng/năm",
+     "Bạch Kim": "4.000.000 đồng/năm",
+     "Kim Cương": "6.000.000 đồng/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [
+     "Quyền lợi Điều trị ung thư chỉ được bảo hiểm đến hết tuổi 65."
+    ],
+    "label": "1. Chi phí Điều trị Nội trú",
+    "values": {
+     "Bạc": "Chi phí Điều trị Nội trú cho ung thư được áp dụng và tính chung trong giới hạn của Phần I và Giới hạn phụ của từng mục (trừ Mục 8) trong Phần I nêu trên.",
+     "Vàng": "Chi phí Điều trị Nội trú cho ung thư được áp dụng và tính chung trong giới hạn của Phần I và Giới hạn phụ của từng mục (trừ Mục 8) trong Phần I nêu trên.",
+     "Bạch Kim": "Chi phí Điều trị Nội trú cho ung thư được áp dụng và tính chung trong giới hạn của Phần I và Giới hạn phụ của từng mục (trừ Mục 8) trong Phần I nêu trên.",
+     "Kim Cương": "Chi phí Điều trị Nội trú cho ung thư được áp dụng và tính chung trong giới hạn của Phần I và Giới hạn phụ của từng mục (trừ Mục 8) trong Phần I nêu trên."
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [
+     "Quyền lợi Điều trị ung thư chỉ được bảo hiểm đến hết tuổi 65."
+    ],
+    "label": "2. Chi phí điều trị ung thư (xạ trị, hóa trị, liệu pháp trúng đích)",
+    "values": {
+     "Bạc": "Theo giới hạn tối đa của Phần A.",
+     "Vàng": "Theo giới hạn tối đa của Phần A.",
+     "Bạch Kim": "Theo giới hạn tối đa của Phần A.",
+     "Kim Cương": "Theo giới hạn tối đa của Phần A."
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [
+     "III. Quyền lợi Cấy ghép nội tạng"
+    ],
+    "label": "1. Chi phí cho người nhận tạng (là Người được bảo hiểm)",
+    "values": {},
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [
+     "III. Quyền lợi Cấy ghép nội tạng"
+    ],
+    "label": "a) Chi phí Điều trị Nội trú",
+    "values": {
+     "Bạc": "Được áp dụng và tính chung trong giới hạn của Phần I và Giới hạn phụ của từng mục (trừ Mục 3 và Mục 8) trong Phần I nêu trên.",
+     "Vàng": "Được áp dụng và tính chung trong giới hạn của Phần I và Giới hạn phụ của từng mục (trừ Mục 3 và Mục 8) trong Phần I nêu trên.",
+     "Bạch Kim": "Được áp dụng và tính chung trong giới hạn của Phần I và Giới hạn phụ của từng mục (trừ Mục 3 và Mục 8) trong Phần I nêu trên.",
+     "Kim Cương": "Được áp dụng và tính chung trong giới hạn của Phần I và Giới hạn phụ của từng mục (trừ Mục 3 và Mục 8) trong Phần I nêu trên."
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [
+     "III. Quyền lợi Cấy ghép nội tạng"
+    ],
+    "label": "b) Chi phí Phẫu thuật",
+    "values": {
+     "Bạc": "150.000.000 đồng/lần ghép",
+     "Vàng": "250.000.000 đồng/lần ghép",
+     "Bạch Kim": "500.000.000 đồng/lần ghép",
+     "Kim Cương": "1.000.000.000 đồng/lần ghép"
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [
+     "III. Quyền lợi Cấy ghép nội tạng"
+    ],
+    "label": "2. Chi phí cho người hiến tạng (Chi phí Phẫu thuật)",
+    "values": {
+     "Bạc": "25.000.000 đồng/lần ghép",
+     "Vàng": "25.000.000 đồng/lần ghép",
+     "Bạch Kim": "25.000.000 đồng/lần ghép",
+     "Kim Cương": "25.000.000 đồng/lần ghép"
+    },
+    "note": null
+   },
+   {
+    "row": 11,
+    "section": [
+     "IV. Quyền lợi Điều trị Ngoại trú đặc biệt"
+    ],
+    "label": "1. Chi phí chạy thận nhân tạo định kỳ",
+    "values": {
+     "Bạc": "5.000.000 đồng/năm",
+     "Vàng": "10.000.000 đồng/năm",
+     "Bạch Kim": "15.000.000 đồng/năm",
+     "Kim Cương": "20.000.000 đồng/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 12,
+    "section": [
+     "IV. Quyền lợi Điều trị Ngoại trú đặc biệt"
+    ],
+    "label": "2. Chi phí xe cứuthương",
+    "values": {
+     "Bạc": "1.500.000 đồng/năm",
+     "Vàng": "2.000.000 đồng/năm",
+     "Bạch Kim": "4.000.000 đồng/năm",
+     "Kim Cương": "6.000.000 đồng/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 13,
+    "section": [
+     "IV. Quyền lợi Điều trị Ngoại trú đặc biệt"
+    ],
+    "label": "3. Chi phí Điều trị trong ngày tại khoa cấp cứu (bao gồm cả Điều trị Nha khoa trong ngày do Tai nạn)",
+    "values": {
+     "Bạc": "1.500.000 đồng/năm",
+     "Vàng": "2.000.000 đồng/năm",
+     "Bạch Kim": "4.000.000 đồng/năm",
+     "Kim Cương": "6.000.000 đồng/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 14,
+    "section": [
+     "IV. Quyền lợi Điều trị Ngoại trú đặc biệt"
+    ],
+    "label": "4. Chi phí Phẫu thuật trong ngày",
+    "values": {
+     "Bạc": "2.500.000 đồng/năm",
+     "Vàng": "4.000.000 đồng/năm",
+     "Bạch Kim": "6.000.000 đồng/năm",
+     "Kim Cương": "8.000.000 đồng/năm"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "bvl-avsk-2022",
+  "table_id": 4,
+  "page_label": "14",
+  "columns": [
+   "Chương trình",
+   "Bạc",
+   "Vàng",
+   "Bạch Kim",
+   "Kim Cương"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": 3,
+  "records": [
+   {
+    "row": 2,
+    "section": [
+     "Quyền lợi Thai sản chỉ áp dụng với Người được bảo hiểm là nữ trong độ tuổi từ 18 đến 45 tại thời điểm sinh con hoặc xảy ra Biến chứng thai sản."
+    ],
+    "label": "Giới hạn bảo hiểm tối đa cho Quyền lợi Thai sản",
+    "values": {
+     "Bạc": "Không áp dụng",
+     "Vàng": "15.000.000 đồng/năm",
+     "Bạch Kim": "30.000.000 đồng/năm",
+     "Kim Cương": "50.000.000 đồng/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [
+     "Quyền lợi Thai sản chỉ áp dụng với Người được bảo hiểm là nữ trong độ tuổi từ 18 đến 45 tại thời điểm sinh con hoặc xảy ra Biến chứng thai sản."
+    ],
+    "label": "Giới hạn phụ trong Phần V",
+    "values": {
+     "Bạc": "Chi phí sinh thường, Chi phí sinh mổ, chi phí điều trị Biến chứng thai sản được chi trả riêng theo Giới hạn phụ của từng mục dưới đây, không áp dụng theo Phần I đến Phần IV phía trên. Mục 4 và Mục 5 dưới đây được tính chung trong giới hạn của Mục 1, 2, 3.",
+     "Vàng": "Chi phí sinh thường, Chi phí sinh mổ, chi phí điều trị Biến chứng thai sản được chi trả riêng theo Giới hạn phụ của từng mục dưới đây, không áp dụng theo Phần I đến Phần IV phía trên. Mục 4 và Mục 5 dưới đây được tính chung trong giới hạn của Mục 1, 2, 3.",
+     "Bạch Kim": "Chi phí sinh thường, Chi phí sinh mổ, chi phí điều trị Biến chứng thai sản được chi trả riêng theo Giới hạn phụ của từng mục dưới đây, không áp dụng theo Phần I đến Phần IV phía trên. Mục 4 và Mục 5 dưới đây được tính chung trong giới hạn của Mục 1, 2, 3.",
+     "Kim Cương": "Chi phí sinh thường, Chi phí sinh mổ, chi phí điều trị Biến chứng thai sản được chi trả riêng theo Giới hạn phụ của từng mục dưới đây, không áp dụng theo Phần I đến Phần IV phía trên. Mục 4 và Mục 5 dưới đây được tính chung trong giới hạn của Mục 1, 2, 3."
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [
+     "Quyền lợi Thai sản chỉ áp dụng với Người được bảo hiểm là nữ trong độ tuổi từ 18 đến 45 tại thời điểm sinh con hoặc xảy ra Biến chứng thai sản."
+    ],
+    "label": "1. Chi phí sinh thường",
+    "values": {
+     "Bạc": "Không áp dụng",
+     "Vàng": "10.000.000 đồng/lần",
+     "Bạch Kim": "20.000.000 đồng/lần",
+     "Kim Cương": "30.000.000 đồng/lần"
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [
+     "Quyền lợi Thai sản chỉ áp dụng với Người được bảo hiểm là nữ trong độ tuổi từ 18 đến 45 tại thời điểm sinh con hoặc xảy ra Biến chứng thai sản."
+    ],
+    "label": "2. Chi phí sinh mổ",
+    "values": {
+     "Bạc": "Không áp dụng",
+     "Vàng": "15.000.000 đồng/lần",
+     "Bạch Kim": "30.000.000 đồng/lần",
+     "Kim Cương": "50.000.000 đồng/lần"
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [
+     "Quyền lợi Thai sản chỉ áp dụng với Người được bảo hiểm là nữ trong độ tuổi từ 18 đến 45 tại thời điểm sinh con hoặc xảy ra Biến chứng thai sản."
+    ],
+    "label": "3. Chi phí điều trị Biến chứng thai sản",
+    "values": {
+     "Bạc": "Không áp dụng",
+     "Vàng": "15.000.000 đồng/năm",
+     "Bạch Kim": "30.000.000 đồng/năm",
+     "Kim Cương": "50.000.000 đồng/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [
+     "Quyền lợi Thai sản chỉ áp dụng với Người được bảo hiểm là nữ trong độ tuổi từ 18 đến 45 tại thời điểm sinh con hoặc xảy ra Biến chứng thai sản."
+    ],
+    "label": "4. Chi phí Phòng và Giường Tối đa 30 ngày/năm cho tổng Quyền lợi Thai sản",
+    "values": {
+     "Bạc": "Không áp dụng",
+     "Vàng": "1.250.000 đồng/ngày",
+     "Bạch Kim": "2.500.000 đồng/ngày",
+     "Kim Cương": "5.000.000 đồng/ngày"
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [
+     "Quyền lợi Thai sản chỉ áp dụng với Người được bảo hiểm là nữ trong độ tuổi từ 18 đến 45 tại thời điểm sinh con hoặc xảy ra Biến chứng thai sản."
+    ],
+    "label": "5. Chi phí Phòng và Giường tại Khoa Hồi sức tích cực (ICU) Tối đa 15 ngày/năm cho tổng Quyền lợi",
+    "values": {
+     "Bạc": "Không áp dụng",
+     "Vàng": "2.500.000 đồng/ngày",
+     "Bạch Kim": "5.000.000 đồng/ngày",
+     "Kim Cương": "10.000.000 đồng/ngày"
+    },
+    "note": null
+   },
+   {
+    "row": 11,
+    "section": [
+     "6.2. Quyền lợi Điều trị Ngoại trú",
+     "Thai sản Chương trình"
+    ],
+    "label": "Giới hạn bảo hiểm tối đa cho Quyền lợi Điều trị Ngoại trú",
+    "values": {
+     "Bạc": "Không áp dụng",
+     "Vàng": "10.000.000 đồng/năm",
+     "Bạch Kim": "20.000.000 đồng/năm",
+     "Kim Cương": "40.000.000 đồng/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 12,
+    "section": [
+     "6.2. Quyền lợi Điều trị Ngoại trú",
+     "Thai sản Chương trình"
+    ],
+    "label": "Đồng chi trả Quyền lợi Điều trị Ngoại trú",
+    "values": {
+     "Bạc": "Người được bảo hiểm tự chi trả: 20% Chi phí y tế thực tế.",
+     "Vàng": "Người được bảo hiểm tự chi trả: 20% Chi phí y tế thực tế.",
+     "Bạch Kim": "Người được bảo hiểm tự chi trả: 20% Chi phí y tế thực tế.",
+     "Kim Cương": "Người được bảo hiểm tự chi trả: 20% Chi phí y tế thực tế."
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "bvl-avsk-2022",
+  "table_id": 5,
+  "page_label": "15",
+  "columns": [
+   "Chương trình",
+   "Bạc",
+   "Vàng",
+   "Bạch Kim",
+   "Kim Cương"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": 4,
+  "records": [
+   {
+    "row": 1,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "I. Giới hạn cho mỗi lần khám, điều trị Bao gồm: - Khám bệnh; - Thuốc điều trị; - Các kỹ thuật chẩn đoán; - Chi phí Điều trị trong ngày (không bao gồm Vật lý trị liệu, điều trị ung thư trong ngày, chạy thận nhân tạo trong ngày, Điều trị trong ngày tại khoa Cấp cứu).",
+    "values": {
+     "Bạc": "Không áp dụng",
+     "Vàng": "1.000.000 đồng/lần",
+     "Bạch Kim": "2.000.000 đồng/lần",
+     "Kim Cương": "4.000.000 đồng/lần"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "I. Giới hạn cho mỗi lần khám, điều trị Bao gồm: - Khám bệnh; - Thuốc điều trị; - Các kỹ thuật chẩn đoán; - Chi phí Điều trị trong ngày (không bao gồm Vật lý trị liệu, điều trị ung thư trong ngày, chạy thận nhân tạo trong ngày, Điều trị trong ngày tại khoa Cấp cứu).",
+    "values": {
+     "Bạc": "Giới hạn: 10 lần khám/năm.",
+     "Vàng": "Giới hạn: 10 lần khám/năm.",
+     "Bạch Kim": "Giới hạn: 10 lần khám/năm.",
+     "Kim Cương": "Giới hạn: 10 lần khám/năm."
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "II. Vật lý trị liệu (01 đợt/năm)",
+    "values": {
+     "Bạc": "Không áp dụng",
+     "Vàng": "1.000.000 đồng/năm",
+     "Bạch Kim": "2.000.000 đồng/năm",
+     "Kim Cương": "4.000.000 đồng/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [
+     "6.3. Quyền lợi Điều trị Nha khoa",
+     "Chương trình bảo hiểm"
+    ],
+    "label": "Giới hạn bảo hiểm tối đa cho Quyền lợi Điều trị Nha khoa",
+    "values": {
+     "Bạc": "Không áp dụng",
+     "Vàng": "3.000.000 đồng/năm",
+     "Bạch Kim": "5.000.000 đồng/năm",
+     "Kim Cương": "10.000.000 đồng/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [
+     "6.3. Quyền lợi Điều trị Nha khoa",
+     "Chương trình bảo hiểm"
+    ],
+    "label": "Đồng chi trả Quyền lợi Điều trị Nha khoa",
+    "values": {
+     "Bạc": "Người được bảo hiểm tự chi trả: 20% Chi phí y tế thực tế.",
+     "Vàng": "Người được bảo hiểm tự chi trả: 20% Chi phí y tế thực tế.",
+     "Bạch Kim": "Người được bảo hiểm tự chi trả: 20% Chi phí y tế thực tế.",
+     "Kim Cương": "Người được bảo hiểm tự chi trả: 20% Chi phí y tế thực tế."
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "I. Điều trị Nha khoa",
+    "values": {
+     "Bạc": "Không áp dụng",
+     "Vàng": "1.000.000 đồng/lần",
+     "Bạch Kim": "2.000.000 đồng/lần",
+     "Kim Cương": "3.000.000 đồng/lần"
+    },
+    "note": null
+   },
+   {
+    "row": 10,
+    "section": [
+     "Các Giới hạn phụ như sau:"
+    ],
+    "label": "II. Lấy cao răng (01 lần/năm)",
+    "values": {
+     "Bạc": "Không áp dụng",
+     "Vàng": "500.000 đồng/lần",
+     "Bạch Kim": "700.000 đồng/lần",
+     "Kim Cương": "1.000.000 đồng/lần"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "bvl-avsk-2022",
+  "table_id": 6,
+  "page_label": "16",
+  "columns": [
+   "Điều kiện xét giảm phí",
+   "Tỉ lệ giảm phí (% phí bảo hiểm của Quyền lợi bảo hiểm nêu tại Khoản 6.1, 6.2, 6.3 Điều 6 cho một năm tái tục tiếp theo)"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "Không phát sinh yêu cầu chi trả theo Quyền lợi điều trị tương ứng trong 01 năm tham gia liền trước thời điểm xem xét",
+    "values": {
+     "Tỉ lệ giảm phí (% phí bảo hiểm của Quyền lợi bảo hiểm nêu tại Khoản 6.1, 6.2, 6.3 Điều 6 cho một năm tái tục tiếp theo)": "5%"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "Không phát sinh yêu cầu chi trả theo Quyền lợi điều trị tương ứng trong 02 năm tham gia liên tục liền trước thời điểm xem xét",
+    "values": {
+     "Tỉ lệ giảm phí (% phí bảo hiểm của Quyền lợi bảo hiểm nêu tại Khoản 6.1, 6.2, 6.3 Điều 6 cho một năm tái tục tiếp theo)": "10%"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "Không phát sinh yêu cầu chi trả theo Quyền lợi điều trị tương ứng trong 03 năm tham gia liên tục liền trước thời điểm xem xét",
+    "values": {
+     "Tỉ lệ giảm phí (% phí bảo hiểm của Quyền lợi bảo hiểm nêu tại Khoản 6.1, 6.2, 6.3 Điều 6 cho một năm tái tục tiếp theo)": "15%"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ }
+]

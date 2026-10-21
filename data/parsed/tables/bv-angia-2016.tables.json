@@ -1,0 +1,2315 @@
+[
+ {
+  "doc_id": "bv-angia-2016",
+  "table_id": 1,
+  "page_label": "15",
+  "columns": [
+   "THAI SẢN",
+   "BẠCH KIM",
+   "KIM CƯƠNG"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "Giới hạn trách nhiệm tối đa cho một thời hạn bảo hiểm",
+    "values": {
+     "BẠCH KIM": "21.000.000",
+     "KIM CƯƠNG": "31.500.000"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "Phí bảo hiểm/ người/năm",
+    "values": {
+     "BẠCH KIM": "4.800.000",
+     "KIM CƯƠNG": "5.500.000"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "bv-angia-2016",
+  "table_id": 2,
+  "page_label": "20",
+  "columns": [
+   "STT",
+   "QUYỀN LỢI",
+   "TỶ LỆ TRẢ TIỀN"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "I - CHẾT",
+    "values": {
+     "QUYỀN LỢI": "I - CHẾT",
+     "TỶ LỆ TRẢ TIỀN": "100%"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [
+     "II - THƯƠNG TẬT TOÀN BỘ VĨNH VIỄN"
+    ],
+    "label": "1",
+    "values": {
+     "QUYỀN LỢI": "Mất hoặc mù hoàn toàn 2 mắt",
+     "TỶ LỆ TRẢ TIỀN": "100%"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [
+     "II - THƯƠNG TẬT TOÀN BỘ VĨNH VIỄN"
+    ],
+    "label": "2",
+    "values": {
+     "QUYỀN LỢI": "Rối loạn tâm thần hoàn toàn không thể chữa được",
+     "TỶ LỆ TRẢ TIỀN": "100%"
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [
+     "II - THƯƠNG TẬT TOÀN BỘ VĨNH VIỄN"
+    ],
+    "label": "3",
+    "values": {
+     "QUYỀN LỢI": "Hỏng toàn bộ chức năng nhai và nói",
+     "TỶ LỆ TRẢ TIỀN": "100%"
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [
+     "II - THƯƠNG TẬT TOÀN BỘ VĨNH VIỄN"
+    ],
+    "label": "4",
+    "values": {
+     "QUYỀN LỢI": "Mất hoặc liệt hoàn toàn 2 tay (từ vai hoặc khuỷu xuống) Hoặc 2 chân (từ hông hoặc đầu gối xuống)",
+     "TỶ LỆ TRẢ TIỀN": "100%"
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [
+     "II - THƯƠNG TẬT TOÀN BỘ VĨNH VIỄN"
+    ],
+    "label": "5",
+    "values": {
+     "QUYỀN LỢI": "Mất cả hai bàn tay hoặc hai bàn chân hoặc mất một cánh tay và một bàn chân hoặc mất một cánh tay và một cẳng chân hoặc một bàn tay và một cẳng chân hoặc một bàn tay và một bàn chân",
+     "TỶ LỆ TRẢ TIỀN": "100%"
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [
+     "II - THƯƠNG TẬT TOÀN BỘ VĨNH VIỄN"
+    ],
+    "label": "6",
+    "values": {
+     "QUYỀN LỢI": "Mất hoàn toàn khả năng lao động mà không thể làm bất cứ việc gì (toàn bộ bị tê liệt, bị thương dẫn đến tình trạng nằm liệt giường hoặc dẫn đến tàn tật toàn bộ vĩnh viễn)",
+     "TỶ LỆ TRẢ TIỀN": "100%"
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [
+     "II - THƯƠNG TẬT TOÀN BỘ VĨNH VIỄN"
+    ],
+    "label": "7",
+    "values": {
+     "QUYỀN LỢI": "Cắt toàn bộ một bên phổi và một phần phổi bên kia",
+     "TỶ LỆ TRẢ TIỀN": "100%"
+    },
+    "note": null
+   },
+   {
+    "row": 12,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "8",
+    "values": {
+     "QUYỀN LỢI": "Mất một cánh tay từ vai xuống (tháo khớp vai)",
+     "TỶ LỆ TRẢ TIỀN": "75-85%"
+    },
+    "note": null
+   },
+   {
+    "row": 13,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "9",
+    "values": {
+     "QUYỀN LỢI": "Cắt cụt cánh tay từ dưới vai xuống",
+     "TỶ LỆ TRẢ TIỀN": "70-80%"
+    },
+    "note": null
+   },
+   {
+    "row": 14,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "10",
+    "values": {
+     "QUYỀN LỢI": "Cắt cụt một cánh tay từ khuỷu xuống (tháo khớp khuỷu)",
+     "TỶ LỆ TRẢ TIỀN": "65-75%"
+    },
+    "note": null
+   },
+   {
+    "row": 15,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "11",
+    "values": {
+     "QUYỀN LỢI": "Mất trọn một bàn tay hoặc toàn bộ cả 5 ngón tay",
+     "TỶ LỆ TRẢ TIỀN": "60-70%"
+    },
+    "note": null
+   },
+   {
+    "row": 16,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "12",
+    "values": {
+     "QUYỀN LỢI": "Mất đồng thời cả bốn ngón tay của một bàn tay",
+     "TỶ LỆ TRẢ TIỀN": "40-50%"
+    },
+    "note": null
+   },
+   {
+    "row": 17,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "13",
+    "values": {
+     "QUYỀN LỢI": "Mất đồng thời cả ngón cái và ngón trỏ",
+     "TỶ LỆ TRẢ TIỀN": "35-45%"
+    },
+    "note": null
+   },
+   {
+    "row": 18,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "14",
+    "values": {
+     "QUYỀN LỢI": "Mất 3 ngón: 3 - 4 - 5",
+     "TỶ LỆ TRẢ TIỀN": "30-35%"
+    },
+    "note": null
+   },
+   {
+    "row": 19,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "15",
+    "values": {
+     "QUYỀN LỢI": "Mất ngón cái và 2 ngón khác",
+     "TỶ LỆ TRẢ TIỀN": "35-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 20,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "16",
+    "values": {
+     "QUYỀN LỢI": "Mất ngón cái và một ngón khác",
+     "TỶ LỆ TRẢ TIỀN": "30-35%"
+    },
+    "note": null
+   },
+   {
+    "row": 21,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "17",
+    "values": {
+     "QUYỀN LỢI": "Mất ngón trỏ và hai ngón khác",
+     "TỶ LỆ TRẢ TIỀN": "35-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 22,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "18",
+    "values": {
+     "QUYỀN LỢI": "Mất ngón trỏ và một ngón giữa",
+     "TỶ LỆ TRẢ TIỀN": "30-35%"
+    },
+    "note": null
+   },
+   {
+    "row": 23,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "19",
+    "values": {
+     "QUYỀN LỢI": "Mất trọn ngón cái và đốt bàn",
+     "TỶ LỆ TRẢ TIỀN": "25-30%"
+    },
+    "note": null
+   },
+   {
+    "row": 24,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "",
+    "values": {
+     "QUYỀN LỢI": "Mất trọn ngón cái",
+     "TỶ LỆ TRẢ TIỀN": "20-25%"
+    },
+    "note": null
+   },
+   {
+    "row": 25,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "",
+    "values": {
+     "QUYỀN LỢI": "Mất cả đốt ngoài",
+     "TỶ LỆ TRẢ TIỀN": "10-15%"
+    },
+    "note": null
+   },
+   {
+    "row": 26,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "",
+    "values": {
+     "QUYỀN LỢI": "Mất nửa đốt ngoài",
+     "TỶ LỆ TRẢ TIỀN": "07-10%"
+    },
+    "note": null
+   },
+   {
+    "row": 27,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "20",
+    "values": {
+     "QUYỀN LỢI": "Mất ngón trỏ và đốt bàn",
+     "TỶ LỆ TRẢ TIỀN": "20-25%"
+    },
+    "note": null
+   },
+   {
+    "row": 28,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "20",
+    "values": {
+     "QUYỀN LỢI": "Mất ngón trỏ",
+     "TỶ LỆ TRẢ TIỀN": "18-22%"
+    },
+    "note": null
+   },
+   {
+    "row": 29,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "20",
+    "values": {
+     "QUYỀN LỢI": "Mất hai đốt 2 và 3",
+     "TỶ LỆ TRẢ TIỀN": "10-12%"
+    },
+    "note": null
+   },
+   {
+    "row": 30,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "20",
+    "values": {
+     "QUYỀN LỢI": "Mất đốt 2",
+     "TỶ LỆ TRẢ TIỀN": "08-10%"
+    },
+    "note": null
+   },
+   {
+    "row": 31,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "21",
+    "values": {
+     "QUYỀN LỢI": "Mất trọn ngón giữa hoặc ngón nhẫn (bao gồm cả đốt bàn)",
+     "TỶ LỆ TRẢ TIỀN": "18-22%"
+    },
+    "note": null
+   },
+   {
+    "row": 32,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "21",
+    "values": {
+     "QUYỀN LỢI": "Mất trọn ngón giữa hoặc ngón nhẫn",
+     "TỶ LỆ TRẢ TIỀN": "15-18%"
+    },
+    "note": null
+   },
+   {
+    "row": 33,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "21",
+    "values": {
+     "QUYỀN LỢI": "Mất hai đốt 2 và 3",
+     "TỶ LỆ TRẢ TIỀN": "08-12%"
+    },
+    "note": null
+   },
+   {
+    "row": 34,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "21",
+    "values": {
+     "QUYỀN LỢI": "Mất đốt 2",
+     "TỶ LỆ TRẢ TIỀN": "04-07%"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "bv-angia-2016",
+  "table_id": 3,
+  "page_label": "21",
+  "columns": [
+   "STT",
+   "QUYỀN LỢI",
+   "TỶ LỆ TRẢ TIỀN"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": 2,
+  "records": [
+   {
+    "row": 0,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "",
+    "values": {
+     "QUYỀN LỢI": "Mất cả ngón út và đốt bàn",
+     "TỶ LỆ TRẢ TIỀN": "15-20%"
+    },
+    "note": null
+   },
+   {
+    "row": 1,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "",
+    "values": {
+     "QUYỀN LỢI": "Mất cả ngón út",
+     "TỶ LỆ TRẢ TIỀN": "10-15%"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "22",
+    "values": {
+     "QUYỀN LỢI": "Mất hai đốt 2 và 3",
+     "TỶ LỆ TRẢ TIỀN": "08-10%"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "",
+    "values": {
+     "QUYỀN LỢI": "Mất đốt 2",
+     "TỶ LỆ TRẢ TIỀN": "04-07%"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "23",
+    "values": {
+     "QUYỀN LỢI": "Cứng khớp bả vai",
+     "TỶ LỆ TRẢ TIỀN": "30-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "24",
+    "values": {
+     "QUYỀN LỢI": "Cứng khớp khuỷu tay",
+     "TỶ LỆ TRẢ TIỀN": "25-35%"
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "25",
+    "values": {
+     "QUYỀN LỢI": "Cứng khớp cổ tay",
+     "TỶ LỆ TRẢ TIỀN": "20-30%"
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [
+     "CHI TRÊN"
+    ],
+    "label": "26",
+    "values": {
+     "QUYỀN LỢI": "Gãy tay can lệch hoặc mất xương làm chi ngắn trên 3cm và chức năng quay sấp ngửa hạn chế hoặc tạo thành khớp giả",
+     "TỶ LỆ TRẢ TIỀN": "25-35%"
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "27",
+    "values": {
+     "QUYỀN LỢI": "Mất một chân từ háng xuống (tháo khớp không một đùi)",
+     "TỶ LỆ TRẢ TIỀN": "75-85%"
+    },
+    "note": null
+   },
+   {
+    "row": 10,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "",
+    "values": {
+     "QUYỀN LỢI": "Cắt cụt một đùi"
+    },
+    "note": null
+   },
+   {
+    "row": 11,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "28",
+    "values": {
+     "QUYỀN LỢI": "1/3 trên",
+     "TỶ LỆ TRẢ TIỀN": "70-80%"
+    },
+    "note": null
+   },
+   {
+    "row": 12,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "28",
+    "values": {
+     "QUYỀN LỢI": "1/3 giữa hoặc dưới",
+     "TỶ LỆ TRẢ TIỀN": "55-75%"
+    },
+    "note": null
+   },
+   {
+    "row": 13,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "29",
+    "values": {
+     "QUYỀN LỢI": "Cắt cụt một chân từ gối xuống (tháo khớp gối)",
+     "TỶ LỆ TRẢ TIỀN": "60-70%"
+    },
+    "note": null
+   },
+   {
+    "row": 14,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "30",
+    "values": {
+     "QUYỀN LỢI": "Tháo khớp cổ chân hoặc mất một bàn chân",
+     "TỶ LỆ TRẢ TIỀN": "55-65%"
+    },
+    "note": null
+   },
+   {
+    "row": 15,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "31",
+    "values": {
+     "QUYỀN LỢI": "Mất xương sên",
+     "TỶ LỆ TRẢ TIỀN": "35-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 16,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "32",
+    "values": {
+     "QUYỀN LỢI": "Mất xương gót",
+     "TỶ LỆ TRẢ TIỀN": "35-45%"
+    },
+    "note": null
+   },
+   {
+    "row": 17,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "33",
+    "values": {
+     "QUYỀN LỢI": "Mất đoạn xương chày, mác gây khớp giả cẳng chân",
+     "TỶ LỆ TRẢ TIỀN": "35-45%"
+    },
+    "note": null
+   },
+   {
+    "row": 18,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "34",
+    "values": {
+     "QUYỀN LỢI": "Mất đoạn xương mác",
+     "TỶ LỆ TRẢ TIỀN": "20-30%"
+    },
+    "note": null
+   },
+   {
+    "row": 19,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "",
+    "values": {
+     "QUYỀN LỢI": "Mất mắt cá chân: Mắt cá ngoài",
+     "TỶ LỆ TRẢ TIỀN": "10-15%"
+    },
+    "note": null
+   },
+   {
+    "row": 20,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "35",
+    "values": {
+     "QUYỀN LỢI": "Mắt cá trong",
+     "TỶ LỆ TRẢ TIỀN": "15-20%"
+    },
+    "note": null
+   },
+   {
+    "row": 21,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "36",
+    "values": {
+     "QUYỀN LỢI": "Mất cả 5 ngón chân",
+     "TỶ LỆ TRẢ TIỀN": "45-55%"
+    },
+    "note": null
+   },
+   {
+    "row": 22,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "37",
+    "values": {
+     "QUYỀN LỢI": "Mất 4 ngón chân bao gồm cả ngón cái",
+     "TỶ LỆ TRẢ TIỀN": "38-48%"
+    },
+    "note": null
+   },
+   {
+    "row": 23,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "38",
+    "values": {
+     "QUYỀN LỢI": "Mất bốn ngón trừ ngón cái",
+     "TỶ LỆ TRẢ TIỀN": "35-45%"
+    },
+    "note": null
+   },
+   {
+    "row": 24,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "39",
+    "values": {
+     "QUYỀN LỢI": "Mất ba ngón 3 - 4 - 5",
+     "TỶ LỆ TRẢ TIỀN": "25-30%"
+    },
+    "note": null
+   },
+   {
+    "row": 25,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "40",
+    "values": {
+     "QUYỀN LỢI": "Mất ba ngón 1 - 2 - 3",
+     "TỶ LỆ TRẢ TIỀN": "30-35%"
+    },
+    "note": null
+   },
+   {
+    "row": 26,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "41",
+    "values": {
+     "QUYỀN LỢI": "Mất một ngón cái và ngón 2",
+     "TỶ LỆ TRẢ TIỀN": "20-25%"
+    },
+    "note": null
+   },
+   {
+    "row": 27,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "42",
+    "values": {
+     "QUYỀN LỢI": "Mất một ngón cái",
+     "TỶ LỆ TRẢ TIỀN": "15-20%"
+    },
+    "note": null
+   },
+   {
+    "row": 28,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "43",
+    "values": {
+     "QUYỀN LỢI": "Mất một ngón ngoài ngón cái",
+     "TỶ LỆ TRẢ TIỀN": "10-15%"
+    },
+    "note": null
+   },
+   {
+    "row": 29,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "44",
+    "values": {
+     "QUYỀN LỢI": "Mất một đốt ngón cái",
+     "TỶ LỆ TRẢ TIỀN": "08-12%"
+    },
+    "note": null
+   },
+   {
+    "row": 30,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "45",
+    "values": {
+     "QUYỀN LỢI": "Cứng khớp hông",
+     "TỶ LỆ TRẢ TIỀN": "45-55%"
+    },
+    "note": null
+   },
+   {
+    "row": 31,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "46",
+    "values": {
+     "QUYỀN LỢI": "Cứng khớp gối",
+     "TỶ LỆ TRẢ TIỀN": "30-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 32,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "47",
+    "values": {
+     "QUYỀN LỢI": "Mất phần lớn xương bánh chè và giới hạn nhiều khả năng duỗi cẳng chân trên đùi",
+     "TỶ LỆ TRẢ TIỀN": "45-55%"
+    },
+    "note": null
+   },
+   {
+    "row": 33,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "",
+    "values": {
+     "QUYỀN LỢI": "Gãy chân can lệch hoặc mất xương làm ngắn chi"
+    },
+    "note": null
+   },
+   {
+    "row": 34,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "48",
+    "values": {
+     "QUYỀN LỢI": "Ít nhất 5 cm",
+     "TỶ LỆ TRẢ TIỀN": "40-45%"
+    },
+    "note": null
+   },
+   {
+    "row": 35,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "",
+    "values": {
+     "QUYỀN LỢI": "Từ 3 đến 5 cm",
+     "TỶ LỆ TRẢ TIỀN": "35-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 36,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "49",
+    "values": {
+     "QUYỀN LỢI": "Liệt hoàn toàn dây thần kinh hông khoeo ngoài",
+     "TỶ LỆ TRẢ TIỀN": "35-45%"
+    },
+    "note": null
+   },
+   {
+    "row": 37,
+    "section": [
+     "CHI DƯỚI"
+    ],
+    "label": "50",
+    "values": {
+     "QUYỀN LỢI": "Liệt hoàn toàn dây thần kinh hông khoeo trong",
+     "TỶ LỆ TRẢ TIỀN": "25-35%"
+    },
+    "note": null
+   },
+   {
+    "row": 39,
+    "section": [
+     "CỘT SỐNG"
+    ],
+    "label": "51",
+    "values": {
+     "QUYỀN LỢI": "Cắt bỏ cung sau của một đốt sống",
+     "TỶ LỆ TRẢ TIỀN": "35-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 40,
+    "section": [
+     "CỘT SỐNG"
+    ],
+    "label": "",
+    "values": {
+     "QUYỀN LỢI": "Cắt bỏ cung sau của 2 - 3 đốt sống trở lên",
+     "TỶ LỆ TRẢ TIỀN": "45-60%"
+    },
+    "note": null
+   },
+   {
+    "row": 42,
+    "section": [
+     "SỌ NÃO"
+    ],
+    "label": "52",
+    "values": {
+     "QUYỀN LỢI": "Khuyết xương sọ (chưa có biểu hiện thần kinh, tâm thần) gây ra đau đầu kéo dài",
+     "TỶ LỆ TRẢ TIỀN": "35-45%"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "bv-angia-2016",
+  "table_id": 4,
+  "page_label": "22",
+  "columns": [
+   "STT",
+   "QUYỀN LỢI",
+   "TỶ LỆ TRẢ TIỀN"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": 3,
+  "records": [
+   {
+    "row": 1,
+    "section": [
+     "LỒNG NGỰC"
+    ],
+    "label": "53",
+    "values": {
+     "QUYỀN LỢI": "Cắt bỏ 1 -2 xương sườn",
+     "TỶ LỆ TRẢ TIỀN": "15-20%"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [
+     "LỒNG NGỰC"
+    ],
+    "label": "54",
+    "values": {
+     "QUYỀN LỢI": "Cắt bỏ từ 3 xương sườn trở lên",
+     "TỶ LỆ TRẢ TIỀN": "25-35%"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [
+     "LỒNG NGỰC"
+    ],
+    "label": "55",
+    "values": {
+     "QUYỀN LỢI": "Cắt bỏ đoạn mỗi xương sườn",
+     "TỶ LỆ TRẢ TIỀN": "08-10%"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [
+     "LỒNG NGỰC"
+    ],
+    "label": "56",
+    "values": {
+     "QUYỀN LỢI": "Cắt toàn bộ một bên phổi",
+     "TỶ LỆ TRẢ TIỀN": "70-80%"
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [
+     "LỒNG NGỰC"
+    ],
+    "label": "57",
+    "values": {
+     "QUYỀN LỢI": "Cắt nhiều thùy phổi ở 2 bên, DTS giảm trên 50%",
+     "TỶ LỆ TRẢ TIỀN": "65-75%"
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [
+     "LỒNG NGỰC"
+    ],
+    "label": "58",
+    "values": {
+     "QUYỀN LỢI": "Cắt nhiều thùy phổi ở 2 bên",
+     "TỶ LỆ TRẢ TIỀN": "50-60%"
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [
+     "LỒNG NGỰC"
+    ],
+    "label": "59",
+    "values": {
+     "QUYỀN LỢI": "Cắt một thùy phổi",
+     "TỶ LỆ TRẢ TIỀN": "35-45%"
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [
+     "BỤNG"
+    ],
+    "label": "60",
+    "values": {
+     "QUYỀN LỢI": "Cắt toàn bộ dạ dày",
+     "TỶ LỆ TRẢ TIỀN": "75-85%"
+    },
+    "note": null
+   },
+   {
+    "row": 10,
+    "section": [
+     "BỤNG"
+    ],
+    "label": "61",
+    "values": {
+     "QUYỀN LỢI": "Cắt đoạn dạ dày",
+     "TỶ LỆ TRẢ TIỀN": "50-60%"
+    },
+    "note": null
+   },
+   {
+    "row": 11,
+    "section": [
+     "BỤNG"
+    ],
+    "label": "62",
+    "values": {
+     "QUYỀN LỢI": "Cắt gần hết ruột non (còn lại dưới 1 m)",
+     "TỶ LỆ TRẢ TIỀN": "75-85%"
+    },
+    "note": null
+   },
+   {
+    "row": 12,
+    "section": [
+     "BỤNG"
+    ],
+    "label": "63",
+    "values": {
+     "QUYỀN LỢI": "Cắt đoạn ruột non",
+     "TỶ LỆ TRẢ TIỀN": "40-50%"
+    },
+    "note": null
+   },
+   {
+    "row": 13,
+    "section": [
+     "BỤNG"
+    ],
+    "label": "64",
+    "values": {
+     "QUYỀN LỢI": "Cắt toàn bộ đại tràng",
+     "TỶ LỆ TRẢ TIỀN": "75-85%"
+    },
+    "note": null
+   },
+   {
+    "row": 14,
+    "section": [
+     "BỤNG"
+    ],
+    "label": "65",
+    "values": {
+     "QUYỀN LỢI": "Cắt đoạn đại tràng",
+     "TỶ LỆ TRẢ TIỀN": "50-60%"
+    },
+    "note": null
+   },
+   {
+    "row": 15,
+    "section": [
+     "BỤNG"
+    ],
+    "label": "66",
+    "values": {
+     "QUYỀN LỢI": "Cắt bỏ gan phải Quy tắc thuần",
+     "TỶ LỆ TRẢ TIỀN": "70-80%"
+    },
+    "note": null
+   },
+   {
+    "row": 16,
+    "section": [
+     "BỤNG"
+    ],
+    "label": "67",
+    "values": {
+     "QUYỀN LỢI": "Cắt bỏ gan trái Quy tắc thuần",
+     "TỶ LỆ TRẢ TIỀN": "60-70%"
+    },
+    "note": null
+   },
+   {
+    "row": 17,
+    "section": [
+     "BỤNG"
+    ],
+    "label": "68",
+    "values": {
+     "QUYỀN LỢI": "Cắt phần thùy gan, tùy vị trí, số lượng và kết quả phẫu thuật",
+     "TỶ LỆ TRẢ TIỀN": "40-60%"
+    },
+    "note": null
+   },
+   {
+    "row": 18,
+    "section": [
+     "BỤNG"
+    ],
+    "label": "69",
+    "values": {
+     "QUYỀN LỢI": "Cắt bỏ túi mật",
+     "TỶ LỆ TRẢ TIỀN": "45-55%"
+    },
+    "note": null
+   },
+   {
+    "row": 19,
+    "section": [
+     "BỤNG"
+    ],
+    "label": "70",
+    "values": {
+     "QUYỀN LỢI": "Cắt bỏ lá lách",
+     "TỶ LỆ TRẢ TIỀN": "40-50%"
+    },
+    "note": null
+   },
+   {
+    "row": 20,
+    "section": [
+     "BỤNG"
+    ],
+    "label": "71",
+    "values": {
+     "QUYỀN LỢI": "Cắt bỏ đuôi tụy, lách",
+     "TỶ LỆ TRẢ TIỀN": "60-70%"
+    },
+    "note": null
+   },
+   {
+    "row": 22,
+    "section": [
+     "CƠ QUAN TIẾT NIỆU, SINH DỤC"
+    ],
+    "label": "72",
+    "values": {
+     "QUYỀN LỢI": "Cắt bỏ một thận, thận còn lại bình thường",
+     "TỶ LỆ TRẢ TIỀN": "50-60%"
+    },
+    "note": null
+   },
+   {
+    "row": 23,
+    "section": [
+     "CƠ QUAN TIẾT NIỆU, SINH DỤC"
+    ],
+    "label": "73",
+    "values": {
+     "QUYỀN LỢI": "Cắt bỏ một thận, thận còn lại bị thương hoặc bệnh lý",
+     "TỶ LỆ TRẢ TIỀN": "70-80%"
+    },
+    "note": null
+   },
+   {
+    "row": 24,
+    "section": [
+     "CƠ QUAN TIẾT NIỆU, SINH DỤC"
+    ],
+    "label": "74",
+    "values": {
+     "QUYỀN LỢI": "Cắt một phần thận trái hoặc phải",
+     "TỶ LỆ TRẢ TIỀN": "30-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 25,
+    "section": [
+     "CƠ QUAN TIẾT NIỆU, SINH DỤC"
+    ],
+    "label": "75",
+    "values": {
+     "QUYỀN LỢI": "Cắt một phần bàng quang",
+     "TỶ LỆ TRẢ TIỀN": "27-35%"
+    },
+    "note": null
+   },
+   {
+    "row": 27,
+    "section": [
+     "Mất dương vật và 2 tinh hoàn ở người:"
+    ],
+    "label": "76",
+    "values": {
+     "QUYỀN LỢI": "Dưới 55 tuổi chưa có con",
+     "TỶ LỆ TRẢ TIỀN": "70-80%"
+    },
+    "note": null
+   },
+   {
+    "row": 28,
+    "section": [
+     "Mất dương vật và 2 tinh hoàn ở người:"
+    ],
+    "label": "76",
+    "values": {
+     "QUYỀN LỢI": "Dưới 55 tuổi đã có con",
+     "TỶ LỆ TRẢ TIỀN": "55-65%"
+    },
+    "note": null
+   },
+   {
+    "row": 29,
+    "section": [
+     "Mất dương vật và 2 tinh hoàn ở người:"
+    ],
+    "label": "76",
+    "values": {
+     "QUYỀN LỢI": "Trên 55 tuổi",
+     "TỶ LỆ TRẢ TIỀN": "35-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 31,
+    "section": [
+     "Cắt bỏ dạ con và buồng trứng ở người:"
+    ],
+    "label": "77",
+    "values": {
+     "QUYỀN LỢI": "Dưới 45 tuổi chưa có con",
+     "TỶ LỆ TRẢ TIỀN": "60-70%"
+    },
+    "note": null
+   },
+   {
+    "row": 32,
+    "section": [
+     "Cắt bỏ dạ con và buồng trứng ở người:"
+    ],
+    "label": "77",
+    "values": {
+     "QUYỀN LỢI": "Dưới 45 tuổi đã có con",
+     "TỶ LỆ TRẢ TIỀN": "30-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 33,
+    "section": [
+     "Cắt bỏ dạ con và buồng trứng ở người:"
+    ],
+    "label": "77",
+    "values": {
+     "QUYỀN LỢI": "Trên 45 tuổi",
+     "TỶ LỆ TRẢ TIỀN": "25-30%"
+    },
+    "note": null
+   },
+   {
+    "row": 34,
+    "section": [
+     "Cắt bỏ dạ con và buồng trứng ở người:"
+    ],
+    "label": "",
+    "values": {
+     "QUYỀN LỢI": "Cắt vú ở nữ:"
+    },
+    "note": null
+   },
+   {
+    "row": 35,
+    "section": [
+     "Cắt bỏ dạ con và buồng trứng ở người:"
+    ],
+    "label": "78",
+    "values": {
+     "QUYỀN LỢI": "Dưới 45 tuổi: một bên",
+     "TỶ LỆ TRẢ TIỀN": "20-30%"
+    },
+    "note": null
+   },
+   {
+    "row": 36,
+    "section": [
+     "Cắt bỏ dạ con và buồng trứng ở người:"
+    ],
+    "label": "78",
+    "values": {
+     "QUYỀN LỢI": "Dưới 45 tuổi: hai bên",
+     "TỶ LỆ TRẢ TIỀN": "45-55%"
+    },
+    "note": null
+   },
+   {
+    "row": 37,
+    "section": [
+     "Cắt bỏ dạ con và buồng trứng ở người:"
+    ],
+    "label": "78",
+    "values": {
+     "QUYỀN LỢI": "Trên 45 tuổi: một bên",
+     "TỶ LỆ TRẢ TIỀN": "15-30%"
+    },
+    "note": null
+   },
+   {
+    "row": 38,
+    "section": [
+     "Cắt bỏ dạ con và buồng trứng ở người:"
+    ],
+    "label": "78",
+    "values": {
+     "QUYỀN LỢI": "Trên 45 tuổi: hai bên",
+     "TỶ LỆ TRẢ TIỀN": "30-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 40,
+    "section": [
+     "MẮT"
+    ],
+    "label": "79",
+    "values": {
+     "QUYỀN LỢI": "Mất hoặc mù hoàn toàn một mắt"
+    },
+    "note": null
+   },
+   {
+    "row": 41,
+    "section": [
+     "MẮT"
+    ],
+    "label": "79",
+    "values": {
+     "QUYỀN LỢI": "Không lắp được mắt giả",
+     "TỶ LỆ TRẢ TIỀN": "55-65%"
+    },
+    "note": null
+   },
+   {
+    "row": 42,
+    "section": [
+     "MẮT"
+    ],
+    "label": "",
+    "values": {
+     "QUYỀN LỢI": "Lắp được mắt giả",
+     "TỶ LỆ TRẢ TIỀN": "50-60%"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "bv-angia-2016",
+  "table_id": 5,
+  "page_label": "23",
+  "columns": [
+   "STT",
+   "QUYỀN LỢI",
+   "TỶ LỆ TRẢ TIỀN"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": 4,
+  "records": [
+   {
+    "row": 0,
+    "section": [
+     "MẮT"
+    ],
+    "label": "80",
+    "values": {
+     "QUYỀN LỢI": "Mất hoặc mù hoàn toàn một mắt nhưng trước khi xảy ra tai nạn này đã mất hoặc mù một mắt rồi",
+     "TỶ LỆ TRẢ TIỀN": "80-90%"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [
+     "TAI - MŨI - HỌNG"
+    ],
+    "label": "81",
+    "values": {
+     "QUYỀN LỢI": "Điếc 2 tai, hoàn toàn không phục hồi được",
+     "TỶ LỆ TRẢ TIỀN": "75-85%"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [
+     "TAI - MŨI - HỌNG"
+    ],
+    "label": "81",
+    "values": {
+     "QUYỀN LỢI": "Nặng (nói to hoặc thét vào tai người nghe)",
+     "TỶ LỆ TRẢ TIỀN": "60-70%"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [
+     "TAI - MŨI - HỌNG"
+    ],
+    "label": "81",
+    "values": {
+     "QUYỀN LỢI": "Vừa (nói to 1-2m vẫn có khả năng nghe)",
+     "TỶ LỆ TRẢ TIỀN": "35-45%"
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [
+     "TAI - MŨI - HỌNG"
+    ],
+    "label": "81",
+    "values": {
+     "QUYỀN LỢI": "Nhẹ (nói to 2-4m vẫn có khả năng nghe)",
+     "TỶ LỆ TRẢ TIỀN": "15-20%"
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [
+     "TAI - MŨI - HỌNG"
+    ],
+    "label": "82",
+    "values": {
+     "QUYỀN LỢI": "Điếc một tai, hoàn toàn không phục hồi được",
+     "TỶ LỆ TRẢ TIỀN": "30-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [
+     "TAI - MŨI - HỌNG"
+    ],
+    "label": "82",
+    "values": {
+     "QUYỀN LỢI": "Vừa",
+     "TỶ LỆ TRẢ TIỀN": "15-20%"
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [
+     "TAI - MŨI - HỌNG"
+    ],
+    "label": "82",
+    "values": {
+     "QUYỀN LỢI": "Nhẹ",
+     "TỶ LỆ TRẢ TIỀN": "08-15%"
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [
+     "TAI - MŨI - HỌNG"
+    ],
+    "label": "83",
+    "values": {
+     "QUYỀN LỢI": "Mất vành tai hai bên",
+     "TỶ LỆ TRẢ TIỀN": "20-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 10,
+    "section": [
+     "TAI - MŨI - HỌNG"
+    ],
+    "label": "84",
+    "values": {
+     "QUYỀN LỢI": "Mất vành tai một bên",
+     "TỶ LỆ TRẢ TIỀN": "10-25%"
+    },
+    "note": null
+   },
+   {
+    "row": 11,
+    "section": [
+     "TAI - MŨI - HỌNG"
+    ],
+    "label": "85",
+    "values": {
+     "QUYỀN LỢI": "Mất mũi, biến dạng mũi",
+     "TỶ LỆ TRẢ TIỀN": "18-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 13,
+    "section": [
+     "MẶT"
+    ],
+    "label": "86",
+    "values": {
+     "QUYỀN LỢI": "Mất toàn bộ xương hàm trên và một phần xương hàm dưới từ cành cao trở xuống"
+    },
+    "note": null
+   },
+   {
+    "row": 14,
+    "section": [
+     "MẶT"
+    ],
+    "label": "86",
+    "values": {
+     "QUYỀN LỢI": "Khác bên",
+     "TỶ LỆ TRẢ TIỀN": "80-90%"
+    },
+    "note": null
+   },
+   {
+    "row": 15,
+    "section": [
+     "MẶT"
+    ],
+    "label": "86",
+    "values": {
+     "QUYỀN LỢI": "Cùng bên",
+     "TỶ LỆ TRẢ TIỀN": "70-80%"
+    },
+    "note": null
+   },
+   {
+    "row": 16,
+    "section": [
+     "MẶT"
+    ],
+    "label": "87",
+    "values": {
+     "QUYỀN LỢI": "Mất toàn bộ xương hàm trên hoặc dưới",
+     "TỶ LỆ TRẢ TIỀN": "70-80%"
+    },
+    "note": null
+   },
+   {
+    "row": 17,
+    "section": [
+     "MẶT"
+    ],
+    "label": "88",
+    "values": {
+     "QUYỀN LỢI": "Mất một phần xương hàm trên hoặc một phần xương hàm dưới từ 1/3 đến 1/2 bị mất từ cành cao trở xuống",
+     "TỶ LỆ TRẢ TIỀN": "35-45%"
+    },
+    "note": null
+   },
+   {
+    "row": 18,
+    "section": [
+     "MẶT"
+    ],
+    "label": "89",
+    "values": {
+     "QUYỀN LỢI": "Mất răng: trên 6 cái không lắp được răng giả",
+     "TỶ LỆ TRẢ TIỀN": "30-40%"
+    },
+    "note": null
+   },
+   {
+    "row": 19,
+    "section": [
+     "MẶT"
+    ],
+    "label": "89",
+    "values": {
+     "QUYỀN LỢI": "Từ 5 - 7 răng",
+     "TỶ LỆ TRẢ TIỀN": "15-25%"
+    },
+    "note": null
+   },
+   {
+    "row": 20,
+    "section": [
+     "MẶT"
+    ],
+    "label": "90",
+    "values": {
+     "QUYỀN LỢI": "Mất 3/4 lưỡi, còn gốc lưỡi",
+     "TỶ LỆ TRẢ TIỀN": "75-85%"
+    },
+    "note": null
+   },
+   {
+    "row": 21,
+    "section": [
+     "MẶT"
+    ],
+    "label": "91",
+    "values": {
+     "QUYỀN LỢI": "Mất 2/3 lưỡi từ đầu lưỡi",
+     "TỶ LỆ TRẢ TIỀN": "50-60%"
+    },
+    "note": null
+   },
+   {
+    "row": 22,
+    "section": [
+     "MẶT"
+    ],
+    "label": "92",
+    "values": {
+     "QUYỀN LỢI": "Mất 1/3 lưỡi ảnh hưởng đến phát âm",
+     "TỶ LỆ TRẢ TIỀN": "15-25%"
+    },
+    "note": null
+   },
+   {
+    "row": 23,
+    "section": [
+     "MẶT"
+    ],
+    "label": "93",
+    "values": {
+     "QUYỀN LỢI": "Mất một phần nhỏ lưỡi (dưới 1/3) ảnh hưởng đến phát âm",
+     "TỶ LỆ TRẢ TIỀN": "10-15%"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "bv-angia-2016",
+  "table_id": 6,
+  "page_label": "24-25",
+  "columns": [
+   "CHƯƠNG TRÌNH BẢO HIỂM",
+   "ĐỒNG",
+   "BẠC",
+   "VÀNG",
+   "BẠCH KIM",
+   "KIM CƯƠNG"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 2,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Tổng hạn mức quyền lợi bảo hiểm chính/người/năm",
+    "values": {
+     "ĐỒNG": "93.800.000/ng/năm",
+     "BẠC": "137.600.000/ng/năm",
+     "VÀNG": "230.00 0.000/ng/năm",
+     "BẠCH KIM": "342.000.000/ng/năm",
+     "KIM CƯƠNG": "454.000.000/ng/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Phạm vi lãnh thổ",
+    "values": {
+     "ĐỒNG": "Việt Nam",
+     "BẠC": "Việt Nam",
+     "VÀNG": "Việt Nam",
+     "BẠCH KIM": "Việt Nam",
+     "KIM CƯƠNG": "Việt Nam"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "1. Chi phí nằm viện Chi phí phòng, giường bệnh Chi phí phòng chăm sóc đặc biệt Các chi phí bệnh viện tổng hợp",
+    "values": {
+     "ĐỒNG": "2.000.000/ngày Lên đến 40.000.000/năm, không quá 60 ngày/năm.",
+     "BẠC": "3.000.000/ngày Lên đến 60.000.000/năm không quá 60 ngày/năm",
+     "VÀNG": "5.000.000/ngày Lên đến 100.000.000/năm không quá 60 ngày/năm",
+     "BẠCH KIM": "7.500.000/ngày Lên đến 150.000.000/năm không quá 60 ngày/năm",
+     "KIM CƯƠNG": "10.000.000/ngày Lên đến 200.000.000/ năm không quá 60 ngày/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "2. Chi phí khám và điều trị trong vòng 30 ngày trước khi nhập viện",
+    "values": {
+     "ĐỒNG": "2.000.000/năm",
+     "BẠC": "3.000.000/năm",
+     "VÀNG": "5.000.000/năm",
+     "BẠCH KIM": "7.500.000/năm",
+     "KIM CƯƠNG": "10.000.000/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "3. Chi phí tái khám và điều trị trong vòng 30 ngày sau khi xuất viện",
+    "values": {
+     "ĐỒNG": "2.000.000/năm",
+     "BẠC": "3.000.000/năm",
+     "VÀNG": "5.000.000/năm",
+     "BẠCH KIM": "7.500.000/năm",
+     "KIM CƯƠNG": "10.000.000/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "4. Dịch vụ xe cứu thương, xe cấp cứu bằng đường bộ",
+    "values": {
+     "ĐỒNG": "5.000.000/năm",
+     "BẠC": "5.000.000/năm",
+     "VÀNG": "10.000.000/năm",
+     "BẠCH KIM": "10.000.000/năm",
+     "KIM CƯƠNG": "10.000.000/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "5. Chi phí Phẫu thuật (không bảo hiểm chi phí mua các bộ phận nội tạng và chi phí hiến các bộ phận nội tạng)",
+    "values": {
+     "ĐỒNG": "40.000.000/năm",
+     "BẠC": "60.000.000/năm",
+     "VÀNG": "100.000.000/năm",
+     "BẠCH KIM": "150.000.000/năm",
+     "KIM CƯƠNG": "200.000.000/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "6. Phục hồi chức năng",
+    "values": {
+     "ĐỒNG": "4.000.000/năm",
+     "BẠC": "6.000.000/năm",
+     "VÀNG": "10.000.000/năm",
+     "BẠCH KIM": "15.000.000/năm",
+     "KIM CƯƠNG": "20.000.000/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 10,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "7. Trợ cấp bệnh viện công",
+    "values": {
+     "ĐỒNG": "80.000/ ngày Không quá 60 ngày/năm",
+     "BẠC": "120.000/ngày Không quá 60 ngày/năm",
+     "VÀNG": "200.000/ngày Không quá 60 ngày/năm",
+     "BẠCH KIM": "300.000/ngày Không quá 60 ngày/năm",
+     "KIM CƯƠNG": "400.000/ngày Không quá 60 ngày/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 11,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "8. Trợ cấp mai táng phí trong trường hợp tử vong tại bệnh viện",
+    "values": {
+     "ĐỒNG": "500.000/vụ",
+     "BẠC": "500.000/vụ",
+     "VÀNG": "500.000/vụ",
+     "BẠCH KIM": "500.000/vụ",
+     "KIM CƯƠNG": "500.000/vụ"
+    },
+    "note": null
+   },
+   {
+    "row": 13,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG"
+    ],
+    "label": "1. Điều trị ngoại trú do ốm bệnh, tai nạn",
+    "values": {
+     "ĐỒNG": "6.000.000/NĂM",
+     "BẠC": "6.000.000/năm",
+     "VÀNG": "6.000.000/năm",
+     "BẠCH KIM": "10.000.000/năm",
+     "KIM CƯƠNG": "15.000.000/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 14,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG"
+    ],
+    "label": "Giới hạn /lần khám",
+    "values": {
+     "ĐỒNG": "1.200.000/lần Không quá 10 lần/năm",
+     "BẠC": "1.200.000/lần Không quá 10 lần/năm",
+     "VÀNG": "1.200.000/lần Không quá 10 lần/năm",
+     "BẠCH KIM": "2.000.000/lần Không quá 10 lần/năm",
+     "KIM CƯƠNG": "3.000.000/lần Không quá 10 lần/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 15,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG"
+    ],
+    "label": "Điều trị vật lý trị liệu",
+    "values": {
+     "ĐỒNG": "50.000/ngày Không quá 60 ngày/năm",
+     "BẠC": "50.000/ngày Không quá 60 ngày/năm",
+     "VÀNG": "50.000/ngày Không quá 60 ngày/năm",
+     "BẠCH KIM": "100.000/ngày Không quá 60 ngày/năm",
+     "KIM CƯƠNG": "150.000/ngày Không quá 60 ngày/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 16,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG"
+    ],
+    "label": "2. Bảo hiểm Tai nạn cá nhân STBH /người/vụ",
+    "values": {
+     "ĐỒNG": "Tối đa 1 tỷ đồng",
+     "BẠC": "Tối đa 1 tỷ đồng",
+     "VÀNG": "Tối đa 1 tỷ đồng",
+     "BẠCH KIM": "Tối đa 1 tỷ đồng",
+     "KIM CƯƠNG": "Tối đa 1 tỷ đồng"
+    },
+    "note": null
+   },
+   {
+    "row": 17,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG"
+    ],
+    "label": "3. Bảo hiểm Sinh mạng cá nhân STBH/người/vụ",
+    "values": {
+     "ĐỒNG": "Tối đa 1 tỷ đồng",
+     "BẠC": "Tối đa 1 tỷ đồng",
+     "VÀNG": "Tối đa 1 tỷ đồng",
+     "BẠCH KIM": "Tối đa 1 tỷ đồng",
+     "KIM CƯƠNG": "Tối đa 1 tỷ đồng"
+    },
+    "note": null
+   },
+   {
+    "row": 18,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG"
+    ],
+    "label": "4. Bảo hiểm Nha khoa Khám và chẩn đoán bệnh về răng Lấy cao răng Trám răng bằng các chất liệu thông thường Nhổ răng bệnh lý Lấy u vôi răng (lấy vôi răng sâu dưới nướu) Phẫu thuật cắt chóp răng Chữa tủy răng Điều trị viêm nướu, viêm nha chu",
+    "values": {
+     "ĐỒNG": "2.000.000/năm 1.000.000/lần khám",
+     "BẠC": "2.000.000/năm 1.000.000/lần khám",
+     "VÀNG": "5.000.000/năm 2.500.000/lần khám",
+     "BẠCH KIM": "10.000.000/năm 5.000.000/lần khám",
+     "KIM CƯƠNG": "15.000.000/năm 7.500.000/lần khám"
+    },
+    "note": "đã nhận thêm 'Điều trị viêm nướu, viêm nha chu' từ dòng 19"
+   },
+   {
+    "row": 19,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG"
+    ],
+    "label": "5. Bảo hiểm Thai sản",
+    "values": {
+     "ĐỒNG": "KHÔNG",
+     "BẠC": "Không",
+     "VÀNG": "Không",
+     "BẠCH KIM": "21.000.000/năm",
+     "KIM CƯƠNG": "31.500.000/năm"
+    },
+    "note": "đã chuyển 'Điều trị viêm nướu, viêm nha chu' lên dòng 18"
+   }
+  ],
+  "issues": [
+   "trang 24-25, dòng 19: nhãn 'Điều trị viêm nướu, viêm nha chu 5. Bảo hiểm Thai sản' chứa mục 5. ở giữa -> đã sửa"
+  ]
+ },
+ {
+  "doc_id": "bv-angia-2016",
+  "table_id": 7,
+  "page_label": "26",
+  "columns": [
+   "CHƯƠNG TRÌNH BẢO HIỂM",
+   "CHƯƠNG TRÌNH BẢO HIỂM",
+   "ĐỒNG",
+   "BẠC",
+   "VÀNG",
+   "BẠCH KIM",
+   "KIM CƯƠNG"
+  ],
+  "label_columns": [
+   0,
+   1
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 2,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 1 đến 3 tuổi",
+    "values": {
+     "ĐỒNG": "2.585.000",
+     "BẠC": "3.707.000",
+     "VÀNG": "5.616.000",
+     "BẠCH KIM": "7.582.000",
+     "KIM CƯƠNG": "9.267.000"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 4 đến 6 tuổi",
+    "values": {
+     "ĐỒNG": "1.450.000",
+     "BẠC": "2.081.000",
+     "VÀNG": "3.153.000",
+     "BẠCH KIM": "4.257.000",
+     "KIM CƯƠNG": "5.203.000"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 7 đến 9 tuổi",
+    "values": {
+     "ĐỒNG": "1.320.000",
+     "BẠC": "1.900.000",
+     "VÀNG": "2.867.000",
+     "BẠCH KIM": "3.870.000",
+     "KIM CƯƠNG": "4.730.000"
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 10 đến 18 tuổi",
+    "values": {
+     "ĐỒNG": "1.255.800",
+     "BẠC": "1.801.800",
+     "VÀNG": "2.730.000",
+     "BẠCH KIM": "3.685.500",
+     "KIM CƯƠNG": "4.504.500"
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 19 đến 30 tuổi",
+    "values": {
+     "ĐỒNG": "1.196.000",
+     "BẠC": "1.716.000",
+     "VÀNG": "2.600.000",
+     "BẠCH KIM": "3.510.000",
+     "KIM CƯƠNG": "4.290.000"
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 31 đến 40 tuổi",
+    "values": {
+     "ĐỒNG": "1.315.600",
+     "BẠC": "1.887.600",
+     "VÀNG": "2.860.000",
+     "BẠCH KIM": "3.861.000",
+     "KIM CƯƠNG": "4.719.000"
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 41 đến 50 tuổi",
+    "values": {
+     "ĐỒNG": "1.375.400",
+     "BẠC": "1.973.400",
+     "VÀNG": "2.990.000",
+     "BẠCH KIM": "4.036.500",
+     "KIM CƯƠNG": "4.933.500"
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 51 đến 60 tuổi",
+    "values": {
+     "ĐỒNG": "1.435.200",
+     "BẠC": "2.059.200",
+     "VÀNG": "3.120.000",
+     "BẠCH KIM": "4.212.000",
+     "KIM CƯƠNG": "5.148.000"
+    },
+    "note": null
+   },
+   {
+    "row": 10,
+    "section": [
+     "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH - Điều trị nội trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 61 đến 65 tuổi",
+    "values": {
+     "ĐỒNG": "1.554.800",
+     "BẠC": "2.230.800",
+     "VÀNG": "3.380.000",
+     "BẠCH KIM": "4.563.000",
+     "KIM CƯƠNG": "5.577.000"
+    },
+    "note": null
+   },
+   {
+    "row": 13,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG",
+     "1. Điều trị ngoại trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 1 đến 3 tuổi",
+    "values": {
+     "ĐỒNG": "3.370.000",
+     "BẠC": "3.370.000",
+     "VÀNG": "3.370.000",
+     "BẠCH KIM": "5.516.000",
+     "KIM CƯƠNG": "8.424.000"
+    },
+    "note": null
+   },
+   {
+    "row": 14,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG",
+     "1. Điều trị ngoại trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 4 đến 6 tuổi",
+    "values": {
+     "ĐỒNG": "1.900.000",
+     "BẠC": "1.900.000",
+     "VÀNG": "1.900.000",
+     "BẠCH KIM": "3.153.000",
+     "KIM CƯƠNG": "4.730.000"
+    },
+    "note": null
+   },
+   {
+    "row": 15,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG",
+     "1. Điều trị ngoại trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 7 đến 9 tuổi",
+    "values": {
+     "ĐỒNG": "1.720.000",
+     "BẠC": "1.720.000",
+     "VÀNG": "1.720.000",
+     "BẠCH KIM": "2.867.000",
+     "KIM CƯƠNG": "4.300.000"
+    },
+    "note": null
+   },
+   {
+    "row": 16,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG",
+     "1. Điều trị ngoại trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 10 đến 18 tuổi",
+    "values": {
+     "ĐỒNG": "1.638.000",
+     "BẠC": "1.638.000",
+     "VÀNG": "1.638.000",
+     "BẠCH KIM": "2.730.000",
+     "KIM CƯƠNG": "4.095.000"
+    },
+    "note": null
+   },
+   {
+    "row": 17,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG",
+     "1. Điều trị ngoại trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 19 đến 30 tuổi",
+    "values": {
+     "ĐỒNG": "1.560.000",
+     "BẠC": "1.560.000",
+     "VÀNG": "1.560.000",
+     "BẠCH KIM": "2.600.000",
+     "KIM CƯƠNG": "3.900.000"
+    },
+    "note": null
+   },
+   {
+    "row": 18,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG",
+     "1. Điều trị ngoại trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 31 đến 40 tuổi",
+    "values": {
+     "ĐỒNG": "1.716.000",
+     "BẠC": "1.716.000",
+     "VÀNG": "1.716.000",
+     "BẠCH KIM": "2.860.000",
+     "KIM CƯƠNG": "4.290.000"
+    },
+    "note": null
+   },
+   {
+    "row": 19,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG",
+     "1. Điều trị ngoại trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 41 đến 50 tuổi",
+    "values": {
+     "ĐỒNG": "1.794.000",
+     "BẠC": "1.794.000",
+     "VÀNG": "1.794.000",
+     "BẠCH KIM": "2.990.000",
+     "KIM CƯƠNG": "4.485.000"
+    },
+    "note": null
+   },
+   {
+    "row": 20,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG",
+     "1. Điều trị ngoại trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 51 đến 60 tuổi",
+    "values": {
+     "ĐỒNG": "1.872.000",
+     "BẠC": "1.872.000",
+     "VÀNG": "1.872.000",
+     "BẠCH KIM": "3.120.000",
+     "KIM CƯƠNG": "4.680.000"
+    },
+    "note": null
+   },
+   {
+    "row": 21,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG",
+     "1. Điều trị ngoại trú do ốm bệnh, tai nạn"
+    ],
+    "label": "Từ 61 đến 65 tuổi",
+    "values": {
+     "ĐỒNG": "2.028.000",
+     "BẠC": "2.028.000",
+     "VÀNG": "2.028.000",
+     "BẠCH KIM": "3.380.000",
+     "KIM CƯƠNG": "5.070.000"
+    },
+    "note": null
+   },
+   {
+    "row": 22,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG"
+    ],
+    "label": "2. BH Tai nạn cá nhân",
+    "values": {
+     "ĐỒNG": "0,09% STBH",
+     "BẠC": "0,09% TBH",
+     "VÀNG": "0,09% STBH",
+     "BẠCH KIM": "0,09% STBH",
+     "KIM CƯƠNG": "0,09% STBH"
+    },
+    "note": null
+   },
+   {
+    "row": 23,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG"
+    ],
+    "label": "3. BH Sinh mạng cá nhân",
+    "values": {
+     "ĐỒNG": "0,2% STBH",
+     "BẠC": "0,2% STBH",
+     "VÀNG": "0,2% STBH",
+     "BẠCH KIM": "0,2% STBH",
+     "KIM CƯƠNG": "0,2% STBH"
+    },
+    "note": null
+   },
+   {
+    "row": 24,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG"
+    ],
+    "label": "Từ 1 đến",
+    "values": {
+     "ĐỒNG": "600.000",
+     "BẠC": "600.000",
+     "VÀNG": "1.500.000",
+     "BẠCH KIM": "2.600.000",
+     "KIM CƯƠNG": "3.900.000"
+    },
+    "note": null
+   },
+   {
+    "row": 25,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG"
+    ],
+    "label": "4. Bảo hiểm Nha khoa 18 tuổi Từ 19 đến 65 tuổi",
+    "values": {
+     "ĐỒNG": "490.000",
+     "BẠC": "490.000",
+     "VÀNG": "1.200.000",
+     "BẠCH KIM": "2.000.000",
+     "KIM CƯƠNG": "3.000.000"
+    },
+    "note": null
+   },
+   {
+    "row": 26,
+    "section": [
+     "B. ĐIỀU KHOẢN BẢO HIỂM BỔ SUNG"
+    ],
+    "label": "5. Bảo hiểm Thai sản Từ 18 đến 45 tuổi",
+    "values": {
+     "ĐỒNG": "Không",
+     "BẠC": "Không",
+     "VÀNG": "Không",
+     "BẠCH KIM": "4.800.000",
+     "KIM CƯƠNG": "5.500.000"
+    },
+    "note": null
+   }
+  ],
+  "issues": [
+   "trang 26, dòng 24: nhãn 'Từ 1 đến' bị cắt dở -> chưa sửa, cần kiểm tra tay"
+  ]
+ }
+]

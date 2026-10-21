@@ -172,11 +172,24 @@ def _docling_converter():
 
 
 def parse_docling(meta: DocMeta, split: str = "manifest") -> list[Page]:
-    """Markdown theo từng trang logic (bảng giữ ở dạng bảng Markdown)."""
+    """Markdown theo từng trang logic (bảng giữ ở dạng bảng Markdown).
+
+    Với split="manifest" (bản chuẩn), lưu thêm DoclingDocument JSON đầy đủ (span ô bảng, bbox,
+    trang) vào data/parsed/{doc_id}.docling_doc.json để xuất lại dạng khác mà không phải parse lại.
+    """
     path, lps = split_spreads(meta, split)
     doc = _docling_converter().convert(path).document
+    if split == "manifest":
+        PARSED.mkdir(parents=True, exist_ok=True)
+        doc.save_as_json(PARSED / f"{meta.doc_id}.docling_doc.json")
     return [Page(i, lp.pdf_page, lp.half, lp.page_label, doc.export_to_markdown(page_no=i + 1))
             for i, lp in enumerate(lps)]
+
+
+def load_docling_doc(doc_id: str):
+    from docling_core.types.doc import DoclingDocument
+
+    return DoclingDocument.load_from_json(PARSED / f"{doc_id}.docling_doc.json")
 
 
 def run_parser(meta: DocMeta, parser: str, split: str = "manifest") -> tuple[list[Page], float]:

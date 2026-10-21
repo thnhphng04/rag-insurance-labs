@@ -1,0 +1,1442 @@
+[
+ {
+  "doc_id": "manulife-cssknc-2026",
+  "table_id": 1,
+  "page_label": "4",
+  "columns": [
+   "col0",
+   "BẠC",
+   "TITAN",
+   "VÀNG",
+   "BẠCH KIM",
+   "KIM CƯƠNG"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "Quyền lợi mặc định",
+    "values": {
+     "BẠC": "1.1 Quyền lợi Điều Trị Nội Trú",
+     "TITAN": "1.1 Quyền lợi Điều Trị Nội Trú",
+     "VÀNG": "1.1 Quyền lợi Điều Trị Nội Trú",
+     "BẠCH KIM": "1.1 Quyền lợi Điều Trị Nội Trú",
+     "KIM CƯƠNG": "1.1 Quyền lợi Điều Trị Nội Trú"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "Quyền lợi lựa chọn thêm",
+    "values": {
+     "BẠC": "Không áp dụng",
+     "TITAN": "1.2 Quyền lợi Điều Trị Ngoại Trú 1.3 Quyền lợi Điều Trị Nha Khoa 1.4 Quyền lợi thai sản",
+     "VÀNG": "1.2 Quyền lợi Điều Trị Ngoại Trú 1.3 Quyền lợi Điều Trị Nha Khoa 1.4 Quyền lợi thai sản",
+     "BẠCH KIM": "1.2 Quyền lợi Điều Trị Ngoại Trú 1.3 Quyền lợi Điều Trị Nha Khoa 1.4 Quyền lợi thai sản",
+     "KIM CƯƠNG": "1.2 Quyền lợi Điều Trị Ngoại Trú 1.3 Quyền lợi Điều Trị Nha Khoa 1.4 Quyền lợi thai sản"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "manulife-cssknc-2026",
+  "table_id": 2,
+  "page_label": "5",
+  "columns": [
+   "Quyền lợi bảo hiểm Chương trình bảo hiểm",
+   "BẠC",
+   "TITAN",
+   "VÀNG",
+   "BẠCH KIM",
+   "KIM CƯƠNG"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "1.1 Quyền lợi Điều Trị Nội Trú",
+    "values": {
+     "BẠC": "Việt Nam",
+     "TITAN": "Việt Nam",
+     "VÀNG": "Đông Nam Á",
+     "BẠCH KIM": "Toàn cầu (Trừ Hoa Kỳ)",
+     "KIM CƯƠNG": "Toàn cầu"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "1.2 Quyền lợi Điều Trị Ngoại Trú",
+    "values": {
+     "KIM CƯƠNG": "Toàn cầu"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "1.3 Quyền lợi Điều Trị Nha Khoa",
+    "values": {
+     "BẠC": "Không áp dụng",
+     "VÀNG": "Việt Nam",
+     "KIM CƯƠNG": "Toàn cầu"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "1.4 Quyền lợi thai sản",
+    "values": {
+     "KIM CƯƠNG": "Toàn cầu"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "manulife-cssknc-2026",
+  "table_id": 3,
+  "page_label": "5",
+  "columns": [
+   "Chương trình bảo hiểm",
+   "BẠC",
+   "TITAN",
+   "VÀNG",
+   "BẠCH KIM",
+   "KIM CƯƠNG"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "Giới hạn bảo hiểm/ năm hợp đồng (là tổng quyền lợi bảo hiểm thực chi cho tất cả các mục dưới đây)",
+    "values": {
+     "BẠC": "125 triệu",
+     "TITAN": "250 triệu",
+     "VÀNG": "500 triệu",
+     "BẠCH KIM": "1 tỷ",
+     "KIM CƯƠNG": "2 tỷ"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "A. Cấy Ghép Nội Tạng",
+    "values": {},
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "1. Chi phí Cấy Ghép Nội Tạng của người nhận tạng (Người Được Bảo Hiểm)",
+    "values": {
+     "BẠC": "Chi Phí Y Tế Thực Tế",
+     "TITAN": "Chi Phí Y Tế Thực Tế",
+     "VÀNG": "Chi Phí Y Tế Thực Tế",
+     "BẠCH KIM": "Chi Phí Y Tế Thực Tế",
+     "KIM CƯƠNG": "Chi Phí Y Tế Thực Tế"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "2. Chi phí phẫu thuật và chi phí y tế của người hiến tạng (không phải là Người Được Bảo Hiểm)",
+    "values": {
+     "BẠC": "50% Chi phí phẫu thuật và chi phí y tế",
+     "TITAN": "50% Chi phí phẫu thuật và chi phí y tế",
+     "VÀNG": "50% Chi phí phẫu thuật và chi phí y tế",
+     "BẠCH KIM": "50% Chi phí phẫu thuật và chi phí y tế",
+     "KIM CƯƠNG": "50% Chi phí phẫu thuật và chi phí y tế"
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [
+     "B. Điều trị Ung Thư (bao gồm Điều Trị Nội Trú, Điều Trị Trong Ngày và Điều Trị Ngoại Trú)"
+    ],
+    "label": "1. Chi phí Điều Trị Ung Thư",
+    "values": {
+     "BẠC": "Chi Phí Y Tế Thực Tế",
+     "TITAN": "Chi Phí Y Tế Thực Tế",
+     "VÀNG": "Chi Phí Y Tế Thực Tế",
+     "BẠCH KIM": "Chi Phí Y Tế Thực Tế",
+     "KIM CƯƠNG": "Chi Phí Y Tế Thực Tế"
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [
+     "B. Điều trị Ung Thư (bao gồm Điều Trị Nội Trú, Điều Trị Trong Ngày và Điều Trị Ngoại Trú)"
+    ],
+    "label": "2. Chi phí Tái Tạo Tuyến Vú Sau Đoạn Nhũ Do Ung Thư",
+    "values": {
+     "BẠC": "Không áp dụng",
+     "TITAN": "Chi Phí Y Tế Thực Tế",
+     "VÀNG": "Chi Phí Y Tế Thực Tế",
+     "BẠCH KIM": "Chi Phí Y Tế Thực Tế",
+     "KIM CƯƠNG": "Chi Phí Y Tế Thực Tế"
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [
+     "B. Điều trị Ung Thư (bao gồm Điều Trị Nội Trú, Điều Trị Trong Ngày và Điều Trị Ngoại Trú)"
+    ],
+    "label": "C. Giới hạn cho mỗi Đợt Điều Trị (là tổng quyền lợi bảo hiểm thực chi cho tất cả các mục từ D.1 đến D.9)",
+    "values": {
+     "BẠC": "50 triệu",
+     "TITAN": "100 triệu",
+     "VÀNG": "200 triệu",
+     "BẠCH KIM": "400 triệu",
+     "KIM CƯƠNG": "600 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 10,
+    "section": [
+     "D. Các giới hạn phụ (áp dụng cho mục A.1, B, C)"
+    ],
+    "label": "1. Chi phí Phòng và Giường/ Ngày Nằm Viện (tối đa 60 Ngày Nằm Viện/ năm hợp đồng)",
+    "values": {
+     "BẠC": "750 nghìn",
+     "TITAN": "1,5 triệu",
+     "VÀNG": "2,5 triệu",
+     "BẠCH KIM": "5 triệu",
+     "KIM CƯƠNG": "10 triệu"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "manulife-cssknc-2026",
+  "table_id": 4,
+  "page_label": "6",
+  "columns": [
+   "Chương trình bảo hiểm",
+   "BẠC",
+   "TITAN",
+   "VÀNG",
+   "BẠCH KIM",
+   "KIM CƯƠNG"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "2. Chi phí Phòng và Giường tại Khoa Chăm Sóc Đặc Biệt hoặc Giường Hồi Sức Tích Cực/ Ngày Nằm Viện (tối đa 60 Ngày Nằm Viện/ năm hợp đồng)",
+    "values": {
+     "BẠC": "Chi Phí Y Tế Thực Tế",
+     "TITAN": "Chi Phí Y Tế Thực Tế",
+     "VÀNG": "Chi Phí Y Tế Thực Tế",
+     "BẠCH KIM": "Chi Phí Y Tế Thực Tế",
+     "KIM CƯƠNG": "Chi Phí Y Tế Thực Tế"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "3. Trợ Cấp Nằm Viện/ Ngày Nằm Viện (chi trả dựa theo số Ngày Nằm Viện Người Được Bảo Hiểm sử dụng Phòng Tiêu Chuẩn của Bệnh Viện Công Lập, Tối đa 30 Ngày Nằm Viện/ năm hợp đồng)",
+    "values": {
+     "BẠC": "Không áp dụng",
+     "TITAN": "Không áp dụng",
+     "VÀNG": "250 nghìn",
+     "BẠCH KIM": "500 nghìn",
+     "KIM CƯƠNG": "1 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "4. Chi phí Vật Lý Trị Liệu/ Đợt Điều Trị (tối đa 1 lần/ Đợt Điều Trị, trong vòng 30 ngày trước khi nhập viện & 60 ngày sau khi xuất viện)",
+    "values": {
+     "BẠC": "1,5 triệu",
+     "TITAN": "3 triệu",
+     "VÀNG": "5 triệu",
+     "BẠCH KIM": "10 triệu",
+     "KIM CƯƠNG": "20 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "5. Chi phí Dịch Vụ Chăm Sóc Y Tế Tại Nhà/ ngày (trong vòng 60 ngày sau khi xuất viện, tối đa 10 ngày/ năm hợp đồng)",
+    "values": {
+     "BẠC": "125 nghìn",
+     "TITAN": "250 nghìn",
+     "VÀNG": "500 nghìn",
+     "BẠCH KIM": "1 triệu",
+     "KIM CƯƠNG": "2 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [],
+    "label": "6. Chi phí phẫu thuật/ Đợt Điều Trị (ngoại trừ Phẫu Thuật để Điều Trị Ung Thư)",
+    "values": {
+     "BẠC": "12,5 triệu",
+     "TITAN": "25 triệu",
+     "VÀNG": "50 triệu",
+     "BẠCH KIM": "100 triệu",
+     "KIM CƯƠNG": "Chi Phí Y Tế Thực Tế"
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [],
+    "label": "7. Chi phí Điều Trị Trước Khi Nhập Viện (trong vòng 30 ngày trước khi nhập viện)",
+    "values": {},
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [],
+    "label": "8. Chi phí Điều Trị Sau Khi Xuất Viện (trong 60 ngày sau khi xuất viện)",
+    "values": {
+     "BẠC": "Chi Phí Y Tế Thực Tế",
+     "TITAN": "Chi Phí Y Tế Thực Tế",
+     "VÀNG": "Chi Phí Y Tế Thực Tế"
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [],
+    "label": "9. Chi Phí Y Tế Nội Trú Khác",
+    "values": {},
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [],
+    "label": "E. Chi Phí Xe Cứu Thương/ năm hợp đồng",
+    "values": {
+     "BẠC": "1,5 triệu",
+     "TITAN": "3 triệu",
+     "VÀNG": "5 triệu",
+     "BẠCH KIM": "Chi Phí Y Tế Thực Tế",
+     "KIM CƯƠNG": "Chi Phí Y Tế Thực Tế"
+    },
+    "note": null
+   },
+   {
+    "row": 10,
+    "section": [],
+    "label": "F. Quyền lợi Điều Trị Ngoại Trú đặc biệt",
+    "values": {},
+    "note": null
+   },
+   {
+    "row": 11,
+    "section": [],
+    "label": "1. Chi phí Phẫu Thuật Trong Ngày/ năm hợp đồng",
+    "values": {
+     "BẠC": "5 triệu",
+     "TITAN": "10 triệu",
+     "VÀNG": "20 triệu",
+     "BẠCH KIM": "40 triệu",
+     "KIM CƯƠNG": "60 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 12,
+    "section": [],
+    "label": "2. Chi phí Điều Trị Ngoại Trú do Tai Nạn (trong vòng 24 giờ kể từ thời điểm xảy ra Tai Nạn/ năm hợp đồng)",
+    "values": {
+     "BẠC": "3 triệu",
+     "TITAN": "6 triệu",
+     "VÀNG": "10 triệu",
+     "BẠCH KIM": "Chi Phí Y Tế Thực Tế",
+     "KIM CƯƠNG": "Chi Phí Y Tế Thực Tế"
+    },
+    "note": null
+   },
+   {
+    "row": 13,
+    "section": [],
+    "label": "3. Chi phí lọc máu ngoài thận/ năm hợp đồng",
+    "values": {
+     "BẠC": "Không áp dụng",
+     "TITAN": "Không áp dụng",
+     "VÀNG": "10 triệu",
+     "BẠCH KIM": "20 triệu",
+     "KIM CƯƠNG": "Chi Phí Y Tế Thực Tế"
+    },
+    "note": null
+   },
+   {
+    "row": 14,
+    "section": [],
+    "label": "Lưu ý: Quyền lợi Trợ Cấp",
+    "values": {
+     "BẠC": "Nằm Viện không áp dụng Mức Đồng Chi Trả.",
+     "TITAN": "Nằm Viện không áp dụng Mức Đồng Chi Trả.",
+     "VÀNG": "Nằm Viện không áp dụng Mức Đồng Chi Trả.",
+     "BẠCH KIM": "Nằm Viện không áp dụng Mức Đồng Chi Trả.",
+     "KIM CƯƠNG": "Nằm Viện không áp dụng Mức Đồng Chi Trả."
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "manulife-cssknc-2026",
+  "table_id": 5,
+  "page_label": "7",
+  "columns": [
+   "Chương trình bảo hiểm",
+   "TITAN",
+   "VÀNG",
+   "BẠCH KIM",
+   "KIM CƯƠNG"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "Giới hạn bảo hiểm/ năm hợp đồng (là tổng quyền lợi bảo hiểm thực chi cho tất cả các mục dưới đây)",
+    "values": {
+     "TITAN": "6 triệu",
+     "VÀNG": "12 triệu",
+     "BẠCH KIM": "24 triệu",
+     "KIM CƯƠNG": "60 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "A. Chi phí Vật Lý Trị Liệu và trị liệu thần kinh cột sống/ năm hợp đồng",
+    "values": {
+     "TITAN": "1 triệu",
+     "VÀNG": "2 triệu",
+     "BẠCH KIM": "4 triệu",
+     "KIM CƯƠNG": "10 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "B. Chi phí Y Học Thay Thế/ năm hợp đồng",
+    "values": {
+     "TITAN": "1 triệu",
+     "VÀNG": "2 triệu",
+     "BẠCH KIM": "4 triệu",
+     "KIM CƯƠNG": "10 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "C. Giới hạn cho mỗi Lần Thăm Khám (là tổng quyền lợi bảo hiểm thực chi cho tất cả các mục C.1 đến C.3)",
+    "values": {
+     "TITAN": "1 triệu",
+     "VÀNG": "2 triệu",
+     "BẠCH KIM": "4 triệu",
+     "KIM CƯƠNG": "10 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [],
+    "label": "1. Chi phí khám bệnh",
+    "values": {},
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [],
+    "label": "2. Chi phí Thuốc Kê Toa",
+    "values": {
+     "TITAN": "Chi Phí Y Tế Thực Tế",
+     "VÀNG": "Chi Phí Y Tế Thực Tế",
+     "BẠCH KIM": "Chi Phí Y Tế Thực Tế",
+     "KIM CƯƠNG": "Chi Phí Y Tế Thực Tế"
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [],
+    "label": "3. Chi phí chẩn đoán, xét nghiệm do Bác Sĩ chỉ định và Cần Thiết Về Mặt Y Khoa",
+    "values": {},
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "manulife-cssknc-2026",
+  "table_id": 6,
+  "page_label": "8",
+  "columns": [
+   "Chương trình bảo hiểm",
+   "TITAN",
+   "VÀNG",
+   "BẠCH KIM",
+   "KIM CƯƠNG"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "Giới hạn bảo hiểm/ năm hợp đồng (là tổng quyền lợi bảo hiểm thực chi cho tất cả các mục dưới đây)",
+    "values": {
+     "TITAN": "3 triệu",
+     "VÀNG": "6 triệu",
+     "BẠCH KIM": "12 triệu",
+     "KIM CƯƠNG": "25 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "A. Chi phí mão răng, răng giả/ năm hợp đồng (LOẠI TRỪ chi phí Cấy Ghép Implant)",
+    "values": {
+     "TITAN": "500 nghìn",
+     "VÀNG": "1 triệu",
+     "BẠCH KIM": "2 triệu",
+     "KIM CƯƠNG": "4 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "B. Chi phí cạo vôi răng/ năm hợp đồng (tối đa 2 lần/ năm hợp đồng)",
+    "values": {
+     "TITAN": "500 nghìn",
+     "VÀNG": "1 triệu",
+     "BẠCH KIM": "2 triệu",
+     "KIM CƯƠNG": "4 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "C. Giới hạn cho mỗi Lần Thăm Khám (là tổng quyền lợi bảo hiểm thực chi cho tất cả các mục C.1 đến C.8)",
+    "values": {
+     "TITAN": "1 triệu",
+     "VÀNG": "2 triệu",
+     "BẠCH KIM": "4 triệu",
+     "KIM CƯƠNG": "10 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [],
+    "label": "1. Chi phí khám, chẩn đoán nha khoa",
+    "values": {},
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [],
+    "label": "2. Chi phí điều trị nha chu, viêm nướu",
+    "values": {},
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [],
+    "label": "3. Chi phí Thuốc Kê Toa",
+    "values": {},
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [],
+    "label": "4. Chi phí trám răng (amalgam, composite, fuji hoặc các chất liệu tương đương)",
+    "values": {
+     "TITAN": "Chi Phí Y Tế",
+     "VÀNG": "Thực Tế"
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [],
+    "label": "5. Chi phí chụp X-quang",
+    "values": {},
+    "note": null
+   },
+   {
+    "row": 10,
+    "section": [],
+    "label": "6. Chi phí chữa tủy răng",
+    "values": {},
+    "note": null
+   },
+   {
+    "row": 11,
+    "section": [],
+    "label": "7. Chi phí nhổ răng bệnh lý (không Phẫu Thuật)",
+    "values": {},
+    "note": null
+   },
+   {
+    "row": 12,
+    "section": [],
+    "label": "8. Chi phí cắt u mô cứng của răng, cắt cuống răng",
+    "values": {},
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "manulife-cssknc-2026",
+  "table_id": 7,
+  "page_label": "9",
+  "columns": [
+   "Chương trình bảo hiểm",
+   "TITAN",
+   "VÀNG",
+   "BẠCH KIM",
+   "KIM CƯƠNG"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "Giới hạn tối đa cho mỗi lần mang thai bao gồm: Sinh Thường, Sinh Mổ và Biến Chứng Thai Sản (là tổng quyền lợi bảo hiểm thực chi cho tất cả các mục dưới đây)",
+    "values": {
+     "TITAN": "12 triệu",
+     "VÀNG": "25 triệu",
+     "BẠCH KIM": "35 triệu",
+     "KIM CƯƠNG": "70 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "A. Chi phí Phòng và Giường/ Ngày Nằm Viện (tối đa 60 ngày/ năm hợp đồng)",
+    "values": {
+     "TITAN": "1,5 triệu",
+     "VÀNG": "2,5 triệu",
+     "BẠCH KIM": "5 triệu",
+     "KIM CƯƠNG": "10 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "B. Chi phí Phòng và Giường tại Khoa Chăm Sóc Đặc Biệt hoặc Giường Hồi Sức Tích Cực/ Ngày Nằm Viện (tối đa 60 ngày/ năm hợp đồng)",
+    "values": {
+     "TITAN": "Chi Phí Y Tế Thực Tế",
+     "VÀNG": "Chi Phí Y Tế Thực Tế",
+     "BẠCH KIM": "Chi Phí Y Tế Thực Tế",
+     "KIM CƯƠNG": "Chi Phí Y Tế Thực Tế"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "C. Chi phí Kiểm Tra Thai Định Kỳ/ Lần Thăm Khám (tối đa 8 lần/ năm hợp đồng)",
+    "values": {
+     "TITAN": "500 nghìn",
+     "VÀNG": "1 triệu",
+     "BẠCH KIM": "2 triệu",
+     "KIM CƯƠNG": "3 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [],
+    "label": "D. Chi Phí Dưỡng Nhi/ năm hợp đồng (trong vòng 7 ngày kể từ ngày sinh, LOẠI TRỪ Bệnh Bẩm Sinh/ Dị Tật Bẩm Sinh)",
+    "values": {
+     "TITAN": "3 triệu",
+     "VÀNG": "5 triệu",
+     "BẠCH KIM": "10 triệu",
+     "KIM CƯƠNG": "20 triệu"
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [],
+    "label": "E. Chi phí sinh",
+    "values": {},
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [],
+    "label": "F. Chi phí Điều Trị Cấp Cứu cho thai sản do Tai Nạn",
+    "values": {
+     "TITAN": "Chi Phí Y Tế Thực Tế",
+     "VÀNG": "Chi Phí Y Tế Thực Tế",
+     "BẠCH KIM": "Chi Phí Y Tế Thực Tế",
+     "KIM CƯƠNG": "Chi Phí Y Tế Thực Tế"
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [],
+    "label": "G. Chi phí điều trị Biến Chứng Thai Sản",
+    "values": {},
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "manulife-cssknc-2026",
+  "table_id": 8,
+  "page_label": "13",
+  "columns": [
+   "col0",
+   "Bên Mua Bảo Hiểm là cá nhân",
+   "Bên Mua Bảo Hiểm là tổ chức"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "Ưu tiên 1",
+    "values": {
+     "Bên Mua Bảo Hiểm là cá nhân": "Bên Mua Bảo Hiểm;",
+     "Bên Mua Bảo Hiểm là tổ chức": "Người Được Bảo Hiểm trong trường hợp Người Được Bảo Hiểm đủ 18 (mười tám) Tuổi tại thời điểm chi trả quyền lợi bảo hiểm;"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "Ưu tiên 2",
+    "values": {
+     "Bên Mua Bảo Hiểm là cá nhân": "Người thừa kế hợp pháp của Bên Mua Bảo Hiểm.",
+     "Bên Mua Bảo Hiểm là tổ chức": "Người giám hộ của Người Được Bảo Hiểm trong trường hợp Người Được Bảo Hiểm chưa đủ 18 (mười tám) Tuổi tại thời điểm chi trả quyền lợi bảo hiểm;"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "Ưu tiên 3",
+    "values": {
+     "Bên Mua Bảo Hiểm là tổ chức": "Người thừa kế hợp pháp của Người Được Bảo Hiểm."
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "manulife-cssknc-2026",
+  "table_id": 9,
+  "page_label": "21",
+  "columns": [
+   "col0",
+   "col1"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 0,
+    "section": [],
+    "label": "1. Bác Sĩ",
+    "values": {
+     "col1": "Là người được cấp chứng chỉ hành nghề khám bệnh, chữa bệnh bởi cơ quan nhà nước có thẩm quyền và thực hiện khám bệnh, chữa bệnh. Trừ trường hợp có sự phân công/văn bản của cấp có thẩm quyền, Bác Sĩ điều trị hoặc Bác Sĩ ký tên trên hồ sơ y tế không được đồng thời là: (i) Bên Mua Bảo Hiểm; hoặc (ii) Người Được Bảo Hiểm; hoặc (iii) Người Thụ Hưởng; hoặc (iv) Đại lý bảo hiểm của Hợp Đồng Bảo Hiểm; hoặc (v) Người có quan hệ gia đình với Bên Mua Bảo Hiểm, Người Được Bảo Hiểm, Người Thụ Hưởng, đại lý bảo hiểm của Hợp Đồng Bảo Hiểm bao gồm: vợ, chồng, bố đẻ, mẹ đẻ, bố nuôi, mẹ nuôi, bố chồng, mẹ chồng, bố vợ, mẹ vợ, con đẻ, con nuôi, con rể, con dâu, anh ruột, chị ruột, em ruột, anh rể, em rể, chị dâu, em dâu, anh ruột của vợ, anh ruột của chồng, chị ruột của vợ, chị ruột của chồng, em ruột của vợ, em ruột của chồng."
+    },
+    "note": null
+   },
+   {
+    "row": 1,
+    "section": [],
+    "label": "2. Bên Mua Bảo Hiểm",
+    "values": {
+     "col1": "Là tổ chức được thành lập và hoạt động hợp pháp tại Việt Nam hoặc cá nhân từ đủ 18 (mười tám) Tuổi trở lên, đang sinh sống tại Việt Nam và có năng lực hành vi dân sự đầy đủ; và được ghi nhận là Bên Mua Bảo Hiểm trong Trang Hợp Đồng (Giấy Chứng Nhận Bảo Hiểm), hoặc Xác Nhận Thay Đổi Hợp Đồng (nếu có)."
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "3. Bệnh",
+    "values": {
+     "col1": "Là tình trạng bất thường về hình thái, cấu trúc, chức năng của một hay nhiều cơ quan trong cơ thể phát sinh do nguyên nhân bên trong hoặc bên ngoài. Một bệnh được xem như bắt đầu khi bệnh đó đã được tham vấn, chẩn đoán, điều trị bởi Bác Sĩ hoặc đã làm phát sinh những triệu chứng khiến cho một người bình thường phải tìm sự tham vấn, chẩn đoán, hoặc điều trị của Bác Sĩ."
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "4. Bệnh Bẩm Sinh/ Dị Tật Bẩm Sinh",
+    "values": {
+     "col1": "Là những bất thường về hình thái, cấu trúc, chức năng của cơ thể phát sinh trong quá trình thụ tinh hình thành phôi, mang thai. Bệnh Bẩm Sinh/Dị Tật Bẩm Sinh có thể biểu hiện và được chẩn đoán trước khi sinh, ngay sau khi sinh, hoặc ở các giai đoạn sống về sau của con người."
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "5. Bệnh Có Sẵn",
+    "values": {
+     "col1": "Bệnh Có Sẵn là tình trạng bệnh tật của Người Được Bảo Hiểm đã được Bác Sĩ chẩn đoán hoặc điều trị trước: (i) Ngày Hiệu Lực của Sản Phẩm Bảo Hiểm này hoặc Ngày Hiệu Lực của việc bổ sung quyền lợi bảo hiểm (áp dụng cho quyền lợi lựa chọn thêm); (ii) ngày khôi phục hiệu lực gần nhất của Sản Phẩm Bảo Hiểm này, tùy vào ngày nào đến sau. Việc xác định bệnh có sẵn phải căn cứ vào hồ sơ y tế được lưu trữ tại Bệnh Viện hoặc Cơ Sở Y Tế được thành lập hợp pháp, các tài liệu y khoa được Bộ Y tế và các cơ quan có thẩm quyền ban hành hoặc các thông tin do Bên Mua Bảo Hiểm, Người Được Bảo Hiểm tự kê khai trên Hồ sơ yêu cầu bảo hiểm hoặc phiếu bổ sung thông tin."
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [],
+    "label": "6. Bệnh Đặc Biệt",
+    "values": {
+     "col1": "Bao gồm: sỏi đường niệu, sỏi đường mật, tăng huyết áp, bệnh hệ tuần hoàn, bệnh đái tháo đường, tất cả các khối u, nang, polip hoặc ung thư, viêm xoang, thoát vị, bệnh trĩ hoặc rò hậu môn, lạc nội mạc tử cung, chảy máu tử cung do rối loạn cơ năng, các bệnh lý cột sống, phì đại tiền liệt tuyến, bệnh lao, hen, loét đường tiêu hóa, đục thủy tinh thể, Gout, bệnh Parkinson, viêm gan (B, C), viêm thận, viêm khớp và các bệnh liên quan đến hệ thống tái tạo máu (bao gồm thay máu, lọc máu, chạy thận nhân tạo, bệnh suy tủy, bạch cầu cấp, bạch cầu mãn tính)."
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [],
+    "label": "7. Bệnh Viện",
+    "values": {
+     "col1": "Là Cơ Sở Y Tế được thành lập hợp pháp và hoạt động theo luật của nước sở tại tại nơi tổ chức này đặt cơ sở, có giấy phép hoạt động và đáp ứng tất cả các yêu cầu sau: a. Được thành lập và hoạt động liên tục 24 giờ trong ngày nhằm cung cấp dịch vụ khám, chẩn đoán và điều trị cho người bị bệnh tật, thương tích; b. Có đầy đủ năng lực và phương tiện để thực hiện các ca phẫu thuật y khoa; c. Có đầy đủ điều kiện cho hoạt động điều trị nội trú và theo dõi bệnh nhân; d. Có lưu giữ đầy đủ bệnh án và hồ sơ của bệnh nhân theo tiêu chuẩn quy định của cơ quan có thẩm quyền. Bệnh Viện bao gồm Bệnh Viện Công Lập và Bệnh Viện Tư Nhân; LOẠI TRỪ: nơi an dưỡng, dưỡng lão, spa, thẩm mỹ, massage, xông hơi, cơ sở chữa trị dành riêng cho người nghiện rượu, ma túy, chất kích thích, người bị bệnh tâm thần, rối loạn tâm thần, bệnh phong."
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [],
+    "label": "8. Bệnh Viện Công Lập",
+    "values": {
+     "col1": "Là Bệnh Viện do cơ quan Nhà nước có thẩm quyền thành lập, sở hữu duy nhất và quản lý theo quy định của pháp luật của nước sở tại, hoặc được sở hữu, quản lý và hoạt động dựa trên liên kết giữa cơ quan Nhà nước với cá nhân, doanh nghiệp hoặc tổ chức không phải là tổ chức Nhà nước."
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "manulife-cssknc-2026",
+  "table_id": 10,
+  "page_label": "22",
+  "columns": [
+   "col0",
+   "col1"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": 9,
+  "records": [
+   {
+    "row": 0,
+    "section": [],
+    "label": "9. Bệnh Viện Tư Nhân",
+    "values": {
+     "col1": "Là Bệnh Viện được thành lập, sở hữu và quản lý bởi cá nhân, doanh nghiệp hoặc tổ chức không phải là tổ chức Nhà nước."
+    },
+    "note": null
+   },
+   {
+    "row": 1,
+    "section": [],
+    "label": "10. Biến Chứng Thai Sản",
+    "values": {
+     "col1": "Là những biến chứng xảy ra trong quá trình mang thai và sinh đẻ bao gồm: sảy thai, nhau tiền đạo, thai trứng, thai ngoài tử cung, thuyên tắc ối (tắc mạch ối), đông máu nội mạch lan tỏa, gan nhiễm mỡ cấp tính trong thai kỳ, nhau cài răng lược, băng huyết sau sinh, sản giật hoặc tiền sản giật, thai lưu, vỡ tử cung, các trường hợp phá thai do bệnh lý/dị tật bẩm sinh của thai nhi mà cần chấm dứt thai kì nhằm đảm bảo tính mạng của người mẹ theo chỉ định của Bác Sĩ. Những biến chứng không thuộc danh sách trên sẽ không được Manulife chi trả trong phạm vi của Sản Phẩm Bảo Hiểm này."
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "11. Cần Thiết Về Mặt Y Khoa",
+    "values": {
+     "col1": "Là dịch vụ y tế hoặc điều trị y tế đáp ứng tất cả các điều kiện sau: a. Nhằm mục đích chẩn đoán và theo đúng chẩn đoán của Bác Sĩ để điều trị cho Bệnh, Thương Tích của Người Được Bảo Hiểm; b. Phù hợp với các chẩn đoán và thông lệ về chẩn trị y tế đối với Bệnh, Thương Tích hoặc thai sản; c. Phù hợp với tiêu chuẩn về hành nghề y dược; d. Có tính chất bắt buộc và phải thực hiện tại Cơ Sở Y Tế; e. Không nhằm mục đích thử nghiệm, nghiên cứu, phòng ngừa hoặc tầm soát; f. Có số ngày nằm viện là hợp lý và phù hợp với thông lệ điều trị cho Bệnh hoặc Thương Tích liên quan."
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "12. Cấy Ghép Implant",
+    "values": {
+     "col1": "Là phương pháp trồng răng sử dụng Titanium với hình dáng giống chân răng được cấy ghép vào trong xương hàm, có chức năng nâng đỡ cho một mão, một cầu răng hay một hàm răng giả để thay thế các răng đã mất."
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "13. Cấy Ghép Nội Tạng",
+    "values": {
+     "col1": "Là việc Phẫu Thuật Cấy Ghép tim, phổi, gan, tuyến tụy, thận, tủy xương cho Người Được Bảo Hiểm được tiến hành tại Bệnh Viện. LOẠI TRỪ việc Cấy Ghép Nội Tạng bất hợp pháp hoặc phát sinh từ giao dịch bất hợp pháp."
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [],
+    "label": "14. Chi Phí Dưỡng Nhi",
+    "values": {
+     "col1": "Là các chi phí y tế cần thiết phát sinh trong vòng 07 (bảy) ngày kể từ khi sinh để chăm sóc trẻ sơ sinh trong Bệnh Viện. Chi Phí Dưỡng Nhi không bao gồm chi phí khám, chẩn đoán, xét nghiệm hoặc điều trị Bệnh Bẩm Sinh/ Dị Tật Bẩm Sinh. Thời điểm phát sinh của Chi Phí Dưỡng Nhi sẽ được tính từ ngày sinh."
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [],
+    "label": "15. Chi Phí Phẫu Thuật",
+    "values": {
+     "col1": "Là chi phí dùng trong Phẫu Thuật, bao gồm: chi phí thuốc, Vật Tư Tiêu Hao, chi phí phòng mổ, chi phí Bác Sĩ phẫu thuật, chi phí gây mê, gây tê (không áp dụng đối với gây tê tại chỗ) và các bộ phận giả theo tiêu chuẩn được lắp đặt trong quá trình Phẫu Thuật và các Chi Phí Y Tế Thực Tế khác cho ca Phẫu Thuật. Chi Phí Phẫu Thuật Cấy Ghép bao gồm chi phí máy tạo nhịp tim, máy khử rung tim cấy ghép (ICD), thấu kính nội nhãn (bao gồm thấu kính đa tiêu cự), cấy ghép ốc tai điện tử. Vật Tư Tiêu Hao là vật tư được sử dụng nhằm mục đích hỗ trợ điều trị Bệnh hoặc Thương Tích và không được lắp đặt vĩnh viễn trong cơ thể. LOẠI TRỪ các vật tư: (i) tự tiêu trong cơ thể, hoặc (ii) có thể lấy ra khỏi cơ thể mà không ảnh hưởng đến chức năng hoạt động của cơ thể"
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [],
+    "label": "16. Chi Phí Tái Tạo Tuyến Vú Sau Đoạn Nhũ Do Ung Thư",
+    "values": {
+     "col1": "nhưng do cơ thể không đào thải nên không cần thiết lấy ra. Là các Chi Phí Y Tế Thực Tế cần thiết phát sinh để tái tạo tuyến vú sau đoạn nhũ do ung thư vú và phải đáp ứng tất cả các điều kiện sau: a. Việc tái tạo tuyến vú phải được thực hiện sau thời gian chờ áp dụng cho Điều Trị Ung Thư và trong vòng 06 (sáu) tháng kể từ ngày việc Điều Trị Ung Thư được thực hiện; b. Bất kì can thiệp nào liên quan đến việc phẫu thuật hoặc tái tạo bên vú còn lại nhằm mục đích cân xứng sẽ không được bảo hiểm."
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [],
+    "label": "17. Chi Phí Xe Cứu Thương",
+    "values": {
+     "col1": "Là chi phí vận chuyển cấp cứu bằng xe cứu thương và chăm sóc trong quá trình vận chuyển Người Được Bảo Hiểm đang trong Tình Trạng Khẩn Cấp tới Cơ Sở Y Tế gần nhất hoặc chi phí cho việc vận chuyển cấp cứu giữa các Bệnh Viện hoặc Cơ Sở Y Tế trong trường hợp có chỉ định của Bác Sĩ. Manulife không chi trả chi phí này cho trường hợp thai sản. LOẠI TRỪ cấp cứu thai sản do Tai Nạn."
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [],
+    "label": "18. Chi Phí Y Tế Nội Trú Khác",
+    "values": {
+     "col1": "Là chi phí y tế khi thực hiện các xét nghiệm, chẩn đoán hình ảnh, thuốc, dịch truyền, máu, huyết tương, tiêm truyền tĩnh mạch, phí thăm khám của Bác Sĩ, chi phí thuê xe lăn, chi phí hành chính, Vật Tư Tiêu Hao và các Chi Phí Y Tế Thực Tế khác."
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "manulife-cssknc-2026",
+  "table_id": 11,
+  "page_label": "23",
+  "columns": [
+   "col0",
+   "col1"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": 10,
+  "records": [
+   {
+    "row": 0,
+    "section": [],
+    "label": "19. Chi Phí Y Tế Thông Lệ Và Hợp Lý",
+    "values": {
+     "col1": "a. Là mức giá dịch vụ thông thường mà Cơ Sở Y Tế áp dụng chung cho tất cả bệnh nhân của mình theo mức dịch vụ cơ bản tại Cơ Sở Y Tế đó mà không phải là dịch vụ theo yêu cầu của bệnh nhân hay dịch vụ nâng cao; hoặc b. Là mức giá dịch vụ do Manulife xác định dựa trên các trường hợp tương tự Manulife đã xử lý và các báo giá dịch vụ tương đương của các Cơ Sở Y Tế có cùng tiêu chuẩn trong"
+    },
+    "note": null
+   },
+   {
+    "row": 1,
+    "section": [],
+    "label": "20. Chi Phí Y Tế Thực Tế",
+    "values": {
+     "col1": "cùng khu vực địa lý. Là chi phí phát sinh thực tế để trả cho Đợt Điều Trị hoặc Lần Thăm Khám mà Người Được Bảo Hiểm sử dụng theo quy định trong Quy Tắc, Điều Kiện và Điều Khoản Sản Phẩm và phải đáp ứng tất cả các điều kiện sau: a. Phát sinh phù hợp với phạm vi giấy phép hoạt động của Cơ Sở Y Tế; b. Chi trả cho các dịch vụ y tế Cần Thiết Về Mặt Y Khoa; c. Theo chỉ định của Bác Sĩ điều trị, phát sinh khi Người Được Bảo Hiểm phải điều trị Bệnh, Thương Tích hoặc thai sản tại Cơ Sở Y Tế (không bao gồm chi phí đã được bảo hiểm y tế nhà nước hoặc sản phẩm bảo hiểm khác chi trả); d. Không thuộc trường hợp loại trừ theo quy định tại Điều 3; e. Không phải là chi phí, dịch vụ y tế nhằm phục vụ cho sự tiện lợi của bệnh nhân hoặc gia"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "21. Cơ Sở Y Tế",
+    "values": {
+     "col1": "đình của bệnh nhân hoặc Bác Sĩ; f. Theo đúng tiêu chuẩn được chấp nhận chung để chăm sóc cho các bệnh nhân và được xem là thích hợp cho việc điều trị Bệnh/ Thương Tích của bệnh nhân; g. Là mức Chi Phí Y Tế Thông Lệ Và Hợp Lý. Là một cơ sở khám chữa bệnh hợp pháp và được cơ quan nhà nước có thẩm quyền của nước sở tại cấp giấy phép hoạt động; LOẠI TRỪ: phòng mạch Bác Sĩ tư, nơi an dưỡng, dưỡng lão, spa, thẩm mỹ, massage, xông hơi, cơ sở chữa trị dành riêng cho người nghiện rượu, ma túy, chất kích thích, người bị bệnh tâm thần và bệnh phong."
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "22. Dịch Vụ Chăm Sóc Y Tế Tại Nhà",
+    "values": {
+     "col1": "Là dịch vụ chăm sóc y tế tại nơi ở của Người Được Bảo Hiểm, được thực hiện bởi Y Tá/ Điều Dưỡng hoặc Bác Sĩ ngay sau khi xuất viện theo chỉ định của Bác Sĩ tại Bệnh Viện nơi Người Được Bảo Hiểm Điều Trị Nội Trú trong vòng 60 (sáu mươi) ngày kể từ ngày xuất viện. Chi phí cho dịch vụ này phải có hóa đơn tài chính của Bệnh Viện. Quyền lợi này không áp dụng cho trường hợp xuất viện sau sinh."
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "23. Điều Trị Cấp Cứu",
+    "values": {
+     "col1": "Là việc điều trị Tình Trạng Khẩn Cấp do Tai Nạn của Người Được Bảo Hiểm tại phòng cấp cứu của Bệnh Viện được thực hiện trong vòng 24 (hai mươi tư) giờ kể từ khi xảy ra Tai Nạn."
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [],
+    "label": "24. Điều Trị Ngoại Trú",
+    "values": {
+     "col1": "Là việc Người Được Bảo Hiểm điều trị y tế (bao gồm khám chữa bệnh trực tuyến) mà không phải là Điều Trị Nội Trú hoặc Điều Trị Trong Ngày tại Cơ Sở Y Tế theo chỉ định Bác Sĩ. Nếu có nhiều Lần Thăm Khám cho cùng một chẩn đoán trong một ngày, Manulife chỉ xem xét chi trả quyền lợi cho một Lần Thăm Khám có chi phí cao nhất."
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [],
+    "label": "25. Điều Trị Nội Trú",
+    "values": {
+     "col1": "Là việc Người Được Bảo Hiểm nhập viện điều trị và ở lại qua đêm theo tiêu chí Ngày Nằm Viện tại Bệnh Viện theo chỉ định của Bác Sĩ và Cần Thiết Về Mặt Y Khoa. Trong đó, Ngày Nằm Viện được tính ít nhất là 18 (mười tám) giờ lưu trú trong Bệnh Viện và được thể hiện trong giấy ra viện hoặc bảng kê viện phí chi tiết."
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [],
+    "label": "26. Điều Trị Nha Khoa",
+    "values": {
+     "col1": "Là việc Người Được Bảo Hiểm được kiểm tra, thăm khám, điều trị và phẫu thuật liên quan đến những bệnh của răng và nướu hoặc hàm có liên quan đến răng và được thực hiện bởi Nha Sĩ. LOẠI TRỪ các chi phí liên quan đến cầu răng; răng giả do Cấy Ghép Implant."
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [],
+    "label": "27. Điều Trị Sau Khi Xuất Viện",
+    "values": {
+     "col1": "Là lần điều trị y tế tiếp theo ngay sau khi xuất viện theo chỉ định của Bác Sĩ bao gồm thăm khám, xét nghiệm, chẩn đoán, Thuốc Kê Toa liên quan trực tiếp đến Bệnh hoặc Thương Tích đã được Điều Trị Nội Trú trước đó. Điều Trị Sau Khi Xuất Viện phải được thực hiện trong vòng 60 (sáu mươi) ngày kể từ ngày xuất viện của Đợt Điều Trị đó. Các chỉ định này phải liên quan trực tiếp đến Bệnh hoặc Thương tích được Điều Trị Nội Trú trước đó. Điều Trị Sau Khi Xuất Viện chỉ được chi trả 01 (một) lần cho một Đợt Điều Trị và không áp dụng cho quyền lợi thai sản."
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [],
+    "label": "28. Điều Trị Trong Ngày",
+    "values": {
+     "col1": "Là việc Người Được Bảo Hiểm nhập viện, có phát sinh chi phí giường bệnh và được điều trị tại Bệnh Viện nhưng không nằm qua đêm. Giấy ra viện là chứng từ cần thiết để yêu cầu giải quyết cho quyền lợi này."
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "manulife-cssknc-2026",
+  "table_id": 12,
+  "page_label": "24",
+  "columns": [
+   "col0",
+   "col1"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": 11,
+  "records": [
+   {
+    "row": 0,
+    "section": [],
+    "label": "29. Điều Trị Trước Khi Nhập Viện",
+    "values": {
+     "col1": "Là lần điều trị gần nhất trước ngày nhập viện Điều Trị Nội Trú bao gồm các dịch vụ thăm khám, xét nghiệm, chẩn đoán hình ảnh liên quan trực tiếp đến chẩn đoán xác định Bệnh hoặc Thương Tích mà Người Được Bảo Hiểm cần phải nhập viện để điều trị theo chỉ định của Bác Sĩ và phải được thực hiện trong vòng 30 (ba mươi) ngày trước ngày nhập viện của Đợt Điều Trị đó. Điều Trị Trước Khi Nhập Viện không áp dụng cho quyền lợi thai sản, Điều Trị Trong Ngày."
+    },
+    "note": null
+   },
+   {
+    "row": 1,
+    "section": [],
+    "label": "30. Điều Trị Ung Thư",
+    "values": {
+     "col1": "Là việc điều trị ung thư bao gồm Điều Trị Nội Trú, Điều Trị Trong Ngày và Điều Trị Ngoại Trú, dựa trên chẩn đoán xác định là ung thư, bao gồm Phẫu Thuật, xạ trị, hóa trị và liệu pháp trúng đích, liệu pháp miễn dịch và liệu pháp nội tiết được thực hiện bởi Bác Sĩ liên quan đến chẩn đoán ung thư đó."
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "31. Đợt Điều Trị",
+    "values": {
+     "col1": "Là một đợt Điều Trị Nội Trú liên quan đến Bệnh, Thương Tích hoặc thai sản của Người Được Bảo Hiểm. Giấy ra viện là bằng chứng chứng minh kết thúc Đợt Điều Trị. Nếu các Đợt Điều Trị của cùng một Bệnh, Thương Tích, hoặc thai sản mà thời gian giữa các Đợt Điều Trị này không vượt quá 30 (ba mươi) ngày thì được coi là cùng một Đợt Điều Trị."
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "32. Đồng Chi Trả",
+    "values": {
+     "col1": "Là việc Bên Mua Bảo Hiểm và Manulife cùng chi trả cho Chi Phí Y Tế Thực Tế phát sinh. Mức Đồng Chi Trả là tỷ lệ phần trăm của Chi Phí Y Tế Thực Tế phát sinh mà Bên Mua Bảo Hiểm tự chi trả, Manulife sẽ chi trả phần còn lại nhưng không vượt quá các giới hạn về hạn mức tối đa theo quy định của từng quyền lợi bảo hiểm tại Điều 1 của Sản Phẩm Bảo Hiểm này. Mức Đồng Chi Trả trong phạm vi của Sản Phẩm Bảo Hiểm này không áp dụng đối với quyền lợi Trợ Cấp Nằm Viện."
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "33. Giường Hồi Sức Tích Cực",
+    "values": {
+     "col1": "Là loại giường được sử dụng trong các khu vực hoặc đơn vị chăm sóc tích cực (ICU) để hỗ trợ việc điều trị và chăm sóc y tế đặc biệt dành cho các bệnh nhân có Tình Trạng Khẩn Cấp phải duy trì hoặc khôi phục sự sống, cần được theo dõi cẩn thận một cách đặc biệt và liên tục theo chỉ định của Bác Sĩ."
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [],
+    "label": "34. Hợp Đồng Bảo Hiểm",
+    "values": {
+     "col1": "Là thỏa thuận bằng văn bản giữa Bên Mua Bảo Hiểm và Manulife, trong đó ghi nhận quyền và nghĩa vụ của các bên trong quá trình thực hiện hợp đồng bảo hiểm. Hợp Đồng Bảo Hiểm bao gồm các tài liệu sau: a. Hồ Sơ Yêu Cầu Bảo Hiểm; và b. Trang Hợp Đồng (Giấy Chứng Nhận Bảo Hiểm); và c. Quy tắc, Điều kiện và Điều khoản của sản phẩm bảo hiểm nhân thọ, sản phẩm bảo hiểm đính kèm (nếu có); và d. (Các) Xác Nhận Thay Đổi Hợp Đồng (nếu có); và e. (Các) văn bản sửa đổi, bổ sung Hợp Đồng (nếu có)."
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [],
+    "label": "35. Khoa Chăm Sóc Đặc Biệt",
+    "values": {
+     "col1": "Là một khoa/phòng hoặc một bộ phận của Bệnh Viện nhưng không phải là khoa/phòng hậu phẫu hay khoa/phòng cấp cứu hoặc khoa/phòng hồi sức cấp cứu và: a. Được Bệnh Viện thành lập nhằm chăm sóc và điều trị tích cực 24/24 giờ; và b. Chỉ dành riêng cho các bệnh nhân mắc bệnh nặng đòi hỏi sự theo dõi, quan sát liên tục do Bác Sĩ chỉ định; và c. Cung cấp tất cả các trang thiết bị, thuốc men và các phương tiện cấp cứu cần thiết để có thể can thiệp kịp thời."
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [],
+    "label": "36. Kiểm Tra Thai Định Kỳ",
+    "values": {
+     "col1": "Là Chi Phí Y Tế Thực Tế phát sinh cho việc kiểm tra thai định kỳ bao gồm các chi phí khám, xét nghiệm nước tiểu thông thường, xét nghiệm máu cơ bản, chi phí chích ngừa, siêu âm thai theo chỉ định của Bác Sĩ. Manulife không chi trả cho các chi phí xét nghiệm tầm soát trước khi sinh để phát hiện các dị tật thai nhi, bệnh lý gen hoặc giảm thiểu trí tuệ ví dụ như đo độ mờ da gáy, chọc ối, xét nghiệm nhiễm sắc thể, … và thuốc bổ thai."
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [],
+    "label": "37. Lần Thăm Khám",
+    "values": {
+     "col1": "Là 01 (một) lần Người Được Bảo Hiểm đến điều trị y tế tại Cơ Sở Y Tế và được Bác Sĩ chỉ định làm các xét nghiệm, chẩn đoán và kê đơn thuốc điều trị liên quan đến Bệnh hoặc Thương Tích."
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [],
+    "label": "38. Manulife",
+    "values": {
+     "col1": "Là Công ty TNHH Manulife (Việt Nam), công ty bảo hiểm nhân thọ được thành lập và hoạt động theo pháp luật Việt Nam."
+    },
+    "note": null
+   },
+   {
+    "row": 10,
+    "section": [],
+    "label": "39. Ngày Đáo Hạn Hợp Đồng",
+    "values": {
+     "col1": "Là ngày cuối cùng của thời hạn Hợp Đồng Bảo Hiểm và được ghi nhận tại Trang Hợp Đồng (Giấy Chứng Nhận Bảo Hiểm) nếu Hợp Đồng Bảo Hiểm còn hiệu lực đến thời điểm đó."
+    },
+    "note": null
+   },
+   {
+    "row": 11,
+    "section": [],
+    "label": "40. Ngày Hiệu Lực",
+    "values": {
+     "col1": "Nếu Bên Mua Bảo Hiểm và Người Được Bảo Hiểm còn sống vào thời điểm Hồ Sơ Yêu Cầu Bảo Hiểm được Manulife chấp thuận cấp Sản Phẩm Bảo Hiểm này, Ngày Hiệu Lực được ghi nhận tại Trang Hợp Đồng (Giấy Chứng Nhận Bảo Hiểm) hoặc Xác Nhận Thay Đổi Hợp Đồng (nếu có)."
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "manulife-cssknc-2026",
+  "table_id": 13,
+  "page_label": "25",
+  "columns": [
+   "col0",
+   "col1"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": 12,
+  "records": [
+   {
+    "row": 0,
+    "section": [],
+    "label": "41. Ngày Kỷ Niệm Năm Hợp Đồng",
+    "values": {
+     "col1": "Là ngày kỷ niệm tương ứng hàng năm của Ngày Hiệu Lực Hợp Đồng trong suốt thời hạn Hợp Đồng. Nếu năm không có ngày này thì ngày cuối cùng của tháng đó sẽ là Ngày Kỷ Niệm Năm Hợp Đồng của năm đó."
+    },
+    "note": null
+   },
+   {
+    "row": 1,
+    "section": [],
+    "label": "42. Người Được Bảo Hiểm",
+    "values": {
+     "col1": "Là người mà tính mạng, sức khỏe của người đó là đối tượng được bảo hiểm theo quy định của Sản Phẩm Bảo Hiểm này. Tùy thuộc vào yêu cầu của Bên Mua Bảo Hiểm và sự chấp thuận của Manulife, Người Được Bảo Hiểm phải đáp ứng tất cả các điều kiện sau vào Ngày Hiệu Lực của Sản Phẩm Bảo Hiểm này: • Còn sống và có quyền lợi có thể được bảo hiểm với Bên Mua Bảo Hiểm; • Đang cư trú và hiện diện tại Việt Nam;"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "43. Nha Sĩ",
+    "values": {
+     "col1": "• Trong độ tuổi từ 30 (ba mươi) ngày Tuổi đến 65 (sáu mươi lăm) Tuổi. Là Bác Sĩ chuyên về khám, chữa và điều trị đối với các vấn đề về sức khỏe răng miệng và có bằng cấp chứng nhận và được phép hành nghề nha khoa theo quy định của pháp luật."
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "44. Phạm Vi Địa Lý",
+    "values": {
+     "col1": "Là các quốc gia, vùng lãnh thổ (LOẠI TRỪ các nước bị cấm vận theo nghị quyết của Liên Hiệp Quốc, Hợp chúng Quốc Hoa Kỳ, Liên Minh Châu Âu và Vương Quốc Anh cũng như quy định pháp luật có liên quan tại Việt Nam), mà Manulife chấp nhận chi trả các chi phí y tế phát sinh khi Người Được Bảo Hiểm khám, điều trị trong thời gian Sản Phẩm Bảo Hiểm này còn hiệu lực, tương ứng với chương trình bảo hiểm được lựa chọn."
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "45. Phẫu Thuật",
+    "values": {
+     "col1": "Là một phương pháp y khoa được Bác Sĩ phẫu thuật dùng chuyên môn sử dụng trang thiết bị y tế và dụng cụ chuyên dụng để tác động vào cơ thể bệnh nhân dùng để điều trị Bệnh hoặc Thương Tích (không bao gồm các trường hợp thai sản) được thực hiện trong phòng phẫu thuật của Bệnh Viện hoặc Cơ Sở Y Tế. Tất cả các Phẫu Thuật được thực hiện bằng cách: (i) gây tê tại chỗ hoặc (ii) phục vụ cho mục đích chẩn đoán bệnh sẽ không được hiểu là Phẫu Thuật theo định nghĩa này. Các thủ thuật loại một hoặc loại đặc biệt được quy định theo Danh mục phân loại phẫu thuật/thủ thuật của Bộ Y tế Việt Nam tại từng thời điểm được gọi chung là Phẫu Thuật. Việc phân loại được căn cứ theo danh mục phân loại phẫu thuật, thủ thuật của Bộ Y tế Việt Nam có hiệu lực tại thời điểm thực hiện Phẫu Thuật, thủ thuật cho dù được thực hiện tại bất kì quốc gia nào nằm trong Phạm Vi Địa Lý được bảo hiểm."
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [],
+    "label": "46. Phẫu Thuật Trong Ngày",
+    "values": {
+     "col1": "Là hình thức Phẫu Thuật mà Người Được Bảo Hiểm nhập viện và điều trị tại Bệnh Viện nhưng không nằm qua đêm. Manulife chỉ chi trả cho các trường hợp có thời gian Phẫu Thuật và điều trị lớn hơn 06 (sáu) giờ tại Bệnh Viện."
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [],
+    "label": "47. Phòng và Giường",
+    "values": {
+     "col1": "Là phòng và giường đơn của Bệnh Viện, bao gồm suất ăn của bệnh nhân trong trường hợp Bệnh Viện có cung cấp. Phòng bao là phòng có hai hoặc nhiều giường được một bệnh nhân đăng ký sử dụng. Nếu Người Được Bảo Hiểm nằm viện tại phòng bao (là phòng có hai hay nhiều giường được đăng ký cho một bệnh nhân sử dụng), Manulife sẽ chi trả theo mức chi phí tiền giường và phòng của một giường đơn."
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [],
+    "label": "48. Phòng Tiêu Chuẩn",
+    "values": {
+     "col1": "Là phòng đơn của Bệnh Viện và không phải là các loại phòng tương tự như phòng cao cấp, phòng dịch vụ, phòng theo yêu cầu, phòng VIP, phòng bao."
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [],
+    "label": "49. Sinh Mổ",
+    "values": {
+     "col1": "Là việc sinh con của Người Được Bảo Hiểm cần phải can thiệp Phẫu Thuật tại Bệnh Viện và được thể hiện trên giấy ra viện."
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [],
+    "label": "50. Sinh Thường",
+    "values": {
+     "col1": "Là việc sinh con tự nhiên của Người Được Bảo Hiểm tại Bệnh Viện không có can thiệp bằng Phẫu Thuật và được thể hiện trên giấy ra viện."
+    },
+    "note": null
+   },
+   {
+    "row": 10,
+    "section": [],
+    "label": "51. Tai Nạn",
+    "values": {
+     "col1": "Là một sự kiện hoặc một chuỗi sự kiện liên tục, khách quan xảy ra do tác động của một lực, một vật bất ngờ từ bên ngoài lên cơ thể của Người Được Bảo Hiểm và gây ra Thương Tật hoặc tử vong cho Người Được Bảo Hiểm. Sự kiện hoặc chuỗi sự kiện nêu trên phải là nguyên nhân trực tiếp, duy nhất và không liên quan đến bất kỳ nguyên nhân nào khác gây ra Thương Tật hoặc tử vong cho Người Được Bảo Hiểm trong vòng 180 (một trăm tám mươi) ngày kể từ ngày xảy ra sự kiện hoặc chuỗi sự kiện đó."
+    },
+    "note": null
+   },
+   {
+    "row": 11,
+    "section": [],
+    "label": "52. Thể Thao Chuyên Nghiệp",
+    "values": {
+     "col1": "Là hình thức thể thao mà Người Được Bảo Hiểm tham gia huấn luyện, biểu diễn, hoặc thi đấu như là nghề của mình và được nhận tiền lương, thưởng, phụ cấp, chu cấp, tài trợ, hoặc thù lao từ hoạt động này."
+    },
+    "note": null
+   },
+   {
+    "row": 12,
+    "section": [],
+    "label": "53. Thể Thao Đối Kháng",
+    "values": {
+     "col1": "Là hình thức thể thao mang tính chiến đấu trực tiếp bằng các bộ phận cơ thể như tay, chân, đầu hoặc thân mình mà không dùng hoặc dùng rất ít thiết bị và phụ kiện hỗ trợ. Thể Thao Đối Kháng mang hình thức một vận động viên thi đấu với một vận động viên như judo, taekwondo, karate, vật, đấu kiếm, quyền anh, kickboxing, muay Thái, sumo."
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "manulife-cssknc-2026",
+  "table_id": 14,
+  "page_label": "26",
+  "columns": [
+   "col0",
+   "col1"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": 13,
+  "records": [
+   {
+    "row": 0,
+    "section": [],
+    "label": "54. Thể Thao Và Các Hoạt Động Mạo Hiểm",
+    "values": {
+     "col1": "Là hình thức thể thao hoặc các hoạt động được thực hiện trong điều kiện nguy hiểm đòi hỏi phải tuân thủ nghiêm ngặt phương pháp, yêu cầu đặc thù nhằm bảo đảm an toàn cho sức khỏe và tính mạng người tham gia hoạt động và các hoạt động khác được pháp luật hoặc cơ quan nhà nước có thẩm quyền công nhận là hoạt động mạo hiểm. Bao gồm nhưng không giới hạn các hoạt động như: săn bắn động vật; tất cả các hình thức đua không phải bằng chân, đua xe go-kart, đua xe hơi đường trường và thử nghiệm xe hơi; trượt băng, trượt patin, trượt tuyết, trượt tuyết trên ván trượt, trượt ván; quyền anh, karate, võ thuật, đấu vật; nhảy dù (ngoại trừ những tình huống để bảo toàn mạng sống), đi lên hoặc di chuyển trên một khí cầu, bay lượn, nhảy bungee; lặn có bình dưỡng khí, lặn với thiết bị thở dưới nước, lặn biển thể thao giải trí; đạp xe đạp địa hình."
+    },
+    "note": null
+   },
+   {
+    "row": 1,
+    "section": [],
+    "label": "55. Thuốc Kê Toa",
+    "values": {
+     "col1": "Là các loại thuốc điều trị hợp lý, Cần Thiết Về Mặt Y Khoa và được kê toa bởi Bác Sĩ. Các loại thuốc phải được đăng ký lưu hành theo quy định của Bộ Y tế Việt Nam hoặc được lưu hành theo quy định của pháp luật tại nơi khám và điều trị (nếu việc khám và điều trị được thực hiện ngoài lãnh thổ Việt Nam) và không bao gồm thực phẩm chức năng, khoáng chất, các chất hữu cơ bổ sung cho chế độ dinh dưỡng hoặc phục vụ cho chế độ ăn kiêng, thuốc cho mục đích làm đẹp, mỹ phẩm, vitamin/thuốc bổ, trừ các vitamin/thuốc bổ cần thiết và hỗ trợ cho việc điều trị, được chỉ định bởi các Bác Sĩ và chi phí đó ít hơn so với các loại thuốc chính."
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "56. Thương Tích",
+    "values": {
+     "col1": "Là các tổn thương cơ thể của Người Được Bảo Hiểm gây ra bởi nguyên nhân duy nhất và trực tiếp do Tai Nạn."
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "57. Tình Trạng Khẩn Cấp",
+    "values": {
+     "col1": "Là tình trạng sức khỏe mà theo ý kiến của Bác Sĩ điều trị là nguy kịch cần phải điều trị khẩn cấp để tránh tử vong hay ảnh hưởng nghiêm trọng tới tình trạng sức khỏe hiện tại hoặc lâu dài. Tình Trạng Khẩn Cấp sẽ được xem xét theo hoàn cảnh của địa phương, bản chất của điều trị khẩn cấp và khả năng cung cấp dịch vụ cũng như cơ sở vật chất tại địa phương đó."
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "58. Trợ Cấp Nằm Viện",
+    "values": {
+     "col1": "Là khoản trợ cấp thu nhập cho mỗi Ngày Nằm Viện khi Người Được Bảo Hiểm phải nằm viện để Điều Trị Nội Trú tại Phòng Tiêu Chuẩn của Bệnh Viện Công Lập. Quyền lợi này được chi trả từ Ngày Nằm Viện đầu tiên của mỗi Đợt Điều Trị và không áp dụng Mức Đồng Chi Trả."
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [],
+    "label": "59. Tuổi",
+    "values": {
+     "col1": "Là tuổi của Người Được Bảo Hiểm tính theo ngày sinh nhật vừa qua trước: a. Ngày Hiệu Lực (đối với Năm Hợp Đồng đầu tiên); hoặc b. Ngày Kỷ Niệm Năm Hợp Đồng vừa qua (đối với các Năm Hợp Đồng tiếp theo)."
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [],
+    "label": "60. Vật Lý Trị Liệu",
+    "values": {
+     "col1": "Là phương pháp điều trị sử dụng các biện pháp vật lý để giảm đau, phục hồi chức năng của cơ bắp hay các hoạt động bình thường hàng ngày của Người Được Bảo Hiểm theo chỉ định của Bác Sĩ (không phải phương pháp massage, spa hay tập sửa dáng đi) và việc điều trị này phải được thực hiện tại Cơ Sở Y Tế."
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [],
+    "label": "61. Y Học Thay Thế",
+    "values": {
+     "col1": "Là các phương pháp chữa Bệnh hoặc Thương Tích không phải tây y, như phương pháp y học dân tộc cổ truyền, theo sự chỉ định của Bác Sĩ và các phương pháp này phải được thực hiện tại Bệnh Viện."
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [],
+    "label": "62. Y Tá/ Điều Dưỡng",
+    "values": {
+     "col1": "Là nhân viên y tế được cấp phép hành nghề y tá/điều dưỡng hợp pháp tại nơi thực hiện việc chăm sóc y tế. Trừ trường hợp có sự phân công/văn bản của cấp có thẩm quyền, Y Tá/Điều Dưỡng không được đồng thời là: a. Bên Mua Bảo Hiểm; hoặc b. Người Được Bảo Hiểm; hoặc c. Người Thụ Hưởng; hoặc d. Đại lý bảo hiểm của Hợp Đồng Bảo Hiểm; hoặc e. Người có quan hệ gia đình với Bên Mua Bảo Hiểm, Người Được Bảo Hiểm, Người Thụ Hưởng, đại lý bảo hiểm của Hợp Đồng Bảo Hiểm bao gồm: vợ, chồng, bố đẻ, mẹ đẻ, bố nuôi, mẹ nuôi, bố chồng, mẹ chồng, bố vợ, mẹ vợ, con đẻ, con nuôi, con rể, con dâu, anh ruột, chị ruột, em ruột, anh rể, em rể, chị dâu, em dâu, anh ruột của vợ, anh ruột của chồng, chị ruột của vợ, chị ruột của chồng, em ruột của vợ, em ruột của chồng."
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ }
+]

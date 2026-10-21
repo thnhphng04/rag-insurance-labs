@@ -1,0 +1,1198 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "BaoVietLife_AnVuiSongKhoe_TomTat_2022",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13638370449499024046,
+    "filename": "BaoVietLife_AnVuiSongKhoe_TomTat_2022.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/32"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 107.42,
+            "t": 765.9497200000001,
+            "r": 488.1258800000001,
+            "b": 719.4757381818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "T\u00d3M T\u1eaeT QUY T\u1eaeC, \u0110I\u1ec0U KHO\u1ea2N V\u00c0 M\u1ed8T S\u1ed0 L\u01afU \u00dd QUAN TR\u1eccNG KHI THAM GIA S\u1ea2N PH\u1ea8M B\u1ed4 TR\u1ee2 AN VUI S\u1ed0NG KH\u1eceE - B\u1ea2O HI\u1ec2M CH\u0102M S\u00d3C S\u1ee8C KH\u1eceE",
+      "text": "T\u00d3M T\u1eaeT QUY T\u1eaeC, \u0110I\u1ec0U KHO\u1ea2N V\u00c0 M\u1ed8T S\u1ed0 L\u01afU \u00dd QUAN TR\u1eccNG KHI THAM GIA S\u1ea2N PH\u1ea8M B\u1ed4 TR\u1ee2 AN VUI S\u1ed0NG KH\u1eceE - B\u1ea2O HI\u1ec2M CH\u0102M S\u00d3C S\u1ee8C KH\u1eceE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.06,
+            "t": 697.336,
+            "r": 516.6819999999999,
+            "b": 659.404,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3 B\u1ea3o hi\u1ec3m Ch\u0103m s\u00f3c s\u1ee9c kh\u1ecfe - An Vui S\u1ed1ng Kh\u1ecfe do B\u1ea3o Vi\u1ec7t Nh\u00e2n th\u1ecd cung c\u1ea5p l\u00e0 s\u1ea3n ph\u1ea9m \u0111\u00e1p \u1ee9ng nhu c\u1ea7u chi tr\u1ea3 chi ph\u00ed y t\u1ebf to\u00e0n di\u1ec7n tr\u01b0\u1edbc m\u1ecdi r\u1ee7i ro trong cu\u1ed9c s\u1ed1ng.",
+      "text": "S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3 B\u1ea3o hi\u1ec3m Ch\u0103m s\u00f3c s\u1ee9c kh\u1ecfe - An Vui S\u1ed1ng Kh\u1ecfe do B\u1ea3o Vi\u1ec7t Nh\u00e2n th\u1ecd cung c\u1ea5p l\u00e0 s\u1ea3n ph\u1ea9m \u0111\u00e1p \u1ee9ng nhu c\u1ea7u chi tr\u1ea3 chi ph\u00ed y t\u1ebf to\u00e0n di\u1ec7n tr\u01b0\u1edbc m\u1ecdi r\u1ee7i ro trong cu\u1ed9c s\u1ed1ng."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.06,
+            "t": 652.936,
+            "r": 517.048,
+            "b": 628.8040000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "B\u00ean mua b\u1ea3o hi\u1ec3m c\u1ea7n \u0111\u1ecdc k\u1ef9 v\u00e0 l\u01b0u \u00fd c\u00e1c n\u1ed9i dung quan tr\u1ecdng d\u01b0\u1edbi \u0111\u00e2y c\u1ee7a Quy t\u1eafc, \u0110i\u1ec1u kho\u1ea3n c\u1ee7a s\u1ea3n ph\u1ea9m:",
+      "text": "B\u00ean mua b\u1ea3o hi\u1ec3m c\u1ea7n \u0111\u1ecdc k\u1ef9 v\u00e0 l\u01b0u \u00fd c\u00e1c n\u1ed9i dung quan tr\u1ecdng d\u01b0\u1edbi \u0111\u00e2y c\u1ee7a Quy t\u1eafc, \u0110i\u1ec1u kho\u1ea3n c\u1ee7a s\u1ea3n ph\u1ea9m:"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.944,
+            "t": 618.904,
+            "r": 243.07399999999998,
+            "b": 608.8105454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "1. Quy\u1ec1n l\u1ee3i c\u1ee7a s\u1ea3n ph\u1ea9m",
+      "text": "1. Quy\u1ec1n l\u1ee3i c\u1ee7a s\u1ea3n ph\u1ea9m",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.06,
+            "t": 602.0740000000001,
+            "r": 312.848,
+            "b": 591.9805454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "1.1. L\u1ef1a ch\u1ecdn Ch\u01b0\u01a1ng tr\u00ecnh b\u1ea3o hi\u1ec3m",
+      "text": "1.1. L\u1ef1a ch\u1ecdn Ch\u01b0\u01a1ng tr\u00ecnh b\u1ea3o hi\u1ec3m",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.06,
+            "t": 585.706,
+            "r": 516.6079999999997,
+            "b": 547.774,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "B\u1ea3o Vi\u1ec7t nh\u00e2n th\u1ecd cung c\u1ea5p 04 ch\u01b0\u01a1ng tr\u00ecnh b\u1ea3o hi\u1ec3m B\u1ea1c, V\u00e0ng, B\u1ea1ch kim v\u00e0 Kim c\u01b0\u01a1ng t\u01b0\u01a1ng \u1ee9ng v\u1edbi c\u00e1c m\u1ee9c S\u1ed1 ti\u1ec1n b\u1ea3o hi\u1ec3m v\u00e0 gi\u1edbi h\u1ea1n b\u1ea3o hi\u1ec3m kh\u00e1c nhau \u0111\u1ec3 B\u00ean mua b\u1ea3o hi\u1ec3m c\u00f3 th\u1ec3 l\u1ef1a ch\u1ecdn.",
+      "text": "B\u1ea3o Vi\u1ec7t nh\u00e2n th\u1ecd cung c\u1ea5p 04 ch\u01b0\u01a1ng tr\u00ecnh b\u1ea3o hi\u1ec3m B\u1ea1c, V\u00e0ng, B\u1ea1ch kim v\u00e0 Kim c\u01b0\u01a1ng t\u01b0\u01a1ng \u1ee9ng v\u1edbi c\u00e1c m\u1ee9c S\u1ed1 ti\u1ec1n b\u1ea3o hi\u1ec3m v\u00e0 gi\u1edbi h\u1ea1n b\u1ea3o hi\u1ec3m kh\u00e1c nhau \u0111\u1ec3 B\u00ean mua b\u1ea3o hi\u1ec3m c\u00f3 th\u1ec3 l\u1ef1a ch\u1ecdn."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.06,
+            "t": 540.874,
+            "r": 244.406,
+            "b": 530.7805454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "1.2. Quy\u1ec1n l\u1ee3i b\u1ea3o hi\u1ec3m:",
+      "text": "1.2. Quy\u1ec1n l\u1ee3i b\u1ea3o hi\u1ec3m:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 121.7,
+            "t": 524.5060000000001,
+            "r": 268.3040000000001,
+            "b": 514.1740000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "- Quy\u1ec1n l\u1ee3i \u0110i\u1ec1u tr\u1ecb N\u1ed9i tr\u00fa;",
+      "text": "Quy\u1ec1n l\u1ee3i \u0110i\u1ec1u tr\u1ecb N\u1ed9i tr\u00fa;",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 121.7,
+            "t": 507.70599999999996,
+            "r": 279.74600000000004,
+            "b": 497.37399999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "- Quy\u1ec1n l\u1ee3i \u0110i\u1ec1u tr\u1ecb Ngo\u1ea1i tr\u00fa;",
+      "text": "Quy\u1ec1n l\u1ee3i \u0110i\u1ec1u tr\u1ecb Ngo\u1ea1i tr\u00fa;",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 121.7,
+            "t": 490.90599999999995,
+            "r": 280.346,
+            "b": 480.57399999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "- Quy\u1ec1n l\u1ee3i \u0110i\u1ec1u tr\u1ecb Nha khoa;",
+      "text": "Quy\u1ec1n l\u1ee3i \u0110i\u1ec1u tr\u1ecb Nha khoa;",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 121.7,
+            "t": 474.106,
+            "r": 487.87999999999994,
+            "b": 463.774,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "- Quy\u1ec1n l\u1ee3i gi\u1ea3m ph\u00ed khi kh\u00f4ng c\u00f3 y\u00eau c\u1ea7u gi\u1ea3i quy\u1ebft quy\u1ec1n l\u1ee3i b\u1ea3o hi\u1ec3m.",
+      "text": "Quy\u1ec1n l\u1ee3i gi\u1ea3m ph\u00ed khi kh\u00f4ng c\u00f3 y\u00eau c\u1ea7u gi\u1ea3i quy\u1ebft quy\u1ec1n l\u1ee3i b\u1ea3o hi\u1ec3m.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.06,
+            "t": 457.306,
+            "r": 516.622,
+            "b": 433.154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "1.3. B\u1ea3o Vi\u1ec7t Nh\u00e2n th\u1ecd kh\u00f4ng tr\u1ea3 quy\u1ec1n l\u1ee3i b\u1ea3o hi\u1ec3m n\u1ebfu s\u1ef1 ki\u1ec7n b\u1ea3o hi\u1ec3m ph\u00e1t sinh \u0111\u1ed1i v\u1edbi Ng\u01b0\u1eddi \u0111\u01b0\u1ee3c b\u1ea3o hi\u1ec3m trong Th\u1eddi gian ch\u1edd \u0111\u01b0\u1ee3c n\u00eau t\u1ea1i \u0110i\u1ec1u 8.",
+      "text": "B\u1ea3o Vi\u1ec7t Nh\u00e2n th\u1ecd kh\u00f4ng tr\u1ea3 quy\u1ec1n l\u1ee3i b\u1ea3o hi\u1ec3m n\u1ebfu s\u1ef1 ki\u1ec7n b\u1ea3o hi\u1ec3m ph\u00e1t sinh \u0111\u1ed1i v\u1edbi Ng\u01b0\u1eddi \u0111\u01b0\u1ee3c b\u1ea3o hi\u1ec3m trong Th\u1eddi gian ch\u1edd \u0111\u01b0\u1ee3c n\u00eau t\u1ea1i \u0110i\u1ec1u 8.",
+      "enumerated": true,
+      "marker": "1.3."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.06,
+            "t": 426.686,
+            "r": 516.766,
+            "b": 402.554,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "Chi ti\u1ebft quy\u1ec1n l\u1ee3i b\u1ea3o hi\u1ec3m, \u0111i\u1ec1u ki\u1ec7n nh\u1eadn quy\u1ec1n l\u1ee3i v\u00e0 c\u00e1c gi\u1edbi h\u1ea1n chi tr\u1ea3 \u0111\u01b0\u1ee3c n\u00eau t\u1ea1i Ch\u01b0\u01a1ng II.",
+      "text": "Chi ti\u1ebft quy\u1ec1n l\u1ee3i b\u1ea3o hi\u1ec3m, \u0111i\u1ec1u ki\u1ec7n nh\u1eadn quy\u1ec1n l\u1ee3i v\u00e0 c\u00e1c gi\u1edbi h\u1ea1n chi tr\u1ea3 \u0111\u01b0\u1ee3c n\u00eau t\u1ea1i Ch\u01b0\u01a1ng II."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.944,
+            "t": 392.654,
+            "r": 277.196,
+            "b": 382.56054545454543,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "2. Lo\u1ea1i tr\u1eeb tr\u00e1ch nhi\u1ec7m b\u1ea3o hi\u1ec3m",
+      "text": "2. Lo\u1ea1i tr\u1eeb tr\u00e1ch nhi\u1ec7m b\u1ea3o hi\u1ec3m",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.06,
+            "t": 376.286,
+            "r": 516.4579999999997,
+            "b": 352.154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "C\u00e1c tr\u01b0\u1eddng h\u1ee3p B\u1ea3o Vi\u1ec7t Nh\u00e2n th\u1ecd kh\u00f4ng tr\u1ea3 quy\u1ec1n l\u1ee3i b\u1ea3o hi\u1ec3m (lo\u1ea1i tr\u1eeb tr\u00e1ch nhi\u1ec7m b\u1ea3o hi\u1ec3m) \u0111\u01b0\u1ee3c n\u00eau t\u1ea1i \u0110i\u1ec1u 10.",
+      "text": "C\u00e1c tr\u01b0\u1eddng h\u1ee3p B\u1ea3o Vi\u1ec7t Nh\u00e2n th\u1ecd kh\u00f4ng tr\u1ea3 quy\u1ec1n l\u1ee3i b\u1ea3o hi\u1ec3m (lo\u1ea1i tr\u1eeb tr\u00e1ch nhi\u1ec7m b\u1ea3o hi\u1ec3m) \u0111\u01b0\u1ee3c n\u00eau t\u1ea1i \u0110i\u1ec1u 10."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.944,
+            "t": 342.254,
+            "r": 359.6780000000001,
+            "b": 332.16054545454546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "3. Th\u1eddi h\u1ea1n b\u1ea3o hi\u1ec3m v\u00e0 T\u00e1i t\u1ee5c S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3",
+      "text": "3. Th\u1eddi h\u1ea1n b\u1ea3o hi\u1ec3m v\u00e0 T\u00e1i t\u1ee5c S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 121.34,
+            "t": 325.88599999999997,
+            "r": 516.5120000000002,
+            "b": 301.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "- Th\u1eddi h\u1ea1n b\u1ea3o hi\u1ec3m c\u1ee7a S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3 l\u00e0 m\u1ed9t n\u0103m k\u1ec3 t\u1eeb ng\u00e0y ph\u00e1t sinh hi\u1ec7u l\u1ef1c ho\u1eb7c ng\u00e0y t\u00e1i t\u1ee5c S\u1ea3n ph\u1ea9m.",
+      "text": "Th\u1eddi h\u1ea1n b\u1ea3o hi\u1ec3m c\u1ee7a S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3 l\u00e0 m\u1ed9t n\u0103m k\u1ec3 t\u1eeb ng\u00e0y ph\u00e1t sinh hi\u1ec7u l\u1ef1c ho\u1eb7c ng\u00e0y t\u00e1i t\u1ee5c S\u1ea3n ph\u1ea9m.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 121.34,
+            "t": 295.28599999999994,
+            "r": 424.498,
+            "b": 284.95400000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "- Quy \u0111\u1ecbnh v\u1ec1 T\u00e1i t\u1ee5c S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3 \u0111\u01b0\u1ee3c n\u00eau t\u1ea1i \u0110i\u1ec1u 13.",
+      "text": "Quy \u0111\u1ecbnh v\u1ec1 T\u00e1i t\u1ee5c S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3 \u0111\u01b0\u1ee3c n\u00eau t\u1ea1i \u0110i\u1ec1u 13.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 121.34,
+            "t": 278.456,
+            "r": 516.3560000000001,
+            "b": 254.32399999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "- B\u00ean mua b\u1ea3o hi\u1ec3m c\u00f3 th\u1ec3 y\u00eau c\u1ea7u thay \u0111\u1ed5i Ch\u01b0\u01a1ng tr\u00ecnh b\u1ea3o hi\u1ec3m, Quy\u1ec1n l\u1ee3i b\u1ea3o hi\u1ec3m theo quy \u0111\u1ecbnh t\u1ea1i \u0110i\u1ec1u 15.",
+      "text": "B\u00ean mua b\u1ea3o hi\u1ec3m c\u00f3 th\u1ec3 y\u00eau c\u1ea7u thay \u0111\u1ed5i Ch\u01b0\u01a1ng tr\u00ecnh b\u1ea3o hi\u1ec3m, Quy\u1ec1n l\u1ee3i b\u1ea3o hi\u1ec3m theo quy \u0111\u1ecbnh t\u1ea1i \u0110i\u1ec1u 15.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.944,
+            "t": 244.42399999999998,
+            "r": 186.40400000000002,
+            "b": 234.33054545454547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "4. Ph\u00ed b\u1ea3o hi\u1ec3m",
+      "text": "4. Ph\u00ed b\u1ea3o hi\u1ec3m",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 121.34,
+            "t": 228.05600000000004,
+            "r": 516.952,
+            "b": 203.92399999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "- Tr\u01b0\u1eddng h\u1ee3p S\u1ea3n ph\u1ea9m ch\u00ednh \u0111\u00f3ng ph\u00ed b\u1ea3o hi\u1ec3m \u0111\u1ecbnh k\u1ef3, S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3 s\u1ebd c\u00f3 \u0111\u1ecbnh k\u1ef3 v\u00e0 ng\u00e0y \u0111\u1ebfn h\u1ea1n \u0111\u00f3ng ph\u00ed b\u1ea3o hi\u1ec3m tr\u00f9ng v\u1edbi S\u1ea3n ph\u1ea9m ch\u00ednh.",
+      "text": "Tr\u01b0\u1eddng h\u1ee3p S\u1ea3n ph\u1ea9m ch\u00ednh \u0111\u00f3ng ph\u00ed b\u1ea3o hi\u1ec3m \u0111\u1ecbnh k\u1ef3, S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3 s\u1ebd c\u00f3 \u0111\u1ecbnh k\u1ef3 v\u00e0 ng\u00e0y \u0111\u1ebfn h\u1ea1n \u0111\u00f3ng ph\u00ed b\u1ea3o hi\u1ec3m tr\u00f9ng v\u1edbi S\u1ea3n ph\u1ea9m ch\u00ednh.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 121.34,
+            "t": 197.45600000000002,
+            "r": 439.51,
+            "b": 187.12400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "- Quy \u0111\u1ecbnh v\u1ec1 Gia h\u1ea1n \u0111\u00f3ng Ph\u00ed b\u1ea3o hi\u1ec3m \u0111\u01b0\u1ee3c n\u00eau t\u1ea1i \u0110i\u1ec1u 19.",
+      "text": "Quy \u0111\u1ecbnh v\u1ec1 Gia h\u1ea1n \u0111\u00f3ng Ph\u00ed b\u1ea3o hi\u1ec3m \u0111\u01b0\u1ee3c n\u00eau t\u1ea1i \u0110i\u1ec1u 19.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.944,
+            "t": 177.22400000000005,
+            "r": 304.304,
+            "b": 167.13054545454543,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "5. Ch\u1ea5m d\u1ee9t hi\u1ec7u l\u1ef1c S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3",
+      "text": "5. Ch\u1ea5m d\u1ee9t hi\u1ec7u l\u1ef1c S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.06,
+            "t": 160.856,
+            "r": 512.86,
+            "b": 150.524,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "C\u00e1c tr\u01b0\u1eddng h\u1ee3p S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3 t\u1ef1 \u0111\u1ed9ng ch\u1ea5m d\u1ee9t hi\u1ec7u l\u1ef1c \u0111\u01b0\u1ee3c n\u00eau t\u1ea1i \u0110i\u1ec1u 16.",
+      "text": "C\u00e1c tr\u01b0\u1eddng h\u1ee3p S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3 t\u1ef1 \u0111\u1ed9ng ch\u1ea5m d\u1ee9t hi\u1ec7u l\u1ef1c \u0111\u01b0\u1ee3c n\u00eau t\u1ea1i \u0110i\u1ec1u 16."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.944,
+            "t": 140.62400000000002,
+            "r": 211.208,
+            "b": 130.5305454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "6. \u00c1p d\u1ee5ng t\u01b0\u01a1ng t\u1ef1",
+      "text": "6. \u00c1p d\u1ee5ng t\u01b0\u01a1ng t\u1ef1",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.06,
+            "t": 124.25599999999997,
+            "r": 516.622,
+            "b": 100.10400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "M\u1ed9t s\u1ed1 quy \u0111\u1ecbnh li\u00ean quan \u0111\u1ebfn S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3 n\u00e0y s\u1ebd \u0111\u01b0\u1ee3c \u00e1p d\u1ee5ng theo Quy t\u1eafc, \u0110i\u1ec1u kho\u1ea3n c\u1ee7a S\u1ea3n ph\u1ea9m ch\u00ednh theo quy \u0111\u1ecbnh n\u00eau t\u1ea1i \u0110i\u1ec1u 2.",
+      "text": "M\u1ed9t s\u1ed1 quy \u0111\u1ecbnh li\u00ean quan \u0111\u1ebfn S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3 n\u00e0y s\u1ebd \u0111\u01b0\u1ee3c \u00e1p d\u1ee5ng theo Quy t\u1eafc, \u0110i\u1ec1u kho\u1ea3n c\u1ee7a S\u1ea3n ph\u1ea9m ch\u00ednh theo quy \u0111\u1ecbnh n\u00eau t\u1ea1i \u0110i\u1ec1u 2."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 446.26,
+            "t": 47.196000000000026,
+            "r": 496.18,
+            "b": 36.86400000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Trang 1/ 2",
+      "text": "Trang 1/ 2"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.944,
+            "t": 763.984,
+            "r": 177.74,
+            "b": 753.8905454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "7. L\u01b0u \u00fd kh\u00e1c",
+      "text": "7. L\u01b0u \u00fd kh\u00e1c",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 121.7,
+            "t": 747.616,
+            "r": 516.5959999999997,
+            "b": 695.884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "- B\u00ean mua b\u1ea3o hi\u1ec3m v\u00e0 Ng\u01b0\u1eddi \u0111\u01b0\u1ee3c b\u1ea3o hi\u1ec3m c\u00f3 ngh\u0129a v\u1ee5 cung c\u1ea5p \u0111\u1ea7y \u0111\u1ee7, ch\u00ednh x\u00e1c, trung th\u1ef1c c\u00e1c th\u00f4ng tin li\u00ean quan \u0111\u1ebfn S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3. Tr\u01b0\u1eddng h\u1ee3p vi ph\u1ea1m ngh\u0129a v\u1ee5 tr\u00ean c\u00f3 th\u1ec3 d\u1eabn t\u1edbi vi\u1ec7c B\u1ea3o Vi\u1ec7t Nh\u00e2n th\u1ecd kh\u00f4ng chi tr\u1ea3 quy\u1ec1n l\u1ee3i b\u1ea3o hi\u1ec3m.",
+      "text": "B\u00ean mua b\u1ea3o hi\u1ec3m v\u00e0 Ng\u01b0\u1eddi \u0111\u01b0\u1ee3c b\u1ea3o hi\u1ec3m c\u00f3 ngh\u0129a v\u1ee5 cung c\u1ea5p \u0111\u1ea7y \u0111\u1ee7, ch\u00ednh x\u00e1c, trung th\u1ef1c c\u00e1c th\u00f4ng tin li\u00ean quan \u0111\u1ebfn S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3. Tr\u01b0\u1eddng h\u1ee3p vi ph\u1ea1m ngh\u0129a v\u1ee5 tr\u00ean c\u00f3 th\u1ec3 d\u1eabn t\u1edbi vi\u1ec7c B\u1ea3o Vi\u1ec7t Nh\u00e2n th\u1ecd kh\u00f4ng chi tr\u1ea3 quy\u1ec1n l\u1ee3i b\u1ea3o hi\u1ec3m.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 121.7,
+            "t": 689.416,
+            "r": 516.928,
+            "b": 665.284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "- B\u00ean mua b\u1ea3o hi\u1ec3m l\u01b0u \u00fd c\u1ea7n gi\u1eef \u0111\u1ea7y \u0111\u1ee7 c\u00e1c t\u00e0i li\u1ec7u, ch\u1ee9ng t\u1eeb li\u00ean quan \u0111\u1ebfn S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3 n\u00e0y.",
+      "text": "B\u00ean mua b\u1ea3o hi\u1ec3m l\u01b0u \u00fd c\u1ea7n gi\u1eef \u0111\u1ea7y \u0111\u1ee7 c\u00e1c t\u00e0i li\u1ec7u, ch\u1ee9ng t\u1eeb li\u00ean quan \u0111\u1ebfn S\u1ea3n ph\u1ea9m b\u1ed5 tr\u1ee3 n\u00e0y.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 121.7,
+            "t": 658.816,
+            "r": 516.6799999999998,
+            "b": 620.884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "- \u0110\u00e2y ch\u1ec9 l\u00e0 t\u00e0i li\u1ec7u t\u00f3m t\u1eaft c\u00e1c n\u1ed9i dung ch\u00ednh c\u1ee7a s\u1ea3n ph\u1ea9m. Tr\u01b0\u1eddng h\u1ee3p c\u00f3 b\u1ea5t k\u1ef3 th\u00f4ng tin t\u00f3m t\u1eaft n\u00e0o d\u1eabn \u0111\u1ebfn c\u00e1ch hi\u1ec3u kh\u00e1c nhau trong t\u00e0i li\u1ec7u n\u00e0y, th\u00f4ng tin \u0111\u00f3 s\u1ebd \u0111\u01b0\u1ee3c gi\u1ea3i ngh\u0129a theo Quy t\u1eafc, \u0110i\u1ec1u kho\u1ea3n s\u1ea3n ph\u1ea9m.",
+      "text": "\u0110\u00e2y ch\u1ec9 l\u00e0 t\u00e0i li\u1ec7u t\u00f3m t\u1eaft c\u00e1c n\u1ed9i dung ch\u00ednh c\u1ee7a s\u1ea3n ph\u1ea9m. Tr\u01b0\u1eddng h\u1ee3p c\u00f3 b\u1ea5t k\u1ef3 th\u00f4ng tin t\u00f3m t\u1eaft n\u00e0o d\u1eabn \u0111\u1ebfn c\u00e1ch hi\u1ec3u kh\u00e1c nhau trong t\u00e0i li\u1ec7u n\u00e0y, th\u00f4ng tin \u0111\u00f3 s\u1ebd \u0111\u01b0\u1ee3c gi\u1ea3i ngh\u0129a theo Quy t\u1eafc, \u0110i\u1ec1u kho\u1ea3n s\u1ea3n ph\u1ea9m.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 121.7,
+            "t": 614.416,
+            "r": 516.832,
+            "b": 548.854,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            322
+          ]
+        }
+      ],
+      "orig": "- B\u00ean mua b\u1ea3o hi\u1ec3m c\u00f3 th\u1ec3 tra c\u1ee9u th\u00f4ng tin H\u1ee3p \u0111\u1ed3ng t\u1ea1i C\u1ed5ng th\u00f4ng tin Kh\u00e1ch h\u00e0ng - MyBVLife \u0111\u1ecba ch\u1ec9 https://mybvlife.baovietnhantho.com.vn ho\u1eb7c \u1ee9ng d\u1ee5ng MyBVLife d\u00e0nh cho \u0111i\u1ec7n tho\u1ea1i s\u1eed d\u1ee5ng h\u1ec7 \u0111i\u1ec1u h\u00e0nh Android/IOS. Th\u00f4ng tin T\u00ean \u0111\u0103ng nh\u1eadp v\u00e0 M\u1eadt kh\u1ea9u \u0111\u01b0\u1ee3c B\u1ea3o Vi\u1ec7t Nh\u00e2n th\u1ecd g\u1eedi qua email m\u00e0 B\u00ean mua b\u1ea3o hi\u1ec3m \u0111\u00e3 \u0111\u0103ng k\u00fd.",
+      "text": "B\u00ean mua b\u1ea3o hi\u1ec3m c\u00f3 th\u1ec3 tra c\u1ee9u th\u00f4ng tin H\u1ee3p \u0111\u1ed3ng t\u1ea1i C\u1ed5ng th\u00f4ng tin Kh\u00e1ch h\u00e0ng - MyBVLife \u0111\u1ecba ch\u1ec9 https://mybvlife.baovietnhantho.com.vn ho\u1eb7c \u1ee9ng d\u1ee5ng MyBVLife d\u00e0nh cho \u0111i\u1ec7n tho\u1ea1i s\u1eed d\u1ee5ng h\u1ec7 \u0111i\u1ec1u h\u00e0nh Android/IOS. Th\u00f4ng tin T\u00ean \u0111\u0103ng nh\u1eadp v\u00e0 M\u1eadt kh\u1ea9u \u0111\u01b0\u1ee3c B\u1ea3o Vi\u1ec7t Nh\u00e2n th\u1ecd g\u1eedi qua email m\u00e0 B\u00ean mua b\u1ea3o hi\u1ec3m \u0111\u00e3 \u0111\u0103ng k\u00fd.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 446.26,
+            "t": 47.196000000000026,
+            "r": 496.18,
+            "b": 36.86400000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Trang 2/ 2",
+      "text": "Trang 2/ 2"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.95503915159495,
+            "t": 824.5835030272567,
+            "r": 206.1107628657194,
+            "b": 789.0371808876164,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.04218936075301,
+            "t": 824.3823159369606,
+            "r": 205.98500624176643,
+            "b": 789.2098596394374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.32,
+        "height": 841.92
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.32,
+        "height": 841.92
+      },
+      "page_no": 2
+    }
+  }
+}

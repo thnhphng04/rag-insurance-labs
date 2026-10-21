@@ -1,0 +1,323 @@
+[
+ {
+  "doc_id": "bv-taman-2019",
+  "table_id": 1,
+  "page_label": "21",
+  "columns": [
+   "QUYỀN LỢI BẢO HIỂM",
+   "PHÚC",
+   "LỘC",
+   "THỌ"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "Từ 15 ngày tuổi đến dưới 1 tuổi",
+    "values": {
+     "PHÚC": "Không áp dụng",
+     "LỘC": "Không áp dụng",
+     "THỌ": "11.623.000"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "Từ 1 đến 3 tuổi",
+    "values": {
+     "PHÚC": "2.635.000",
+     "LỘC": "5.716.000",
+     "THỌ": "7.832.000"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "Từ 4 đến 6 tuổi",
+    "values": {
+     "PHÚC": "1.500.000",
+     "LỘC": "3.253.000",
+     "THỌ": "4.507.000"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "Từ 7 đến 9 tuổi",
+    "values": {
+     "PHÚC": "1.370.000",
+     "LỘC": "2.967.000",
+     "THỌ": "4.120.000"
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [],
+    "label": "Từ 10 đến 18 tuổi",
+    "values": {
+     "PHÚC": "1.305.800",
+     "LỘC": "2.830.000",
+     "THỌ": "3.935.500"
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [],
+    "label": "Từ 19 đến 30 tuổi",
+    "values": {
+     "PHÚC": "1.246.000",
+     "LỘC": "2.700.000",
+     "THỌ": "3.760.000"
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [],
+    "label": "Từ 31 đến 40 tuổi",
+    "values": {
+     "PHÚC": "1.365.600",
+     "LỘC": "2.960.000",
+     "THỌ": "4.111.000"
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [],
+    "label": "Từ 41 đến 50 tuổi",
+    "values": {
+     "PHÚC": "1.425.400",
+     "LỘC": "3.090.000",
+     "THỌ": "4.286.500"
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [],
+    "label": "Từ 51 đến 60 tuổi",
+    "values": {
+     "PHÚC": "1.485.200",
+     "LỘC": "3.220.000",
+     "THỌ": "4.462.000"
+    },
+    "note": null
+   },
+   {
+    "row": 10,
+    "section": [],
+    "label": "Từ 61 đến 65 tuổi",
+    "values": {
+     "PHÚC": "1.604.800",
+     "LỘC": "3.480.000",
+     "THỌ": "4.813.000"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "bv-taman-2019",
+  "table_id": 2,
+  "page_label": "22",
+  "columns": [
+   "QUYỀN LỢI BẢO HIỂM",
+   "PHÚC",
+   "LỘC",
+   "THỌ"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "Tổng hạn mức quyền lợi bảo hiểm /người/năm",
+    "values": {
+     "PHÚC": "193.800.000",
+     "LỘC": "430.000.000",
+     "THỌ": "842.000.000"
+    },
+    "note": null
+   },
+   {
+    "row": 2,
+    "section": [],
+    "label": "Phạm vi lãnh thổ",
+    "values": {
+     "PHÚC": "Việt Nam",
+     "LỘC": "Việt Nam",
+     "THỌ": "Việt Nam"
+    },
+    "note": null
+   },
+   {
+    "row": 3,
+    "section": [],
+    "label": "1. Chi phí nằm viện • Chi phí phòng, giường bệnh • Chi phí phòng chăm sóc đặc biệt • Các chi phí bệnh viện tổng hợp",
+    "values": {
+     "PHÚC": "2.000.000/ngày Lên đến 40.000.000/năm, không quá 60 ngày/năm.",
+     "LỘC": "5.000.000/ngày Lên đến 100.000.000/năm không quá 60 ngày/năm",
+     "THỌ": "7.500.000/ngày Lên đến 150.000.000/năm không quá 60 ngày/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 4,
+    "section": [],
+    "label": "2. Chi phi chăm sóc Người được bảo hiểm (tiền giường chăm sóc bệnh nhân)",
+    "values": {
+     "PHÚC": "200.000/ngày, tối đa 30 ngày/năm",
+     "LỘC": "300.000/ngày, tối đa 30 ngày/năm",
+     "THỌ": "500.000/ngày, tối đa 30 ngày/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 5,
+    "section": [],
+    "label": "3. Chi phí khám và điều trị trong vòng 30 ngày trước khi nhập viện",
+    "values": {
+     "PHÚC": "2.000.000/năm",
+     "LỘC": "5.000.000/năm",
+     "THỌ": "7.500.000/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 6,
+    "section": [],
+    "label": "4. Chi phí tái khám và điều trị trong vòng 30 ngày sau khi xuất viện",
+    "values": {
+     "PHÚC": "2.000.000/năm",
+     "LỘC": "5.000.000/năm",
+     "THỌ": "7.500.000/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 7,
+    "section": [],
+    "label": "5. Dịch vụ xe cứu thương, xe cấp cứu bằng đường bộ",
+    "values": {
+     "PHÚC": "5.000.000/năm",
+     "LỘC": "10.000.000/năm",
+     "THỌ": "10.000.000/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 8,
+    "section": [],
+    "label": "6. Chi phí Phẫu thuật (không bảo hiểm chi phí mua các bộ phận nội tạng và chi phí hiến các bộ phận nội tạng)",
+    "values": {
+     "PHÚC": "40.000.000/năm",
+     "LỘC": "100.000.000/năm",
+     "THỌ": "150.000.000/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 9,
+    "section": [],
+    "label": "7. Phục hồi chức năng",
+    "values": {
+     "PHÚC": "4.000.000/năm",
+     "LỘC": "10.000.000/năm",
+     "THỌ": "15.000.000/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 10,
+    "section": [],
+    "label": "8. Trợ cấp bệnh viện công",
+    "values": {
+     "PHÚC": "120.000/ ngày Không quá 60 ngày/năm",
+     "LỘC": "300.000/ngày Không quá 60 ngày/năm",
+     "THỌ": "450.000/ngày Không quá 60 ngày/năm"
+    },
+    "note": null
+   },
+   {
+    "row": 11,
+    "section": [],
+    "label": "9. Trợ cấp mai táng phí trong trường hợp tử vong tại bênh viện",
+    "values": {
+     "PHÚC": "1.000.000/vụ",
+     "LỘC": "1.000.000/vụ",
+     "THỌ": "1.000.000/vụ"
+    },
+    "note": null
+   },
+   {
+    "row": 12,
+    "section": [],
+    "label": "10. Trợ cấp cho Người được bảo hiểm",
+    "values": {
+     "PHÚC": "5.000.000/con",
+     "LỘC": "10.000.000/con",
+     "THỌ": "15.000.000/con"
+    },
+    "note": null
+   },
+   {
+    "row": 13,
+    "section": [],
+    "label": "11. Bảo hiểm tử vong do tai nạn",
+    "values": {
+     "PHÚC": "100.000.000/vụ",
+     "LỘC": "200.000.000/vụ",
+     "THỌ": "500.000.000/vụ"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ },
+ {
+  "doc_id": "bv-taman-2019",
+  "table_id": 3,
+  "page_label": "25",
+  "columns": [
+   "STT",
+   "Diễn biến sự kiện bảo hiểm",
+   "Thời gian điều trị /Ngày tử vong",
+   "Cơ sở y tế",
+   "Chẩn đoán của bác sỹ",
+   "Số tiền YCBT"
+  ],
+  "label_columns": [
+   0
+  ],
+  "continued_from": null,
+  "records": [
+   {
+    "row": 1,
+    "section": [],
+    "label": "TỔNG SỐ TIỀN YÊU CẦU BỒI THƯỜNG",
+    "values": {
+     "Diễn biến sự kiện bảo hiểm": "TỔNG SỐ TIỀN YÊU CẦU BỒI THƯỜNG",
+     "Thời gian điều trị /Ngày tử vong": "TỔNG SỐ TIỀN YÊU CẦU BỒI THƯỜNG",
+     "Cơ sở y tế": "TỔNG SỐ TIỀN YÊU CẦU BỒI THƯỜNG",
+     "Chẩn đoán của bác sỹ": "TỔNG SỐ TIỀN YÊU CẦU BỒI THƯỜNG"
+    },
+    "note": null
+   }
+  ],
+  "issues": []
+ }
+]
