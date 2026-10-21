@@ -1,33 +1,33 @@
-# RAG & Agentic RAG Labs – Bảo hiểm tiếng Việt
+﻿# RAG & Agentic RAG Labs â€“ Báº£o hiá»ƒm tiáº¿ng Viá»‡t
 
-7 lab thực hành RAG trên quy tắc bảo hiểm công khai (Bảo Việt, Bảo Việt Nhân thọ, Manulife, Dai-ichi), bám theo kế hoạch ôn tập trong `Kế hoạch ôn tập 2 ngày…md`.
+7 lab thá»±c hÃ nh RAG trÃªn quy táº¯c báº£o hiá»ƒm cÃ´ng khai (Báº£o Viá»‡t, Báº£o Viá»‡t NhÃ¢n thá», Manulife, Dai-ichi), bÃ¡m theo káº¿ hoáº¡ch Ã´n táº­p trong `Káº¿ hoáº¡ch Ã´n táº­p 2 ngÃ yâ€¦md`.
 
-| Lab | Chủ đề | Trạng thái |
+| Lab | Chá»§ Ä‘á» | Tráº¡ng thÃ¡i |
 |---|---|---|
-| 1 | Parsing (PyMuPDF vs Docling) | ✅ [`reports/lab1.md`](reports/lab1.md) |
-| – | Golden set (20 câu + 5 ngoài phạm vi) | ✅ [`data/golden/golden_set_review.md`](data/golden/golden_set_review.md) |
-| 2 | Chunking (fixed / recursive / cấu trúc + breadcrumb / contextual) | ✅ [`reports/lab2.md`](reports/lab2.md) |
-| 3 | Hybrid search + rerank (pgvector, BM25 có/không dấu, RRF, bge-reranker, lọc sản phẩm, rewrite) | ✅ [`reports/lab3.md`](reports/lab3.md) |
-| 4 | Generation có trích dẫn | ⏳ |
-| 5 | Eval (RAGAS + LangFuse) | ⏳ |
-| 6 | CRAG-lite (LangGraph) | ⏳ |
-| 7 | Prompt injection | ⏳ |
+| 1 | Parsing (PyMuPDF vs Docling) | âœ… [`reports/lab1.md`](reports/lab1.md) |
+| â€“ | Golden set (20 cÃ¢u + 5 ngoÃ i pháº¡m vi) | âœ… [`data/golden/golden_set_review.md`](data/golden/golden_set_review.md) |
+| 2 | Chunking (fixed / recursive / cáº¥u trÃºc + breadcrumb / contextual) | âœ… [`reports/lab2.md`](reports/lab2.md) |
+| 3 | Hybrid search + rerank (pgvector, BM25 cÃ³/khÃ´ng dáº¥u, RRF, bge-reranker, lá»c sáº£n pháº©m, rewrite) | âœ… [`reports/lab3.md`](reports/lab3.md) |
+| 4 | Generation cÃ³ trÃ­ch dáº«n | â³ |
+| 5 | Eval (RAGAS + LangFuse) | â³ |
+| 6 | CRAG-lite (LangGraph) | â³ |
+| 7 | Prompt injection | â³ |
 
-## Cấu trúc
+## Cáº¥u trÃºc
 ```
-data/raw/        PDF gốc (đổi tên)        data/manifest.yaml  metadata + doc_id
-data/parsed/     output Lab 1             src/ragbv/          code dùng chung
-notebooks/       1 notebook / lab         reports/            kết quả từng lab
+data/raw/        PDF gá»‘c (Ä‘á»•i tÃªn)        data/manifest.yaml  metadata + doc_id
+data/parsed/     output Lab 1             src/ragbv/          code dÃ¹ng chung
+notebooks/       1 notebook / lab         reports/            káº¿t quáº£ tá»«ng lab
 infra/langfuse/  LangFuse self-host       docker-compose.yml  pgvector (port 5433)
 ```
 
-## Cài đặt
+## CÃ i Ä‘áº·t
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
-# torch CUDA cài SAU (docling kéo về bản CPU) – xem ghi chú đầu requirements.txt
+# torch CUDA cÃ i SAU (docling kÃ©o vá» báº£n CPU) â€“ xem ghi chÃº Ä‘áº§u requirements.txt
 .\.venv\Scripts\python.exe -m pip install --force-reinstall --no-deps torch==2.14.1 torchvision==0.29.1 --index-url https://download.pytorch.org/whl/cu126
 .\.venv\Scripts\python.exe -m ipykernel install --user --name ragbv
-copy .env.example .env   # điền OPENAI_API_KEY
+copy .env.example .env   # Ä‘iá»n OPENAI_API_KEY
 ```
-LangFuse: tạo `infra/langfuse/.env` (secret + `LANGFUSE_INIT_*`), rồi `docker compose up -d` trong thư mục đó; UI ở http://localhost:3000.
+LangFuse: táº¡o `infra/langfuse/.env` (secret + `LANGFUSE_INIT_*`), rá»“i `docker compose up -d` trong thÆ° má»¥c Ä‘Ã³; UI á»Ÿ http://localhost:3000.
