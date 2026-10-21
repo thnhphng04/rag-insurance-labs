@@ -69,7 +69,7 @@ def format_context(chunks: list[Chunk], tag: str = "tai_lieu") -> str:
     return "\n\n".join(parts)
 
 
-def build_messages(question: str, chunks: list[Chunk], prompt: str = "basic") -> list[dict]:
+def build_messages(question: str, chunks: list[Chunk], prompt: str = "basic", extra_rules: str = "") -> list[dict]:
     if prompt == "naive":
         system, tag = NAIVE + "\n" + OUTPUT_SPEC, "tai_lieu"
     elif prompt == "hardened":
@@ -77,18 +77,23 @@ def build_messages(question: str, chunks: list[Chunk], prompt: str = "basic") ->
         system = RULES + "\n" + HARDENED_EXTRA.format(tag=tag) + "\n\n" + OUTPUT_SPEC
     else:
         system, tag = RULES + "\n\n" + OUTPUT_SPEC, "tai_lieu"
+    if extra_rules:
+        system += "\n\n" + extra_rules
     user = f"Các đoạn tài liệu:\n\n{format_context(chunks, tag)}\n\nCâu hỏi của khách hàng: {question}"
     return [{"role": "system", "content": system}, {"role": "user", "content": user}]
 
 
 def generate(question: str, chunks: list[Chunk], prompt: str = "basic", model: str | None = None,
-             use_cache: bool = True) -> dict:
+             use_cache: bool = True, extra_rules: str = "") -> dict:
     """Gọi LLM, trả về {status, answer, citations, usage, latency_s, model, prompt}."""
     model = model or env("LLM_MODEL", "gpt-4.1-mini")
     GEN_CACHE.mkdir(parents=True, exist_ok=True)
-    # hardened dùng delimiter ngẫu nhiên -> khoá cache không phụ thuộc delimiter
-    key = hashlib.sha1(json.dumps([model, prompt, question, [c.chunk_id for c in chunks], RULES, HARDENED_EXTRA,
-                                   NAIVE], ensure_ascii=False).encode()).hexdigest()
+    # hardened dùng delimiter ngẫu nhiên -> khoá cache không phụ thuộc delimiter.
+    # Khoá theo chunk_id: chunk bị sửa nội dung (Lab 7) phải mang chunk_id mới.
+    key_parts = [model, prompt, question, [c.chunk_id for c in chunks], RULES, HARDENED_EXTRA, NAIVE]
+    if extra_rules:
+        key_parts.append(extra_rules)
+    key = hashlib.sha1(json.dumps(key_parts, ensure_ascii=False).encode()).hexdigest()
     f = GEN_CACHE / f"{key}.json"
     if use_cache and f.exists():
         return json.loads(f.read_text(encoding="utf-8"))
@@ -96,7 +101,8 @@ def generate(question: str, chunks: list[Chunk], prompt: str = "basic", model: s
 
     t0 = time.perf_counter()
     resp = OpenAI(api_key=env("OPENAI_API_KEY")).chat.completions.create(
-        model=model, temperature=0, messages=build_messages(question, chunks, prompt), response_format=SCHEMA)
+        model=model, temperature=0, messages=build_messages(question, chunks, prompt, extra_rules),
+        response_format=SCHEMA)
     out = json.loads(resp.choices[0].message.content)
     out.update({"model": model, "prompt": prompt, "latency_s": round(time.perf_counter() - t0, 2),
                 "usage": {"prompt_tokens": resp.usage.prompt_tokens, "completion_tokens": resp.usage.completion_tokens}})

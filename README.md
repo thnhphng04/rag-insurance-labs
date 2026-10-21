@@ -9,15 +9,19 @@
 | 2 | Chunking (fixed / recursive / cấu trúc + breadcrumb / contextual) | ✅ [`reports/lab2.md`](reports/lab2.md) |
 | 3 | Hybrid search + rerank (pgvector, BM25 có/không dấu, RRF, bge-reranker, lọc sản phẩm, rewrite) | ✅ [`reports/lab3.md`](reports/lab3.md) |
 | 4 | Generation có trích dẫn, từ chối, hậu kiểm trích dẫn | ✅ [`reports/lab4.md`](reports/lab4.md) |
-| 5 | Eval (RAGAS + LangFuse) | ⏳ |
-| 6 | CRAG-lite (LangGraph) | ⏳ |
-| 7 | Prompt injection | ⏳ |
+| 5 | Eval: RAGAS, LLM-as-judge đối chiếu nhãn người, tracing (LangFuse chưa bật, xem issues) | ✅ [`reports/lab5.md`](reports/lab5.md) |
+| 6 | CRAG-lite bằng LangGraph (grade, transform, grounding, tách câu con theo sản phẩm) | ✅ [`reports/lab6.md`](reports/lab6.md) |
+| 7 | Prompt injection qua tài liệu: 3 payload × 3 prompt, output guard, quét khi nạp | ✅ [`reports/lab7.md`](reports/lab7.md) |
+
+**Vấn đề hiện hữu của cả 7 lab và các quyết định cần duyệt: [`reports/issues.md`](reports/issues.md)**
 
 ## Cấu trúc
 ```
-data/raw/        PDF gốc (đổi tên)        data/manifest.yaml  metadata + doc_id
+data/raw/        PDF gốc (đổi tên)        data/manifest.yaml  metadata + doc_id + aliases
 data/parsed/     output Lab 1             src/ragbv/          code dùng chung
-notebooks/       1 notebook / lab         reports/            kết quả từng lab
+data/golden/     golden set               data/chunks/        chunk Lab 2
+data/runs/       câu trả lời Lab 4        data/traces/        trace JSONL (Lab 5)
+notebooks/       1 notebook / lab         reports/            kết quả từng lab + issues.md
 infra/langfuse/  LangFuse self-host       docker-compose.yml  pgvector (port 5433)
 ```
 

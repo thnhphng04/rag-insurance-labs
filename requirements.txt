@@ -20,5 +20,7 @@ pgvector
 openai
 langchain-openai
 langgraph
-ragas
+# ragas 0.4.3 import langchain_community.chat_models.vertexai, bị bỏ từ langchain-community 0.4.2
+ragas==0.4.3
+langchain-community==0.4.1
 langfuse

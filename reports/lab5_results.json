@@ -1,0 +1,645 @@
+{
+ "langfuse_running": false,
+ "trace_backend": "local",
+ "trace_file": "C:\\Users\\Legion\\Desktop\\Job\\Paraline\\Lab\\data\\traces\\lab5_pipeline.jsonl",
+ "step_latency": {
+  "retr_rewrite": {
+   "count": 25.0,
+   "mean": 1.3,
+   "std": 0.5,
+   "min": 0.6,
+   "50%": 1.1,
+   "95%": 2.4,
+   "max": 2.8
+  },
+  "retr_dense": {
+   "count": 25.0,
+   "mean": 15.3,
+   "std": 11.1,
+   "min": 7.9,
+   "50%": 11.7,
+   "95%": 31.7,
+   "max": 60.4
+  },
+  "retr_bm25": {
+   "count": 25.0,
+   "mean": 3.9,
+   "std": 3.3,
+   "min": 1.7,
+   "50%": 3.1,
+   "95%": 6.3,
+   "max": 18.7
+  },
+  "retr_bm25_nd": {
+   "count": 25.0,
+   "mean": 3.2,
+   "std": 1.5,
+   "min": 1.4,
+   "50%": 3.1,
+   "95%": 4.7,
+   "max": 8.6
+  },
+  "retr_rerank": {
+   "count": 25.0,
+   "mean": 2443.7,
+   "std": 7235.0,
+   "min": 782.2,
+   "50%": 1008.6,
+   "95%": 1111.9,
+   "max": 37169.6
+  },
+  "llm_generate_ms": {
+   "count": 25.0,
+   "mean": 5191.6,
+   "std": 796.6,
+   "min": 4220.0,
+   "50%": 5030.0,
+   "95%": 6598.0,
+   "max": 6890.0
+  },
+  "prompt_tokens": {
+   "count": 25.0,
+   "mean": 2434.6,
+   "std": 346.6,
+   "min": 1635.0,
+   "50%": 2371.0,
+   "95%": 2911.6,
+   "max": 3050.0
+  },
+  "completion_tokens": {
+   "count": 25.0,
+   "mean": 178.5,
+   "std": 94.9,
+   "min": 61.0,
+   "50%": 170.0,
+   "95%": 351.8,
+   "max": 365.0
+  }
+ },
+ "ragas_mean": {
+  "faithfulness": 0.871,
+  "answer_relevancy": 0.612,
+  "llm_context_precision_with_reference": 0.793,
+  "context_recall": 0.888,
+  "factual_correctness(mode=f1)": 0.453
+ },
+ "ragas": [
+  {
+   "id": "G01",
+   "type": "table_lookup",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.986,
+   "llm_context_precision_with_reference": 0.5,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.67
+  },
+  {
+   "id": "G02",
+   "type": "table_lookup",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.684,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.0
+  },
+  {
+   "id": "G03",
+   "type": "table_lookup",
+   "faithfulness": 0.75,
+   "answer_relevancy": 0.635,
+   "llm_context_precision_with_reference": 0.417,
+   "context_recall": 0.5,
+   "factual_correctness(mode=f1)": 0.33
+  },
+  {
+   "id": "G04",
+   "type": "multi_condition",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.675,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 0.667,
+   "factual_correctness(mode=f1)": 0.73
+  },
+  {
+   "id": "G05",
+   "type": "fact",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.602,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.8
+  },
+  {
+   "id": "G06",
+   "type": "fact",
+   "faithfulness": 1.0,
+   "answer_relevancy": 1.0,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.44
+  },
+  {
+   "id": "G07",
+   "type": "fact",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.281,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.6
+  },
+  {
+   "id": "G08",
+   "type": "table_lookup",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.64,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.67
+  },
+  {
+   "id": "G09",
+   "type": "multi_condition",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.589,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.89
+  },
+  {
+   "id": "G10",
+   "type": "fact",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.193,
+   "llm_context_precision_with_reference": 0.5,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.4
+  },
+  {
+   "id": "G11",
+   "type": "fact",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.963,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.0
+  },
+  {
+   "id": "G12",
+   "type": "table_lookup",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.455,
+   "llm_context_precision_with_reference": 0.833,
+   "context_recall": 0.75,
+   "factual_correctness(mode=f1)": 0.0
+  },
+  {
+   "id": "G13",
+   "type": "multi_condition",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.821,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.8
+  },
+  {
+   "id": "G14",
+   "type": "fact",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.299,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.0
+  },
+  {
+   "id": "G15",
+   "type": "exclusion",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.655,
+   "llm_context_precision_with_reference": 0.867,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.88
+  },
+  {
+   "id": "G16",
+   "type": "comparison",
+   "faithfulness": 0.0,
+   "answer_relevancy": 0.63,
+   "llm_context_precision_with_reference": 0.0,
+   "context_recall": 0.333,
+   "factual_correctness(mode=f1)": 0.57
+  },
+  {
+   "id": "G17",
+   "type": "comparison",
+   "faithfulness": 0.0,
+   "answer_relevancy": 0.637,
+   "llm_context_precision_with_reference": 0.0,
+   "context_recall": 0.5,
+   "factual_correctness(mode=f1)": 0.75
+  },
+  {
+   "id": "G18",
+   "type": "versioning",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.791,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.25
+  },
+  {
+   "id": "G19",
+   "type": "no_diacritics",
+   "faithfulness": 0.667,
+   "answer_relevancy": 0.339,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.29
+  },
+  {
+   "id": "G20",
+   "type": "no_diacritics",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.362,
+   "llm_context_precision_with_reference": 0.75,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.0
+  }
+ ],
+ "judge": [
+  {
+   "id": "G01",
+   "human": "dung_du",
+   "label": "dung_du",
+   "reason": "Chatbot cung cấp đúng số liệu phí bảo hiểm 1.887.600 đồng một năm cho người 35 tuổi, phù hợp với đáp án chuẩn, mặc dù không nêu rõ nhóm tuổi nhưng không ảnh hưởng đến kết luận."
+  },
+  {
+   "id": "G02",
+   "human": "dung_du",
+   "label": "dung_du",
+   "reason": "Chatbot đã nêu đúng số liệu tổng hạn mức quyền lợi bảo hiểm chính là 230.000.000 đồng/người/năm, khớp với đáp án chuẩn và không thiếu ý quan trọng nào."
+  },
+  {
+   "id": "G03",
+   "human": "thieu_y",
+   "label": "thieu_y",
+   "reason": "Chatbot trả lời đúng về cách chi trả theo chi phí y tế thực tế và mức đồng chi trả theo chương trình, nhưng thiếu thông tin về giới hạn tối đa chi trả cụ thể cho từng chương trình (Titan 12 triệu, Vàng 25 triệu, Bạch Kim 35 triệu, Kim Cương 70 triệu) và điều kiện về độ tuổi (18-45 tuổi) của người được bảo hiểm."
+  },
+  {
+   "id": "G04",
+   "human": "dung_du",
+   "label": "thieu_y",
+   "reason": "Chatbot trả lời đầy đủ về độ tuổi, điều kiện tham gia và thời gian chờ 635 ngày nhưng thiếu thông tin về thời gian chờ 90 ngày cho biến chứng thai sản và giới hạn tối đa chi trả cho từng chương trình Bạch Kim và Kim Cương."
+  },
+  {
+   "id": "G05",
+   "human": "dung_du",
+   "label": "dung_du",
+   "reason": "Chatbot đã nêu đầy đủ tỷ lệ đồng chi trả 70/30, phân chia chi trả giữa Bảo Việt và người được bảo hiểm, cũng như điều kiện không áp dụng khi khám và điều trị tại cơ sở y tế/bệnh viện công lập (trừ khoa điều trị tự nguyện/điều trị theo yêu cầu). Các thông tin bổ sung về quyền lợi chi phí y tế nội trú và ngoại trú không làm thay đổi nội dung chính và không mâu thuẫn với đáp án chuẩn."
+  },
+  {
+   "id": "G06",
+   "human": "dung_du",
+   "label": "thieu_y",
+   "reason": "Chatbot chỉ nêu thời gian chờ 01 năm cho bệnh có sẵn và bệnh đặc biệt, thiếu các thời gian chờ khác như ốm đau bệnh tật 30 ngày, biến chứng thai sản 90 ngày, và trẻ em đến 6 tuổi bị viêm phế quản/tiểu phế quản/viêm phổi 06 tháng theo đáp án chuẩn."
+  },
+  {
+   "id": "G07",
+   "human": "dung_du",
+   "label": "dung_du",
+   "reason": "Câu trả lời của chatbot đầy đủ và chính xác về độ tuổi nhận bảo hiểm, điều kiện với người trên 60 đến 63 tuổi, và không có thông tin sai lệch so với đáp án chuẩn. Phần bổ sung về người phụ thuộc không làm thiếu hoặc sai ý chính."
+  },
+  {
+   "id": "G08",
+   "human": "dung_du",
+   "label": "dung_du",
+   "reason": "Chatbot trả lời đầy đủ và chính xác các ý chính về mức trợ cấp 300.000 đồng/ngày và giới hạn không quá 60 ngày/năm, khớp với đáp án chuẩn."
+  },
+  {
+   "id": "G09",
+   "human": "dung_du",
+   "label": "dung_du",
+   "reason": "Chatbot nêu đầy đủ các ý chính về thời hạn nộp hồ sơ (60 ngày kể từ ngày điều trị cuối cùng hoặc ngày tử vong, không quá 1 năm kể từ ngày xảy ra sự kiện bảo hiểm) và thời gian giải quyết (15 ngày kể từ khi nhận đủ hồ sơ hợp lệ), phù hợp với đáp án chuẩn."
+  },
+  {
+   "id": "G10",
+   "human": "dung_du",
+   "label": "thieu_y",
+   "reason": "Chatbot trả lời đúng về việc hoàn trả 80% phí bảo hiểm khi người mua yêu cầu hủy và điều kiện chưa có khiếu nại, nhưng thiếu thông tin về trường hợp Bảo hiểm Bảo Việt yêu cầu hủy hợp đồng sẽ hoàn toàn bộ phí và trường hợp gian lận chỉ hoàn 70% nếu chưa có bồi thường."
+  },
+  {
+   "id": "G11",
+   "human": "dung_du",
+   "label": "thieu_y",
+   "reason": "Chatbot chỉ nêu thời gian chờ là 270 ngày mà không đề cập đến điều kiện ngoại lệ là các sự kiện do tai nạn không áp dụng thời gian chờ, đây là một ý quan trọng trong đáp án chuẩn."
+  },
+  {
+   "id": "G12",
+   "human": "thieu_y",
+   "label": "thieu_y",
+   "reason": "Chatbot nêu đúng các chương trình được mua thêm quyền lợi và hạn mức tương ứng nhưng thiếu thông tin về chương trình Bạc không áp dụng, người được bảo hiểm tự chi trả 20% chi phí và giới hạn 10 lần khám/năm."
+  },
+  {
+   "id": "G13",
+   "human": "dung_du",
+   "label": "dung_du",
+   "reason": "Chatbot nêu đúng thời gian giải quyết quyền lợi là 30 ngày kể từ khi nhận hồ sơ đầy đủ và hợp lệ, và thời hạn gửi hồ sơ là một năm kể từ ngày xảy ra sự kiện bảo hiểm, phù hợp với đáp án chuẩn. Mặc dù không đề cập đến việc không tính thời gian trì hoãn do bất khả kháng, nhưng đây là chi tiết phụ không ảnh hưởng đến kết luận chính."
+  },
+  {
+   "id": "G14",
+   "human": "dung_du",
+   "label": "thieu_y",
+   "reason": "Chatbot nêu đúng điều kiện và mức giảm 15% cho 3 năm liên tục, nhưng không đề cập đến mức giảm 5% cho 1 năm và 10% cho 2 năm, cũng như quy định chỉ áp dụng tỷ lệ cao nhất, không cộng dồn."
+  },
+  {
+   "id": "G15",
+   "human": "dung_du",
+   "label": "dung_du",
+   "reason": "Câu trả lời của chatbot đầy đủ và chính xác về việc không chi trả các phương pháp điều trị không phải Tây y, bao gồm y học dân tộc, y học cổ truyền, châm cứu và điều trị tại các khoa Đông y, y học cổ truyền, châm cứu, phù hợp với đáp án chuẩn."
+  },
+  {
+   "id": "G16",
+   "human": "thieu_y",
+   "label": "thieu_y",
+   "reason": "Chatbot nêu đúng thời gian chờ thai sản của cả ba sản phẩm nhưng thiếu thông tin về thời gian chờ biến chứng thai sản của Bảo Việt An Gia (90 ngày), đây là ý quan trọng trong đáp án chuẩn."
+  },
+  {
+   "id": "G17",
+   "human": "thieu_y",
+   "label": "thieu_y",
+   "reason": "Chatbot trả lời đúng về giới hạn số tiền và điều kiện cho từng gói nhưng thiếu thông tin về phí bảo hiểm thai sản của An Gia và tỷ lệ đồng chi trả 20% của Manulife."
+  },
+  {
+   "id": "G18",
+   "human": "thieu_y",
+   "label": "thieu_y",
+   "reason": "Chatbot chỉ nêu Quyết định số 424/GD/Dai-ichi/2025 ngày 30/06/2025 mà không đề cập đến các công văn phê chuẩn của Bộ Tài chính năm 2015, 2017 và 2020, là các thông tin quan trọng trong đáp án chuẩn."
+  },
+  {
+   "id": "G19",
+   "human": "sai",
+   "label": "thieu_y",
+   "reason": "Chatbot chỉ nêu tuổi tối đa kết thúc bảo hiểm là 76 tuổi nhưng không đề cập đến thời hạn bảo hiểm là 01 tháng kể từ ngày hiệu lực hợp đồng và việc gia hạn hàng tháng nếu hợp đồng không chấm dứt, là ý quan trọng trong đáp án chuẩn."
+  },
+  {
+   "id": "G20",
+   "human": "dung_du",
+   "label": "dung_du",
+   "reason": "Chatbot nêu đúng số tiền bảo hiểm tối đa là 1 tỷ đồng/người/vụ và phí bảo hiểm tính bằng 0,09% STBH/năm, đồng thời đề cập áp dụng cho tất cả các gói, phù hợp với đáp án chuẩn."
+  }
+ ],
+ "judge_agreement": 0.7,
+ "judge_confusion": {
+  "dung_du": {
+   "dung_du": 9,
+   "sai": 0,
+   "thieu_y": 0
+  },
+  "thieu_y": {
+   "dung_du": 5,
+   "sai": 1,
+   "thieu_y": 5
+  }
+ },
+ "diagnosis": [
+  {
+   "id": "G01",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.986,
+   "llm_context_precision_with_reference": 0.5,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.67,
+   "gold_in_ctx": true,
+   "human": "dung_du",
+   "judge": "dung_du",
+   "chan_doan": "ok"
+  },
+  {
+   "id": "G02",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.684,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.0,
+   "gold_in_ctx": true,
+   "human": "dung_du",
+   "judge": "dung_du",
+   "chan_doan": "ok"
+  },
+  {
+   "id": "G03",
+   "faithfulness": 0.75,
+   "answer_relevancy": 0.635,
+   "llm_context_precision_with_reference": 0.417,
+   "context_recall": 0.5,
+   "factual_correctness(mode=f1)": 0.33,
+   "gold_in_ctx": false,
+   "human": "thieu_y",
+   "judge": "thieu_y",
+   "chan_doan": "generation: thiếu ý / diễn giải sai"
+  },
+  {
+   "id": "G04",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.675,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 0.667,
+   "factual_correctness(mode=f1)": 0.73,
+   "gold_in_ctx": true,
+   "human": "dung_du",
+   "judge": "thieu_y",
+   "chan_doan": "ok"
+  },
+  {
+   "id": "G05",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.602,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.8,
+   "gold_in_ctx": true,
+   "human": "dung_du",
+   "judge": "dung_du",
+   "chan_doan": "ok"
+  },
+  {
+   "id": "G06",
+   "faithfulness": 1.0,
+   "answer_relevancy": 1.0,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.44,
+   "gold_in_ctx": true,
+   "human": "dung_du",
+   "judge": "thieu_y",
+   "chan_doan": "ok"
+  },
+  {
+   "id": "G07",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.281,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.6,
+   "gold_in_ctx": true,
+   "human": "dung_du",
+   "judge": "dung_du",
+   "chan_doan": "ok"
+  },
+  {
+   "id": "G08",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.64,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.67,
+   "gold_in_ctx": true,
+   "human": "dung_du",
+   "judge": "dung_du",
+   "chan_doan": "ok"
+  },
+  {
+   "id": "G09",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.589,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.89,
+   "gold_in_ctx": true,
+   "human": "dung_du",
+   "judge": "dung_du",
+   "chan_doan": "ok"
+  },
+  {
+   "id": "G10",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.193,
+   "llm_context_precision_with_reference": 0.5,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.4,
+   "gold_in_ctx": true,
+   "human": "dung_du",
+   "judge": "thieu_y",
+   "chan_doan": "ok"
+  },
+  {
+   "id": "G11",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.963,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.0,
+   "gold_in_ctx": true,
+   "human": "dung_du",
+   "judge": "thieu_y",
+   "chan_doan": "ok"
+  },
+  {
+   "id": "G12",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.455,
+   "llm_context_precision_with_reference": 0.833,
+   "context_recall": 0.75,
+   "factual_correctness(mode=f1)": 0.0,
+   "gold_in_ctx": true,
+   "human": "thieu_y",
+   "judge": "thieu_y",
+   "chan_doan": "generation: thiếu ý / diễn giải sai"
+  },
+  {
+   "id": "G13",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.821,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.8,
+   "gold_in_ctx": true,
+   "human": "dung_du",
+   "judge": "dung_du",
+   "chan_doan": "ok"
+  },
+  {
+   "id": "G14",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.299,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.0,
+   "gold_in_ctx": true,
+   "human": "dung_du",
+   "judge": "thieu_y",
+   "chan_doan": "ok"
+  },
+  {
+   "id": "G15",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.655,
+   "llm_context_precision_with_reference": 0.867,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.88,
+   "gold_in_ctx": true,
+   "human": "dung_du",
+   "judge": "dung_du",
+   "chan_doan": "ok"
+  },
+  {
+   "id": "G16",
+   "faithfulness": 0.0,
+   "answer_relevancy": 0.63,
+   "llm_context_precision_with_reference": 0.0,
+   "context_recall": 0.333,
+   "factual_correctness(mode=f1)": 0.57,
+   "gold_in_ctx": true,
+   "human": "thieu_y",
+   "judge": "thieu_y",
+   "chan_doan": "retrieval"
+  },
+  {
+   "id": "G17",
+   "faithfulness": 0.0,
+   "answer_relevancy": 0.637,
+   "llm_context_precision_with_reference": 0.0,
+   "context_recall": 0.5,
+   "factual_correctness(mode=f1)": 0.75,
+   "gold_in_ctx": true,
+   "human": "thieu_y",
+   "judge": "thieu_y",
+   "chan_doan": "generation: không bám ngữ cảnh"
+  },
+  {
+   "id": "G18",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.791,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.25,
+   "gold_in_ctx": true,
+   "human": "thieu_y",
+   "judge": "thieu_y",
+   "chan_doan": "generation: thiếu ý / diễn giải sai"
+  },
+  {
+   "id": "G19",
+   "faithfulness": 0.667,
+   "answer_relevancy": 0.339,
+   "llm_context_precision_with_reference": 1.0,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.29,
+   "gold_in_ctx": true,
+   "human": "sai",
+   "judge": "thieu_y",
+   "chan_doan": "generation: không bám ngữ cảnh"
+  },
+  {
+   "id": "G20",
+   "faithfulness": 1.0,
+   "answer_relevancy": 0.362,
+   "llm_context_precision_with_reference": 0.75,
+   "context_recall": 1.0,
+   "factual_correctness(mode=f1)": 0.0,
+   "gold_in_ctx": true,
+   "human": "dung_du",
+   "judge": "dung_du",
+   "chan_doan": "ok"
+  }
+ ]
+}

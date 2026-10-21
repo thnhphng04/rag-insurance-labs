@@ -102,15 +102,19 @@ class Retriever:
         self.bm25 = {name: BM25Index(chunks, name) for name in ("bm25", "bm25_nd")}
 
     def run(self, query: str, method: str, k: int = 10, n_cand: int = 50, use_filter: bool = False,
-            use_rewrite: bool = False, timings: dict | None = None) -> list[Chunk]:
-        """method: dense | bm25 | bm25_nd | hybrid (dense+bm25) | hybrid3 (dense+bm25+bm25_nd) | <hybrid*>+rerank"""
+            use_rewrite: bool = False, timings: dict | None = None, doc_ids: list[str] | None = None) -> list[Chunk]:
+        """method: dense | bm25 | bm25_nd | hybrid (dense+bm25) | hybrid3 (dense+bm25+bm25_nd) | <hybrid*>+rerank
+
+        doc_ids: chỉ định tập tài liệu (vd. câu con cho một sản phẩm); nếu có thì bỏ qua use_filter.
+        """
         t = timings if timings is not None else {}
         q = query
         if use_rewrite:
             t0 = time.perf_counter()
             q = rewrite(query)
             t["rewrite"] = time.perf_counter() - t0
-        doc_ids = product_filter(query, self.docs) if use_filter else None
+        if doc_ids is None:
+            doc_ids = product_filter(query, self.docs) if use_filter else None
         base = method.replace("+rerank", "")
         parts = {"dense": ["dense"], "bm25": ["bm25"], "bm25_nd": ["bm25_nd"],
                  "hybrid": ["dense", "bm25"], "hybrid3": ["dense", "bm25", "bm25_nd"]}[base]
