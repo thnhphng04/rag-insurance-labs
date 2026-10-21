@@ -380,7 +380,9 @@
     "note": null
    }
   ],
-  "issues": []
+  "issues": [
+   "trang 13, dòng 6: '1. Chi phí cho người nhận tạng (là Người được bảo hiểm)' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay"
+  ]
  },
  {
   "doc_id": "bvl-avsk-2022",

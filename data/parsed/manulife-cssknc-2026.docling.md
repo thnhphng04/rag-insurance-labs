@@ -282,6 +282,10 @@ Ngày Hiệu Lực của việc bổ sung quyền lợi bảo hiểm;
 
 Thời gian chờ được áp dụng cho Sản Phẩm Bảo Hiểm này được quy định cụ thể như sau:
 
+- 0 ngày Điều trị do Tai Nạn Thay đổi sang chương trình bảo hiểm thấp hơn Tái tục Sản Phẩm Bảo Hiểm
+- 30 ngày Điều trị Nội trú (trừ trường hợp điều trị bệnh Đặc Biệt, Điều Trị Ung Thư và Cấy Ghép Nội Tạng) Điều Trị Ngoại Trú Điều Trị Nha Khoa
+- 90 ngày Bệnh Đặc Biệt Điều Trị Ung Thư Cấy Ghép Nội Tạng
+- 270 ngày Thai sản
 
 ## Điều 3. CÁC TRƯỜNG HỢP LOẠI TRỪ TRÁCH NHIỆM BẢO HIỂM
 
@@ -431,6 +435,8 @@ Giấy ủy quyền hợp lệ được điền đầy đủ, trung thực và c
 - 6.7. Trong tất cả các trường hợp, Manulife có quyền yêu cầu Người Được Bảo Hiểm, người nhận quyền lợi bảo hiểm cung cấp thêm các giấy tờ hoặc bằng chứng bổ sung khác nhằm hoàn tất quá trình thẩm định bồi thường và chi trả đúng phạm vi bảo hiểm theo quy định của Sản Phẩm Bảo Hiểm này.
 
 <!-- page 15 (pdf 15 full) -->
+- Chương IV. PHÍ BẢO HIỂM
+
 ## Điều 7. PHÍ BẢO HIỂM, ĐỊNH KỲ ĐÓNG PHÍ BẢO HIỂM
 
 - 7.1. Phí bảo hiểm được tính theo quyền lợi bảo hiểm, chương trình bảo hiểm, Mức Đồng Chi Trả, Tuổi, tình trạng sức khỏe của Người Được Bảo Hiểm tại Ngày Hiệu Lực hoặc Ngày Kỷ Niệm Năm Hợp Đồng nếu Sản Phẩm Bảo Hiểm này được tái tục.

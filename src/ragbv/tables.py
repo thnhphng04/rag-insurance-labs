@@ -177,6 +177,11 @@ def _repair_labels(table: Table) -> None:
         if _DANGLING.search(rec.label):
             table.issues.append(f"trang {table.page_label}, dòng {rec.row}: nhãn '{rec.label}' bị cắt dở"
                                 " -> chưa sửa, cần kiểm tra tay")
+        if rec.label and not any(rec.values.values()):
+            # Thường do ô gộp dọc chỉ được gán cho một dòng (vd. Manulife 1.3 mục C.1-C.8, 1.4 dòng E, G).
+            # Cũng có thể là dòng tiêu đề nhóm hợp lệ -> chỉ báo, không tự sửa.
+            table.issues.append(f"trang {table.page_label}, dòng {rec.row}: '{rec.label[:60]}' không có giá trị"
+                                " nào -> có thể mất ô gộp dọc, cần kiểm tra tay")
     for j in range(1, len(table.records)):
         rec, before = table.records[j], table.records[j - 1]
         m = _EMBEDDED_ITEM.match(rec.label)

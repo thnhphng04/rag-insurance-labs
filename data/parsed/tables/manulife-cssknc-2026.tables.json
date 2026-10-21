@@ -231,7 +231,9 @@
     "note": null
    }
   ],
-  "issues": []
+  "issues": [
+   "trang 5, dòng 2: 'A. Cấy Ghép Nội Tạng' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay"
+  ]
  },
  {
   "doc_id": "manulife-cssknc-2026",
@@ -413,7 +415,11 @@
     "note": null
    }
   ],
-  "issues": []
+  "issues": [
+   "trang 6, dòng 6: '7. Chi phí Điều Trị Trước Khi Nhập Viện (trong vòng 30 ngày ' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+   "trang 6, dòng 8: '9. Chi Phí Y Tế Nội Trú Khác' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+   "trang 6, dòng 10: 'F. Quyền lợi Điều Trị Ngoại Trú đặc biệt' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay"
+  ]
  },
  {
   "doc_id": "manulife-cssknc-2026",
@@ -506,7 +512,10 @@
     "note": null
    }
   ],
-  "issues": []
+  "issues": [
+   "trang 7, dòng 5: '1. Chi phí khám bệnh' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+   "trang 7, dòng 7: '3. Chi phí chẩn đoán, xét nghiệm do Bác Sĩ chỉ định và Cần T' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay"
+  ]
  },
  {
   "doc_id": "manulife-cssknc-2026",
@@ -632,7 +641,15 @@
     "note": null
    }
   ],
-  "issues": []
+  "issues": [
+   "trang 8, dòng 5: '1. Chi phí khám, chẩn đoán nha khoa' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+   "trang 8, dòng 6: '2. Chi phí điều trị nha chu, viêm nướu' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+   "trang 8, dòng 7: '3. Chi phí Thuốc Kê Toa' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+   "trang 8, dòng 9: '5. Chi phí chụp X-quang' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+   "trang 8, dòng 10: '6. Chi phí chữa tủy răng' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+   "trang 8, dòng 11: '7. Chi phí nhổ răng bệnh lý (không Phẫu Thuật)' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+   "trang 8, dòng 12: '8. Chi phí cắt u mô cứng của răng, cắt cuống răng' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay"
+  ]
  },
  {
   "doc_id": "manulife-cssknc-2026",
@@ -737,7 +754,10 @@
     "note": null
    }
   ],
-  "issues": []
+  "issues": [
+   "trang 9, dòng 6: 'E. Chi phí sinh' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+   "trang 9, dòng 8: 'G. Chi phí điều trị Biến Chứng Thai Sản' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay"
+  ]
  },
  {
   "doc_id": "manulife-cssknc-2026",

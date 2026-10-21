@@ -18,7 +18,7 @@
    "doc_id": "bv-angia-2016",
    "parser": "docling",
    "pages": 27,
-   "seconds": 27.8,
+   "seconds": 28.2,
    "removed_header_footer_lines": 2
   },
   {
@@ -39,7 +39,7 @@
    "doc_id": "bv-taman-2019",
    "parser": "docling",
    "pages": 28,
-   "seconds": 5.7,
+   "seconds": 5.9,
    "removed_header_footer_lines": 2
   },
   {
@@ -60,7 +60,7 @@
    "doc_id": "bvl-avsk-2022",
    "parser": "docling",
    "pages": 24,
-   "seconds": 55.7,
+   "seconds": 14.0,
    "removed_header_footer_lines": 4
   },
   {
@@ -81,7 +81,7 @@
    "doc_id": "bvl-avsk-tomtat-2022",
    "parser": "docling",
    "pages": 2,
-   "seconds": 0.6,
+   "seconds": 0.4,
    "removed_header_footer_lines": 0
   },
   {
@@ -102,7 +102,7 @@
    "doc_id": "manulife-cssknc-2026",
    "parser": "docling",
    "pages": 26,
-   "seconds": 14.3,
+   "seconds": 15.0,
    "removed_header_footer_lines": 2
   },
   {
@@ -116,14 +116,14 @@
    "doc_id": "daiichi-tktt2015-2025",
    "parser": "pymupdf_sort",
    "pages": 19,
-   "seconds": 0.5,
+   "seconds": 0.4,
    "removed_header_footer_lines": 1
   },
   {
    "doc_id": "daiichi-tktt2015-2025",
    "parser": "docling",
    "pages": 19,
-   "seconds": 3.4,
+   "seconds": 3.6,
    "removed_header_footer_lines": 3
   }
  ],
@@ -364,15 +364,15 @@
   {
    "doc_id": "bv-angia-2016",
    "parser": "docling",
-   "chars": 73121,
+   "chars": 73135,
    "replacement_chars": 0,
    "private_use_chars": 0,
    "non_nfc_marks": 0,
    "control_chars_before_clean": 44,
-   "'bảo hiểm'": 505,
+   "'bảo hiểm'": 506,
    "'người được bảo hiểm'": 92,
    "'quyền lợi'": 57,
-   "empty_pages": 1
+   "empty_pages": 0
   },
   {
    "doc_id": "bv-taman-2019",
@@ -403,7 +403,7 @@
   {
    "doc_id": "bv-taman-2019",
    "parser": "docling",
-   "chars": 54967,
+   "chars": 55009,
    "replacement_chars": 0,
    "private_use_chars": 0,
    "non_nfc_marks": 0,
@@ -520,12 +520,12 @@
   {
    "doc_id": "manulife-cssknc-2026",
    "parser": "docling",
-   "chars": 78671,
+   "chars": 79020,
    "replacement_chars": 0,
    "private_use_chars": 0,
    "non_nfc_marks": 0,
    "control_chars_before_clean": 0,
-   "'bảo hiểm'": 505,
+   "'bảo hiểm'": 508,
    "'người được bảo hiểm'": 100,
    "'quyền lợi'": 135,
    "empty_pages": 0
@@ -673,7 +673,7 @@
    "cols": 5,
    "records": 11,
    "continued_from": 2.0,
-   "issues": 0
+   "issues": 1
   },
   {
    "doc_id": "bvl-avsk-2022",
@@ -721,7 +721,7 @@
    "cols": 6,
    "records": 8,
    "continued_from": NaN,
-   "issues": 0
+   "issues": 1
   },
   {
    "doc_id": "manulife-cssknc-2026",
@@ -729,7 +729,7 @@
    "cols": 6,
    "records": 14,
    "continued_from": NaN,
-   "issues": 0
+   "issues": 3
   },
   {
    "doc_id": "manulife-cssknc-2026",
@@ -737,7 +737,7 @@
    "cols": 5,
    "records": 7,
    "continued_from": NaN,
-   "issues": 0
+   "issues": 2
   },
   {
    "doc_id": "manulife-cssknc-2026",
@@ -745,7 +745,7 @@
    "cols": 5,
    "records": 12,
    "continued_from": NaN,
-   "issues": 0
+   "issues": 7
   },
   {
    "doc_id": "manulife-cssknc-2026",
@@ -753,7 +753,7 @@
    "cols": 5,
    "records": 8,
    "continued_from": NaN,
-   "issues": 0
+   "issues": 2
   },
   {
    "doc_id": "manulife-cssknc-2026",
@@ -866,6 +866,22 @@
  ],
  "table_issues": [
   "bv-angia-2016 | trang 24-25, dòng 19: nhãn 'Điều trị viêm nướu, viêm nha chu 5. Bảo hiểm Thai sản' chứa mục 5. ở giữa -> đã sửa",
-  "bv-angia-2016 | trang 26, dòng 24: nhãn 'Từ 1 đến' bị cắt dở -> chưa sửa, cần kiểm tra tay"
+  "bv-angia-2016 | trang 26, dòng 24: nhãn 'Từ 1 đến' bị cắt dở -> chưa sửa, cần kiểm tra tay",
+  "bvl-avsk-2022 | trang 13, dòng 6: '1. Chi phí cho người nhận tạng (là Người được bảo hiểm)' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 5, dòng 2: 'A. Cấy Ghép Nội Tạng' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 6, dòng 6: '7. Chi phí Điều Trị Trước Khi Nhập Viện (trong vòng 30 ngày ' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 6, dòng 8: '9. Chi Phí Y Tế Nội Trú Khác' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 6, dòng 10: 'F. Quyền lợi Điều Trị Ngoại Trú đặc biệt' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 7, dòng 5: '1. Chi phí khám bệnh' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 7, dòng 7: '3. Chi phí chẩn đoán, xét nghiệm do Bác Sĩ chỉ định và Cần T' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 8, dòng 5: '1. Chi phí khám, chẩn đoán nha khoa' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 8, dòng 6: '2. Chi phí điều trị nha chu, viêm nướu' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 8, dòng 7: '3. Chi phí Thuốc Kê Toa' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 8, dòng 9: '5. Chi phí chụp X-quang' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 8, dòng 10: '6. Chi phí chữa tủy răng' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 8, dòng 11: '7. Chi phí nhổ răng bệnh lý (không Phẫu Thuật)' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 8, dòng 12: '8. Chi phí cắt u mô cứng của răng, cắt cuống răng' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 9, dòng 6: 'E. Chi phí sinh' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay",
+  "manulife-cssknc-2026 | trang 9, dòng 8: 'G. Chi phí điều trị Biến Chứng Thai Sản' không có giá trị nào -> có thể mất ô gộp dọc, cần kiểm tra tay"
  ]
 }

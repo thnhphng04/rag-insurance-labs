@@ -921,7 +921,7 @@ Việc xét giải quyết trả tiền theo Bảng này sẽ căn cứ trên c�
 | 5. Bảo hiểm Thai sản | Từ 18 đến 45 tuổi | Không | Không | Không | 4.800.000 | 5.500.000 |
 
 <!-- page 27 (pdf 14 right) -->
-<!-- image -->
+- BẢO HIỂM “BẢO VIỆT AN GIA”
 
 27
 

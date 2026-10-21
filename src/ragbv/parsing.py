@@ -182,8 +182,56 @@ def parse_docling(meta: DocMeta, split: str = "manifest") -> list[Page]:
     if split == "manifest":
         PARSED.mkdir(parents=True, exist_ok=True)
         doc.save_as_json(PARSED / f"{meta.doc_id}.docling_doc.json")
-    return [Page(i, lp.pdf_page, lp.half, lp.page_label, doc.export_to_markdown(page_no=i + 1))
-            for i, lp in enumerate(lps)]
+    recovered = recover_picture_text(doc, path)
+    pages = []
+    for i, lp in enumerate(lps):
+        md = doc.export_to_markdown(page_no=i + 1, image_placeholder=IMAGE_PLACEHOLDER)
+        for text in recovered.get(i + 1, []):
+            # Thay lần lượt từng placeholder; hình không có chữ thì giữ placeholder
+            md = md.replace(IMAGE_PLACEHOLDER, text or "<!-- image -->", 1)
+        pages.append(Page(i, lp.pdf_page, lp.half, lp.page_label, md.replace(IMAGE_PLACEHOLDER, "<!-- image -->")))
+    return pages
+
+
+IMAGE_PLACEHOLDER = "<!-- picture -->"
+
+
+def recover_picture_text(doc, pdf_path: Path, min_chars: int = 20, col_gap: float = 60.0) -> dict[int, list[str]]:
+    """Lấy lại chữ trong vùng Docling xếp là hình (vd. sơ đồ mốc thời gian chờ của Manulife).
+
+    Docling không xuất chữ nằm trong PictureItem. Ở đây đọc lớp text PDF trong bbox của hình,
+    gom các dòng thành cột theo toạ độ x (dòng mới thuộc cột cũ nếu x0 lệch < col_gap), rồi
+    xuất mỗi cột thành một gạch đầu dòng, đọc từ trên xuống. Trả về {page_no: [text|"" theo thứ tự hình]}.
+    """
+    from docling_core.types.doc import PictureItem
+
+    out: dict[int, list[str]] = {}
+    with fitz.open(pdf_path) as pdf:
+        for item, _ in doc.iterate_items():
+            if not isinstance(item, PictureItem) or not item.prov:
+                continue
+            prov = item.prov[0]
+            height = doc.pages[prov.page_no].size.height
+            bb = prov.bbox.to_top_left_origin(page_height=height)
+            lines = []
+            for block in pdf[prov.page_no - 1].get_text("dict", clip=fitz.Rect(bb.l, bb.t, bb.r, bb.b))["blocks"]:
+                for line in block.get("lines", []):
+                    text = "".join(s["text"] for s in line["spans"]).strip()
+                    if text:
+                        lines.append((line["bbox"][0], line["bbox"][1], text))
+            if sum(len(t) for *_, t in lines) < min_chars:
+                out.setdefault(prov.page_no, []).append("")
+                continue
+            columns: list[list[tuple]] = []
+            for line in sorted(lines):
+                col = next((c for c in columns if abs(c[0][0] - line[0]) < col_gap), None)
+                if col is None:
+                    columns.append([line])
+                else:
+                    col.append(line)
+            parts = [" ".join(t for _, _, t in sorted(c, key=lambda l: l[1])) for c in columns]
+            out.setdefault(prov.page_no, []).append("\n".join(f"- {p}" for p in parts))
+    return out
 
 
 def load_docling_doc(doc_id: str):

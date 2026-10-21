@@ -55,6 +55,9 @@ Cả 6 PDF có text layer tốt: 0 ký tự lỗi (U+FFFD), 0 ký tự private-u
 7. **Ranh giới dòng bảng bị cắt sai.** Ở bảng quyền lợi An Gia, dòng chữ cuối của ô Nha khoa ("Điều trị viêm nướu, viêm nha chu") bị Docling đẩy sang nhãn của dòng Thai sản: "Điều trị viêm nướu, viêm nha chu 5. Bảo hiểm Thai sản". Ground truth ở mục 3 không bắt được lỗi này, vì nó chỉ kiểm tra số theo từ khóa "thai sản". Hậu quả có thể gặp: câu hỏi về viêm nha chu khớp nhầm vào quyền lợi thai sản (chỉ có ở gói Bạch Kim và Kim Cương). Đã thêm bước kiểm tra: mục "N." nằm giữa nhãn và dòng trước là mục N-1 thì chuyển phần đầu lên dòng trước.
 8. **Ô gộp theo chiều dọc bị cắt chữ.** Ở biểu phí An Gia, vùng Nha khoa gồm "4. Bảo hiểm Nha khoa" gộp 2 dòng, với nhóm tuổi "Từ 1 đến 18 tuổi" / "Từ 19 đến 65 tuổi". Docling cắt nhãn thành "Từ 1 đến" | "4. Bảo hiểm Nha khoa 18 tuổi Từ 19 đến 65 tuổi". Các con số vẫn đúng dòng, nhưng nhãn sai. Không có cách sửa tổng quát an toàn, nên bước kiểm tra chỉ báo lỗi (nhãn kết thúc bằng từ nối "đến") để người kiểm tra tay.
 
+9. **Docling bỏ mất chữ nằm trong vùng bị xếp là "hình".** Thời gian chờ của Manulife (Điều 2) được trình bày dạng sơ đồ mốc: 0 / 30 / 90 / **270 ngày → Thai sản**. Docling coi cả sơ đồ là picture và chỉ xuất `<!-- image -->`. Lớp text PyMuPDF thì có các con số, nhưng dồn ở cuối trang, tách khỏi mục tương ứng. Kết quả là **không parser nào trả lời được "thời gian chờ thai sản của Manulife"**. Thử bật OCR của Docling: không OCR được vùng này, còn OCR toàn trang thì mất dấu tiếng Việt hoàn toàn ("Điu 3. CÁC TRU'ÒNG H'P LOAI TRÙ…"). Cách sửa (`recover_picture_text`): với mỗi picture, lấy chữ trong bbox từ lớp text PDF, gom các dòng thành cột theo tọa độ x, mỗi cột thành một gạch đầu dòng ("- 270 ngày Thai sản"). Trên cả corpus có 178 picture, 4 vùng có chữ được khôi phục, trong đó vùng có ý nghĩa là sơ đồ của Manulife.
+10. **Ô gộp theo chiều dọc bị mất giá trị.** Ví dụ ở Manulife 1.3: một ô "Chi Phí Y Tế Thực Tế" gộp 8 dòng C.1–C.8 và cả 4 cột chương trình. Docling chỉ gán ô này cho 1 dòng (mục 4), nên 7 dòng còn lại không có giá trị. Tổng cộng Manulife có 14 dòng như vậy (trang 5–9, gồm cả dòng E, G của quyền lợi thai sản). Bbox của Docling chỉ bao sát chữ chứ không phải viền ô, nên không suy ra được phạm vi gộp. Bước kiểm tra báo những dòng có nhãn mà không có giá trị (16 dòng, trong đó 1 là tiêu đề nhóm hợp lệ của AVSK) để kiểm tra tay. Hướng sửa: đối chiếu với lưới đường kẻ của PyMuPDF `find_tables` (đã chứng minh nhận đúng lưới ở mục 3), hoặc dùng VLM cho các trang bảng.
+
 ## Bảng dạng bản ghi JSON (bổ sung)
 Markdown không có cú pháp gộp ô, nên Docling chép nội dung ô gộp sang mọi cột: "A. ĐIỀU KHOẢN BẢO HIỂM CHÍNH…" lặp 6 lần ở bảng quyền lợi, 7 lần ở biểu phí. Trong khi đó bước nhận diện (TableFormer) vẫn lưu đúng 1 ô với `col_span=6`. Vì vậy Lab 1 lưu thêm 2 dạng không mất thông tin:
 
@@ -70,7 +73,7 @@ Quy tắc chuyển đổi (`src/ragbv/tables.py`):
 - Bỏ qua bảng mục lục (cột cuối toàn số trang) và bảng 1 cột.
 - Text trong ô được chuẩn hóa NFC và loại ký tự điều khiển, vì DoclingDocument giữ nguyên `\x07` của PDF.
 
-Kết quả: 34 bảng từ 5 tài liệu. Chấm lại bằng ground truth của mục 3 thì cả 3 bảng đều đạt row_integrity 1.0 và không còn ô lặp. Có 2 lỗi nhãn được phát hiện (lỗi 7 đã sửa tự động, lỗi 8 cần kiểm tra tay). Một số lỗi gốc của tài liệu được giữ nguyên văn và không tự sửa: "230.00 0.000" (tổng hạn mức gói Vàng), "0,09% TBH" (phí tai nạn gói Bạc, đúng phải là STBH).
+Kết quả: 34 bảng từ 5 tài liệu. Chấm lại bằng ground truth của mục 3 thì cả 3 bảng đều đạt row_integrity 1.0 và không còn ô lặp. Có 18 cảnh báo: lỗi 7 (đã sửa tự động), lỗi 8 (1 dòng) và lỗi 10 (16 dòng), đều cần kiểm tra tay. Một số lỗi gốc của tài liệu được giữ nguyên văn và không tự sửa: "230.00 0.000" (tổng hạn mức gói Vàng), "0,09% TBH" (phí tai nạn gói Bạc, đúng phải là STBH).
 
 ## Ghi chú cho Lab 2 (chunking)
 - Dùng output `data/parsed/{doc_id}.docling.json` (đã làm sạch, có `pdf_page`, `page_label`).
@@ -83,7 +86,7 @@ Kết quả: 34 bảng từ 5 tài liệu. Chấm lại bằng ground truth củ
 - **Sửa lỗi gì:** parser hiểu layout (Docling) giữ được dòng–cột của bảng phí và thứ tự đọc nhiều cột, điều mà text thô không làm được đồng thời cả hai.
 - **Tốn gì:** chậm hơn khoảng 100 lần so với PyMuPDF (64 giây so với dưới 1 giây cho 6 tài liệu trên GPU 4GB) và cần GPU/model local. Đổi lại, dữ liệu không rời hạ tầng.
 - **Đo bằng gì:** đo trên chính tài liệu của mình, với ground truth ô bảng (row_integrity), thứ tự tiêu đề (LIS) và đếm ký tự lỗi/ký tự điều khiển. Không dựa vào benchmark của nhà cung cấp.
-- Bài học lớn nhất: lỗi parsing thường **vô hình** (ký tự `\x07`, header thành heading, bảng bị cắt đôi). Chỉ có test tự động với ground truth mới phát hiện được.
+- Bài học lớn nhất: lỗi parsing thường **vô hình** (ký tự `\x07`, header thành heading, bảng bị cắt đôi, sơ đồ bị coi là hình nên mất chữ). Chỉ có test tự động với ground truth, cộng với việc **đối chiếu output với ảnh trang gốc**, mới phát hiện được. Lỗi 9 và 10 được phát hiện khi viết golden set, không phải nhờ metric. Đây là lý do golden set phải do người đọc tài liệu gốc viết.
 
 ## Trạng thái môi trường
 - `.venv` Python 3.12, torch 2.14.1+cu126 (GPU OK), Docling 2.141, PyMuPDF 2.0.
